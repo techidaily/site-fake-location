@@ -1,0 +1,501 @@
+---
+title: Methods to Change GPS Location On Sony Xperia 1 V | Dr.fone
+date: 2024-05-20T09:33:31.189Z
+updated: 2024-05-21T09:33:31.189Z
+tags: 
+  - virtual location chang
+  - location changer
+  - location spoofer
+categories:
+  - android
+description: This article describes Methods to Change GPS Location On Sony Xperia 1 V
+excerpt: This article describes Methods to Change GPS Location On Sony Xperia 1 V
+keywords: fake location on Xperia 1 V,change gps location on android,fake location on android,change location on android,fake gps location on android,change location on Xperia 1 V
+thumbnail: https://www.lifewire.com/thmb/lKoxPMpdBOHt8yxn5M8d3rrvNWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iOS-wwdc-7d655ca37a3b43b99fd9dac09bec13c4.jpg
+---
+
+## Methods to Change GPS Location On Sony Xperia 1 V
+
+[![avatar](https://drfone.wondershare.com/images/alice-mj.png)](https://drfone.wondershare.com/author/alice-mj/)
+
+The Internet is a vast space and you have a plethora of content on different websites and platforms. You can call it a two-way - give and take relationship when it comes to the dynamics of data exchange between the world wide web and the users.
+
+When you visit websites, they use cookies to track your activities. When you visit a restaurant, the phone detects and saves the GPS in the memory. You click a picture in the Maldives, your phone seeks out geographic points to prepare the right time and date stamps.
+
+You need your GPS to download and use certain apps. Similarly, your GPS might be the reason you are unable to play some games or use some applications. Change GPS Location Sony Xperia 1 V and this won't be a problem for you.
+
+But if you are wondering how can I change my location on my iPhone? These 5 methods will help you get fruitful results.
+
+## Part 1: Change GPS Location on Sony Xperia 1 V using a Professional PC Program
+
+The PC Programs are entirely Software based and do a tremendous job to [spoof Sony Xperia 1 V iOS 16 Location](https://drfone.wondershare.com/fake-location/how-to-change-location-on-ios-16.html). You don't have to buy any new equipment and you will be operating using your computer.
+
+You can get this done within minutes if you have the right program with you. One of the best options in the market is Wondershare's Dr.Fone. This is how you use Dr. Fone Virtual Location spoofer for GPS Spoofing iPhone.
+
+
+
+### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+
+1-Click Location Changer for both iOS and Android
+
+- Teleport from one location to another across the world from the comfort of your home.
+- With just a few selections on your computer, you can make members of your circle believe you’re anywhere you want.
+- Stimulate and imitate movement and set the speed and stops you take along the way.
+- Compatible with both iOS and Android systems.
+- Work with location-based apps, like [Pokemon Go](https://drfone.wondershare.com/virtual-location/pokemon-go-spoofing-ios.html), [Snapchat](https://drfone.wondershare.com/virtual-location/fake-snapchat-location.html), [Instagram](https://drfone.wondershare.com/virtual-location/how-to-change-region-on-instagram.html), [Facebook](https://drfone.wondershare.com/virtual-location/fake-location-on-facebook.html), etc.
+
+**3981454** people have downloaded it
+
+**Step 1**: Go to the official website of [Dr.Fone - Virtual Location (iOS)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). This is easily available when you google it or you can also follow this link [<u>here</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). Then you can download the executive file, install and then launch the application. Once the home page opens, you will find several options - Opt for 'Virtual Location'. It is usually at the bottom of the page.
+
+![dr.fone home screen](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+**Step 2**: Now take your Sony Xperia 1 V device and connect it to the computer that has Dr. Fone. Then click on 'Get Started'.
+
+![drfone](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
+
+**Step 3**: Now, the world map will display on the screen and you can clearly see the coordinates and directions as well. On the top right corner, the third icon is called the 'Teleport Mode'. Click on that and enter the name of the place in the search box. You can even pinpoint it, if you are sure about the place.
+
+![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
+
+**Step 4**: If you are completely sure that you got the address right, click on the 'Move Here' option. It moves your Pin from your present location to your new virtual location.
+
+![virtual location 1](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
+
+If you are looking for a way to change Sony Xperia 1 V Location without Jailbreak, then this is one of the safest options for you. Also, you have other additional features like Phone Transfer, and Whatsapp Transfer along with Location spoofing. The application will never go to waste, won't occupy much of your computer/PC/Laptop's space and you can get the fake location iOS within minutes.
+
+
+
+## Part 2: Change GPS Location on Sony Xperia 1 V using External Device
+
+You can achieve the iOS Spoof Location using External devices as well. These devices do not cause any inconvenience to you. They are meant to be small, fit into the lightning port of your iPhone, and act as an external source that will spoof the Sony Xperia 1 V location and the same will reflect in every app that uses or detects your iPhone's geographic location.
+
+The best external device to change phone location Sony Xperia 1 V is Double Location Dongle. This simple device can be utilized by following the steps below -
+
+**Step 1**: The Double Location Dongle is a very small, white rectangle that connects to your iPhone's port. But along with it, you also have to install the Companion app for location spoofing. Once you have both of them ready, connect the Sony Xperia 1 V device to your iPhone.
+
+![double location dongle](https://images.wondershare.com/drfone/2020/2020/double-location-dongle-device-pic5.jpg)
+
+Note: The Companion App is not available on the App store. You have to download it from Double Location's official website.
+
+**Step 2**: The next step is to open the Double Location iOS companion app and then settle on the Map Tab.
+
+![companion app double location map](https://images.wondershare.com/drfone/2020/2020/companion-app-double-location-map-pic6.jpg)
+
+**Step 3**: Unlike what we had seen in the Dr. Fone step, we cannot enter the location into any search box. You should move the pin to the location that you want to virtually shift to. Double Location provides some very good options that will help you during gaming. You can change all the appropriate settings and proceed.
+
+![change location setting](https://images.wondershare.com/drfone/2020/2020/change-location-dongle-settings-pic7.jpg)
+
+**Step 4**: On the bottom of the screen, Go for the lock position option. Once you do that, there will be a virtual shift in your geographic position and all your apps will register your new coordinates.
+
+![final map location](https://images.wondershare.com/drfone/2020/2020/final-map-location-pic8.jpg)
+
+## Part 3: Change GPS Location on Sony Xperia 1 V using XCode
+
+You can change the geolocation Sony Xperia 1 V by using your coding expertise as well. That is why XCode exists. This Computer Program lets you change your Location in Sony Xperia 1 V by giving some GIT Commands to the PC while your Sony Xperia 1 V stays connected to it. By following these steps, you can understand how to do it. But if you've never had a liking for programming and coding languages, then you should probably skip this -
+
+**Step 1**: Download and install XCode from the AppStore, directly to your Mac device. Launch the application.
+
+![download xcode app](https://images.wondershare.com/drfone/2020/2020/download-and-install-xcode-pic9.jpg)
+
+**Step 2**: Once you see the XCode window open, Go for the 'Single View Application' to start a new Project and go on by clicking on 'Next'. You can set up a name and details for this particular project.
+
+![single view application project](https://images.wondershare.com/drfone/2020/2020/single-view-application-project-pic10.jpg)
+
+**Step 3**: A screen display will appear asking you about your identity. This is where the minimal coding part starts. You need to enter some GIT Commands to continue with the project.
+
+![identify yourself](https://images.wondershare.com/drfone/2020/2020/identify-yourself-pic11.jpg)
+
+**Step 4**: Launch and run the terminal on your Mac device and enter these commands - git config --global user.email "[<u>you@example.com</u>](mailto:you@example.com)" and git config --global user. name "your name".You need to add your own details in the quoted space and continue to verify your identity.
+
+**Step 5**: Once you enter the commands, go to the next step and establish the Development Team. Then you can proceed to connect your Sony Xperia 1 V device to your Mac device. Use the normal cable to do that.
+
+![iphone connects to mac](https://images.wondershare.com/drfone/2020/2020/iphone-connects-to-mac-pic13.jpg)
+
+**Step 6**: To allow the program to process the Symbol Files, you will have to choose the model of your device. Go to the 'Build Device' option and continue as per the prompts. However, make sure that you keep your Sony Xperia 1 V unlocked for quick detection by the computer software.
+
+![process-detection-on-iphone](https://images.wondershare.com/drfone/2020/2020/process-detection-on-iphone-pic14.jpg)
+
+**Step 7**: Once that is done, you can come back to the actual location spoofing part. Go to the debug Menu > Simulation Location and specify the exact location that you want to virtually shift to. Once you are okay with it, the same will reflect on your Sony Xperia 1 V as well.
+
+![new virtual location xcode](https://images.wondershare.com/drfone/2020/2020/new-virtual-location-xcode-pic15.jpg)
+
+## Part 4: Change GPS location on Sony Xperia 1 V using Cydia Location Faker App
+
+Cydia is also based on software applications and changes location in seconds, However, you need to note that you have to jailbreak your phone. If you don't know how to do it or do not want to take the risk, Cydia's LocationFaker app may not be the right fit for you. But if you are a jailbreak expert, this is a very comfortable GPS Changer for iPhone.
+
+**Step 1**: Download the Cyndia LocationFaker app from the official website. LocationFaker8 is available for the iOS 8.0 model.
+
+![cydia app download](https://images.wondershare.com/drfone/2020/2020/cydia-app-download-pic16.jpg)
+
+**Step 2**: After launching the app, enter the virtual location into the search box.
+
+![enter new location](https://images.wondershare.com/drfone/2020/2020/enter-new-location-pic17.jpg)
+
+**Step 3**: If you are done with choosing the new location, shift the toggle from 'OFF' to 'ON' at the bottom of the page.
+
+![cydia toggle shift](https://images.wondershare.com/drfone/2020/2020/cydia-toggle-shift-pic18.jpg)
+
+**Step 4**: Now we can decide which apps can access our new virtual location. At the bottom of the page, you will find an 'i' icon. Go click on it and choose the 'White List' option. This one will then take you to the app list and you can decide which of them will have access to the phone's location.
+
+## Part 5: Change GPS Location on Sony Xperia 1 V using Location Handle
+
+Location Handle is another useful application that you can use to change your location by a few meters or simply go with an automated movement system that changes your location gradually as if you are moving from one place to another. This is how you use it -
+
+**Step 1**: Download the Location Handle app from the website or App store
+
+![location handler cydia](https://images.wondershare.com/drfone/2020/2020/location-handler-cydia-pic20.jpg)
+
+**Step 2**: There are four different types - Normal Mode - teleport to a new location; Offset Mode - Move a few feet away from the present location ; Automatic Mode - Slowly change your location from one point to another, as if walking ; Manual Mode - Change your location using a joystick.
+
+![teleport-coordination](https://images.wondershare.com/drfone/2020/2020/teleport-coordination-pic21.jpg)
+
+**Step 3**: Consider the Manual mode, because we want to change location to a far-off place and not necessarily for gaming.
+
+![manual mode location handle](https://images.wondershare.com/drfone/2020/2020/manual-mode-location-handle-pic22.jpg)
+
+**Step 4**: Once the Manual mode is activated, the map will be displayed and you can change the pin location. You can enter the location name in the search box.
+
+![chowchilla location handler](https://images.wondershare.com/drfone/2020/2020/chowchilla-location-handler-pic23.jpg)
+
+**Step 5**: The Joystick will appear on the page and you can use it to shift your location to wherever you want. Once you fix on the location, proceed and the new location will be updated.
+
+![joystick-mode](https://images.wondershare.com/drfone/2020/2020/joystick-mode-pic24.jpg)
+
+Conclusion
+
+We hope you are no longer wondering How to change Location services on Sony Xperia 1 V. These 6 methods are very effective and you can always opt for the one that is most comfortable for you. If you want a hassle-free PC program, we have that narrowed down for you. If you are a coding enthusiast, then we've listed a method that best fits you. Whatever the reason, with an iOS Fake GPS, life becomes much easier and sometimes even safe on the internet. You can explore beyond the boundaries without moving from your couch!
+
+
+
+
+
+## How to Change Spotify Location After Moving to Another Country On Sony Xperia 1 V
+
+Spotify is one of the best apps to access quality music and podcasts. Be it in your car while you commute from the workplace to home or simply when you are home with your latte, the music is made for every mood. Spotify is easy to use, you can make your own playlist and you have access to a lot of musical content.
+
+![spotify music app](https://images.wondershare.com/drfone/2020/2020/spotify-direct-music-app-pic1.jpg)
+
+But this depends on the country you are staying in. And if you’ve recently shifted your base, it can be tricky to change spotify region. But if you opt for the manual methods, it is a breeze to update location spotify. We will teach you how that is done effectively using different resources available to you.
+
+## **Part 1: Reasons for changing Location on Spotify**
+
+But why to Change Location Spotify in the first place? Is it important to change your location if you are changing countries? Will that affect the music on the streaming app? Yes! It certainly will. Before we discuss the different ways to change country on spotify, let us understand why we should do it at all.
+
+**Region specific Content**
+
+![spotify region specific content](https://images.wondershare.com/drfone/2020/2020/region-specific-content-pic2.jpg)
+
+Everything is not available everywhere. If you are looking for a specific motivational podcast that is a hit in the US, it might not be available in your region. You like that new Arabic song, maybe it won’t stream in your Australian lanes. The content can be restricted to a specific region and if you don’t stay there, it is far away from your reach. You have to rely on Spotify Change Location to access that musical content.
+
+**Playlists and Recommendations**
+
+![spotify region geography playlists](https://images.wondershare.com/drfone/2020/2020/spotify-region-geography-playlists-pic3.jpg)
+
+Spotify uses your coordinates to provide the right music content for you. There are people who jump up and down and say that the app suggests songs that are their absolute favorite! As if it has read their minds. This is possible because Spotify identifies the most played songs in the region, detects the language and delivers these suggestions to you.
+
+So, the content that you receive depends on the place that you are staying in.
+
+**Payment Plans**
+
+![potify payment plan](https://images.wondershare.com/drfone/2020/2020/spotify-payment-plan-pic4.jpg)
+
+The Spotify premium account provides more benefits than the normal free version that people use. But what many of us are not aware of is that the premium version’s cost differs from place to place. If you can manage a spotify location update, you can save yourself some bucks.
+
+**Spotify Unavailable**
+
+![spotify unavailable](https://images.wondershare.com/drfone/2020/2020/spotify-unavailable-pic5.jpg)
+
+Spotify did gain a lot of popularity in a very short period of time. People are making money, uploading their own content and even exploring newer genres of music. However, Spotify is not available world-wide. Currently, it is only accessible from 65 countries. If you hail from a region where Spotify hasn’t launched yet, you need to update spotify location to a place where it is fully functional.
+
+## **Part 2: How To Edit Your Country on Spotify?**
+
+You can change region spotify manually by directly tweaking a few settings in the Account Overview section. If you are using a Free Spotify account, then you will have to manually change your location. But a person who has a Premium Spotify account can access all the content from all those countries where spotify is legally available. Here’s how you can change the location using the Spotify settings -
+
+**Step 1:** Go to the Spotify Homepage on your desktop and Log into your account. This is how you do it if you happen to have a free account. Premium accounts don’t need it. After you Log in, go to the ‘Accounts’ section.
+
+![spotify log in page](https://images.wondershare.com/drfone/2020/2020/spotify-log-in-page-pic6.jpg)
+
+**Step 2:** From the sidebar, go to the ‘Account Overview’ option. When you click on it, you will find the ‘Edit Profile’ option on the screen. Go for it.
+
+![spotify acct overview](https://images.wondershare.com/drfone/2020/2020/account-overview-spotify-pic7.jpg)
+
+**Step 3:** Once you click on theEdit Profile option, there will be several categories that display your personal information. If you scroll down, you will find the ‘Country’ Option. Select the country of your choice there.
+
+![new location on spotify](https://images.wondershare.com/drfone/2020/2020/new-location-on-spotify-pic8.jpg)
+
+If you are a Spotify Free user, then you will have to go by the above mentioned method. But if you are a Spotify premium user, you don’t need to change location to access content. However, you can change it to update the Payment plans.
+
+**Step 4 (Premium):** In the same Account Overview option, you can either ‘Update’ your new location and spotify works accordingly. Otherwise, you can completely Change your Plan as well.
+
+![premium-account-change-plan](https://images.wondershare.com/drfone/2020/2020/premium-account-change-plan-pic9.jpg)
+
+## **Part 3: How to Use Apps to Fake Spotify Location?**
+
+Now you know that by Spotify Change Country, you can get more benefits and you can enjoy podcasts, music and other audio content that is otherwise unavailable in your region. So, it is understandable that you’d want to deliberately fake spotify location. This is possible when you use some of the best Location Spoofer softwares available on the internet. Our best suggestion would be Wondershare’s Dr.Fone. It is easy to use and your location will be changed within a few minutes in minimal steps.
+
+**Step 1:** You need to download the executive file of the Wondershare[Dr. Fone’s Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)Spoofer. The android and even Windows compatible files are available on the website. Choose appropriately and download - and launch them.
+
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/r2GiOQxwfQc" frameborder="0" allowfullscreen=""></iframe>
+
+**Step 2:** Once you launch the application, the homepage will open and several options will display on the screen. Choose the Virtual Location option that is usually at the end of the page.
+
+![ dr.fone home screen](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+**Step 3:** To Change Location on Spotify Mobile, connect your Sony Xperia 1 V to your computer - both Android and iPhones can detect the virtual location change. Then click on Get Started.
+
+![dr.fone virtual location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
+
+**Step 4:** A map will appear on the screen. You can change the pi to a new location or you can enter the new location into the search box displayed on top of the page. You can do this by going to the ‘Teleport Mode’ on the top right corner of the page.
+
+![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
+
+**Step 5:** Once you are sure about the new virtual location, click on ‘Move Here’ option.
+
+![dr.fone virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
+
+The New Location will now display on your iPhone/Android Device’s GPS system too. And Spotify will reflect it too. So, when you decide to change location on spotify using this method, the new location will reflect in all your apps. So, it’s hard to figure out that you’ve deliberately changed the location.
+
+
+
+## **Part 4: How to Use a VPN to change Spotify Location?**
+
+A Virtual Private Network App is also very useful for the Spotify change Region. But you need to keep two important points in mind - The Trial Versions do not provide complete protection and the features aren’t satisfactory. If you go for free VPNs available on the internet, you cannot be 100% sure that your data is safe. So, we have narrowed down the safest option for you. We suggest that you use Nord VPN if you cannot get your hands on a Location Spoofer.
+
+Location Spoofers are much safer because they don’t maintain Log data like the VPNs. But if you have no other option left for Spotify update Location, then you can rely on NordVPN.
+
+**Step 1:** Go to the AppStore or Google Play Store and choose NordVPN from the different VPN options available.
+
+![nordvpn app](https://images.wondershare.com/drfone/2020/2020/nordvpn-location-servers-pic14.jpg)
+
+**Step 2:** Sign Up and create your account on the app. The main use of a VPN is to mask your IP and give you a new server for internet surfing. So, once you log in, NordVPN will find the closest server for you.
+
+![connect to server](https://images.wondershare.com/drfone/2020/2020/quick-connect-new-server-pic15.jpg)
+
+The automatic connect was made to United States - the closest server
+
+![change server using spotify](https://images.wondershare.com/drfone/2020/2020/update-server-disconnect-pic16.jpg)
+
+**Step 3:** In case you want to change to a specific country, You can go to ‘More Options’ and then choose Servers. Then go to All Countries and choose the country of your choice. Once you launch Spotify, the same will reflect there too.
+
+![choose countries to change ](https://images.wondershare.com/drfone/2020/2020/countries-spotify-change-pic17.jpg)
+
+The VPN works for all kinds of mobiles and it is very convenient to use. This is a good way to mask your IP address completely, so that no one can track your location change activity either. You can change servers several times a day to access content from across the world.
+
+### Conclusion
+
+If you know the right way to do it, changing Spotify Location After Moving to Another Country is no big deal. You have several tools that will assist you in the job. Unless you are faking your location, you can change location directly from Spotify Account Overview too. But if you want to Change Location in Spotify for more benefits, then you can use the tools we have mentioned to get the job done. You can cut down the premium payment prices, listen to exotic music from across the world and also stay up to date with the podcast releases too.
+
+
+
+## What are Location Permissions Life360 On Sony Xperia 1 V?
+
+Sometimes you need to decide whether you can share certain personal information or data about yourself with others, which may involve location permissions.
+
+Location permissions Life360 allows you to share the location of your device with other apps, even if those apps aren't in your app library. It's usually a good idea to use location permissions sparingly, but sometimes you'll need to use them.
+
+Life360 uses location permissions for a few different reasons. For example, Life360 uses location permissions to show nearby friends when they check in to places so that you can see who is nearby and what they're up to.
+
+## Part 1：What Does "Location Permissions Off" Mean on Life360?
+
+There are two ways to prevent GPS tracking on the phone: switch off the phone's GPS or take off Life360 rights to track your whereabouts using GPS.
+
+It's possible that Life360 won't work properly if you don't accept the permissions it requests during the installation process. When it comes to authorizing access to Life360, you have the following choices available to you:
+
+If you choose the 'never option', the application will not be granted the required rights. As a result, the software may fail to perform as it is meant to. Whether you're unclear if you want to offer the program complete access or not, this is the ideal 'Ask any time' decision to bring.
+
+Your location may be granted every time the app is used if you wish. 'While the App' setting permits accessibility to Location Services only when the app itself or one of its functionalities is currently displayed on the screen.
+
+Your device's status bar may glow blue and display a message notifying you that an application is currently using your location data if the While Using the App setting is enabled for one of your apps.
+
+"Always" grants the software all the permissions it needs. So, for example, allowing location permission will be done – every time the app launches. As a result, the software can track your location even if the application is closed.
+
+## Part 2：Can My Sony Xperia 1 V Be Tracked If Location Services Are Off?
+
+If you misplace your phone or want to run an application that requires to access your location, you may use the already developed location settings on your smartphone. Suppose, on the other hand; you don't want anybody to track your phone?
+
+Is it possible to track a phone even if the location services are disabled? Mobile phones can be tracked even when location services are off, and the answer to that question is, "Yes."
+
+Disabling your phone's location services might help you hide your current whereabouts. This is critical if you don't want others to be able to follow your movements or activities. However, other methods may still find a smartphone's overall geolocation using different ways.
+
+### 1\. Cell-Site Simulators
+
+A cell-site simulator is a device that can imitate a mobile phone tower and force a nearby mobile phone to connect to it. Cell site simulators can be purchased online or at a local electronics store. Law enforcement agencies use them to locate a phone without a warrant.
+
+### 2\. Malware or Spyware
+
+Malware and spyware can use various techniques to track your phone's location. For example, a malware program may be able to detect your location based on Your Sony Xperia 1 V's hardware.
+
+Some mobile malware or spyware can detect and track your location without the need for the user's consent.
+
+### 3\. Cell Towers
+
+Cell towers can provide a rough estimate of a phone's location. A cell tower is a network access point that connects a mobile phone to the Internet. A smartphone's location can be found by triangulating the position of cell towers near your device. This method works best when the cell towers are close together.
+
+### 4\. Wi-Fi Snooping
+
+When a Wi-Fi hotspot is nearby, your phone can connect to it without needing to connect to a cell tower. Your phone can then transmit the signal back to the hotspot, which will record the Sony Xperia 1 V device's IP address.
+
+## Part 3：How Do I Pause Life360 without My Parents Knowing?
+
+There are many ways to ensure your parents do not know where you are and what you are doing. Some of these methods are:
+
+### 1\. Switch to the Airplane Mode
+
+Turning on Airplane Mode on your smartphone is another fast approach to preventing Life360 from broadcasting your whereabouts without your parents being aware. Unfortunately, you'll be unable to use your phone's internet connection after setting off Airplane Mode, so you'll lose your GPS position.
+
+![switch to the airplane mode](https://images.wondershare.com/drfone/article/2022/06/what-are-location-permissions-life360-1.jpg)
+
+### 2\. Make Sure to Turn Off Circle's Location Sharing
+
+It's your choice whether or not you want to share your location information with others in a particular circle or detach from a circle.
+
+- Access the Life360 app's settings by tapping Settings in the upper right-hand corner.
+- When you're done monitoring your position, choose a circle on the UI to do so.
+
+To disable the function, choose the Location Sharing menu item and then drag the flip to the off setting.
+
+- Go to your phone's settings and look for "Location Sharing Paused."
+
+![turn off circle's location sharing](https://images.wondershare.com/drfone/article/2022/06/what-are-location-permissions-life360-2.jpg)
+
+### 3\. Stop Using the GPS on Your Device
+
+Stopping location sharing on Life360 may also be accomplished by turning off the GPS service, another viable alternative.
+
+### \* For Android Users
+
+- Launch the Settings app on your Sony Xperia 1 V, then scroll down until you find "Privacy" and tap it.
+- To prevent applications from monitoring your location, uncheck the "Location" option.
+
+![stop using the gps on android](https://images.wondershare.com/drfone/article/2022/06/what-are-location-permissions-life360-3.jpg)
+
+### \* For iPhone Users
+
+- Navigate to the Settings menu on your iPhone.
+- To disable this feature, enter the "Location Services" menu by selecting the "Personal" tab and selecting the appropriate option.
+
+![stop using the gps on iphone](https://images.wondershare.com/drfone/article/2022/06/what-are-location-permissions-life360-4.jpg)
+
+### 4\. Take use of a Burner Phone
+
+Burner phones make it very easy to disable location tracking on Life360. In addition, disposing of a burner phone keeps your personal information private and secure.
+
+- Install Life360 on the burner phone, and then login in using the same account you used on your primary device.
+- Establish a connection between your phone and the free Wi-Fi that is accessible.
+- If you delete this application from your smartphone, your parents will no longer be able to monitor your phone use.
+
+### 5\. Trust Dr.fone
+
+Smartphones have taken over the globe, and almost everyone has one. In addition, apps for smartphones, such as those for monitoring children, have been developed as a result of advances in technology. Using programs like Life360, parents can keep tabs on their children and teens. However, for some children and teenagers, Life360 disturbs their privacy, and they don't enjoy being tracked around the clock by the program.
+
+It may be difficult to trick the iPhone's GPS, and doing so needs dependable and secure solutions, such as [Dr.Fone - Virtual Location (iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). Users of iOS devices will appreciate this app's ability to quickly and safely fake their current location without compromising their personal information. The most excellent part is that it's simple to use and set up. Additionally, with Dr.Fone - Virtual Location (iOS/Android), you may relocate to any location and choose your own pace. Life360 and other location-based applications may be spoofed with a mouse click.
+
+
+
+### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+
+1-Click Location Changer for both iOS and Android
+
+- Teleport from one location to another across the world from the comfort of your home.
+- With just a few selections on your computer, you can make members of your circle believe you’re anywhere you want.
+- Stimulate and imitate movement and set the speed and stops you take along the way.
+- Compatible with both iOS and Android systems.
+- Work with location-based apps, like [Pokemon Go](https://drfone.wondershare.com/virtual-location/pokemon-go-spoofing-ios.html), [Snapchat](https://drfone.wondershare.com/virtual-location/fake-snapchat-location.html), [Instagram](https://drfone.wondershare.com/virtual-location/how-to-change-region-on-instagram.html), [Facebook](https://drfone.wondershare.com/virtual-location/fake-location-on-facebook.html), etc.
+
+**3981454** people have downloaded it
+
+It's pretty simple to use Dr.Fone, and here are the instructions.
+
+- Step 1: Once you've downloaded Dr.fone from the official site, you'll need to install it on your computer or system.
+
+![start drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+- Step 2: Install it and then run it. As soon as you've plugged in your iOS device, press the "start" icon.
+
+![start the virtual location feature](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
+
+- Step 3: You'll now be able to view your present position on a map. Use the map's teleport feature in the upper right corner to look for a particular spot.
+
+![locate yourself](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
+
+- Step 4: To relocate to a new place, do a scan and then hit the "move here" option.
+
+![teleport to desired location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
+
+- Step 5: Finally, Your spoofing skills have been fully unlocked!
+
+![current location in program](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
+
+## Conclusion
+
+Life360 is a handy app, but it can be frustrating when a child or teen doesn't want to use it. It's easy to fool the app and trick it into thinking that you're at home or school, but you're not. Hence, [Dr.Fone - Virtual Location (iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) is an excellent app for faking your location and keeping your personal information safe.
+
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Honor 90 GT? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-honor-magic-5-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Honor Magic 5 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Motorola Edge 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On OnePlus Nord N30 5G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Motorola Moto G 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>Will iSpoofer update On Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-poco-x6-pro-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Poco X6 Pro? Fixed | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Tecno Camon 20 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Oppo A18? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Tecno Pova 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Poco M6 5G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Poco F5 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Vivo S18 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>Dose Life360 Notify Me When Someone Checks My Location On Apple iPhone 13 mini? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-oneplus-nord-3-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your OnePlus Nord 3 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Motorola Moto G13? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-asus-rog-phone-7-ultimate-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Asus ROG Phone 7 Ultimate without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-itel-a60-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Itel A60 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Fix Life360 Shows Wrong Location On Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Infinix GT 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Lenovo ThinkPhone? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Realme 10T 5G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-itel-s23-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Itel S23? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Vivo Y27 4G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Motorola Edge+ (2023)? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-on-apple-iphone-14-pro-max-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock On Apple iPhone 14 Pro Max You Should Try Out</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-xiaomi-redmi-12-5g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Xiaomi Redmi 12 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-honor-magic5-ultimate-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Honor Magic5 Ultimate? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-use-color-grading-in-final-cut-pro/"><u>2024 Approved How to Use Color Grading in Final Cut Pro</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-14-pro-max-to-mac-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 14 Pro Max to Mac? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-infinix-zero-30-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Infinix Zero 30 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-vivo-y100t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Vivo Y100t | Dr.fone</u></a></li>
+</ul></div>
+
+

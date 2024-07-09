@@ -1,0 +1,493 @@
+---
+title: Life360 Circle Everything You Need to Know On Vivo Y100 | Dr.fone
+date: 2024-05-20T09:33:28.778Z
+updated: 2024-05-21T09:33:28.778Z
+tags: 
+  - virtual location chang
+  - location changer
+  - location spoofer
+categories:
+  - android
+description: This article describes Life360 Circle Everything You Need to Know On Vivo Y100
+excerpt: This article describes Life360 Circle Everything You Need to Know On Vivo Y100
+keywords: change location on android,change gps location on android,fake gps location on android,fake location on Y100,fake location on android,change location on Y100
+thumbnail: https://www.lifewire.com/thmb/LszZcaAEzHRXWm3K0xWEG-T8gus=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/handstypingonkeyboardCROPPED-6b13200ac0d24ef58817343cc4975ebd.jpg
+---
+
+## Life360 Circle: Everything You Need to Know On Vivo Y100
+
+In order to keep in touch with the persons that matter most to you, you may use circles to create private groups. There are a lot of different situations in which the Circle is useful. Please make sure everything is where it should be. Since Check-Ins, Location Sharing, and Messaging are all exclusive to each Circle, no one who does not need to view a particular piece of information will. You've got the upper hand here. You have complete control over who is and isn't included in your Circle. Privacy is something we take very seriously.
+
+Paying for a Life360 package gives you access to all the Circles. To ensure that everyone in your Circle is able to take advantage of the perks that come with a Life360 Membership, each paid plan for Life360 includes all members in your Circle.
+
+## Part 1: What Is Life360 Circle?
+
+Life360 is a family safety service that offers a variety of services. Its primary focus is to enable families to communicate and stay in touch with each other.
+
+For parents who want to monitor their children from a distance, Life360 is a valuable tool. It is a mapping system that allows your family members to know exactly where you or anybody else in the Family Circle, where Life 360 circle is located at any specified instant, regardless of whether they are in your house or elsewhere.
+
+Since the technology was introduced in 2014, we can safely say that it is no longer considered revolutionary. But, aside from that, some people want to know more than simply where they are, such as how fast they're going when driving.
+
+## Part 2: How Life360 Circle Works?
+
+Life360 has been hailed as an essential tool when it comes to parents and careers. With the help of the Life360 Circle function, the mobile application will track your current position in a ring. Those inside that zone may gain insights about where their kid is heading and track any incoming calls or texts from those who may be concerned about their well-being.
+
+As an added feature, the people concerned may determine whether automatic warnings would appear when someone gets to his location without monitoring him further than only displaying where he paused.
+
+The app will notify you as soon as your beloved person comes or departs from a designated place. You may monitor their speed and position as they drive. In addition, the platform makes it simple to give them instructions by just pressing on their image with life360 circle names.
+
+## Part 3: What Is The Meaning Of Circle Colors In Life360?
+
+Using the app, you may have observed colorful circles/bubbles. In addition, Life360 tells you about different issues depending on the Circle's color. The app's primary colors are purple, orange, and green.
+
+It's important to know what each color symbolizes before establishing its function. For example, what does the green dot on life360 mean? Members with green rings are more visible. The green dot shows whether driver monitoring is turned on. These also show where everyone in the group is and what they've been up to.
+
+The purple Circle shows a Bluetooth-connected gadget. You may check a member's recent location history using purple dots in the app. For example, to open Day Breakdown, click the purple dots.
+
+The orange Circle denotes a criminal complaint. Instead of a recent crime location, this is a warning that a family member may be in a crime hotspot.
+
+## Part 4: What happens when you join a Circle on Life360?
+
+As soon as you've set up your Circle, no one else will be on it. Select "Add a New Member" from the drop-down menu at the bottom of the page, and then forward the recipient a text or email with an invitation key. It will provide instructions to help them acquire the app and join your Circle.
+
+After downloading the app, you'll receive an alert that they have joined your Circle. You'll be able to monitor their activities from then on.
+
+## Part 5: How to Fake Your Circle Location on Life360
+
+
+
+### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+
+1-Click Location Changer for both iOS and Android
+
+- Teleport from one location to another across the world from the comfort of your home.
+- With just a few selections on your computer, you can make members of your circle believe you’re anywhere you want.
+- Stimulate and imitate movement and set the speed and stops you take along the way.
+- Compatible with both iOS and Android systems.
+- Work with location-based apps, like [Pokemon Go](https://drfone.wondershare.com/virtual-location/pokemon-go-spoofing-ios.html), [Snapchat](https://drfone.wondershare.com/virtual-location/fake-snapchat-location.html), [Instagram](https://drfone.wondershare.com/virtual-location/how-to-change-region-on-instagram.html), [Facebook](https://drfone.wondershare.com/virtual-location/fake-location-on-facebook.html), etc.
+
+**3981454** people have downloaded it
+
+[Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) is the finest choice for learning how to fool Life360 on iOS (iOS). Changing your iOS location while protecting your privacy is easy with this app.
+
+With simply the push of a button, the Dr.Fone - Virtual Location location switcher software may let you fool others into thinking they are in a different place than you really are. iOS and Android users can get it. A virtual private network (VPN) may also be used for location faking. However, any place will be able to tell whether you're using a location spoofer since it's so obvious. That's why this program has so many special features.
+
+The gadget is entirely safe to use and has a superb record for doing its job well. As a result, you shouldn't obsess about your performance or your level of achievement. Step-by- Here are the step instructions for faking your location with Dr.Fone – Virtual Location (iOS).
+
+**Step 1:** Download and install Dr.Fone – Virtual Location on your computer.
+
+![access virtual location feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+**Step 2:** Now would be an excellent time to take your iPhone and connect it to the pc. Upon successful connection, press the "Get Started" icon.
+
+![tap on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
+
+**Step 3:** Following that, you'll see an area map. You'll be able to know where you are right now if you use this feature. The "Center On" symbol may be found in the bottom right of the screen if the location isn't appropriately shown.
+
+![choose destination](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
+
+**Step 4:** The three life360 symbols at the upper right of the screen are visible. Activating the Teleport Mode requires you to tap on the third icon. Click "Go" when ready to go to your desired location.
+
+![choose destination you want](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
+
+**Step 5:** When you input a new location, the application monitors and assesses it. A new box will immediately emerge at the location where the distance is specified. Choosing "Move Here" will cause your current location to be updated to reflect the new place you've picked.
+
+![tap on move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
+
+
+
+## Part 6: How to Delete/Leave a Life360 Circle?
+
+Getting rid of a Circle is a cinch! To begin, you need to:
+
+- Log in as an Admin account and exclude everyone from the Circle.
+- After everyone else in the Circle has departed, the person who is now in the center should also exit the Circle.
+- It will be removed when nobody remains in the Circle since there is no use in having it otherwise.
+
+## Conclusion
+
+Life360 has become one of the most popular applications on the App Store. It's designed to help people stay connected with friends and family. However, if you're interested in learning how to fake your location on Life360, we recommend using [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/). It's a more safe and effective way to get around the restrictions that Life360 puts in place.
+
+
+
+## How to use Snapchat Location Spoofer to Protect Your Privacy On Vivo Y100?
+
+People are very happy about Snapchat’s new Snap map feature. It lets you update your location on a map, so that you can know who else (in your friends circle) is in the same concert or attending the same seminar. Whenever you add a post to your stories, your bitmoji appears on the geo-tagged location on the map.
+
+![snap map feature](https://images.wondershare.com/_thumbs/snap-map-feature-pic1.jpg)
+
+This feature was good news for people who were wondering how to share location on snapchat with their friends. But there is more to this than your eyes are seeing. Even when you don’t upload any posts to the stories, snapchat is still revealing your location to all your friends, whether you want it or not. Everytime you open the app, your location is being compromised. You just need to agree to share your location once, and Snapchat takes it as an invite to share your location every single time you send a snap or simply open the app to look at others’ snaps.
+
+This is very dangerous when you have unknown people on your snap friends list. You must have accidentally accepted requests from people who have similar names to your friends? You don’t really know the identity of the person unless they snap their faces to you. In the worst case scenario, you can also have an obsessed stalker who was just waiting for this chance to track you down.  The possibilities are endless. So, how to hide your snapchat location from the others on the internet? Our guide will teach you exactly that!
+
+## **Part 1: Can we Hide Location on Snapchat?**
+
+The first thing that comes to our mind whenever we think about fake gps location snapchat is a VPN. But keeping these virtual network apps and spoofing apps aside, is it possible to hide our location by taking advantage of the existing settings on the app?
+
+Yes, Absolutely!
+
+There are a few tricks that you can use to hide your location from your friends or anyone who you have on your Snap List.
+
+**Ghost Mode:** The word ‘Ghost’ was never this sweet. The snapchat fake location saves a lot of trouble. However, if there is no location at all, that is a huge advantage too! You can literally disappear off of the map when you activate the Ghost mode on Snapchat. Instead of a snapchat spoof, you are completely removing your traces from the Snapmap. This is how you enable this very useful setting -
+
+**Step 1:** If you are someone who maintains the snap streak regularly, then it is no problem for you to track down the camera screen. Open the camera screen on your phone.
+
+![track camera screen](https://images.wondershare.com/_thumbs/camera-screen-snapchat-pic2.jpg)
+
+**Step 2:** On the top-left corner, you will find your bitmoji that will lead you to your Snap profile. Click on your bitmoji.
+
+![find bitmoji](https://images.wondershare.com/_thumbs/top-left-bitmoji-icon-pic3.jpg)
+
+**Step 3:** The profile page will appear. Scroll to the bottom and you will find the Snapmap option there. Right below it will be a small arrow pointing to the right. Instead of clicking on the map, tap on thi arrow.
+
+![location setting on snapchat](https://images.wondershare.com/_thumbs/location-settings-snapchat-pic4.jpg)
+
+**Step 4:** The Map and ‘My Location’ settings will open. There you will find the Ghost Mode. Enable the setting and you will see a dialogue box asking you to choose the duration of the Ghost Mode. Depending on what you want, choose your location.
+
+![duration ghost mode](https://images.wondershare.com/_thumbs/ghost-mode-duration-pic5.jpg)
+
+If you still don’t trust this Ghost mode, the next trick will be very useful for you. Not just Snapchat, any app won’t be able to track down your exact location when you follow it.
+
+**Turn Off GPS Permissions on your phone**
+
+If you completely turn off the GPS Permissions on your phone, then no app can access your location even if you are connected to the internet. This might hinder the performance of a few apps but that is the risk that you must take to safeguard your privacy. The procedure to Turn off the GPS will differ from Android to iPhone. We have listed the most easy ways to turn off the location services on your phones.
+
+**Android**
+
+The easiest method is to go with the Notification tray that is present on top of the Android device. That is, when you look at your Android screen, you will see the notification tray on the top.
+
+**Step 1**: Swipe down the notification tray and you will find several options. One of them is the ‘Location’ icon.
+
+![check location notification tray](https://images.wondershare.com/_thumbs/location-notifications-tray-android-pic6.jpg)
+
+**Step 2**: The ‘Location’ icon is shaped like a geo-coordinate pin and remains in grey color when switched off and Blue color when turned on. Tap on the icon to on/off.
+
+![tap location on/off](https://images.wondershare.com/_thumbs/location-tap-on-to-change-pic7.jpg)
+
+**iPhone**
+
+To turn off the Location on your iPhone device,
+
+**Step 1:** Go to the ‘Settings’ option from your iPhone device’s Menu.
+
+![go to setting on iphone](https://images.wondershare.com/_thumbs/settings-iphone-menu-pic8.jpg)
+
+**Step 2:** Search for the ‘Privacy’ option and tap on it.
+
+![tap privacy option](https://images.wondershare.com/_thumbs/privacy-option-for-iphone-location-pic9.jpg)
+
+**Step 3:** In the next page that appears, you will find the ‘Location Services’. If we are not wrong, it is usually the first option on the page that opens up.
+
+![click location services option](https://images.wondershare.com/_thumbs/location-services-option-pic10.jpg)
+
+**Step 4:** Shift the toggle and turn off the Location Services. If you want, you can also disable location services individually for Snapchat only.
+
+![turn off location service](https://images.wondershare.com/_thumbs/turn-off-location-services-pic11.jpg)
+
+These are the simple ways in which you can prevent snapchat from spying on your location. You must be knowing how to send location on snapchat through chats - even this won’t be possible once you completely turn off the GPS of your devices.
+
+## **Part 2: How to Spoof Location on Snapchat**
+
+If you are wondering how to fake location on snapchat, then the Snapchat location spoofer is one of the best options. You won’t find a specific software designed exclusively for Snapchat but Wondershare’s Dr. Fone Virtual Location spoofer will help you hide your real location on social media apps. This is how you use the application.
+
+[Dr. Fone - Virtual Location (iOS)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+
+**Step 1**: Download the Dr.Fone Virtual Location Spoofer on your PC and launch it. You will find several options on the page. Go for ‘Virtual Location’.
+
+![dr.fone home screen](https://images.wondershare.com/_thumbs/drfone-home-pic12.jpg)
+
+**Step 2**: Now connect Your Vivo Y100 to your PC and go with the ‘Get Started’ option.
+
+![dr.fone virtual location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
+
+**Step 3**: The world map with your current location will show up on the page. The ‘Teleport mode’ is the third icon on the top-right corner of the page. Click on it and enter your new location in the search box.
+
+![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
+
+**Step 4**: Once you’ve decided with your final virtual location to fake gps for snapchat, then click on ‘Move Here’. New location will update in your phone and Snapchat will detect it too.
+
+![set the location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
+
+One of the advantages of using a location spoofer is that - your new location will reflect in all social media applications. Even your regular apps will detect the change and note it. So, it becomes hard to know if the change is fake or real.
+
+**VPN Service - NordVPN**
+
+The Virtual private Network services hide your IP, mask your identity and since you will be changing your server, they spoof location on snapchat too. NordVPN is one of the most hailed VPNs and this is how you use it -
+
+**Step 1**: Download NordVPN either from Google or App store.
+
+![nordvpn google play store](https://images.wondershare.com/_thumbs/nordvpn-google-play-store-pic16.jpg)
+
+**Step 2**: You need to sign up and the app quickly connects you to a nearby server. This is the Quick connect option.
+
+![signup for quick connect](https://images.wondershare.com/_thumbs/nordvpn-us-quick-connect-pic17.jpg)
+
+**Step 3**: However, you can change your location too. Go to the ‘More options’ and then choose Servers. Under this, go for All Countries to view the choices you have. Choose one and that server will be activated.
+
+![choose the server](https://images.wondershare.com/_thumbs/new-server-change-pic18.jpg)
+
+So, the location of this new server will reflect on your snapchat snapmap too.
+
+## **Part 3: Frequently Asked Questions**
+
+**Q1. Can you get someone’s Location from Snapchat?**
+
+A - Yes, people can easily know your location through Snapchat. The new Snapmap feature makes it all the more easy. The snapmap shows your bitmoji’s location anywhere in the world, as long as your phone’s GPS is ON and you have the snapchat app open. So, people can zoom in and know your exact coordinates and even your house-no and residential details.
+
+**Q2. Is Snapchat Location ever wrong?**
+
+A - Snapchat tries to provide the accurate location most of the time. It uses your geo-coordinates that it detects when you Switch ON the GPS on your phone. It tracks the location in which your snap is taken and if you are on snapmap and sharing your location, it can provide the exact details of the place you are in. However, there is no authentic report that says that Snapchat shows 100% accurate location or if it can go wrong sometimes.
+
+**Q3. How do you tell if someone is hiding their location from you on snapchat?**
+
+A - They will disappear off of the world map. Literally! So, whenever someone is hiding their location from you, it means they’ve either activated the Ghost Mode or they turned off the Location services of their phone. As a result, you will not find their bitmoji on the snapmap even if they are actively using the app. But if they’ve employed a Location spoofer, it is hard to say if the location is real or not.
+
+## **Part 4: Conclusion**
+
+Now that you have learnt how to fake location on snapchat map, understand that these methods have their own hierarchy of success. While the location spoofer stands at the top-spot, using a VPN is the next best thing. If you want to rely on in-built features, know that they aren’t always successful. Make the right choice and keep your location a secret for your own privacy.
+
+
+
+## Methods to Change GPS Location On Vivo Y100
+
+[![avatar](https://drfone.wondershare.com/images/alice-mj.png)](https://drfone.wondershare.com/author/alice-mj/)
+
+The Internet is a vast space and you have a plethora of content on different websites and platforms. You can call it a two-way - give and take relationship when it comes to the dynamics of data exchange between the world wide web and the users.
+
+When you visit websites, they use cookies to track your activities. When you visit a restaurant, the phone detects and saves the GPS in the memory. You click a picture in the Maldives, your phone seeks out geographic points to prepare the right time and date stamps.
+
+You need your GPS to download and use certain apps. Similarly, your GPS might be the reason you are unable to play some games or use some applications. Change GPS Location Vivo Y100 and this won't be a problem for you.
+
+But if you are wondering how can I change my location on my iPhone? These 5 methods will help you get fruitful results.
+
+## Part 1: Change GPS Location on Vivo Y100 using a Professional PC Program
+
+The PC Programs are entirely Software based and do a tremendous job to [spoof Vivo Y100 iOS 16 Location](https://drfone.wondershare.com/fake-location/how-to-change-location-on-ios-16.html). You don't have to buy any new equipment and you will be operating using your computer.
+
+You can get this done within minutes if you have the right program with you. One of the best options in the market is Wondershare's Dr.Fone. This is how you use Dr. Fone Virtual Location spoofer for GPS Spoofing iPhone.
+
+
+
+### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+
+1-Click Location Changer for both iOS and Android
+
+- Teleport from one location to another across the world from the comfort of your home.
+- With just a few selections on your computer, you can make members of your circle believe you’re anywhere you want.
+- Stimulate and imitate movement and set the speed and stops you take along the way.
+- Compatible with both iOS and Android systems.
+- Work with location-based apps, like [Pokemon Go](https://drfone.wondershare.com/virtual-location/pokemon-go-spoofing-ios.html), [Snapchat](https://drfone.wondershare.com/virtual-location/fake-snapchat-location.html), [Instagram](https://drfone.wondershare.com/virtual-location/how-to-change-region-on-instagram.html), [Facebook](https://drfone.wondershare.com/virtual-location/fake-location-on-facebook.html), etc.
+
+**3981454** people have downloaded it
+
+**Step 1**: Go to the official website of [Dr.Fone - Virtual Location (iOS)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). This is easily available when you google it or you can also follow this link [<u>here</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). Then you can download the executive file, install and then launch the application. Once the home page opens, you will find several options - Opt for 'Virtual Location'. It is usually at the bottom of the page.
+
+![dr.fone home screen](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+**Step 2**: Now take your Vivo Y100 device and connect it to the computer that has Dr. Fone. Then click on 'Get Started'.
+
+![drfone](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
+
+**Step 3**: Now, the world map will display on the screen and you can clearly see the coordinates and directions as well. On the top right corner, the third icon is called the 'Teleport Mode'. Click on that and enter the name of the place in the search box. You can even pinpoint it, if you are sure about the place.
+
+![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
+
+**Step 4**: If you are completely sure that you got the address right, click on the 'Move Here' option. It moves your Pin from your present location to your new virtual location.
+
+![virtual location 1](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
+
+If you are looking for a way to change Vivo Y100 Location without Jailbreak, then this is one of the safest options for you. Also, you have other additional features like Phone Transfer, and Whatsapp Transfer along with Location spoofing. The application will never go to waste, won't occupy much of your computer/PC/Laptop's space and you can get the fake location iOS within minutes.
+
+
+
+## Part 2: Change GPS Location on Vivo Y100 using External Device
+
+You can achieve the iOS Spoof Location using External devices as well. These devices do not cause any inconvenience to you. They are meant to be small, fit into the lightning port of your iPhone, and act as an external source that will spoof the Vivo Y100 location and the same will reflect in every app that uses or detects your iPhone's geographic location.
+
+The best external device to change phone location Vivo Y100 is Double Location Dongle. This simple device can be utilized by following the steps below -
+
+**Step 1**: The Double Location Dongle is a very small, white rectangle that connects to your iPhone's port. But along with it, you also have to install the Companion app for location spoofing. Once you have both of them ready, connect the Vivo Y100 device to your iPhone.
+
+![double location dongle](https://images.wondershare.com/drfone/2020/2020/double-location-dongle-device-pic5.jpg)
+
+Note: The Companion App is not available on the App store. You have to download it from Double Location's official website.
+
+**Step 2**: The next step is to open the Double Location iOS companion app and then settle on the Map Tab.
+
+![companion app double location map](https://images.wondershare.com/drfone/2020/2020/companion-app-double-location-map-pic6.jpg)
+
+**Step 3**: Unlike what we had seen in the Dr. Fone step, we cannot enter the location into any search box. You should move the pin to the location that you want to virtually shift to. Double Location provides some very good options that will help you during gaming. You can change all the appropriate settings and proceed.
+
+![change location setting](https://images.wondershare.com/drfone/2020/2020/change-location-dongle-settings-pic7.jpg)
+
+**Step 4**: On the bottom of the screen, Go for the lock position option. Once you do that, there will be a virtual shift in your geographic position and all your apps will register your new coordinates.
+
+![final map location](https://images.wondershare.com/drfone/2020/2020/final-map-location-pic8.jpg)
+
+## Part 3: Change GPS Location on Vivo Y100 using XCode
+
+You can change the geolocation Vivo Y100 by using your coding expertise as well. That is why XCode exists. This Computer Program lets you change your Location in Vivo Y100 by giving some GIT Commands to the PC while your Vivo Y100 stays connected to it. By following these steps, you can understand how to do it. But if you've never had a liking for programming and coding languages, then you should probably skip this -
+
+**Step 1**: Download and install XCode from the AppStore, directly to your Mac device. Launch the application.
+
+![download xcode app](https://images.wondershare.com/drfone/2020/2020/download-and-install-xcode-pic9.jpg)
+
+**Step 2**: Once you see the XCode window open, Go for the 'Single View Application' to start a new Project and go on by clicking on 'Next'. You can set up a name and details for this particular project.
+
+![single view application project](https://images.wondershare.com/drfone/2020/2020/single-view-application-project-pic10.jpg)
+
+**Step 3**: A screen display will appear asking you about your identity. This is where the minimal coding part starts. You need to enter some GIT Commands to continue with the project.
+
+![identify yourself](https://images.wondershare.com/drfone/2020/2020/identify-yourself-pic11.jpg)
+
+**Step 4**: Launch and run the terminal on your Mac device and enter these commands - git config --global user.email "[<u>you@example.com</u>](mailto:you@example.com)" and git config --global user. name "your name".You need to add your own details in the quoted space and continue to verify your identity.
+
+**Step 5**: Once you enter the commands, go to the next step and establish the Development Team. Then you can proceed to connect your Vivo Y100 device to your Mac device. Use the normal cable to do that.
+
+![iphone connects to mac](https://images.wondershare.com/drfone/2020/2020/iphone-connects-to-mac-pic13.jpg)
+
+**Step 6**: To allow the program to process the Symbol Files, you will have to choose the model of your device. Go to the 'Build Device' option and continue as per the prompts. However, make sure that you keep your Vivo Y100 unlocked for quick detection by the computer software.
+
+![process-detection-on-iphone](https://images.wondershare.com/drfone/2020/2020/process-detection-on-iphone-pic14.jpg)
+
+**Step 7**: Once that is done, you can come back to the actual location spoofing part. Go to the debug Menu > Simulation Location and specify the exact location that you want to virtually shift to. Once you are okay with it, the same will reflect on your Vivo Y100 as well.
+
+![new virtual location xcode](https://images.wondershare.com/drfone/2020/2020/new-virtual-location-xcode-pic15.jpg)
+
+## Part 4: Change GPS location on Vivo Y100 using Cydia Location Faker App
+
+Cydia is also based on software applications and changes location in seconds, However, you need to note that you have to jailbreak your phone. If you don't know how to do it or do not want to take the risk, Cydia's LocationFaker app may not be the right fit for you. But if you are a jailbreak expert, this is a very comfortable GPS Changer for iPhone.
+
+**Step 1**: Download the Cyndia LocationFaker app from the official website. LocationFaker8 is available for the iOS 8.0 model.
+
+![cydia app download](https://images.wondershare.com/drfone/2020/2020/cydia-app-download-pic16.jpg)
+
+**Step 2**: After launching the app, enter the virtual location into the search box.
+
+![enter new location](https://images.wondershare.com/drfone/2020/2020/enter-new-location-pic17.jpg)
+
+**Step 3**: If you are done with choosing the new location, shift the toggle from 'OFF' to 'ON' at the bottom of the page.
+
+![cydia toggle shift](https://images.wondershare.com/drfone/2020/2020/cydia-toggle-shift-pic18.jpg)
+
+**Step 4**: Now we can decide which apps can access our new virtual location. At the bottom of the page, you will find an 'i' icon. Go click on it and choose the 'White List' option. This one will then take you to the app list and you can decide which of them will have access to the phone's location.
+
+## Part 5: Change GPS Location on Vivo Y100 using Location Handle
+
+Location Handle is another useful application that you can use to change your location by a few meters or simply go with an automated movement system that changes your location gradually as if you are moving from one place to another. This is how you use it -
+
+**Step 1**: Download the Location Handle app from the website or App store
+
+![location handler cydia](https://images.wondershare.com/drfone/2020/2020/location-handler-cydia-pic20.jpg)
+
+**Step 2**: There are four different types - Normal Mode - teleport to a new location; Offset Mode - Move a few feet away from the present location ; Automatic Mode - Slowly change your location from one point to another, as if walking ; Manual Mode - Change your location using a joystick.
+
+![teleport-coordination](https://images.wondershare.com/drfone/2020/2020/teleport-coordination-pic21.jpg)
+
+**Step 3**: Consider the Manual mode, because we want to change location to a far-off place and not necessarily for gaming.
+
+![manual mode location handle](https://images.wondershare.com/drfone/2020/2020/manual-mode-location-handle-pic22.jpg)
+
+**Step 4**: Once the Manual mode is activated, the map will be displayed and you can change the pin location. You can enter the location name in the search box.
+
+![chowchilla location handler](https://images.wondershare.com/drfone/2020/2020/chowchilla-location-handler-pic23.jpg)
+
+**Step 5**: The Joystick will appear on the page and you can use it to shift your location to wherever you want. Once you fix on the location, proceed and the new location will be updated.
+
+![joystick-mode](https://images.wondershare.com/drfone/2020/2020/joystick-mode-pic24.jpg)
+
+Conclusion
+
+We hope you are no longer wondering How to change Location services on Vivo Y100. These 6 methods are very effective and you can always opt for the one that is most comfortable for you. If you want a hassle-free PC program, we have that narrowed down for you. If you are a coding enthusiast, then we've listed a method that best fits you. Whatever the reason, with an iOS Fake GPS, life becomes much easier and sometimes even safe on the internet. You can explore beyond the boundaries without moving from your couch!
+
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-poco-c50-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Poco C50? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Vivo Y100? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-oppo-k11-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Oppo K11 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Google Pixel 8? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-vivo-v27-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Vivo V27 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Lava Blaze Curve 5G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-vivo-x-flip-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Vivo X Flip? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Realme 11 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Samsung Galaxy F04? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-oppo-a78-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Oppo A78 is off? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-tecno-pop-8-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Tecno Pop 8? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-apple-iphone-se-and-browser-drfone-by-drfone-virtual-ios/"><u>Prevent Cross-Site Tracking on Apple iPhone SE and Browser | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Motorola Moto G04? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Nokia C22? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-lava-blaze-2-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Lava Blaze 2 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Xiaomi Redmi 13C? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Samsung Galaxy M34? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Nokia XR21? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-teleport-your-gps-location-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Xiaomi Civi 3 Disney 100th Anniversary Edition? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-nokia-g42-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Nokia G42 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-realme-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-do-you-wish-to-make-changes-across-your-video-are-you-looking-to-record-your-desktop-screen-on-mac-worry-not-as-this-article-provides-details-about-quic/"><u>New Do You Wish to Make Changes Across Your Video? Are You Looking to Record Your Desktop Screen on Mac? Worry Not, as This Article Provides Details About QuickTime Player that Caters to All User Requirements</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-ways-to-extract-data-from-corrupt-excel-2013-file-stellar-by-stellar-guide/"><u>4 Ways to extract data from corrupt Excel 2013 file | Stellar</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-nokia-c22-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Nokia C22 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6-plus-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6 Plus Passcode without Computer?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-13-mini-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone 13 mini Without a Passcode</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/breakthrough-how-to-make-a-picture-speak/"><u>Breakthrough How to Make A Picture Speak</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/defy-2-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Defy 2 Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-apple-iphone-xs-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For Apple iPhone XS</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-from-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 From iPhone 11 Pro Max</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-tecno-camon-20-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Tecno Camon 20 Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-tecno-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from Tecno .</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-realme-12plus-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Realme 12+ 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-se-2020-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock iPhone SE (2020), Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-xiaomi-redmi-13c-5g-support-avchd-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Does Xiaomi Redmi 13C 5G support AVCHD video?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-apple-iphone-13-mini-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On Apple iPhone 13 mini</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-infinix-note-30-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-oppo-find-x6-pro-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Oppo Find X6 Pro Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-find-n3-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Find N3 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-vivo-y77t-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Vivo Y77t Device</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-xiaomi-13t-device-sim-by-drfone-android/"><u>Easily Unlock Your Xiaomi 13T Device SIM</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-lava-yuva-3-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Lava Yuva 3 Phone | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-funniest-meme-creator-apps-for-android-and-ios-updated-2023/"><u>New In 2024, The Funniest Meme Creator Apps for Android and iOS (Updated 2023)</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-motorola-g24-power-unlock-without-password-by-drfone-android/"><u>5 Solutions For Motorola G24 Power Unlock Without Password</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/lock-your-xiaomi-redmi-a2plus-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Xiaomi Redmi A2+ Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+</ul></div>
+
+
