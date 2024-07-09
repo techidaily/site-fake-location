@@ -1,7 +1,7 @@
 ---
 title: iSpoofer is not working On Poco C50? Fixed | Dr.fone
-date: 2024-05-20T09:33:27.607Z
-updated: 2024-05-21T09:33:27.607Z
+date: 2024-07-08T01:44:56.999Z
+updated: 2024-07-09T01:44:56.999Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes iSpoofer is not working On Poco C50? Fixed
 excerpt: This article describes iSpoofer is not working On Poco C50? Fixed
 keywords: change gps location on android,change location on android,fake location on android,fake gps location on android,change location on C50,fake location on C50
-thumbnail: https://www.lifewire.com/thmb/FWDwuZy1CDGbqb0qwCy_mcmpESI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-sports-movies-creed-michael-b-jordan-cbca95120e5243edb7eca00403eaa626.jpg
+thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0be7b320fd391a90a34b6fb91.jpg
 ---
 
 ## iSpoofer is not working On Poco C50? Fixed
@@ -64,7 +64,7 @@ If you are looking for a sure shot at changing your location without any hassle,
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 

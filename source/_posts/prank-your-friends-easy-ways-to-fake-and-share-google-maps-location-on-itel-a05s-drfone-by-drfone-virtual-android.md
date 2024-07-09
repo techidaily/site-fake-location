@@ -1,7 +1,7 @@
 ---
 title: Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Itel A05s | Dr.fone
-date: 2024-05-20T09:33:31.610Z
-updated: 2024-05-21T09:33:31.610Z
+date: 2024-07-08T01:39:27.059Z
+updated: 2024-07-09T01:39:27.059Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Itel A05s
 excerpt: This article describes Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Itel A05s
 keywords: change location on A05s,change gps location on android,fake gps location on android,change location on android,fake location on A05s,fake location on android
-thumbnail: https://www.lifewire.com/thmb/-k7XQuYCtDIqaSG0zopRVuv3liM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-unveils-new-products-at-its-annual-unpacked-event-1200186175-0a17180ae84e47f488f43d3afbb7daa6.jpg
+thumbnail: https://thmb.techidaily.com/ef75e54c89ead83bf0af102804bf50f616e622b6f296003a4995fda9891371fd.jpg
 ---
 
 ## Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Itel A05s
@@ -40,7 +40,7 @@ Here is a video tutorial for you to have a quick view on Google maps location ch
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
+![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
 **Step-by-step Guide to Fake Google Maps Location with Dr. Fone Virtual Location:**
 
@@ -238,13 +238,13 @@ If you are a Spotify Free user, then you will have to go by the above mentioned 
 
 Now you know that by Spotify Change Country, you can get more benefits and you can enjoy podcasts, music and other audio content that is otherwise unavailable in your region. So, it is understandable that you’d want to deliberately fake spotify location. This is possible when you use some of the best Location Spoofer softwares available on the internet. Our best suggestion would be Wondershare’s Dr.Fone. It is easy to use and your location will be changed within a few minutes in minimal steps.
 
-**Step 1:** You need to download the executive file of the Wondershare[Dr. Fone’s Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)Spoofer. The android and even Windows compatible files are available on the website. Choose appropriately and download - and launch them.
+**Step 1:** You need to download the executive file of the Wondershare [Dr. Fone’s Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) Spoofer. The android and even Windows compatible files are available on the website. Choose appropriately and download - and launch them.
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/r2GiOQxwfQc" frameborder="0" allowfullscreen=""></iframe>
 
 **Step 2:** Once you launch the application, the homepage will open and several options will display on the screen. Choose the Virtual Location option that is usually at the end of the page.
 
-![ dr.fone home screen](https://images.wondershare.com/drfone/guide/drfone-home.png)
+![dr.fone home screen](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 3:** To Change Location on Spotify Mobile, connect your Itel A05s to your computer - both Android and iPhones can detect the virtual location change. Then click on Get Started.
 
@@ -282,7 +282,7 @@ The automatic connect was made to United States - the closest server
 
 **Step 3:** In case you want to change to a specific country, You can go to ‘More Options’ and then choose Servers. Then go to All Countries and choose the country of your choice. Once you launch Spotify, the same will reflect there too.
 
-![choose countries to change ](https://images.wondershare.com/drfone/2020/2020/countries-spotify-change-pic17.jpg)
+![choose countries to change](https://images.wondershare.com/drfone/2020/2020/countries-spotify-change-pic17.jpg)
 
 The VPN works for all kinds of mobiles and it is very convenient to use. This is a good way to mask your IP address completely, so that no one can track your location change activity either. You can change servers several times a day to access content from across the world.
 
