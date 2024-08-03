@@ -1,7 +1,7 @@
 ---
 title: How to Simulate GPS Movement in AR games On Apple iPhone 11 Pro Max? | Dr.fone
-date: 2024-03-21 19:40:49
-updated: 2024-03-24 21:44:55
+date: 2024-08-01T23:53:42.057Z
+updated: 2024-08-02T23:53:42.057Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Simulate GPS Movement in AR games On Apple iPhone 11 Pro Max?
 excerpt: This article describes How to Simulate GPS Movement in AR games On Apple iPhone 11 Pro Max?
 keywords: change location on iPhone 11 Pro Max,fake location on ios,fake location on iPhone 11 Pro Max,fake location on iphone,fake gps location on ios,change location on iphone
-thumbnail: https://www.lifewire.com/thmb/vmRvggsBE9toSpXM8p1WS8O5Wjc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/6-things-to-consider-before-buying-a-gaming-pc-5221042-8a79710a1e4549edbc357125123fb04e.jpg
+thumbnail: https://thmb.techidaily.com/290af97afad1802ce323c8e9ce6f1c1f031089327fdc749a381a84624fdbd2f2.jpg
 ---
 
 ## How to Simulate GPS Movement in AR games On Apple iPhone 11 Pro Max?
@@ -77,6 +77,9 @@ Below is the video showcasing all steps necessary to simulate GPS movement while
 
 **Step 2**: Use a USB cable to sync your iOS phone with the Apple iPhone 11 Pro Max device where you downloaded this software. Tap on Get Started.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on get started](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 **Step 3**: You will see your real-time location on the map. Tap on the Teleport Mode icon at the top-right and type your fake location name.
@@ -85,10 +88,16 @@ Below is the video showcasing all steps necessary to simulate GPS movement while
 
 **Step 4**: The software will automatically take your GPS location there. To confirm, press Move Here.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![press move here](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 **Step 5**: The joystick will appear at the side. You can use this joystick to control your spoofed movement as you open other apps and try them out.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![joystick will appear](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
 **Step 6**: You can choose the Multi-Stop Route icon to see different points on the screen. The software automatically detects the best way to reach the destination, joining all selected points into one overall route for automatic GPS movement.
@@ -165,6 +174,9 @@ Get multiple spoofing options here, like expert mode and various routes to set u
 
 **Step 2**: Select the faked location and tap on the Play button.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on the play button](https://images.wondershare.com/drfone/article/2022/12/how-to-simulate-gps-movement-on-ar-games-6.jpg)
 
 **Step 3**: The app will automatically show the spoofed fly GPS after inserting the fake location.
@@ -201,10 +213,16 @@ Instead, while using this app, you can set up start and end points for your rout
 
 **Step 2**: Long-tap points on the map to mark starting and ending locations. The app will automatically start evaluating suitable routes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![long tap points on the map](https://images.wondershare.com/drfone/article/2022/12/how-to-simulate-gps-movement-on-ar-games-8.jpg)
 
 **Step 3:** Click on the confirm tick mark icon. Follow developer permission settings-related steps, and tap on Go.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Part 3. Top 15 Augmented Reality Games You Need To Try Today
 
 While Pokémon Go is the most popular of them all, you can expect interesting playthroughs with other game options running on Augmented Reality. Multiple high-grade AR games that incorporate GPS-centric motion tracking functionality to optimize the user experience of gamers. Here are 15 more choices for you.
@@ -241,12 +259,26 @@ Mozilla Firefox is one of the most famous browsers known for its security. Like 
 
 It is not hard to change or spoof your location in Mozilla Firefox. Stick with this article to learn different ways to **fake a location in Firefox** on devices.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ![firefox featured image](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ## Part 1: Preparations Before Spoofing Your Location in Firefox
 
 Before starting with **Firefox location spoof**, you must be aware of how the platform and websites determine your location. There are many ways a browser can detect your location. It includes services like IP addresses, GPS tracking, Wi-Fi, and Bluetooth. The main tool browsers and websites use to determine your location is HTML5 Geolocation API.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ### 1\. Basic Understanding of the HTML5 Geolocation API
 
 Basically, a browser API called HTML5 Geolocation API is used by websites and browsers to detect a user's location using longitude and latitude coordinates. It is strictly based on user permissions for detecting location. That means you will receive a permission prompt whenever a website or browser uses it to detect your location. If you refuse the permission, they can't use this API for location determination.
@@ -255,6 +287,10 @@ Basically, a browser API called HTML5 Geolocation API is used by websites and br
 
 HTML5 Geolocation determines your location using the longitude and latitude coordinates with the help of GPS. If your device doesn't have GPS tracking, it uses Wi-Fi and cell tower signals to detect the Apple iPhone 11 Pro Max device's location. The location detected by HTML5 Geolocation is highly accurate with accuracy up to street level. Due to its high precision in locating users, it can create privacy issues for users.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ## Part 2: How to Fake Your Location in Mozilla Firefox on Computers
 
 Many ways are available for you to fake or disable your desktop location in Mozilla Firefox to address your privacy concerns. You can either disable or change the location in the browser or use a third-party app or extension. Below, we have explained the three most common ways to fake or disable your location in Firefox.
@@ -269,6 +305,9 @@ If you want to stop websites from accessing your location from Mozilla Firefox, 
 
 **Step 2:** Click "Settings" in front of "Location" to manage the location settings. It will open a window with a list of all the websites that can access your location. Depending on your needs, you can choose between "Remove Web Site" or "Remove All Web Sites" to remove their location access.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![remove the specific or all websites](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-3.jpg)
 
 **Step 3:** If you want to block the websites from accessing your location indefinitely, you can select the "Block new requests asking to access your location" option. Once selected, click "Save Changes" to disable your geolocation on Firefox.
@@ -281,6 +320,9 @@ Disabling your location on Mozilla Firefox can stop websites from accessing your
 
 **Step 1:** Once Mozilla Firefox is open, type "about:config" and press Enter. You will see a warning screen as you modify advanced settings. You have to click on the "Accept the Risk and Continue" button to proceed further.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![hit the accept the risk button](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-5.jpg)
 
 **Step 2:** First search for "Geo.enabled," and when it appears, toggle its value from "True" to "False" to disable geolocation. To spoof your location, search for "geo.provider.network.url" and press the "Pen" icon to edit it.
@@ -315,6 +357,9 @@ Another way you can protect your location from websites is to use the "[Location
 
 It is not only on computers where you can use Firefox fake location but also on smartphones. You can easily disable or change your Firefox location on your iOS or Android device. Three different methods to disable or change the location in Mozilla Firefox are summarized below:
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1: Disable Geolocation Sharing on the Firefox Browser
 
 If you use the Firefox browser on your phone, it allows you to disable your location using a couple of simple steps. Disabling location services for the Firefox browser differs on Android and iOS devices. A detailed step-by-step process for disabling location is given below for both platforms:
@@ -327,6 +372,9 @@ If you use the Firefox browser on your phone, it allows you to disable your loca
 
 **Step 2:** Now, tap "Site Permissions" and select "Location." In the "Location" option, select "Blocked" to disable the location access on the Firefox browser.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enable the blocked option](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-12.jpg)
 
 **On iPhone**
@@ -381,6 +429,9 @@ Download and install Dr.Fone on your computer and connect your phone to it. Acce
 
 After clicking "Get Started, " a map will open where you must select your original location. It can be done using the "Center On" icon from the right sidebar. To choose your fake location, you will need to activate "Teleport Mode" from the top right corner.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![activate the teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 **Step 3: Spoof Your Location in Firefox**
@@ -391,6 +442,9 @@ Enter your desired fake location in the provided space and press "Go" once the m
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 3: Change Your Location in Firefox Using ExpressVPN
 
 Browsers like Mozilla Firefox tracks your location by using your IP address. You can use a VPN to spoof your IP location to protect your actual location from websites. [ExpressVPN](https://www.expressvpn.com/) is a VPN that is available for both Android and iOS devices. You can use these steps to change your location using ExpressVPN:
@@ -399,8 +453,14 @@ Browsers like Mozilla Firefox tracks your location by using your IP address. You
 
 **Step 2:** Select your desired fake location from the "Smart Location" tab after logging in. Once a location is selected, press "Connect" to change to the desired fake location.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![select the expressvpn location](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-18.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Conclusion
 
 In today's digital world, you have to compromise your privacy to some extent. However, it doesn't mean that you should not try to use tools available to you to protect your privacy to the limit. [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) solves your concerns regarding location sharing with ease. With this tool, you can **fake location in Firefox** and still enjoy all the features and services offered by location-based websites and apps.
@@ -417,12 +477,18 @@ Life360 is one of the admired apps known for tracking location. The app can be u
 
 After the app gets installed, you can create a circle, which in other languages simply means a group, just like you create on Facebook or WhatsApp. This circle is having members who can share the information and location accountability with each other. You can also give invitations to other users by simply taking the help of their contact numbers or email addresses.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![life360 app](https://images.wondershare.com/drfone/article/2019/11/life360-intro.jpg)
 
 Using this app then, you can simply see the location of the other members as well as get notifications named Place Alerts. These notifications will tell you whether a user has arrived or left the selected location. This can be helpful if you are a parent and want your children to reach safely at a desired place.
 
 Moreover, with the help of Life360, a user can easily control the ‘Check-in’ according to which he or she sends the alert to the circle to know them the exact location. You can also get to see the location history of the members to know their past locations.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Why Do People Hate Being Tracked by Life360?
 
 Unarguably Life360 can be considered one of the most helpful and fun apps. But the thing that sometimes or many times might bother people is the 24x7 interference with privacy.
@@ -449,6 +515,9 @@ When it comes to learning **how to trick Life360** on iOS or Android, the best o
 
 Get the tool on your computer for the process initiation. To do this, you can visit the official website and click the "Try It Free" button or you can directly click the **"Download for PC"** or **"Download for Mac"** as below. Next, install the tool and launch it. Choose the "Virtual Location" tab from the main screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2: Get the Apple iPhone 11 Pro Max device Connected**
@@ -473,6 +542,9 @@ You could observe the five icons at the top right of the screen. You need to cli
 
 The program will make sure to recognize the place you have entered. A pop-up box will appear where the distance is mentioned. Click on "Move Here" and your location will be changed and shown as what you have selected.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![ use fake location on Life360](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 
@@ -483,6 +555,9 @@ Here is a video guide that helps you to fake your GPS location on Life360.
 
 **3,255,164**
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5: How to Fake Location on Life360 Android
 
 What if you want to know **how to stop Life360 from tracking you**? Well! You can go for a spoofing app for this too. There are lots of them available at the Google Play Store. For more clarity, we will help you know how you can use a spoofer app for Life360 fake location. Make sure to go along with the steps carefully.
@@ -491,22 +566,34 @@ Before you get the app worked, here is a requirement you need to follow. The req
 
 **Step 1:** Open "Settings" in the first place and tap on "System".
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enable developer options](https://images.wondershare.com/drfone/article/2019/11/developer-options-1.jpg)
 
 **Step 2:** Now, you need to go to the "About Phone" option. Followed by this, head to "Software info".
 
 **Step 3:** You will find the build number of your device here. You have to tap on it nearly 7 times.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![build number](https://images.wondershare.com/drfone/article/2019/11/developer-options-2.jpg)
 
 **Step 4:** Now, enter the lock code when asked and the developer options will be enabled.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Step by Step Guide on how to fake your location on Life360 with Android Spoofer
 
 **Step 1:** Now that you have turned on the developer options, you can visit the Play Store and look for Fake GPS Location app. Install it on your phone.
 
 **Step 2:** Once installed, again go to "Settings" > "System" > "Developer Options". Look for the "Select mock location app" and tap on it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![select mock location app from settings](https://images.wondershare.com/drfone/article/2019/11/select-mock-location-app.jpg)
 
 **Step 3:** Choose the Fake GPS app as the mock location app.
@@ -521,6 +608,9 @@ _If you want to find an easier way to [fake location on life360 Android](https:/
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer to Fake Your Location on Life360!
@@ -535,6 +625,9 @@ _If you want to find an easier way to [fake location on life360 Android](https:/
 
 ## Part 6: How to Stop Life360 from Tracking you
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 6.1 Use a burner phone
 
 If you completely want Life360 to stop you from tracking, the very first method, and indeed a useful one is using a burner phone. This simply stands to have an extra phone with you and you can call it a burner phone. To have it, of course, you don’t have to spend much. Just have a cheap Android or iOS device with you. With this, you can easily trick your friends about your location.
@@ -545,12 +638,18 @@ If you completely want Life360 to stop you from tracking, the very first method,
 
 **Note:** As we have mentioned in the beginning, Life360 supports an inbuilt chat function. This is where the downside comes of having a burner phone as a solution. Putting simply, you may miss an important conversation if you have the app on a burner phone and you have left it at home when any of your friends try to chat with you. And this can cause doubts in their minds.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 6.2 Pause Location Sharing in Life360 Settings
 
 Here is another way to stop Life360 from tracking you. You can simply pause the location-sharing option from the settings. Let us mention the steps without any more discussion.
 
 **Step 1:** At the lower right corner, hit on "Settings".
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![settings of Life360](https://images.wondershare.com/drfone/article/2019/11/pause-location-sharing-1.jpg)
 
 **Step 2:** Now, go to the Circle Switcher at the top and pick out the circle you wish not to share locations with.
@@ -561,6 +660,9 @@ Here is another way to stop Life360 from tracking you. You can simply pause the 
 
 **Step 4:** Lastly, toggle off the slider and it will turn grey. You will see a message saying "Location Sharing Paused" and you are done.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pause location sharing for Life360](https://images.wondershare.com/drfone/article/2019/11/pause-location-sharing-3.jpg)
 
 **Note:** When you disable or pause location for a particular group, your location can still be tracked by other circles. Make sure to choose all or as per your needs.
@@ -583,6 +685,9 @@ Wondershare Dr.Fone - Virtual Location is a tool that allows users to spoof actu
 
 Disabling Wi-Fi on your Apple iPhone 11 Pro Max might limit the accuracy of your location for Life360. However, Life360 can still track your location using cellular data and GPS. Turning off Wi-Fi alone might not entirely stop Life360 from tracking your location. It is especially true if other location services are still active on your device. To prevent tracking, you might need to adjust settings within your device's location services.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Final Words
 
 Life360 is no doubt a useful app that can help you know about the whereabouts of your near friends and family. However, when you hate being tracked on it, spoofing Life360 can come out as a great option. We discussed some helpful ways **how to fake your location on Life360** in this article, including [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) which allows you to manipulate your GPS location, simulate routes, and set up geofences, making it a versatile solution for your location spoofing needs. Hope you find this helpful.
@@ -604,3 +709,45 @@ Life360 is no doubt a useful app that can help you know about the whereabouts of
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-interactive-photography-sharing-immersive-360-photos-via-mobile-devices/"><u>[New] In 2024, Interactive Photography  Sharing Immersive 360 Photos via Mobile Devices</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-top-ios-psp-games-and-emulators-revealed-for-2024/"><u>[New] Top iOS PSP Games & Emulators Revealed for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-building-a-robust-brand-partnership-portfolio-on-youtube/"><u>[Updated] 2024 Approved  Building a Robust Brand Partnership Portfolio on YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-full-review-of-the-latest-powerdirector-app-24/"><u>[Updated] Full Review of the Latest PowerDirector App - '24</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-apex-1-written-by-assistant/"><u>[Updated] In 2024, Apex 1 Written by Assistant</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-enhance-creativity-top-ai-tools-to-generate-podcast-names/"><u>[Updated] In 2024, Enhance Creativity  Top AI Tools to Generate Podcast Names</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-live-streaming-capture-services/"><u>[Updated] In 2024, Live-Streaming Capture Services</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-unlocking-gameplay-success-with-ps3-screen-recording/"><u>[Updated] In 2024, Unlocking Gameplay Success with PS3 Screen Recording</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-preserving-profile-prestige-from-pretend-popularity-pitfalls-for-2024/"><u>[Updated] Preserving Profile Prestige From Pretend Popularity Pitfalls for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-videography-on-fb-horizontal-or-vertical-placement-for-2024/"><u>[Updated] Videography on FB  Horizontal or Vertical Placement for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-will-televising-facebook-vids-become-a-trend/"><u>[Updated] Will Televising Facebook Vids Become a Trend ?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/amuse-others-via-adobe-meme-making/"><u>Amuse Others via Adobe Meme-Making</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/becoming-a-pro-with-obs-gaming-recordings/"><u>Becoming a Pro with OBS Gaming Recordings</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Honor X9a? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-motorola-moto-g04-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Motorola Moto G04</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-err0r-code-e1-in-w10w11/"><u>Fixing Err0r: Code E1 in W10/W11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-poco-c50mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Poco C50Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-itel-p55-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-oppo-reno-9a-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Oppo Reno 9A For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-itel-a60s-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Itel A60s Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-oneplus-open-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix OnePlus Open Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/how-to-give-a-makeover-to-existing-images-and-videos-with-ig-filters/"><u>How to Give a Makeover to Existing Images and Videos with IG Filters</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Huawei Nova Y71? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-itel-s23-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Itel S23? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Realme V30T? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-play-7t-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Honor Play 7T to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-fpv-drones-picking-perfect-propellers-for-2024/"><u>Mastering FPV Drones  Picking Perfect Propellers for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-oneplus-11-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on OnePlus 11 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-samsung-galaxy-s23-ultra-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Samsung Galaxy S23 Ultra and Browser | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Oppo Find X7 Ultra? | Dr.fone</u></a></li>
+</ul></div>

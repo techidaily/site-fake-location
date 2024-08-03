@@ -1,7 +1,7 @@
 ---
 title: How to Share Location in Messenger On Apple iPhone 11? | Dr.fone
-date: 2024-03-22 23:22:22
-updated: 2024-03-24 22:48:43
+date: 2024-08-01T23:37:51.844Z
+updated: 2024-08-02T23:37:51.844Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Share Location in Messenger On Apple iPhone 11?
 excerpt: This article describes How to Share Location in Messenger On Apple iPhone 11?
 keywords: fake gps location on ios,change location on ios,fake location on iPhone 11,change location on iPhone 11,change location on iphone,change gps location on ios,fake location on ios,fake location on iphone
-thumbnail: https://www.lifewire.com/thmb/6e-dHhpfl-OgzUpZXzufYG-qf-Y=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/movie-night-at-home-with-popcorn_t20_yv3PA9-5c815f7fc9e77c0001fd5b49.jpg
+thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e55514d7bc0ce5bafaca00aee.jpg
 ---
 
 ## How to Share Location in Messenger On Apple iPhone 11?
@@ -28,6 +28,9 @@ In this article, we will delve into the highlights and benefits of Facebook Mess
 
 Facebook is well aware that sharing location details is essential to its users. That’s why developers have come up with a brilliant idea and rolled out Live Location on Messenger. It basically works like other location-sharing features. However, Live Location provides more precise and thorough location information. It’s in map form, where you can view the exact location and track the movements of the sender. You’ll continue to see updates for as long as the sharing is not halted on the other end. To navigate it properly, try to read tutorials on how to share Live Location on Messenger.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![facebook messenger live location](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-1.jpg)
 
 What if you wish to send a particular address from another location? There is no problem with that. Messenger allows users to search for a specific place, trace it on the map, and share the details. The receiver can view it in map form and get directions if necessary. See? It’s very easy and convenient. No need to type in long addresses just to share a particular location with your friend. You just have to find it precisely on the map and send the information afterward.
@@ -45,20 +48,36 @@ Facebook Messenger’s location-sharing feature will not work without the necess
 
 - **Step 3:** Find and click **Messenger.**
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![messenger settings](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-3.jpg)
 
 - **Step 4:** Click **Permissions.**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![messenger permission settings](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-4.jpg)
 
 - **Step 5:** Click **Location.**
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![location permission on messenger](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-5.jpg)
 
 - **Step 6:** Select **Allow Only While Using the App.** If you’re quite conservative regarding this matter, click **Ask Every Time** instead. After that, Facebook Messenger will have access to your location information.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![allow messenger access](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2. How to Share My Location on Messenger?
 
 How do I share my location on Messenger? As mentioned earlier, it’s very easy to use Facebook Messenger for location sharing. All it takes is just a few clicks on the platform. No need to manually type in the address or sketch the landmarks. Messenger does the rest of the work for you. In actuality, there are three ways to share your location on Messenger. Any of them can be of great help to you, depending on your current situation. Do you want to try them now? Check out the tutorials below.
@@ -71,6 +90,9 @@ How to share my location on Messenger? Well, the first option you can try is thr
 - **Step 2:** Browse through your conversation feed and find the contact with whom you wish to share your Live Location. Click on it.
 - **Step 3:** Click the **More (+)** icon at the bottom-left corner of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![more button messenger](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-7.jpg)
 
 - **Step 4:** Right after, click **Location.**
@@ -81,6 +103,9 @@ How to share my location on Messenger? Well, the first option you can try is thr
 
 ![share live location on messenger](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2: Share location on Facebook Messenger via Pinned Location
 
 Let’s say there is a specific place you want to visit with your friend. Is there a way to share the address of the venue without you being there at the moment? Fortunately, it is possible. Apart from sharing your current location in real-time via Live Location, you can also send pinned locations on Messenger. You just need to search for it and then redirect the details to your friend. Yes. It’s just as simple as that. Do you want to try it on your smartphone? If so, follow the guide below.
@@ -102,19 +127,31 @@ How do I share my location in Messenger if I cannot find it on the map provided?
 - **Step 1:** Launch the **Google Maps** application on your mobile device.
 - **Step 2:** Click on the **Search** bar at the top and then type in the location.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![google maps search bar](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-11.jpg)
 
 - **Step 3:** Choose one from the suggestions and then tap on it. Make sure that it is exactly what you’re looking for.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![location choices](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-12.jpg)
 
 - **Step 4:** Access the menu bar below the map and then click **Share.**
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![share google maps location](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-13.jpg)
 
 - **Step 5:** From there, click **Chats** or the **Facebook Messenger** logo.
 - **Step 6:** Find the receiver from the provided list and then click the **Send** button next to its name.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![send google maps location](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-14.jpg)
 
 **NOTE:** Of course, you can only send pinned locations via Google Maps. The Facebook Messenger’s Live Location is available within the platform only.
@@ -134,6 +171,9 @@ There’s no denying that the location-sharing feature of Facebook Messenger is 
 
 - **Step 5:** Head over to the top-left corner and enter your desired location into the search bar. Choose one from the suggested results. After that, click the **Enter** icon.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![search preferred location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 - **Step 6:** The details regarding your chosen location will be displayed on the computer screen. Review the information and make sure that it is the specific location you’re looking for. Once confirmed, click **Move Here** to proceed.
@@ -142,10 +182,16 @@ There’s no denying that the location-sharing feature of Facebook Messenger is 
 
 - **Step 7:** Immediately, the location settings on your smartphone will be changed according to the inputs you have provided to Wondershare Dr.Fone. You can verify it by checking the current location registered on your Maps app. After confirming that your mobile device is now showing a different location, you can now start browsing without worrying about your location’s privacy.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![location changed on smartphone](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
 **NOTE:** Resort to Wondershare Dr.Fone - Virtual Location if your internet browsing does not require you to provide your real address. If you wish to restore your original location settings, simply close the Wondershare Dr.Fone application and restart your smartphone.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Gone are the days when you had to write invitation cards manually and deliver them one by one. Nowadays, all you need to do is go online and use Messenger’s location-sharing feature. Have you already tried it? If not, you should take it into consideration and use it on your next agenda. Refer to the tutorial above on how to share Live Location on Messenger. It can certainly help you get started. How do I share my location on Messenger without physically being there? That’s simple. Use Messenger or Google Maps’s pinned location. Furthermore, download [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) on your computer. Its Virtual Location feature, capable of modifying your location settings, can provide protection for your privacy. Just connect your Apple iPhone 11 to the computer and set it up from there.
@@ -192,6 +238,9 @@ Also, there are many other AR games, including Ingress Prime, Harry Potter: Wiza
 
 ### 2.2 For Dating Apps
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![mock location for dating apps](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-2.jpg)
 
 In addition to AR-based games, you can also spoof dating apps like Tinder and Grindr Xtra. It is because using the fake location for dating apps will allow you to see profiles of people from outside your city or country. This is how you can have more options to search for your partner online.
@@ -220,16 +269,25 @@ Most of the latest android phones come with the inbuilt mock location feature. T
 
 **Step 4:** Tap on the newly added developer option and toggle on its field.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![add developer option and toggle](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-6.jpg)
 
 **Step 5:** In the list of developer options, locate the “Allow Mock Locations” feature, and enable it.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 3.2 How To Change Your Mobile Location By Working With A Spoofer App?
 
 After enable “allow mock location” on an android mobile phone, you will need to install a location spoofing app like Fake GPS. Also, there are many other free fake GPS apps that you can download from Google Play Store in your Phone.
 
 **Step 1:** Go to Play Store and search for a spoofing app on the search bar.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![go to play store and search](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-7.jpg)
 
 **Step 2:** From the list, you can download any free or paid spoofing apps on your device. Some other free apps are Fake GPS and GPS Emulator.
@@ -238,6 +296,9 @@ After enable “allow mock location” on an android mobile phone, you will need
 
 **Step 4:** Now, go to your device’s Settings > Developer Options and make sure that the allow mock location feature is enabled.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![enable allow mock location](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-8.jpg)
 
 **Step 5:** Under developer options, you will see the “Mock Location App” field and tap on it to get a list installed GPS spoofing apps. Select the Fake GPS app from the list to set it the default mock location apk.
@@ -274,14 +335,26 @@ Now you are ready to spoof iPhone without compromising the privacy of the Phone.
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: Mock Location Feature On Different Android Models
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### Mock Location on Samsung and Motto
 
 In Samsung and Motto device, the mock location feature is available under the “Debugging” section of Developer Options.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![mock location on Samsung and motto](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-13.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Allow mock location on LG
 
 Smartphones from LG have a dedicated “Allow Mock Locations” feature that you can easily access by enabling Developer Options.
@@ -290,12 +363,18 @@ Smartphones from LG have a dedicated “Allow Mock Locations” feature that you
 
 Most of the Xiaomi devices have MIUI numbers instead of Build Number. So, to enable the developer option, you will need to tap on MIUI under Settings > About Phone. After this, you will see “ allow mock location apk.”
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![mock location on LG](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-14.png)
 
 ### Huawei
 
 In Huawei devices, there is the EMUI, for this, go to Settings > Software Information and tap on EMUI to turn on Developer Options.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 We hope that after reading the above article, you would be able to allow mock locations apk on different android devices. Also, you can fake GPS on iOS with the help of [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) app. This will help you spoof many dating apps and gaming apps.
@@ -306,6 +385,9 @@ We hope that after reading the above article, you would be able to allow mock lo
 
 There is no doubt that Find My Friends is an excellent application for location tracking. It allows users to track the location of their friends and family members through a variety of devices. So, when Find My Friends says the location is not available, it can be a frustrating situation. But don't stress over this because we are here to assist you in Find My Friends not working. Go through this guide, and you'll know what to do to take care of the problem.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![find my friends location not available](https://images.wondershare.com/drfone/article/2023/05/find-my-friends-location-not-available.jpg)
 
 ## Part 1: What Does "Location Not Available" Mean on Find My Friends?
@@ -324,6 +406,10 @@ Not! This message does not necessarily mean that you have blocked yourself or th
 
 In summary, "No Location Found" means the app could not locate the Apple iPhone 11 device, while "Location Not Available" means that the Apple iPhone 11 device is not currently sharing its location.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Part 2: Possible Reasons For Find My Friends Location Apple iPhone 11  Not Available
 
 Why does Find My Friends say location not available? Before we get to the solutions, let's explore the possible reasons behind this problem. It is apparent that when the location is not found on Find My Friends, there is an underlying problem. Here are the possible reasons that could cause this error:
@@ -337,6 +423,9 @@ Why does Find My Friends say location not available? Before we get to the soluti
 
 All these reasons can be the ones causing trouble on your Apple iPhone 11  and Android phones. Hence, you will have to look for some conventional methods to fix the unavailable location error.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: 8 Tips To Make "Find My Friends Location" Available
 
 When the Find My Friends app location is not available, here are some more tips that can help get rid of this issue.
@@ -345,24 +434,45 @@ When the Find My Friends app location is not available, here are some more tips 
 
 The foremost thing you should do when the Find My Friends location is not available is to check the region/country's location. Apple Inc still hasn't provided the Find My Friends feature in all countries and regions due to local laws and technical issues. So, the most plausible reason for the app not working properly is solely because it is not available in that particular country/region.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ### Tip 2: Quit and enable GPS or Location Services again
 
 After verifying that the feature is available in your region, enable the GPS & Location Services. In case you've already enabled the feature, turn it off, quit the app, and again enable the service. It might fix the location not found on the Find My Friends issue you've been facing. Just open Settings > Privacy & Security > Location Services and toggle the bar to turn the feature on or off.
 
 ![enable location services](https://www.virtuallocation.com/images/pokemon-go/enable-location-services.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ### Tip 3: Adjust Apple iPhone 11  Date and Time
 
 As we stated in the possible reasons, incorrect dates and times also result in this problem. If you have manually set the date and time, change the settings and set it to "Set Automatically" in General Settings. Hopefully, this will resolve the problem when the Find My Friends location is not available.
 
 ![adjust date and time](https://www.virtuallocation.com/images/pokemon-go/adjust-date-and-time.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ### Tip 4: Check the Internet
 
 Before you conclude that there is something wrong with the Find My Friends app, check your internet connection. There is a chance that location is not available on the Apple iPhone 11  because your device doesn't have internet access. Try opening Settings > Mobile Data/Wi-Fi and turning it on and off. Alongside, make sure that you have signal strength, whether you are connecting to cellular data or a Wi-Fi network.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![check internet connection](https://www.virtuallocation.com/images/pokemon-go/check-internet-connection.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ### Tip 5: Enable Share My Location
 
 Another tip to try out when your friend's location is not available is to make certain that you've enabled [Share My Location](https://drfone.wondershare.com/fake-location/how-to-share-location-on-messenger.html) feature. To do this, follow the steps given below:
@@ -383,6 +493,9 @@ The next tip to use when Find My Friends says location not available is restarti
 
 Drag the Power slider to the right side and wait for the Apple iPhone 11 device to shut down. Wait for a minute before you restart the Apple iPhone 11 device, and hopefully, the feature will start working again as usual.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Tip 7: Check That Your Friend Has Signed into Find My Friends
 
 Another tip that can help you resolve to **Find My Friends location not available** is checking that your friend has signed into the app. It is apparent that if your friend hasn't logged into the feature, you won't access his/her location.
@@ -405,6 +518,9 @@ To use Dr.Fone - Virtual Location, here are the steps you need to follow:
 
 **Step 1:** Download the virtual location app for both iOS and Android and install it on your system carefully. Then, launch the app and select the "Virtual Location" option from the toolkit.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2:** The next step is to set up the phone's connection. Connect your Apple iPhone 11  and click on the "Get Started" button. Now, detect your current virtual location by clicking on the "Current Virtual Location" icon.
@@ -451,6 +567,9 @@ Taking these precautions can help safeguard your phone's location and enhance yo
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer for both iOS and Android
@@ -484,3 +603,63 @@ Hopefully, now you know "why is find my friends not working" and several ways to
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-discover-the-art-of-youtube-playlist-shuffling/"><u>[New] 2024 Approved  Discover the Art of YouTube Playlist Shuffling</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mac-video-excellence-the-creme-de-la-liste-for-sierra-users/"><u>[New] Mac Video Excellence  The Crème De La Liste for Sierra Users</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-ultimate-guide-to-refining-your-youtube-videos-after-publishing/"><u>[New] The Ultimate Guide to Refining Your YouTube Videos After Publishing</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-excellent-ears-in-scholarly-spaces/"><u>[Updated] 2024 Approved  Excellent Ears in Scholarly Spaces</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-pro-free-ending-makers-ranked-1-6/"><u>[Updated] 2024 Approved  Pro-FREE Ending Makers - Ranked 1-6</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-distort-text-in-photographyvideo/"><u>[Updated] How to Distort Text in Photography/Video</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-streamlining-call-logs-the-4-step-guide-for-fb-calls/"><u>[Updated] In 2024, Streamlining Call Logs  The 4-Step Guide for FB Calls</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-the-virality-vortex-mastering-content-circulation-on-social-media/"><u>[Updated] In 2024, The Virality Vortex  Mastering Content Circulation on Social Media</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-shield-against-random-youtube-video-plays/"><u>[Updated] Shield Against Random YouTube Video Plays</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-best-of-free-and-paid-8-ranked-android-videomosaic-apps-explored/"><u>2024 Approved  The Best of Free & Paid  #8 Ranked Android Videomosaic Apps Explored</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/advanced-photo-editing-canvas-backdrop-eradication/"><u>Advanced Photo Editing  Canvas Backdrop Eradication</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-nokia-c12-plus-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Nokia C12 Plus is off? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-vivo-y55s-5g-2023-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Vivo Y55s 5G (2023) is off? | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/celestial-streams-highlighted-stars-and-feedback/"><u>Celestial Streams: Highlighted Stars & Feedback</u></a></li>
+<li><a href="https://win11.techidaily.com/champion-windows-options-for-true-nintendo-switch-experience/"><u>Champion Windows Options for True Nintendo Switch Experience</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/crafting-viral-content-on-tiktok-a-route-to-more-likes-and-watches/"><u>Crafting Viral Content on TikTok  A Route to More Likes & Watches</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Realme 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/earnwhileengage-top-5-revenue-generating-strategies-for-social-media/"><u>EarnwhileEngage: Top 5 Revenue-Generating Strategies for Social Media</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/game-changing-tips-master-the-art-of-minecraft-capture-on-a-mac-for-2024/"><u>Game-Changing Tips  Master the Art of Minecraft Capture on a Mac for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>How can I get more stardust in pokemon go On Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>How to Change Spotify Location After Moving to Another Country On Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Honor Play 7T? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Infinix GT 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Samsung Galaxy A15 5G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Tecno Spark 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-samsung-galaxy-s24plus-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Samsung Galaxy S24+ Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Tecno Spark Go (2023)? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Nokia C02? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-xiaomi-redmi-12-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Xiaomi Redmi 12 online without jailbreak</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-vivo-y36-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Vivo Y36 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-essential-tips-for-high-quality-ipad-screenshots/"><u>In 2024, Essential Tips for High-Quality iPad Screenshots</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-xiaomi-14-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Xiaomi 14 Phones? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-imessage-troubleshooting-fixing-undelivered-message-issues/"><u>IPhone iMessage Troubleshooting: Fixing Undelivered Message Issues</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Realme GT 3? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-the-apex-of-general-knowledge-trivia-channels-in-24-for-2024/"><u>Navigating the Apex of General Knowledge Trivia Channels in '24 for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-honor-x8b-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Honor X8b and Browser | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/script-extraordinary-showcase/"><u>Script Extraordinary Showcase</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Xiaomi 13 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-best-12-sports-streaming-sites-free-and-paid-for-2024/"><u>Updated Best 12 Sports Streaming Sites (Free & Paid) for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/visual-extremes-enhancer-top-video-quality/"><u>Visual Extremes Enhancer  Top Video Quality</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On OnePlus Nord 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>Will iSpoofer update On Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Vivo Y200 | Dr.fone</u></a></li>
+</ul></div>

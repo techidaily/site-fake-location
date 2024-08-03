@@ -1,7 +1,7 @@
 ---
 title: How To Fake GPS On Sony Xperia 1 V For Mobile Legends? | Dr.fone
-date: 2024-03-21 17:14:24
-updated: 2024-03-24 14:59:56
+date: 2024-08-01T23:04:10.308Z
+updated: 2024-08-02T23:04:10.308Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Fake GPS On Sony Xperia 1 V For Mobile Legends?
 excerpt: This article describes How To Fake GPS On Sony Xperia 1 V For Mobile Legends?
 keywords: fake location on Xperia 1 V,change location on android,change location on Xperia 1 V,change gps location on android,fake gps location on android,fake location on android
-thumbnail: https://www.lifewire.com/thmb/xgo6tGI-HONOfys81EHMpcUqTKU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-970157966-65f3dd434f3e4dc98e28a635b8cacc87.jpg
+thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325d71d7edbcfdaf185bcde8ae.jpg
 ---
 
 ## How To Fake GPS On Sony Xperia 1 V For Mobile Legends?
@@ -45,6 +45,9 @@ Some countries have very few players of ML. So, if you shift your location to th
 - Greece
 - Vietnamese
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ## Part 2: How to Change GPS in ML on iOS Devices
 
 Wondershare Dr.Fone has always amazed us with its incredible tools and features, one of which is Dr.Fone - Virtual Location. Dr.Fone - Virtual Location comes in handy if you're playing Mobile League on an iOS device because it hides your current location. It will also allow you to change your location virtually, allowing you to be in any location without jailbreaking.
@@ -67,6 +70,9 @@ After downloading and launching Dr.Fone, click "Virtual Location" among all the 
 
 You will be able to find your actual location on the map as soon as the new window opens. If your location is misplaced, click on the "Center On" icon in the lower right part of the screen. This will show your actual location.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![confirm your real location](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 #### Step 3: Activate the Teleport Mode
@@ -79,10 +85,16 @@ Next, you will have to activate the "Teleport Mode" by clicking on its icon. Aft
 
 The location has changed now; you can check it by clicking "Center On." The same location will be on your Mobile Legends game. Now, open your game and play it in your desired location with your friends and other people.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![check your fake location](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer for both iOS and Android
@@ -113,6 +125,9 @@ Hola is a VPN service that is considered one of the best on the market, which pr
 
 Hola **Fake GPS Mobile Legends** VPN Service is only available across Samsung Galaxy Store and Huawei App Gallery. Hola allows you to use apps that you couldn't use before due for any reason on your Huawei/Samsung device. Through the Hola browser, you can access any website. Furthermore, it has no geographical limitations to use Hola VPN on Huawei/Samsung from anywhere in the world.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![hola vpn service](https://images.wondershare.com/drfone/article/2022/04/fake-gps-mobile-legends-7.jpg)
 
 ## Part 4: A Comparison of the 3 Fake GPS Methods
@@ -125,14 +140,23 @@ This article has discussed the Mobile Legends game and how you can **fake GPS Mo
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ## Prevent Cross-Site Tracking on Sony Xperia 1 V and Browser
 
 Have you ever wondered why you get the advertisements of the websites you visited a few minutes ago on your social media sites? Here comes to Cross-Site Tracking, also termed CST, and it is a process where third-party cookies and sites track your browser history.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![cross site tracking](https://images.wondershare.com/drfone/article/2022/03/cross-site-tracking.jpg)
 
 The CST process is like invading your privacy by collecting your browser history and personal information. So, to prevent these services, there are several ways by which you can cross-site tracking on your system as well as Sony Xperia 1 V phone browsers. Keep reading to learn **how to stop cross-site tracking on both Sony Xperia 1 V and browser.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## Part 1: Why Do We Need to Stop Cross-site Tracking?
 
 Cross-site Tracking is all about collecting your browsing data and other information for advertising purposes. Though the process can prove convenient for many as it provides additional information about the products and services you have searched for and offers tailor-made content, it is intrusive and about breaching your privacy.
@@ -145,6 +169,9 @@ So, it is always better to prevent cross-site tracking for all the above and mor
 
 _Further reading: [A detailed guide on faking location in Mozilla Firefox](https://drfone.wondershare.com/fake-location/how-to-fake-your-location-in-firefox-browser.html). Don't worry about your location privacy anymore!_
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Can Private Browsing be traced?
 
 Yes, private browsing can be traced. When you work in private browsing mode, the web browser does not save the browsing history, which means that anyone who uses your system will not check your online activities. But websites and cookies can track your browsing history as well as other information.
@@ -157,16 +184,25 @@ Safari is the most commonly used platform by iOS users. So, to prevent CST for S
 
 Safari cross-site tracking can be prevented using the below steps on your iPhone and iPad.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ![prevent cross-site tracking on iPhone](https://images.wondershare.com/drfone/article/2022/03/prevent-cst-iphone-ipad.jpg)
 
 - Step 1. Launch the Settings app on your iOS device.
 - Step 2. Find the Safari option by scrolling down the menu.
 - Step 3. Move the slider to turn on “Prevent Cross-Site Tracking” under the PRIVACY & SECURITY option.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Deactivate Safari cross-website tracking for Mac
 
 Use the steps below to **turn off cross-site tracking on Safari** on your Mac systems.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![stop cross-site tracking on mac](https://images.wondershare.com/drfone/article/2022/03/prevent-cst-mac.jpg)
 
 - Step 1. On your Mac system, open the Safari app.
@@ -177,6 +213,9 @@ Use the steps below to **turn off cross-site tracking on Safari** on your Mac sy
 
 Chrome is used widely on Windows systems and Android devices, and to prevent the CST from your browser, a detailed guide is given below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ### Enable “Do Not Track” on Google Chrome for Android
 
 - Step 1. On your Sony Xperia 1 V, open the Chrome app.
@@ -186,14 +225,32 @@ Chrome is used widely on Windows systems and Android devices, and to prevent the
 
 ![stop cross-site tracking on android](https://images.wondershare.com/drfone/article/2022/03/prevent-cst-android.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Enable “Do Not Track” on Google Chrome for Computer
 
 - Step 1. Launch Chrome on your system, and from the menu at the upper-right corner, click on the Settings option.
 - Step 2. From the “Privacy and Security” tab, choose the “Cookies and other site data” option.
 - Step 3. Tap and enable the slider next to “Send a “Do not track” request with your browsing traffic.”
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![prevent -cross-site-tracking on chrome computer](https://images.wondershare.com/drfone/article/2022/03/prevent-cst-computer-chrome.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5: Recommended Solution: Fake a Location to Stop Cross-Site Location Tracking Using Dr. Fone
 
 What if you let the sites and cookies track your phone location without worrying about your privacy? Yes, it can be done by spoofing your location. So, if you set a fake location while browsing the internet, you will not have to worry about cross-site tracking, as anyways, the sites and cookies will get misled browsing information that cannot harm you in any manner.
@@ -212,12 +269,18 @@ Here is a video tutorial for you to take an overview of how to use Dr.Fone - Vir
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
 
 **Steps to set fake location on your Android and iOS devices using DrFone-Virtual Location**
 
 **Step 1**. Download, install and launch the software on your Windows or Mac systems. On the main software interface, choose the **Virtual Location option**.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ![home page](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2**. Connect your iPhone or Android device to your system using a USB cable and then tap on the **Get Started** option on your software interface.
@@ -232,6 +295,9 @@ Here is a video tutorial for you to take an overview of how to use Dr.Fone - Vir
 
 **Step 5**. Next, you have to **enter now the fake location** to which you wish to teleport to at the upper-left corner. Click on **Go**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![search a location on virtual location and go](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 **Step 6**. Finally, tap on the **Move Here** button and the new fake location for your connected Android or iOS device at the pop-up box.
@@ -240,12 +306,21 @@ Here is a video tutorial for you to take an overview of how to use Dr.Fone - Vir
 
 Check the new location of your phone from the app.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![changing location completed](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Wrap it up
 
 Preventing Cross-site tracking can be done on different browsers and devices using the guides listed in the above parts of the article. Settings a fake location for your device using Dr. Fone-Virtual Location is another interesting way to prevent tracking your browsing history by spoofing the sites and cookies. Setting a fake place will not only avoid monitoring your browsing history but will also work with all location-based apps on your phone.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
 
 ## 8 Solutions to Fix 'Find My Friends Location Not Available' On Sony Xperia 1 V
@@ -270,6 +345,10 @@ Not! This message does not necessarily mean that you have blocked yourself or th
 
 In summary, "No Location Found" means the app could not locate the Sony Xperia 1 V device, while "Location Not Available" means that the Sony Xperia 1 V device is not currently sharing its location.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Part 2: Possible Reasons For Find My Friends Location Sony Xperia 1 V  Not Available
 
 Why does Find My Friends say location not available? Before we get to the solutions, let's explore the possible reasons behind this problem. It is apparent that when the location is not found on Find My Friends, there is an underlying problem. Here are the possible reasons that could cause this error:
@@ -291,10 +370,16 @@ When the Find My Friends app location is not available, here are some more tips 
 
 The foremost thing you should do when the Find My Friends location is not available is to check the region/country's location. Apple Inc still hasn't provided the Find My Friends feature in all countries and regions due to local laws and technical issues. So, the most plausible reason for the app not working properly is solely because it is not available in that particular country/region.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Tip 2: Quit and enable GPS or Location Services again
 
 After verifying that the feature is available in your region, enable the GPS & Location Services. In case you've already enabled the feature, turn it off, quit the app, and again enable the service. It might fix the location not found on the Find My Friends issue you've been facing. Just open Settings > Privacy & Security > Location Services and toggle the bar to turn the feature on or off.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![enable location services](https://www.virtuallocation.com/images/pokemon-go/enable-location-services.jpg)
 
 ### Tip 3: Adjust Sony Xperia 1 V  Date and Time
@@ -303,6 +388,10 @@ As we stated in the possible reasons, incorrect dates and times also result in t
 
 ![adjust date and time](https://www.virtuallocation.com/images/pokemon-go/adjust-date-and-time.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ### Tip 4: Check the Internet
 
 Before you conclude that there is something wrong with the Find My Friends app, check your internet connection. There is a chance that location is not available on the Sony Xperia 1 V  because your device doesn't have internet access. Try opening Settings > Mobile Data/Wi-Fi and turning it on and off. Alongside, make sure that you have signal strength, whether you are connecting to cellular data or a Wi-Fi network.
@@ -321,6 +410,9 @@ Toggle on the option to enable it. Once the feature is enabled, your friends wil
 
 For Android users, go to "Settings" > "Additional settings" > "Privacy" > "Location", and choose the location mode to enable it.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Tip 6: Restart the Sony Xperia 1 V  or Android Phones
 
 The next tip to use when Find My Friends says location not available is restarting your phone. For most devices, the method is common. But for Sony Xperia 1 V  X and 11, the steps are slightly different. For other Sony Xperia 1 V  models, press the Power button and wait until the slider appears. For Sony Xperia 1 V  X and 11/12/13/14, you'll have to hold the Volume button and the Power button together to make the slider appear on the screen.
@@ -351,10 +443,16 @@ To use Dr.Fone - Virtual Location, here are the steps you need to follow:
 
 **Step 1:** Download the virtual location app for both iOS and Android and install it on your system carefully. Then, launch the app and select the "Virtual Location" option from the toolkit.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2:** The next step is to set up the phone's connection. Connect your Sony Xperia 1 V  and click on the "Get Started" button. Now, detect your current virtual location by clicking on the "Current Virtual Location" icon.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![detect actual location](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 **Step 3:** Now go to the search box and type the location you want to switch to. Once the location gets detected, click on the "Move Here" option, and the location of your Sony Xperia 1 V  or Android phone will change to the one you specified.
@@ -363,6 +461,9 @@ To use Dr.Fone - Virtual Location, here are the steps you need to follow:
 
 As you can see, when you have Dr.Fone - Virtual Location software, you can share any location with just one click. And it would seem that your Find My Friends app is working fine.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ## FAQs You May Want to Know about Sony Xperia 1 V  Location
 
 **1\. Is there a way to check if someone has stopped sharing their location with you on their Sony Xperia 1 V ?**
@@ -428,3 +529,47 @@ Hopefully, now you know "why is find my friends not working" and several ways to
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-essential-photo-and-film-capture-apps-iphone-and-android-edition-for-2024/"><u>[New] Essential Photo & Film Capture Apps  IPhone & Android Edition for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-unlocking-the-potential-of-harmonics-in-your-facebook-videos/"><u>[New] Unlocking the Potential of Harmonics in Your Facebook Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-a-beginners-pathway-for-live-streaming-pre-recorded-content/"><u>[Updated] 2024 Approved  A Beginner's Pathway for Live Streaming Pre-Recorded Content</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-crafting-visual-harmony-with-bokeh-techniques-in-storytelling-for-2024/"><u>[Updated] Crafting Visual Harmony with Bokeh Techniques in Storytelling for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-combine-videos-into-one-on-iphone/"><u>[Updated] How to Combine Videos Into One on iPhone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-conversion-handbook-from-gif-to-sticker-across-messaging-services/"><u>[Updated] The Ultimate Conversion Handbook  From GIF to Sticker Across Messaging Services</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unveil-the-leading-10-hidden-story-viewers/"><u>[Updated] Unveil the Leading 10 Hidden Story Viewers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-integrating-zoom-and-skype-the-ultimate-guide-to-efficient-video-calls/"><u>2024 Approved  Integrating Zoom and Skype  The Ultimate Guide to Efficient Video Calls</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/a-step-by-step-journey-to-pc-live-streams-master-tiktok-live/"><u>A Step-By-Step Journey to PC Live Streams – Master TikTok LIVE</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Oppo Reno 10 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-google-pixel-fold-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Google Pixel Fold is off? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/decoding-top-podcasts-the-ultimate-22-rankings-revealed/"><u>Decoding Top Podcasts - The Ultimate '22 Rankings Revealed</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Motorola Moto G23? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>Fake the Location to Get Around the MLB Blackouts on Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/from-ingredients-to-inspiration-cooking-videos-for-2024/"><u>From Ingredients to Inspiration  Cooking Videos for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-nubia-red-magic-8s-pro-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Nubia Red Magic 8S Pro Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-poco-c65-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Poco C65 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-infinix-smart-8-pro-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Infinix Smart 8 Pro by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-apple-iphone-xs-max-fix-now-drfone-by-drfone-virtual-ios/"><u>In 2024, 3uTools Virtual Location Not Working On Apple iPhone XS Max? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo T2 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-you-when-your-lava-yuva-2-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Lava Yuva 2 is off? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-you-when-your-oneplus-11-5g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your OnePlus 11 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-implementing-soft-decline-in-logic-pro-audio/"><u>In 2024, Implementing Soft Decline in Logic Pro Audio</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-tecno-camon-20-premier-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Tecno Camon 20 Premier 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/key-6-social-media-outlets-for-corporate-growth-for-2024/"><u>Key 6 Social Media Outlets for Corporate Growth for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/kinemasters-expert-strategies-for-video-transitions-for-2024/"><u>Kinemaster's Expert Strategies for Video Transitions for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-guide-to-using-luts-perfectly-in-final-cut-pro-for-2024/"><u>New Guide To Using Luts Perfectly in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Oppo A79 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-motorola-defy-2-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Motorola Defy 2 ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/ultimate-collection-of-8-gratis-high-end-3d-player-apps/"><u>Ultimate Collection of 8 Gratis, High-End 3D Player Apps</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-printer-software-installation-kit-epson-model-2650/"><u>Windows Printer Software Installation Kit - Epson Model 2650</u></a></li>
+</ul></div>

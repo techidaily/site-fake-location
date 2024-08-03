@@ -1,7 +1,7 @@
 ---
 title: Can Life360 Track You When Your Honor 100 is off? | Dr.fone
-date: 2024-03-22 19:33:22
-updated: 2024-03-24 13:44:10
+date: 2024-08-02T00:41:14.283Z
+updated: 2024-08-03T00:41:14.283Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,11 +11,14 @@ categories:
 description: This article describes Can Life360 Track You When Your Honor 100 is off?
 excerpt: This article describes Can Life360 Track You When Your Honor 100 is off?
 keywords: change location on android,fake location on 100,fake location on android,fake gps location on android,change gps location on android,change location on 100
-thumbnail: https://www.lifewire.com/thmb/x5hFLtVYVUkR-_nqhbxS_f11j5E=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/netgear-default-password-list-2619154-b581fdcf136848d29e944638cd2ad444.png
+thumbnail: https://thmb.techidaily.com/3b3d53f3a3456319783aa99ca770516fad2e58dbe2bd45f2ec6f3eb305fb3d58.png
 ---
 
 ## Can Life360 Track You When Your Honor 100 is off?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 [![avatar](https://drfone.wondershare.com/images/james-davis.png)](https://drfone.wondershare.com/author/james-davis/)
 
 Did you know that your Honor 100 tracks your location even when turned off? And if you're a member of any social media network, it means you could be tracked. Do you like to have your privacy? Do you want to protect your kids from being tracked by strangers?
@@ -58,6 +61,9 @@ Disabling Life360's Wi-Fi and Data may result in a warning to parents that their
 
 Alternatively, you should disable background app refresh, mobile network, physical activity, and WIFI to save battery life. An issue with your Internet connection will come up instead of location stopped in this situation. So don't connect to any Wi-Fi at all.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Fake Locations
 
 Using location spoofing applications on an Android smartphone, your kids can fool you into thinking they're somewhere else. [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) is a location spoofing application that will trick you into thinking that you are in a different location than you really are. The GPS position of the Honor 100 device will be updated to reflect the new place that you have chosen thanks to the software. It is worth noting that Dr. Fone - Virtual Location for iOS may also enable you to imitate GPS movement.
@@ -80,6 +86,9 @@ Use a wired connection. Adolescents can turn off Wi-Fi and data when using the L
 
 All these methods can be used to Stop Life360 from Tracking You. However, the best all-in-one solution is a third-party application called Dr.Fone. This Virtual Location Software helps you keep your tracking off, but you can also fake your location very easily in minutes.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ### Conclusion
 
 Can you track a phone if the location is off? Life360 has become a standard feature of many smartphones. Parents often use it to monitor their children's location. The fact that Life360 can be used to track users is quite disturbing. The good news is that there are ways to stop Life360 from tracking you. The best and all-in-one solution is a third-party application called [Dr.Fone - Virtual Location](https://drfone.wondershare.com/drfone-toolkit.html).
@@ -90,6 +99,9 @@ Can you track a phone if the location is off? Life360 has become a standard feat
 
 In the present day, there’s barely any webpage or app that may not require your Geological location. This has been a major strategy of the site/app owners to push only the content that is relevant to your needs or may interest you. Therefore, every other webpage or app first fetches your Geological location and then behave accordingly.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Geological location access](https://images.wondershare.com/drfone/article/2019/09/vpna-fake-gps-location-free-1.jpg)
 
 For instance, there are several apps that only work in the US and not outside of it. But there is workaround for it too. You can actually make the app “think” that your Geological location is somewhere in US currently, instead of where you actually are. You can achieve this with a powerful vpna fake gps location apk. You may now wonder, hot to set it up and make use of it. So, without much delay, let’s now understand step by step tutorial on vpna fake gps location.
@@ -107,12 +119,19 @@ Here are some of the main highlights of the VPNa fake gps location apk:
 - Extremely user friendly app. Simply, look up for the desired fake location and hit Start.
 - What’s more? Well, you can even save locations to make use of them later like a one click thing.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2. Where to Download VPNa?
 
 When it comes to downloading VPNa, the process is a breeze as far as Android users are concerned. The app is available on the [Google Play Store](https://play.google.com/store/apps/details?id=com.xdoapp.virtualphonenavigation&hl=en&gl=US), and all the Android users need to do is search it and download it. Moreover, it lies on the lighter end when it comes to app size, meaning users don't need to have large free space.
 
 For iOS users, however, this app no longer exists. The app has discontinued its support for iOS devices and is no longer available on the Apps Store. However, there is no need to be disappointed as many better and well-reputed alternatives exist. Read the article till the end to discover the best location spoofer for iOS devices.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Part 3. Must-reads before using VPNa
 
 Here in this section, we’re going to critically determine both the goods and bad of the vpna fake gps location apk. Let’s explore!
@@ -131,6 +150,9 @@ Cons of VPNa
 - Moreover, even if the newer version of the app does spoof the geological location properly. It is just not able to maintain it any longer than a few seconds. Implies, your spoofed location returns back to your actual location after a few seconds.
 - You may get banned or suspended by some games or apps for spoofing your location. Making use of this app isn’t advised at all.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4. How to set up VPNa on your Android to fake GPS
 
 Ah! There we are. After acquiring all this valuable information, we’re now finally proceeding to learning about the step by step process on setting up and activating the vpna fake gps location free apk. Here’s all that you need to do on your Honor 100 to fake GPS.
@@ -158,6 +180,9 @@ Step 3: Search for a fake location and get started
 
 - As soon as the fundamentals are set in place, you’re all ready to get started. Simply, hit the back button while on Developer Settings screen to get back into the vpna fake gps location app.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![vpna fake gps location app](https://images.wondershare.com/drfone/article/2019/09/vpna-fake-gps-location-free-3.jpg)
 
 - Next, “Search” for the desired location using the search icon over the top. Lastly, push “Start/Power” button to activate the fake GPS location.
@@ -166,14 +191,24 @@ Step 3: Search for a fake location and get started
 
 ![location marker](https://images.wondershare.com/drfone/article/2019/09/vpna-fake-gps-location-free-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5. Example where VPNa does work
 
 By faking GPS location with VPNa app, you can access desired content by bypass the Geo-restrictions. There are several instances where VPNa is successful solution for your GPS spoofing requirements. For instance, by spoofing location with VPNa you certainly:
 
 Can catch Pokemons of different variants in the Pokemon Go game. Without having to travel to several places.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![Example of functioning VPNa](https://images.wondershare.com/drfone/article/2019/09/vpna-fake-gps-location-free-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ## Part 6: VPNa iOS version discontinued? How to fake GPS on iPhone?
 
 Knowing that VPNa fake GPS location app no longer supports iOS can be a disappointment. However, we are at your rescue if you’re an iOS user. Wondershare has come up with a great tool named as [Dr.Fone – Virtual Location (iOS&Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) that fulfills all your needs regarding faking location. In this section, we will learn about how you can fake location with this tool so that you don’t have to worry about the discontinuation of VPNa fake GPS apk’s iOS version. Here is how:
@@ -188,10 +223,16 @@ Step 1: Download this VPNa fake GPS apk’s alternative on PC and install. Launc
 
 Step 2: Establish connection between iPhone and PC. Click on “Get Started” right after that.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![get started with faking location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 Step 3: You will be able to see the actual location on the map. Or you can hit “Center On” icon at the right side to get the accurate location displayed.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![hit Center On](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 Step 4: Click on the “Teleport mode” which can be found as the first icon at the upper right corner. Put the place to teleport and hit on “Go” button.
@@ -208,6 +249,9 @@ Step 6: You are good to go now. The location will be changed as desired. You wil
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Mode 2: Simulate Movement Between two Places
 
 Step 1: You can choose the “One-stop route” i.e. the third icon in the upper right after launching the program.
@@ -220,10 +264,16 @@ Step 3: Now, you need to set the speed for how fast you wish to travel. You can 
 
 Step 4: In the next pop-up, you are supposed to enter the number defining the number of times you wish to move between the two places. Once this gets done, click “March”.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![move between the two places](https://images.wondershare.com/drfone/guide/virtual-location-09.png)
 
 Step 5: The simulation of the movement will now begin and you can track the position being moved with the selected mode of speed.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![track the position](https://images.wondershare.com/drfone/guide/virtual-location-10.png)
 
 
@@ -234,6 +284,9 @@ Step 1: In this case, select the fourth icon at the upper right side. This icon 
 
 Step 2: Note the pop-up box that now comes. It will make you know how far you are going to travel. Choose the moving speed.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![select the locations one by one](https://images.wondershare.com/drfone/guide/virtual-location-11.png)
 
 Step 3: The next pop-up will ask you to enter the number for how many times you wish to show back and forth movements. Click “Start Moving” once done.
@@ -258,8 +311,19 @@ It is helpful if you are having a hang out plan with your friends. And if you fr
 
 When location sharing is enabled in the Honor 100 device, the map will show the current locations. The [Find My Friends app](https://www.virtuallocation.com/find-my-friends/) also has an inbuilt chat option where you can contact your friend and interact about with them. It also automatically informs you when your friend reaches at the target location, leave a location etc. You can customize and configure the alerts as per your choice.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![Find My Friends app](https://images.wondershare.com/drfone/article/2019/09/find-my-friends-intro.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How it is different in iOS 13
 
 You can find yourself confused if you are using iOS 13 and looking for Find My Friends app. You may not be able to find it on your device running on iOS 13. To your information, Apple has decided to combine the Find My iPhone and Find My Friends app into one. And they have named it as “Find My”. This new named app has everything what Find My Friends and Find My iPhone has. When you’ll open it, you will find the “People” tab on the bottom. Using this, you can get your friends as you used to get before.
@@ -292,6 +356,9 @@ One of the useful ways to learn faking location on Find My Friends is using a pr
 
 From the main page of dr.fone – Virtual Location (iOS), download it. After this, install the tool on your system and then launch it. Now, click on “Virtual Location” option.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![install the tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2: Set up Phone’s Connection**
@@ -304,12 +371,29 @@ Now, take your iPhone and keep it connected with the system. After this is done,
 
 After following the second step, all you need is to look for your actual location. To make this happen, click on the “Center On” icon given at lower right of screen.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![look for your actual location](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 **Step 4: Enable Teleport Mode**
 
 In this step, you should activate the teleport mode. This will be done by clicking the third icon in the upper right of the screen. You can now input the place you want to teleport.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 **Step 5: Fake Find My Friends Location**
@@ -318,6 +402,9 @@ Now, the program will get your location and click on “Move Here” that comes 
 
 ![Fake location on Find My Friends](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ### 3.2 Use a burner iPhone to fake location in Find My Friends
 
 Using a burner can also be a good option to take help of when your goal is to fake GPS on Find My Friends. It is nothing but a secondary device where the Find My Friends app can be downloaded and used it to swindle the people you want. This will allow you to keep more privacy as no one will be able to peep into your matter or location.
@@ -338,6 +425,9 @@ If you have done jailbreaking, you can have FMFNotifier. Jailbreaking will be wo
 
 - One of the amazing things about this app to fake Find My Friends location is it sends you the notification each time when someone want to track your location. Whenever your friend attempts to ping your location, it will notify you as “Someone has requested your location through Find My Friends app”. And this is the moment where you can fake your location on Find My Friends. You can right away set a fake location when you know someone requires your location.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![FMFNotifier notification](https://images.wondershare.com/drfone/article/2019/09/fmfnotifier-notification.jpg)
 
 - Secondly, you can do configurations from the Settings app easily. Like, you can customize the text of the notification. Besides, the app allows you to set and save several false locations preset.
@@ -350,6 +440,9 @@ If you have done jailbreaking, you can have FMFNotifier. Jailbreaking will be wo
 
 **Step 3:** Lastly, install the package. Now, you can go to “Settings” on your device. Go to FMFNotifier and configure the settings as you want to fake location on Find My Friends.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![configure the settings](https://images.wondershare.com/drfone/article/2019/09/fmfnotifier-settings.jpg)
 
 ### 3.4 Use AntiTracker to protect your location privacy
@@ -358,6 +451,9 @@ When privacy is everything for you, you cannot tolerate anyone peeping into your
 
 You will get the notification no matter your screen is locked or not. A notification that is “You’re being tracked” along with the Find My Friends icon will appear when someone tries to track you.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![find tracks using the antitracker](https://images.wondershare.com/drfone/article/2019/09/antitracker-notification.jpg)
 
 **Guide on How to Use AntiTracker**
@@ -390,6 +486,9 @@ When you install it rightly, this is how to do a little twisting to set it up wi
 
 **Step 3:** When developer options are enabled, launch the app. You will see an “ENABLE” option at the bottom. Tap on it to turn on mock locations feature.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![mock locations feature](https://images.wondershare.com/drfone/article/2019/09/enable-mock-location.jpg)
 
 **Step 4:** Under the Developer options page, click on “Select mock location app”. Now, select “FakeGPS Free” from the list.
@@ -398,6 +497,18 @@ When you install it rightly, this is how to do a little twisting to set it up wi
 
 **Step 5:** Return to Fake GPS Free and long press the two spots on map to set the route. Take help of the play button given at the bottom. This will enable the location spoofing. You will see, “Fake location engaged…”. This will show your fake location on Find My Friends app.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fake gps on android](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android.jpg)
 
 
@@ -417,3 +528,57 @@ When you install it rightly, this is how to do a little twisting to set it up wi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-curated-collection-best-free-footage-websites-ranked/"><u>[New] 2024 Approved  Curated Collection  Best Free Footage Websites Ranked</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-the-ultimate-list-of-quotes-for-tiktok-stars/"><u>[New] 2024 Approved  The Ultimate List of Quotes for TikTok Stars</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-top-5-youtube-video-marketing-strategies/"><u>[New] 2024 Approved  Top 5 YouTube Video Marketing Strategies</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/xercise-innovations-6-youtube-ideas-for-movement-focused-viewers/"><u>[New] Exercise Innovations  6 YouTube Ideas for Movement-Focused Viewers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-investment-requirements-for-video-promotion/"><u>[New] Investment Requirements for Video Promotion</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-save-my-page-moments/"><u>[New] Save My Page Moments</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-socialvideo-saver-messenger-edition/"><u>[New] SocialVideo Saver – Messenger Edition</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-the-ultimate-guide-to-respecting-musicians-rights-on-ig/"><u>[Updated] 2024 Approved  The Ultimate Guide to Respecting Musicians' Rights on IG</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-earnings-exploration-how-youtube-turns-viewers-into-cash/"><u>[Updated] In 2024, Earnings Exploration  How YouTube Turns Viewers Into Cash</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-precise-age-setting-made-simple-tiktoks-guide/"><u>[Updated] Precise Age Setting Made Simple  TikTok's Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-colorists-companion-top-11-tools-for-hue-harmony/"><u>[Updated] The Colorist's Companion  Top 11 Tools for Hue Harmony</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-7-advanced-mobile-applications-transforming-voice-clarity/"><u>2024 Approved  7 Advanced Mobile Applications Transforming Voice Clarity</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-navigating-the-in-stream-ad-landscape-on-facebook/"><u>2024 Approved  Navigating the In-Stream Ad Landscape on Facebook</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-secrets-of-saving-gameplay-on-windows-10/"><u>2024 Approved  Secrets of Saving Gameplay on Windows 10</u></a></li>
+<li><a href="https://fake-location.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Apple iPhone 7 Plus? | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/celestial-syntaxes-mastering-galactic-grammar-and-diction/"><u>Celestial Syntaxes: Mastering Galactic Grammar and Diction</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Infinix Smart 7? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Xiaomi Redmi Note 13 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-xbox-graphics-with-an-additional-laptop-screen/"><u>Elevate Xbox Graphics with an Additional Laptop Screen</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On OnePlus Ace 2V? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-tecno-camon-20-premier-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Tecno Camon 20 Premier 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-honor-magic-5-pro-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Honor Magic 5 Pro Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>How to Fix Life360 Shows Wrong Location On Apple iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Honor Play 7T? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-itel-s23plus-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On OnePlus 11R? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-oppo-a38-easily-by-drfone-android/"><u>How To Unlock a Oppo A38 Easily?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-update-hdmi-driver-on-windows-10-11/"><u>How to Update HDMI Driver on Windows 10, 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Vivo S17? | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-tech-for-everyone-experts-analysis/"><u>In 2024, Tech for Everyone  Experts' Analysis</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Vivo Y36i? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-tecno-pova-5-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Tecno Pova 5 Pro? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Honor X7b? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Vivo Y78 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-5-economical-hd-camcorders-for-adventure-for-2024/"><u>Top 5 Economical HD Camcorders for Adventure for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>What is Fake GPS Location Pro and Is It Good On Apple iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Realme 11 Pro | Dr.fone</u></a></li>
+</ul></div>

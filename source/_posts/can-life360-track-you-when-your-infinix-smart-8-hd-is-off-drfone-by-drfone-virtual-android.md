@@ -1,7 +1,7 @@
 ---
 title: Can Life360 Track You When Your Infinix Smart 8 HD is off? | Dr.fone
-date: 2024-03-23 16:14:36
-updated: 2024-03-24 15:47:28
+date: 2024-08-02T00:42:11.869Z
+updated: 2024-08-03T00:42:11.869Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,11 +11,14 @@ categories:
 description: This article describes Can Life360 Track You When Your Infinix Smart 8 HD is off?
 excerpt: This article describes Can Life360 Track You When Your Infinix Smart 8 HD is off?
 keywords: fake location on android,change gps location on android,fake location on Smart 8 HD,change location on Smart 8 HD,change location on android,fake gps location on android
-thumbnail: https://www.lifewire.com/thmb/DAL-N3_Lno5FbRim9sd78EkulLA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/jens-kreuter-85328-c5ada5fb87224444a49aaa4ad1e16897.jpg
+thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5cc36ff257194dcf6821d1ac.jpg
 ---
 
 ## Can Life360 Track You When Your Infinix Smart 8 HD is off?
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![avatar](https://drfone.wondershare.com/images/james-davis.png)](https://drfone.wondershare.com/author/james-davis/)
 
 Did you know that your Infinix Smart 8 HD tracks your location even when turned off? And if you're a member of any social media network, it means you could be tracked. Do you like to have your privacy? Do you want to protect your kids from being tracked by strangers?
@@ -28,6 +31,10 @@ Should we trust Life360, the social media company that recently merged with Goog
 
 - [Part 1: What Is Life360 And How Does It Work?](https://drfone.wondershare.com/virtual-location/can-life360-track-you-when-your-phone-is-off.html#Part1)
 - [Part 2: Does life360 work if the phone is off?](https://drfone.wondershare.com/virtual-location/can-life360-track-you-when-your-phone-is-off.html#Part2)
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 - [Part 3: 3 Ways to Stop Life360 from Tracking You![hot icon](https://images.wondershare.com/drfone/article/2022/05/hot-tip.png)](https://drfone.wondershare.com/virtual-location/can-life360-track-you-when-your-phone-is-off.html#Part3)
 
 ## Part 1: What Is Life360 And How Does It Work?
@@ -48,6 +55,9 @@ If the necessity ever arose, such an undertaking may be useful for maintaining o
 
 Premium users will still have access to the last 30 days' worth of location data, so the other person will be able to see where you were last seen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: 3 Ways to Stop Life360 from Tracking You
 
 ### 1\. Low Data Consumption
@@ -76,10 +86,16 @@ Another typical method kids use to prevent their parents from monitoring their p
 
 Use a wired connection. Adolescents can turn off Wi-Fi and data when using the Life360 app on an iPhone. Go to Settings, look for Life360, and disable Cellular Data, Background Refresh, and Motion & Fitness. You'll be able to keep track of where you are on Life360.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![low data consumption](https://images.wondershare.com/drfone/article/2022/06/can-life360-track-you-when-your-phone-is-off-02.jpg)
 
 All these methods can be used to Stop Life360 from Tracking You. However, the best all-in-one solution is a third-party application called Dr.Fone. This Virtual Location Software helps you keep your tracking off, but you can also fake your location very easily in minutes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ### Conclusion
 
 Can you track a phone if the location is off? Life360 has become a standard feature of many smartphones. Parents often use it to monitor their children's location. The fact that Life360 can be used to track users is quite disturbing. The good news is that there are ways to stop Life360 from tracking you. The best and all-in-one solution is a third-party application called [Dr.Fone - Virtual Location](https://drfone.wondershare.com/drfone-toolkit.html).
@@ -110,8 +126,14 @@ Step 3Start Simulation Movement
 
 The respective simulation starts, and you can see your position is moving on the map with the speed you set. If you wish to hold the simulation, click **Pause** or tap **Clear** to revert to your original state.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![start one stop simulation](https://images.wondershare.com/drfone/guide/virtual-location-10.png)
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ### Part 2: Simulate Movement Along a Route (Multi-Stop Route)
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/Ve_I4YgjYno" frameborder="0" allowfullscreen=""></iframe>
@@ -132,10 +154,16 @@ As the simulation starts, click **Pause** at any instance where you want to stop
 
 ![execute multi stop route simulation](https://images.wondershare.com/drfone/guide/virtual-location-12.png)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ### Part 3: Use Joystick for More Flexible GPS Control (Joystick Movement)
 
 Dr.Fone has integrated the joystick feature into the Virtual Location program to spare 90% of the labor for GPS control. You can always find the joystick on the lower left part in teleport mode. And you can also click the joystick button in the upper right (the 5th one) to use the joystick feature.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![try joystick movement for simulation](https://images.wondershare.com/drfone/guide/virtual-location-15.png)
 
 The joystick, like one-stop route or multi-stop route modes, aims to facilitate GPS movement on the map. But what's better? The joystick lets you move on the map by changing directions in real time. Here are the two main scenes where you will definitely love the joystick.
@@ -147,10 +175,16 @@ The joystick, like one-stop route or multi-stop route modes, aims to facilitate 
 
 ## 5 Best Route Generator Apps You Should Try On Infinix Smart 8 HD
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change location](https://images.wondershare.com/drfone/images2023/virtual-location.png)
 
 Do you find it hard to look for places without an active internet connection? Well, in this case, you should consider using a route generator app. For instance, with a reliable GPX file generator, you can easily track a route offline. This can help you navigate your way without an active internet connection or even let you excel in games like Pokemon Go. Therefore, in this post, I will let you know about running route generator and Pokemon map generator apps in detail.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Route Generator App Banner](https://images.wondershare.com/drfone/article/2021/04/best-route-generator-apps-1.jpg)
 
 ## Part 1: What is a Route Generator App (And Why to Use it)?
@@ -179,6 +213,9 @@ _Runs on_: iOS and Android
 
 Price: Free or $9.99
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![Route4Me GPX Generator](https://images.wondershare.com/drfone/article/2021/04/best-route-generator-apps-2.jpg)
 
 2. **Routes: GPX KML Generator**
@@ -194,6 +231,9 @@ _Runs on_: Android
 
 _Price_: Free
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![Routes GPX Generator App](https://images.wondershare.com/drfone/article/2021/04/best-route-generator-apps-3.jpg)
 
 3. **Map My Run**
@@ -239,8 +279,14 @@ _Runs_ _on_: Android
 
 _Price_: Free or $1.99
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![GPX Viewer Android App](https://images.wondershare.com/drfone/article/2021/04/best-route-generator-apps-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: How to View GPX Files Offline on your PC?
 
 As you can see, with the help of a GPX file generator, you can easily save your routes offline. Though, if you are looking for a Pokemon Map Generator app or a solution to view your GPX files on your PC, then try Dr.Fone – Virtual Location (iOS). Developed by Wondershare, it can be used to view GPX files, spoof the location of your device, and even simulate its movement.
@@ -278,3 +324,48 @@ I’m sure that after reading this guide, you would be able to pick the best rou
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-airborne-vigils-the-most-durable-drone-fleet-for-2024/"><u>[New] Airborne Vigils  The Most Durable Drone Fleet for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevate-traffic-ethical-practices-for-amplifying-content-views/"><u>[Updated] 2024 Approved  Elevate Traffic  Ethical Practices for Amplifying Content Views</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-cut-the-cord-free-tiktok-videos-here/"><u>[Updated] Cut the Cord - FREE TikTok Videos Here</u></a></li>
+<li><a href="https://fake-location.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/analyzing-the-financial-gains-of-podcasting-for-2024/"><u>Analyzing the Financial Gains of Podcasting for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cloud-economy-unveiling-best-deals/"><u>Cloud Economy  Unveiling Best Deals</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/creating-a-unique-online-presence-using-obs-youtube-and-twitch-for-2024/"><u>Creating a Unique Online Presence  Using OBS, YouTube & Twitch for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Motorola G24 Power? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Samsung Galaxy S24? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Lenovo ThinkPhone? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/from-novice-to-expert-a-complete-guide-to-editing-mp4-videos-on-mac-and-windows/"><u>From Novice to Expert A Complete Guide to Editing MP4 Videos on Mac and Windows</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>Full Guide to Fix iToolab AnyGO Not Working On Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oneplus-12rwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on OnePlus 12Rwith/without a PC</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Vivo Y200? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Realme Narzo N53? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-realme-c53-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Realme C53 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-nokia-g310-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Nokia G310 to PC? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Xiaomi Redmi A2+? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-realme-c51-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Realme C51? Fixed | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/lightroom-mastery-the-top-10-lut-tools-for-expert-editors-for-2024/"><u>Lightroom Mastery – The Top 10 LUT Tools for Expert Editors for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-oneplus-ace-2v-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On OnePlus Ace 2V? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-nokia-c110-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Nokia C110 and Browser | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/saving-social-media-stories-chromes-top-5-tools-for-2024/"><u>Saving Social Media Stories  Chromes' Top 5 Tools for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/sound-symphony-for-social-media-stardom-on-insta-reels-for-2024/"><u>Sound Symphony for Social Media Stardom on Insta Reels for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>Spoofing Life360 How to Do it on Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Vivo S18 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/your-ultimate-guide-to-samsungs-best-gear-vr-games/"><u>Your Ultimate Guide to Samsung's Best Gear VR Games</u></a></li>
+</ul></div>

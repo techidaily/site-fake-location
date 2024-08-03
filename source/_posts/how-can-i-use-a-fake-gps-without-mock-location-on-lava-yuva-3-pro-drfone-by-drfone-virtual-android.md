@@ -1,7 +1,7 @@
 ---
 title: How Can I Use a Fake GPS Without Mock Location On Lava Yuva 3 Pro? | Dr.fone
-date: 2024-03-22 16:45:16
-updated: 2024-03-24 23:51:16
+date: 2024-08-01T22:29:48.910Z
+updated: 2024-08-02T22:29:48.910Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes How Can I Use a Fake GPS Without Mock Location On Lava Yuva 3 Pro?
 excerpt: This article describes How Can I Use a Fake GPS Without Mock Location On Lava Yuva 3 Pro?
 keywords: change gps location on android,change location on android,fake location on android,fake location on Yuva 3 Pro,change location on Yuva 3 Pro,fake gps location on android
-thumbnail: https://www.lifewire.com/thmb/U4MhHoz9AdQJe4tEoeV-ONBuCas=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-ps5-d3975e63d2ff47e6ac4e81768b79801c.jpg
+thumbnail: https://thmb.techidaily.com/0aeedb6f0e08290ddfa4945f77d0426cb986cac7f0c8ef179d1c62c13237705d.jpg
 ---
 
 ## How Can I Use a Fake GPS Without Mock Location On Lava Yuva 3 Pro?
@@ -36,6 +36,9 @@ In android phones, mock location is a hidden developer setting that allows you t
 
 There are many free location spoofing apps available in the Google Play Store that can exploit this hidden mock location setting.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: What Can Mock Locations Be Used For?
 
 Under the developer option, allow mock location apk is very popular and useful due to its diverse use. You can use a mock location apk to test your virtual location settings and to test the functions of the fake location app. If you area app developer, you can test how your apps are working on a particular location.
@@ -52,8 +55,14 @@ However, with allowing mock location feature, you can download fake location app
 
 Also, there are many other AR games, including Ingress Prime, Harry Potter: Wizards Unite, Kings of Pool, Pokémon Go, and Knightfall AR. You can spoof all on Android with the help of allowing mock location apk.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ### 2.2 For Dating Apps
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![mock location for dating apps](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-2.jpg)
 
 In addition to AR-based games, you can also spoof dating apps like Tinder and Grindr Xtra. It is because using the fake location for dating apps will allow you to see profiles of people from outside your city or country. This is how you can have more options to search for your partner online.
@@ -70,10 +79,17 @@ Most of the latest android phones come with the inbuilt mock location feature. T
 
 **Step 1:** Unlock your android phone and look for its Build Number. For this, go to Settings > About Phone. Depending upon the brand, you can follow Settings > Software Information.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![allow mock location android](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-3.jpg)
 
 **Step 2:** Now, tap on the Build Number option seven times without a break to enable the developer option.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![tap on build number seven times](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-4.png)
 
 **Step 3:** After this, go back to Settings, and there you will newly added Developer Options.
@@ -86,12 +102,19 @@ Most of the latest android phones come with the inbuilt mock location feature. T
 
 **Step 5:** In the list of developer options, locate the “Allow Mock Locations” feature, and enable it.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ### 3.2 How To Change Your Mobile Location By Working With A Spoofer App?
 
 After enable “allow mock location” on an android mobile phone, you will need to install a location spoofing app like Fake GPS. Also, there are many other free fake GPS apps that you can download from Google Play Store in your Phone.
 
 **Step 1:** Go to Play Store and search for a spoofing app on the search bar.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![go to play store and search](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-7.jpg)
 
 **Step 2:** From the list, you can download any free or paid spoofing apps on your device. Some other free apps are Fake GPS and GPS Emulator.
@@ -100,12 +123,18 @@ After enable “allow mock location” on an android mobile phone, you will need
 
 **Step 4:** Now, go to your device’s Settings > Developer Options and make sure that the allow mock location feature is enabled.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![enable allow mock location](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-8.jpg)
 
 **Step 5:** Under developer options, you will see the “Mock Location App” field and tap on it to get a list installed GPS spoofing apps. Select the Fake GPS app from the list to set it the default mock location apk.
 
 Now you are able to spoof dating apps or gaming apps.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3.3 How to change your iPhone location?
 
 To fake GPS on iPhone, you will need a safe and secure app like [Dr. Fone virtual location iOS](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). If you own iPhone, you can easily spoof location with the help of this easy to install the app.
@@ -124,26 +153,53 @@ Here are the steps that you will need to follow to install Dr. Fone in your devi
 
 **Step 3:** You will see a world map with three modes on the right top side.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![world map with three mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 **Step 4:** Select any one mode from the teleport, two-stop mode, and multi-stop mode to spoof your location.
 
 **Step 5:** Search for the desired location on the search bar to fake your current location and click enter.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 Now you are ready to spoof iPhone without compromising the privacy of the Phone.
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Part 4: Mock Location Feature On Different Android Models
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### Mock Location on Samsung and Motto
 
 In Samsung and Motto device, the mock location feature is available under the “Debugging” section of Developer Options.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![mock location on Samsung and motto](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-13.png)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Allow mock location on LG
 
 Smartphones from LG have a dedicated “Allow Mock Locations” feature that you can easily access by enabling Developer Options.
@@ -164,6 +220,10 @@ We hope that after reading the above article, you would be able to allow mock lo
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Use Life360 on Windows PC For Lava Yuva 3 Pro?
 
 Life360 is an online platform that utilizes geo-location services to help users share their real-time location with friends and family. The app allows people to create a family group and stay connected to each other through features like chatting, sharing location, sending safety alerts, etc.
@@ -174,6 +234,9 @@ However, that doesn’t mean you cannot use Life360 on a PC. While it may seem a
 
 So, without wasting another second, let’s dive straight into the guide.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: Why people seek to use Life360 on PC?
 
 First things first; why would anyone want to use a family locator app like Life360 on their PC? Well, the truth is everyone has their own reason to get **_Life360 for PC_**. For instance, let’s say you are in the middle of an important project and don’t want to be bothered by alerts on your smartphone. However, you still don’t want to compromise with the safety of your family members.
@@ -182,6 +245,10 @@ In this situation, you can simply run the **_Life360 app on PC_**. This will all
 
 Life360 can also be used on a computer when your phone’s battery has completely drained and there’s no power outlet nearby. In this case, you can simply power-on your laptop, start the Life360 app and send your current whereabouts to family members.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## Part 2: Is it possible to use Life360 on Windows PC?
 
 Life360 is an extremely useful app for people who are always concerned about their closed ones. The app is basically designed with a vision to keep family members connected and safe. In addition to location sharing, the app also provides exclusive features like crash detection, place alerts, speed alerts, battery monitoring, etc.
@@ -204,6 +271,9 @@ Step 1: Head over to Bluestacks official website and tap the download button.
 
 Step 2: Open the installer and tap the “download” button. This will initiate the download process on your System.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![bluestacks 1](https://images.wondershare.com/drfone/2023/virtuallocation/bluestacks-1.jpg)
 
 Step 3: Once the installation process completes, Bluestacks will start to boot. Keep in mind that the first boot may take some time, depending on your system configurations.
@@ -246,14 +316,32 @@ Step 4: If you’re running Android Pie or above on your device, scroll down to 
 
 Step 5: It may take some while for the connection to establish. Once it does, you’ll be able to cast your device screen onto your computer and you’ll be able to run life360 on your system.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![mirroring android 4](https://images.wondershare.com/drfone/2023/virtuallocation/mirroring-android-4.jpg)
 
 Keep in mind that you’ll still require your device to navigate through the content on your computer. Any action that you perform on your device will be replicated on your computer screen as well.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Final Verdict
 
 Life360 is probably among the top family locators for Android users. Apart from its extensive range of features, the app provides a user-friendly interface, which allows it easier for even elders to use the app without any issues. Even though there isn’t a dedicated Life360 software for Windows, you can follow the above-mentioned methods to run the **_Life360 on PC_**.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## You Might Also Like
 
 ## Location-based apps
@@ -266,6 +354,14 @@ Pokemon Go on PC
 
 AR game tricks
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![virtual location](https://images.wondershare.com/drfone/article/2023/06/virtual-location-horizontal.png)
 
 **Change Phone GPS Location Easily**
@@ -286,36 +382,58 @@ Are you wondering how to **fake the browser location** or which tool to use? You
 
 ![google chrome featured image](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: How Does Chrome Know Your Location?
 
 Before discussing Google **Chrome's fake location**, it is important to know how Chrome detects your physical location. Google Chrome uses many ways to pinpoint your exact location, like your IP address, GPS, Wi-Fi, Bluetooth, and Cell Tower data. Every internet connection has an IP address bound to a location that enables Chrome to identify your location.
 
 Similarly, GPS location can easily be tracked if your phone device has it enabled. All the Wi-Fi and Bluetooth connections around you also have location information embedded in them. They can help Chrome track you as long as your device can detect them. If you use cell data, Google Chrome can also track you through cell towers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: How to Hide Location Services in Chrome?
 
 If you are worried about Google Chrome detecting your physical location and sharing it with websites and apps, you can hide it easily. The process of hiding your location on Google Chrome is simple, even if you are using multiple devices. Below is the step-by-step process of hiding location services in Google Chrome on computer, Android, and iOS devices.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ### Method 1: For Laptop and Desktop PCs
 
 **Step 1:** Launch Google Chrome on your computer and click the "Three Dots" icon to open the Google Chrome Settings. Here, tap "Privacy and Security" from the left sidebar and select "Site Settings."
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![access the site settings option](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-2.jpg)
 
 **Step 2:** Navigate to "Permissions" and click on "Location." To hide the location on Google Chrome, select the "Don't allow sites to see your location" option.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![enable the dont allow option](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-3.jpg)
 
 ### Method 2: For iPhone or iPad
 
 **Step 1:** Navigate to "Settings" on your iPhone and open it. Scroll down until you find the "Chrome" app option and select it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![proceed with the chrome option](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-4.jpg)
 
 **Step 2:** Press "Location" on the next screen to open the location options for Google Chrome. Here, choose "Never" to stop Google Chrome from detecting your location.
 
 ![choose the never option](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 3: For Android
 
 **Step 1:** Open Google Chrome on your Lava Yuva 3 Pro, press the "Three-Dots" icon, and tap "Settings" from the options.
@@ -362,6 +480,9 @@ Press "Get Started" on the next page to open the map window. First, select your 
 
 Once the Teleport Mode is activated, add your desired location and press "Go." Your desired location will open on the map. Select it, and a pop-up window will appear where you need to press "Move Here." With that, your Android or iPhone's Chrome location has been changed.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![hit the move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 
@@ -372,14 +493,23 @@ It is also possible to **fake browser location** on Chrome using the Google Chro
 
 **Step 1:** After opening Google Chrome, click the three-dots icon from the top right corner. It will open the Chrome menu where you need to select "Developer Tools" after clicking "More Tools."
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose the developer tools](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-11.jpg)
 
 **Step 2:** A window will open on the right side with all the developing tools you can use in Chrome. Click on the three-dots icon located near "Console" in the bottom left corner of the window. Choose "Sensors" from the pop-up menu.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![select the sensors option](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-12.jpg)
 
 **Step 3:** Access the newly selected "Sensor" option, and here you can change the browser's location by either selecting a Google's pre-set location or adding your desired location manually. Once the location is selected or added, your browser's location will change.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select your location](https://images.wondershare.com/drfone/article/2022/12/how-to-hide-or-fake-your-location-in-google-chrome-browser-13.jpg)
 
 **Limitations**
@@ -387,6 +517,9 @@ It is also possible to **fake browser location** on Chrome using the Google Chro
 - The interface of the Google Chrome DevTools can be very confusing and overwhelming for non-technical users.
 - Apart from pre-added locations, it can be hard to add a specific location as your fake location.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 3. Fake Your Location Using Chrome Extension
 
 Many **fake location Chrome extensions** are available on Google Chrome which can be used to alter your location on Chrome. You can find these extensions on Google Chrome Web Store and add them directly to your browser. Below we have explained the steps for using such an extension "[Location Guard](https://chrome.google.com/webstore/detail/location-guard/cfohepagpmnodfdmjliccbbigdkfcgia?hl=en)" to fake your location on Google Chrome:
@@ -431,6 +564,9 @@ Another way you can fool websites and your browser by displaying a **fake locati
 
 Geolocation is a term used for the process of pinpointing the location of a device connected to the internet. The location can be determined using methods like IP address, GPS, and mobile tower data. Apps and websites commonly use it to provide location-based services.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.What is the HTML5 Geolocation API?
 
 The HTML5 Geolocation API is a browser API used to determine a user's geographical location. Developers use it to build location-aware websites and apps that use users' locations as the basis for providing their services. It can detect location through GPS, Wi-Fi, Bluetooth, IP addresses, etc.
@@ -462,3 +598,52 @@ That's why having a tool like [Dr.Fone - Virtual Location](https://tools.techida
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-pathway-to-facebook-success-livestreaming-recorded-visual-narratives/"><u>[New] 2024 Approved  Pathway to Facebook Success  Livestreaming Recorded Visual Narratives</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-set-up-chromebook-for-seamless-video-capture/"><u>[New] 2024 Approved  Set Up Chromebook for Seamless Video Capture</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-cheap-vr-headsets-from-china-in-2024/"><u>[New] Cheap VR Headsets From China, In 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-pro-tips-for-effective-youtube-tag-utilization/"><u>[New] In 2024, Pro Tips for Effective YouTube Tag Utilization</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-vivo-y100t-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-navigating-the-copyright-symphony-of-instagrams-sounds/"><u>2024 Approved  Navigating the Copyright Symphony of Instagram's Sounds</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridge-the-time-gap-chrome-on-pc-error-fixation/"><u>Bridge the Time Gap: Chrome on PC Error Fixation</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-tecno-pova-5-pro-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Tecno Pova 5 Pro is off? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-vivo-s17-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Vivo S17 is off? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-vivo-t2-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Vivo T2 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capturing-excellence-a-full-breakdown-of-sj-cam-s6-for-2024/"><u>Capturing Excellence  A Full Breakdown of SJ-CAM S6 for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/comprehensive-angles-in-filming-versus-diverse-dimensions/"><u>Comprehensive Angles in Filming versus Diverse Dimensions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Samsung Galaxy S24 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-poco-c65-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Poco F5 5G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-htc-u23-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On HTC U23 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-honor-magic-6-pro-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Honor Magic 6 Pro Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Tecno Camon 30 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-apple-iphone-12-mini-location-is-wrong-drfone-by-drfone-virtual-ios/"><u>How to Fix My Apple iPhone 12 mini Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>How to share/fake gps on Uber for Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>How To Simulate GPS Movement With Location Spoofer On Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-huawei-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Huawei Devices</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-mitigating-the-risk-of-youtube-sanctions/"><u>In 2024, Mitigating the Risk of YouTube Sanctions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-motorola-g24-power-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Motorola G24 Power and Browser | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-xiaomi-redmi-note-13-proplus-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Xiaomi Redmi Note 13 Pro+ 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>Spoofing Life360 How to Do it on Apple iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Oppo K11x? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Samsung Galaxy A54 5G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-realme-gt-neo-5-se-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Realme GT Neo 5 SE? Here Is the Answer | Dr.fone</u></a></li>
+</ul></div>

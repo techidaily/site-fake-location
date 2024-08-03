@@ -1,7 +1,7 @@
 ---
 title: How to Simulate GPS Movement in AR games On Nokia 105 Classic? | Dr.fone
-date: 2024-03-22 22:13:35
-updated: 2024-03-24 15:42:49
+date: 2024-08-01T23:56:35.065Z
+updated: 2024-08-02T23:56:35.065Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Simulate GPS Movement in AR games On Nokia 105 Classic?
 excerpt: This article describes How to Simulate GPS Movement in AR games On Nokia 105 Classic?
 keywords: fake location on 105 Classic,change location on android,fake gps location on android,fake location on android,change gps location on android,change location on 105 Classic
-thumbnail: https://www.lifewire.com/thmb/HNtneePKuJeaZXX7qZjEwvmSz6M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Flora_and_Son-f6517d3de531487e89f5e0e99192d13f.jpg
+thumbnail: https://thmb.techidaily.com/4815bdc4b07f62378c934e8844c6ab3ed5ccd8bb0ecbd12c41105ddecee78795.jpg
 ---
 
 ## How to Simulate GPS Movement in AR games On Nokia 105 Classic?
@@ -77,6 +77,9 @@ Below is the video showcasing all steps necessary to simulate GPS movement while
 
 **Step 2**: Use a USB cable to sync your iOS phone with the Nokia 105 Classic device where you downloaded this software. Tap on Get Started.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![tap on get started](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 **Step 3**: You will see your real-time location on the map. Tap on the Teleport Mode icon at the top-right and type your fake location name.
@@ -85,10 +88,16 @@ Below is the video showcasing all steps necessary to simulate GPS movement while
 
 **Step 4**: The software will automatically take your GPS location there. To confirm, press Move Here.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![press move here](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 **Step 5**: The joystick will appear at the side. You can use this joystick to control your spoofed movement as you open other apps and try them out.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![joystick will appear](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
 **Step 6**: You can choose the Multi-Stop Route icon to see different points on the screen. The software automatically detects the best way to reach the destination, joining all selected points into one overall route for automatic GPS movement.
@@ -131,6 +140,9 @@ It is possible to run this app on different iPhones and iPads simultaneously. Th
 
 ![tap on move here](https://images.wondershare.com/drfone/article/2022/12/how-to-simulate-gps-movement-on-ar-games-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. Simulate GPS Movement Android
 
 Like in the case of iOS, searches related to **Pokémon Go spoofing Android Reddit** are also available. Therefore, let us discuss the best Android app to use for fake GPS route spoofing.
@@ -165,10 +177,16 @@ Get multiple spoofing options here, like expert mode and various routes to set u
 
 **Step 2**: Select the faked location and tap on the Play button.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![tap on the play button](https://images.wondershare.com/drfone/article/2022/12/how-to-simulate-gps-movement-on-ar-games-6.jpg)
 
 **Step 3**: The app will automatically show the spoofed fly GPS after inserting the fake location.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![the app will automatically show](https://images.wondershare.com/drfone/article/2022/12/how-to-simulate-gps-movement-on-ar-games-7.jpg)
 
 **Method 2. [Mock Locations](https://play.google.com/store/apps/details?id=ru.gavrikov.mocklocations)**
@@ -227,6 +245,9 @@ While Pokémon Go is the most popular of them all, you can expect interesting pl
 
 To learn more about these games, you should read the full article to discover [some great titles that are similar to Pokemon Go](https://drfone.wondershare.com/pokemon-go/top-ar-games-like-pokemon-go.html).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Conclusion
 
 Indeed, there are different methods you can use to spoof your location to play AR games that require actual movement. While the debate against location spoofing apps is understandable, these software types' also uses effectively improve user experience.
@@ -235,6 +256,9 @@ The best step while using them is to follow the gameplay rules respectfully and 
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How To Simulate GPS Movement With Location Spoofer On Nokia 105 Classic?
 
 When you are playing location-based games like Pokemon Go, you might need to simulate GPS movement to catch more Pokemon. To do this, you can use the GPS movement feature of Wondershare [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). This feature allows you to simulate GPS movement between two or multiple spots on the map. Here's how you can do it:
@@ -263,6 +287,9 @@ The respective simulation starts, and you can see your position is moving on the
 
 ![start one stop simulation](https://images.wondershare.com/drfone/guide/virtual-location-10.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ### Part 2: Simulate Movement Along a Route (Multi-Stop Route)
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/Ve_I4YgjYno" frameborder="0" allowfullscreen=""></iframe>
@@ -275,6 +302,9 @@ Activate the **Multi-Stop Route** mode from the top-right section next to the On
 
 **Note:** Select the spots along a specific road to prevent the game developer from thinking you are cheating.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![activate multi stop simulation](https://images.wondershare.com/drfone/guide/virtual-location-11.png)
 
 Step 2View Multi-Stop Route Movement
@@ -296,18 +326,27 @@ The joystick, like one-stop route or multi-stop route modes, aims to facilitate 
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/r2GiOQxwfQc" frameborder="0" allowfullscreen=""></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How To Teleport Your GPS Location On Nokia 105 Classic?
 
 While playing games like Pokemon Go, you are in desperate need of finding more Pokémon. If so, changing your location is a necessity that needs to be figured out. For that, teleporting the GPS location of the Nokia 105 Classic device is the optimal solution. To carry this out, Wondershare [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) provides a perfect system for fake locations.
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen=""></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Part 1: Teleport to Anywhere in the World (Teleport Mode)
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen=""></iframe>
 
 **Note:** Once you teleport or move to a virtual place, you can restore to the actual location by restarting the Nokia 105 Classic device. You will see a prompt that reminds you to restart your device to restore the location of the connected device when you close the Virtual Location. Click **Restart Device** and close the program.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![restart device on closing virtual location](https://images.wondershare.com/drfone/guide/restart-decive.png)
 
 _\* Dr.Fone Mac version still has the old interface, but it does not affect the use of Dr.Fone function, we will update it as soon as possible._
@@ -318,6 +357,9 @@ Step 1Activate Teleport Mode
 
 Once you have connected your smartphone, continue to select the **Teleport Mode** option from the top-right section. The particular icon is represented by the first icon from the left in that section.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![select teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 Step 2Add Location To Teleport
@@ -332,12 +374,18 @@ Step 3Confirm the Location For Teleporting
 
 You will be directed to the particular, and the map will display it for confirmation. If you are willing to teleport to this specific location, click **Move Here**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![confirm the location to spoof](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 Step 4Location Successfully Changed On Computer
 
 The location of the smartphone will be instantly changed to the selected location and will be displayed on the map.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![move location successfully](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
 Step 5Location Changed On the Smartphone
@@ -366,6 +414,9 @@ Step 3Change Location Between Set Spots
 
 As prescribed, you can propagate amongst the set spots with the Jump Teleport Mode. Use the **Next Point** and **Last Point** buttons to shift your location.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![start changing location](https://images.wondershare.com/drfone/guide/start-use-jump-teleport-mode.png)
 
 
@@ -385,3 +436,40 @@ As prescribed, you can propagate amongst the set spots with the Jump Teleport Mo
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-digital-chronicling-of-live-audio-content-on-the-net/"><u>[New] 2024 Approved  Digital Chronicling of Live Audio Content on the Net</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-obs-studio-vs-fraps-which-is-a-better-screen-capture-software/"><u>[New] 2024 Approved  OBS Studio vs Fraps – Which Is A Better Screen Capture Software?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-best-free-screen-recording-apps-reviewed-and-ranked/"><u>[New] In 2024, Best Free Screen Recording Apps Reviewed & Ranked</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gain-traction-with-effective-video-descriptions-and-tagging/"><u>[New] In 2024, Gain Traction with Effective Video Descriptions and Tagging</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-the-visionarys-handbook-for-twit-reaction-videos/"><u>[Updated] 2024 Approved  The Visionary's Handbook for Twit-Reaction Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-image-quality-a-guide-without-watermarks/"><u>[Updated] Mastering Image Quality  A Guide Without Watermarks</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-unveil-the-potential-of-zoom-filters-for-excellence/"><u>2024 Approved  Unveil the Potential of Zoom Filters for Excellence</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-tecno-camon-30-pro-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Tecno Camon 30 Pro 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/cracked-codekeepers-stay-secure-in-the-now/"><u>Cracked Codekeepers: Stay Secure in the Now</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Samsung Galaxy A25 5G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Honor V Purse? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Infinix GT 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-realme-c51-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Realme C51? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-google-pixel-fold-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Google Pixel Fold Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On OnePlus Nord N30 SE? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On OnePlus Nord CE 3 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-oppo-a78-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Oppo A78?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Tecno Spark 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>How To Simulate GPS Movement With Location Spoofer On Apple iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-oppo-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Oppo Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-iphone-15-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From iPhone 15</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-lava-blaze-curve-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Lava Blaze Curve 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Vivo S17 Pro? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/strategies-for-dominant-click-through-rates-in-youtube-advertising-for-2024/"><u>Strategies for Dominant Click-Through Rates in YouTube Advertising for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Motorola Moto G73 5G | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Xiaomi Redmi Note 12T Pro | Dr.fone
-date: 2024-05-20T09:33:32.209Z
-updated: 2024-05-21T09:33:32.209Z
+date: 2024-08-01T20:42:59.473Z
+updated: 2024-08-02T20:42:59.473Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Xiaomi Redmi Note 12T Pro
 excerpt: This article describes Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Xiaomi Redmi Note 12T Pro
 keywords: change location on Redmi Note 12T Pro,fake location on android,change location on android,change gps location on android,fake location on Redmi Note 12T Pro,fake gps location on android
-thumbnail: https://www.lifewire.com/thmb/Rjkf6fiPF-oXAs-UqYWshvM3oZ4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/CODA-d4dd2a9b6c3d4a008a05c9718c9bce1e.jpg
+thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371dbf02532bc0633c00063d56.jpg
 ---
 
 ## Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Xiaomi Redmi Note 12T Pro
@@ -22,6 +22,9 @@ Google Maps is a virtual map for mobile and PC use. With it, you can check route
 
 You may think I should be turning off the location setting and wifi services to show fake locations on google maps. Well, I tried this, but it did not work, unfortunately. Google Maps can still track me. This is because Google Maps can use the signal strength of cell towers around me to guess my location, and believe me, this guess is usually very accurate. Also, the IP of the phone can be used. Here, we provide two effective methods for you to fake and change location in Google Maps at ease.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1: Spoof location in Google Maps with a tool for both iOS and Android
 
 If you want to fake Google maps location on iPhone, then you’ll have to put more effort than an Android device. Just installing an app might not work out to spoof Google Maps location on an iPhone. Nowadays, region-based games and apps are boring, and people need more options to explore. It is possible to share fake Google map locations by using different regions through a few clicks. [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) has much more innovative ways to do that.
@@ -46,10 +49,16 @@ Here is a video tutorial for you to have a quick view on Google maps location ch
 
 **Step 1:** First, you need to download, install and launch the Dr. Fone Virtual Location software on your computer. From the software's home page, you need to select the "Virtual Location" option from a bunch of other options.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![fake gps google maps drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2:** Next, you need to connect your Xiaomi Redmi Note 12T Pro to the computer by using a cable.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![connect your phone with computers via Wi-Fi or an USB cable](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
 **Step 3:** On the next window, you’ll find the world map on your screen, and the coordinates and directions are clear on the map. You need to click on the third icon called the “Teleport Mode” from the top right corner of your screen. Then type in the place's name in the search box where you want to change your location. There is also a way to pinpoint the area if you know it properly.
@@ -58,8 +67,15 @@ Here is a video tutorial for you to have a quick view on Google maps location ch
 
 **Step 4:** After becoming sure of your new location, click on the “Move Here” button to change your location from the real one to the virtual one you selected.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![teleport a gps google location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2: Change location in Google Maps with a VPN
 
 An array of VPN apps come with built-in location spoofing features on top of the usual IP address masking. For example,
@@ -136,6 +152,9 @@ For iPhone users, you can share your Google map location through the following s
 
 - Now select the contact you want to share your location with and also how long you will share.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![location sharing feature](https://images.wondershare.com/drfone/article/2022/02/location-sharing-feature.jpg)
 
 - Click Share.
@@ -162,10 +181,21 @@ In the reallocation screen, you'll be able to find the five-star icon on the pro
 
 You can do that by changing the settings on your device. Settings >> privacy options>> location services, then turn the icon to the left, which will indicate that your location is off.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ### 3\. How to turn off your history on an iPhone device?
 
 To turn off the History, stick to the same icon of settings, and from the system services, check your significant locations, and you can delete them as well.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ### 4\. How does one give someone your location from your Xiaomi Redmi Note 12T Pro?
 
 Start with opening the "Find My" app on your Xiaomi Redmi Note 12T Pro and choose the "People" tab. Select share my location and enter the name or number of the person you wish to share your location with. In the end, tap send and share your site with someone you want to share.
@@ -223,12 +253,18 @@ Dr.Fone software supports both iOS and Android, a one-stop solution to change th
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Top 5 iOS location changers
 
 ### 1\. iMoveGo
 
 IMoveGo is a location changer tool that allows you to modify your GPS location on iOS devices. It offers a range of features designed to provide a seamless and realistic location-changing experience.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![imovego](https://images.wondershare.com/drfone/article/2023/05/location-changer-for-ios.jpg)
 
 **Key Features:**
@@ -250,10 +286,16 @@ IMoveGo is a location changer tool that allows you to modify your GPS location o
 - Regular updates are required.
 - Potential app compatibility issues.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. [iSpoofer Location Spoofer](https://drfone.wondershare.com/virtual-location/pokemon-go-ispoofer.html)
 
 The iSpoofer Location Spoofer is one of the most effective iOS location spoofers. By quickly shifting iPhone location data to whatever location you wish, you are no longer barred from enjoying location-based games and accessing content from different locations.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ispoofer](https://images.wondershare.com/drfone/article/2022/05/10-best-location-changer-for-android-and-ios-in-2022-2.jpg)
 
 **Key features:**
@@ -276,10 +318,16 @@ The iSpoofer Location Spoofer is one of the most effective iOS location spoofers
 - It costs a hefty amount.
 - You'll need a Developer Image File and iTunes installed on your phone to operate.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. [iTools Location changer](https://drfone.wondershare.com/virtual-location/itools-virtual-location-alternative.html)
 
 ThinkSky's iTools is a phone GPS location program. It's a desktop app that can let you spoof your iPhone's location. It is compatible with both Windows and macOS. In addition, you don't need any technical knowledge to modify the location as it offers a user-friendly UI.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![itools](https://images.wondershare.com/drfone/article/2022/05/10-best-location-changer-for-android-and-ios-in-2022-3.jpg)
 
 **Key features:**
@@ -302,12 +350,18 @@ ThinkSky's iTools is a phone GPS location program. It's a desktop app that can l
 - Not support iPhone 13, 12, and 11, iOS 13 and above.
 - It may be hard to use for some new users.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ### 4\. Fake GPS Location Tool
 
 **Link:** <https://apps.apple.com/us/app/fake-gps-location-tool/id1133848135>
 
 You can travel across the world with this **Fake GPS Location app**. To mock your location, search for a certain address in your app's complete address or merely city, state, country, or famous sites.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fake gps location tool ios](https://images.wondershare.com/drfone/article/2022/05/10-best-location-changer-for-android-and-ios-in-2022-4.jpg)
 
 **Key features:**
@@ -359,14 +413,23 @@ _**Tips:** Join the ranks of the best! Dr.Fone - Virtual Location is the best lo
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ## Top 5 Location Changers for Android
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. GPS Emulator
 
 **Link:** <https://play.google.com/store/apps/details?id=com.rosteam.gpsemulator>
 
 A simple way to modify your Xiaomi Redmi Note 12T Pro's location so you can use it for dating apps and services to meet more people! After installing the app, choose a place to use as your device's default location.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![gps emulator](https://images.wondershare.com/drfone/article/2022/05/10-best-location-changer-for-android-and-ios-in-2022-6.jpg)
 
 **Key features:**
@@ -391,6 +454,9 @@ A simple way to modify your Xiaomi Redmi Note 12T Pro's location so you can use 
 
 It is one of the most popular Android smartphone location spoofing apps that you can try. The App Ninjas created the location spoofer, which is freely downloadable. Like Dr.Fone, you can easily change your location on Android without rooting your phone with this tool.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![fake gps location gps joystick](https://images.wondershare.com/drfone/article/2022/05/10-best-location-changer-for-android-and-ios-in-2022-7.jpg)
 
 **Key features:**
@@ -433,6 +499,9 @@ One of the most popular Android spoofing apps is Lexa's Fake GPS. It allows you 
 - For a few gadget owners, fake GPS may feel a little problematic.
 - After you deactivate the program, your GPS location may become trapped in one spot.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. VPNa - Fake GPS Location
 
 **Link:** <https://play.google.com/store/apps/details?id=com.xdoapp.virtualphonenavigation>
@@ -456,6 +525,9 @@ While the name may be confusing, it is a GPS spoofer for Android, not a VPN. The
 - Obtrusive advertisements.
 - There's no joystick option.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 5\. Fake GPS 360
 
 **Link**: <https://play.google.com/store/apps/details?id=com.pe.fakegps>
@@ -479,6 +551,9 @@ This is an all-in-one solution for all your device location-altering needs. With
 - Certain apps do not appear to function correctly with this app.
 - The app may crash sometimes.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Conclusion
 
 **Mock location applications for iOS and Android** come helpful in various situations. Using a competent imitation location app can assist you in doing the task swiftly and efficiently. The spoof location and GPS apps listed here are safe to use. If you want a one-stop way to fake your location on Android and iOS devices, then [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) is the best choice.
@@ -497,6 +572,9 @@ This is an all-in-one solution for all your device location-altering needs. With
 
 **3981454** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ## 8 Solutions to Fix 'Find My Friends Location Not Available' On Xiaomi Redmi Note 12T Pro
 
 There is no doubt that Find My Friends is an excellent application for location tracking. It allows users to track the location of their friends and family members through a variety of devices. So, when Find My Friends says the location is not available, it can be a frustrating situation. But don't stress over this because we are here to assist you in Find My Friends not working. Go through this guide, and you'll know what to do to take care of the problem.
@@ -532,6 +610,9 @@ Why does Find My Friends say location not available? Before we get to the soluti
 
 All these reasons can be the ones causing trouble on your Xiaomi Redmi Note 12T Pro  and Android phones. Hence, you will have to look for some conventional methods to fix the unavailable location error.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ## Part 3: 8 Tips To Make "Find My Friends Location" Available
 
 When the Find My Friends app location is not available, here are some more tips that can help get rid of this issue.
@@ -544,6 +625,9 @@ The foremost thing you should do when the Find My Friends location is not availa
 
 After verifying that the feature is available in your region, enable the GPS & Location Services. In case you've already enabled the feature, turn it off, quit the app, and again enable the service. It might fix the location not found on the Find My Friends issue you've been facing. Just open Settings > Privacy & Security > Location Services and toggle the bar to turn the feature on or off.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![enable location services](https://www.virtuallocation.com/images/pokemon-go/enable-location-services.jpg)
 
 ### Tip 3: Adjust Xiaomi Redmi Note 12T Pro  Date and Time
@@ -556,8 +640,14 @@ As we stated in the possible reasons, incorrect dates and times also result in t
 
 Before you conclude that there is something wrong with the Find My Friends app, check your internet connection. There is a chance that location is not available on the Xiaomi Redmi Note 12T Pro  because your device doesn't have internet access. Try opening Settings > Mobile Data/Wi-Fi and turning it on and off. Alongside, make sure that you have signal strength, whether you are connecting to cellular data or a Wi-Fi network.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![check internet connection](https://www.virtuallocation.com/images/pokemon-go/check-internet-connection.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Tip 5: Enable Share My Location
 
 Another tip to try out when your friend's location is not available is to make certain that you've enabled [Share My Location](https://drfone.wondershare.com/fake-location/how-to-share-location-on-messenger.html) feature. To do this, follow the steps given below:
@@ -570,14 +660,23 @@ Toggle on the option to enable it. Once the feature is enabled, your friends wil
 
 For Android users, go to "Settings" > "Additional settings" > "Privacy" > "Location", and choose the location mode to enable it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Tip 6: Restart the Xiaomi Redmi Note 12T Pro  or Android Phones
 
 The next tip to use when Find My Friends says location not available is restarting your phone. For most devices, the method is common. But for Xiaomi Redmi Note 12T Pro  X and 11, the steps are slightly different. For other Xiaomi Redmi Note 12T Pro  models, press the Power button and wait until the slider appears. For Xiaomi Redmi Note 12T Pro  X and 11/12/13/14, you'll have to hold the Volume button and the Power button together to make the slider appear on the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![restart Xiaomi Redmi Note 12T Pro ](https://www.virtuallocation.com/images/pokemon-go/restart-Xiaomi Redmi Note 12T Pro .jpg)
 
 Drag the Power slider to the right side and wait for the Xiaomi Redmi Note 12T Pro device to shut down. Wait for a minute before you restart the Xiaomi Redmi Note 12T Pro device, and hopefully, the feature will start working again as usual.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ### Tip 7: Check That Your Friend Has Signed into Find My Friends
 
 Another tip that can help you resolve to **Find My Friends location not available** is checking that your friend has signed into the app. It is apparent that if your friend hasn't logged into the feature, you won't access his/her location.
@@ -600,6 +699,9 @@ To use Dr.Fone - Virtual Location, here are the steps you need to follow:
 
 **Step 1:** Download the virtual location app for both iOS and Android and install it on your system carefully. Then, launch the app and select the "Virtual Location" option from the toolkit.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2:** The next step is to set up the phone's connection. Connect your Xiaomi Redmi Note 12T Pro  and click on the "Get Started" button. Now, detect your current virtual location by clicking on the "Current Virtual Location" icon.
@@ -608,10 +710,16 @@ To use Dr.Fone - Virtual Location, here are the steps you need to follow:
 
 **Step 3:** Now go to the search box and type the location you want to switch to. Once the location gets detected, click on the "Move Here" option, and the location of your Xiaomi Redmi Note 12T Pro  or Android phone will change to the one you specified.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![move to virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 As you can see, when you have Dr.Fone - Virtual Location software, you can share any location with just one click. And it would seem that your Find My Friends app is working fine.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## FAQs You May Want to Know about Xiaomi Redmi Note 12T Pro  Location
 
 **1\. Is there a way to check if someone has stopped sharing their location with you on their Xiaomi Redmi Note 12T Pro ?**
@@ -679,3 +787,68 @@ Hopefully, now you know "why is find my friends not working" and several ways to
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/1716069277615-new-in-2024-infinite-jest-joyride-top-kids-game-lineup/"><u>[New] In 2024, Infinite Jest Joyride - Top Kids' Game Lineup!</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-rhythm-and-recording-in-snapchat/"><u>[New] In 2024, Rhythm & Recording in Snapchat</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-ultimate-camera-review-can-gopros-hero-beat-sonys-dslr-action-for-2024/"><u>[New] Ultimate Camera Review  Can GoPro's Hero Beat Sony's DSLR Action for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-10-athletic-free-front-rows-for-relaxing/"><u>[Updated] 10 Athletic-Free Front Rows for Relaxing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-video-lessons-to-visual-gigs-youtube-videos-converted-seamlessly/"><u>[Updated] 2024 Approved  From Video Lessons to Visual Gigs  YouTube Videos Converted Seamlessly</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-expert-tips-for-high-quality-minecraft-saves-for-2024/"><u>[Updated] Expert Tips for High-Quality Minecraft Saves for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-the-complete-users-manual-to-mac-dvd-burning/"><u>2024 Approved  The Complete User's Manual to Mac DVD Burning</u></a></li>
+<li><a href="https://fake-location.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-ace-2-pro-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Ace 2 Pro.</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-the-best-practices-for-online-cricket-watch-for-2024/"><u>Exploring the Best Practices for Online Cricket Watch for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Lenovo ThinkPhone? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Oppo K11x? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>How to Fix Life360 Shows Wrong Location On Apple iPhone 14 Plus? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-oppo-k11-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Oppo K11 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>How to Share Location in Messenger On Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-15-plus-passcode-screen-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Plus Passcode Screen?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-y27s-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-11-best-location-changers-for-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-11-best-location-changers-for-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-oppo-reno-8t-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Oppo Reno 8T? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-elevating-selfies-and-pics-on-snapchat-edit-like-a-pro/"><u>In 2024, Elevating Selfies and Pics on Snapchat – Edit Like a Pro</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On OnePlus 12R? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-huawei-p60-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Huawei P60 Phone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-hue-harmony-simplified-steps-for-professional-color-adjustment/"><u>In 2024, Hue Harmony  Simplified Steps for Professional Color Adjustment</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-secure-and-quality-the-top-5-choice-of-recorders/"><u>In 2024, Secure and Quality - The Top 5 Choice of Recorders</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-windows-11s-latest-traits-unveiled/"><u>In 2024, Windows 11'S Latest Traits Unveiled</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-apple-iphone-14-look-no-further-drfone-by-drfone-virtual-ios/"><u>Looking For A Location Changer On Apple iPhone 14? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/metaverse-vs-multiverse-a-comprehensive-breakdown/"><u>Metaverse vs Multiverse  A Comprehensive Breakdown</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/monetize-mastery-turning-views-into-revenue-on-vimeo-for-2024/"><u>Monetize Mastery  Turning Views Into Revenue on Vimeo for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-xiaomi-civi-3-disney-100th-anniversary-edition-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Xiaomi Civi 3 Disney 100th Anniversary Edition? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-oneplus-nord-3-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on OnePlus Nord 3 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/proven-techniques-for-captivating-online-audiences-via-zoom-and-youtube-live-for-2024/"><u>Proven Techniques for Captivating Online Audiences via Zoom & YouTube Live for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-tecno-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Tecno has been deleted.</u></a></li>
+<li><a href="https://extra-support.techidaily.com/refining-screen-enlargement-for-clear-views-for-2024/"><u>Refining Screen Enlargement for Clear Views for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-vivo-v27-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-removing-onedrive-linkage-on-windows-os/"><u>Steps for Removing OneDrive Linkage on Windows OS</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/understanding-the-impact-activating-auto-hdr-feature-on-windows-11/"><u>Understanding the Impact  Activating Auto HDR Feature on Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Lava Yuva 3 | Dr.fone</u></a></li>
+</ul></div>
