@@ -1,7 +1,7 @@
 ---
 title: In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Xiaomi Redmi 12 5G | Dr.fone
-date: 2024-09-18T17:03:28.910Z
-updated: 2024-09-23T12:03:42.011Z
+date: 2024-09-24T22:08:52.770Z
+updated: 2024-09-29T22:56:38.431Z
 tags: 
   - virtual location chang
   - location changer
@@ -61,6 +61,13 @@ This app is helpful while playing games related to location. You can mock your f
 - Ease Installation and setup process
 - Flexible and customizable
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### The Against Voices on Fake GPS GO Location Spoofer
 
 There exist disappointed users struggling to understand this app. The user’s face issues only if they were not able to follow the instructions promptly provided by the development team of Fake GPS Go Location Spoofer.
@@ -109,13 +116,6 @@ Step 7: Now go to the ‘Fake GPS Go Location’ app and select your favourite s
 
 ![select the no-ads option](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 8: Finally, you have changed the default current location in your device using the Fake GPS Go Location Spoofer app successfully.
 
 ![change current location](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-13.jpg)
@@ -124,19 +124,6 @@ Step 9: Close this app and open the Google Map to check your current location yo
 
 ![open the Google Map](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-14.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4: Any other better alternative to Fake GPS GO
 
 In this section, you will learn about the alternative tool to Fake GPS Go. The name of the alternative app is ‘Fake GPS Location’. It is a new app released this year 2019 to serve the users in a better way. You can download this software at Google play store without any issues.
@@ -144,6 +131,13 @@ In this section, you will learn about the alternative tool to Fake GPS Go. The n
 Step 1: Check-in to play store and type ‘Fake GPS Location’ in the search bar. Tap the ‘Install’ button to trigger the downloading process.
 
 ![Fake GPS Location](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-15.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 2: Open the app after the download process
 
@@ -172,10 +166,10 @@ Step 7: At last, the fake location is marked on your device using this app. Your
 ![new location on your device](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-22.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Now you had a clear picture of the ‘Fake GPS Location’ app in a detailed manner. It is enough if you follow the steps carefully to mark the fake location in no time.
@@ -214,13 +208,6 @@ Step 5: Then entered place will be recognized by the program and you need to cli
 
 ![entered place recognized](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 6: The location will be changed successfully. You can now see on the map or in the location based app in iPhone, the spot will be seen as the same you selected.
 
 ![see changed location on the map](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
@@ -237,9 +224,23 @@ Step 3: Next, key in a number that will define the number of times you want to t
 
 ![define the number](https://images.wondershare.com/drfone/guide/virtual-location-09.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 4: Now, the position will be seen moving as per the chosen speed on the map. And this is how you can fake the movement sans **_Fake GPS Go apk_**.
 
 ![moving as per the chosen speed](https://images.wondershare.com/drfone/guide/virtual-location-10.png)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Part 3: Simulate Route Movement for Multiple Locations
 
@@ -248,13 +249,6 @@ Step 1: For multiple spots, you need to click the “multi-stop route” after e
 Step 2: The pop-up will show the distance where you need to hit the “Move Here” button. Choose the moving speed.
 
 ![select the multiple places](https://images.wondershare.com/drfone/guide/virtual-location-11.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 3: Enter a digit for how many times you want to take route and click “March”. This will begin the movement simulation.
 
@@ -279,13 +273,6 @@ GPS is a helpful tool to track the location of someone or something. GPS has bec
 On the other hand, if you're looking for an alternative to Fake GPS Mod, read our guide below to find the best alternative.
 
 ![introduction to fake gps mod](https://images.wondershare.com/drfone/article/2022/12/best-gps-mod-introduction.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: What is the [Fake GPS Mod](https://divyanet.com/fake-gps-mod-apk/) and How Does It Work?
 
@@ -344,9 +331,23 @@ IPhone users can connect to Dr.Fone - Virtual Location without connecting a USB 
 
 ![teleport using drfone virtual location](https://images.wondershare.com/drfone/article/2022/12/dr-fone-teleport-location.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **(Optional) Step 5-A:** To simulate movement along a route, click **One stop mode** and select a spot you want to go on the map. Drag the slider speed on the pop-up box to select your movement speed from walking, cycling, or more.
 
 ![choose a route using dr fone](https://images.wondershare.com/drfone/article/2022/12/dr-fone-choose-route.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **(Optional) Step 5-B:** If you want to set multiple routes, click **Multi-stop mode** in the upper-right and select your chosen spots one by one. Use the sliders once more to specify the moving speed and how many times you have to go back and forth.
 
@@ -355,13 +356,6 @@ IPhone users can connect to Dr.Fone - Virtual Location without connecting a USB 
 **(Optional) Step 5-C:** If you want to select spots you can pass one by one, click **Jump teleport mode** in the upper right corner. Choose your desired spots and click **Start Moving**. Afterward, click **Last Point** or **Next Point** to jump between spots.
 
 ![jump teleport using dr fone](https://images.wondershare.com/drfone/article/2022/12/dr-fone-jump-teleport.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note:**
 
@@ -400,13 +394,6 @@ To make things easier for you to connect to a free PPTP VPN server, we have come
 
 <table><tbody><tr><td></td><td><strong>Server</strong></td><td><strong>Username</strong></td><td><strong>Password</strong></td><td><strong>Country</strong></td></tr><tr><td>1.</td><td>us1.vpnbook.com</td><td>vpnbook</td><td>88wxtet</td><td>USA</td></tr><tr><td>2.</td><td>us2.vpnbook.com</td><td>vpnbook</td><td>88wxtet</td><td>USA</td></tr><tr><td>3.</td><td>ca1.vpnbook.com</td><td>vpnbook</td><td>88wxtet</td><td>Canada</td></tr><tr><td>4.</td><td>de233.vpnbook.com</td><td>vpnbook</td><td>88wxtet</td><td>Germany</td></tr><tr><td>5.</td><td>fr1.vpnbook.com</td><td>vpnbook</td><td>88wxtet</td><td>France</td></tr><tr><td>6.</td><td>it.vpnjantit.com</td><td>vpnjantit.com</td><td>i0ryj</td><td>Italy</td></tr><tr><td>7.</td><td>sg1.vpnjantit.com</td><td>vpnjantit.com</td><td>i0ryj</td><td>Singapore</td></tr><tr><td>8.</td><td>sg2.vpnjantit.com</td><td>vpnjantit.com</td><td>i0ryj</td><td>Singapore</td></tr><tr><td>9.</td><td>sg3.vpnjantit.com</td><td>vpnjantit.com</td><td>i0ryj</td><td>Singapore</td></tr><tr><td>10.</td><td>usa1.vpnjantit.com</td><td>vpnjantit.com</td><td>i0ryj</td><td>USA</td></tr><tr><td>11.</td><td>gr.vpnjantit.com</td><td>vpnjantit.com</td><td>i0ryj</td><td>Germany</td></tr><tr><td>12.</td><td>uk.realfreevpn.com</td><td>realfreevpn</td><td>25570</td><td>UK</td></tr><tr><td>13.</td><td>de.realfreevpn.com</td><td>realfreevpn</td><td>93937</td><td>Germany</td></tr><tr><td>14.</td><td>fr.realfreevpn.com</td><td>realfreevpn</td><td>76216</td><td>France</td></tr><tr><td>15.</td><td>us1.superfreevpn.com</td><td>free</td><td>1596</td><td>USA (Miami)</td></tr><tr><td>16.</td><td>us2.superfreevpn.com</td><td>free</td><td>2737</td><td>USA (Chicago)</td></tr><tr><td>17.</td><td>uk.superfreevpn.com</td><td>free</td><td>7833</td><td>UK (London)</td></tr><tr><td>18.</td><td>ca.superfreevpn.com</td><td>free</td><td>1251</td><td>Canada (Montreal)</td></tr><tr><td>19.</td><td>nl.superfreevpn.com</td><td>free</td><td>2988</td><td>Netherlands (Brabant)</td></tr><tr><td>20.</td><td>us.websitevpn.com</td><td>websitevpn.com</td><td>freevpn</td><td>USA</td></tr><tr><td>21.</td><td>uk.websitevpn.com</td><td>websitevpn.com</td><td>freevpn</td><td>UK</td></tr><tr><td>22.</td><td>ca.justfreevpn.com</td><td>justfreevpn</td><td>Canada Free VPN Account</td><td>Canada</td></tr><tr><td>23.</td><td>uspptp.hotfreevpn.com</td><td>free</td><td>1234</td><td>USA</td></tr><tr><td>24.</td><td>51.15.151.165</td><td>pptp</td><td>ykDJYnCIirN</td><td>France</td></tr><tr><td>25.</td><td>128.199.221.154</td><td>contassh</td><td>abcd1234</td><td>Singapore</td></tr><tr><td>26.</td><td>128.199.96.14</td><td>contassh</td><td>abcd1234</td><td>Singapore</td></tr><tr><td>27.</td><td>188.166.6.170</td><td>contassh</td><td>abcd1234</td><td>Netherlands</td></tr><tr><td>28.</td><td>188.166.155.99</td><td>contassh</td><td>abcd1234</td><td>Netherlands</td></tr><tr><td>29.</td><td>138.68.140.197</td><td>contassh</td><td>abcd1234</td><td>UK</td></tr><tr><td>30.</td><td>138.68.64.68</td><td>contassh</td><td>abcd1234</td><td>UK</td></tr><tr><td>31.</td><td>159.203.111.101</td><td>contassh</td><td>abcd1234</td><td>USA</td></tr><tr><td>32.</td><td>139.59.244.147</td><td>sshagan</td><td>abcd1234</td><td>Singapore</td></tr><tr><td>33.</td><td>139.59.237.15</td><td>sshagan</td><td>abcd1234</td><td>Singapore</td></tr><tr><td>34.</td><td>128.199.214.71</td><td>sshagan</td><td>abcd1234</td><td>Singapore</td></tr><tr><td>35.</td><td>178.62.38.164</td><td>sshagan</td><td>abcd1234</td><td>UK</td></tr><tr><td>36.</td><td>46.101.79.161</td><td>sshagan</td><td>abcd1234</td><td>UK</td></tr><tr><td>37.</td><td>192.241.184.169</td><td>sshagan</td><td>abcd1234</td><td>USA</td></tr><tr><td>38.</td><td>192.241.179.120</td><td>sshagan</td><td>abcd1234</td><td>USA</td></tr><tr><td>39.</td><td>162.243.33.71</td><td>sshagan</td><td>abcd1234</td><td>USA</td></tr><tr><td>40.</td><td>162.243.15.104</td><td>sshagan</td><td>abcd1234</td><td>USA</td></tr></tbody></table>
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: How to Setup Free PPTP VPN on Your Computer?
 
 After getting to know about so many free PPTP VPN Singapore, USA, Canada, UK, and other countries, you can easily learn how to set up a PPTP VPN free. The process is quite simple and can be implemented in all the leading versions of Windows (and other operating systems). Though, there could be a slight change in the overall interface of the OS you are using. To set up free VPN PPT, follow these steps:
@@ -434,6 +421,13 @@ After getting to know about so many free PPTP VPN Singapore, USA, Canada, UK, an
 8\. Sometimes, we have to change Network Settings to make it work. To do this, just select the VPN you have created and visit its Properties.
 
 ![change nerwork settings](https://images.wondershare.com/drfone/2023/virtuallocation/pptp-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 9\. Go to the Security tab and make sure the type of VPN is listed as PPTP (Point to Point Tunneling Protocol). Also, the data encryption option should be “Optional Encryption (Connect even if no encryption)” and the option for “Challenge Handshake Authentication Protocol (CHAP)” should be selected for “Allow these protocols”.
 
@@ -486,5 +480,22 @@ Some of its advantages are as follows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-mastering-9gag-a-guide-for-memetic-creation-for-2024/"><u>[New] Mastering 9GAG A Guide for Memetic Creation for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-setting-the-price-for-higher-youtube-engagement/"><u>[New] Setting the Price for Higher YouTube Engagement</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-solve-audio-absence-in-twitch-style-tweets/"><u>2024 Approved Solve Audio Absence in Twitch-Style Tweets</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Vivo T2x 5G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-apple-iphone-11-pro-max-for-mobile-legends-drfone-by-drfone-virtual-ios/"><u>How To Fake GPS On Apple iPhone 11 Pro Max For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-oneplus-12r-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-lava-yuva-3-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Lava Yuva 3 Pro? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-realme-narzo-n53-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Realme Narzo N53 and Browser | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/sharing-stories-every-day-best-practices-in-personal-videography-for-2024/"><u>Sharing Stories Every Day Best Practices in Personal Videography for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-jaycut-basics-a-quick-start-guide-to-free-online-video-editing-software-for-2024/"><u>Updated Jaycut Basics A Quick Start Guide to Free Online Video Editing Software for 2024</u></a></li>
+</ul></div>
 
