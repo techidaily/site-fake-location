@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Vivo Y100i Power 5G | Dr.fone
-date: 2024-08-02T02:22:47.832Z
-updated: 2024-08-03T02:22:47.832Z
+date: 2024-10-05T21:16:57.323Z
+updated: 2024-10-11T00:38:43.690Z
 tags: 
   - virtual location chang
   - location changer
@@ -20,9 +20,6 @@ Find My Friends is an app developed for Android and iOS devices. You can say it 
 
 It is helpful if you are having a hang out plan with your friends. And if you friend is on the way, he or she can share their location. Or it is a great way to catch if someone is lying about their location.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: About Find My Friends app
 
 When location sharing is enabled in the Vivo Y100i Power 5G device, the map will show the current locations. The [Find My Friends app](https://www.virtuallocation.com/find-my-friends/) also has an inbuilt chat option where you can contact your friend and interact about with them. It also automatically informs you when your friend reaches at the target location, leave a location etc. You can customize and configure the alerts as per your choice.
@@ -33,14 +30,8 @@ When location sharing is enabled in the Vivo Y100i Power 5G device, the map will
 
 You can find yourself confused if you are using iOS 13 and looking for Find My Friends app. You may not be able to find it on your device running on iOS 13. To your information, Apple has decided to combine the Find My iPhone and Find My Friends app into one. And they have named it as “Find My”. This new named app has everything what Find My Friends and Find My iPhone has. When you’ll open it, you will find the “People” tab on the bottom. Using this, you can get your friends as you used to get before.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![Find My Friends on iOS 13](https://images.wondershare.com/drfone/article/2019/09/find-my-friends-ios-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: What Are the Against Voices of the Find My Friends App?
 
 Look at some of the things we feel not beneficial about Find My Friends.
@@ -73,18 +64,19 @@ From the main page of dr.fone – Virtual Location (iOS), download it. After thi
 
 Now, take your iPhone and keep it connected with the system. After this is done, click on the “Get Started” button to move ahead.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![connect iphone to pc](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3: Look for Location**
 
 After following the second step, all you need is to look for your actual location. To make this happen, click on the “Center On” icon given at lower right of screen.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![look for your actual location](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 **Step 4: Enable Teleport Mode**
@@ -93,13 +85,23 @@ In this step, you should activate the teleport mode. This will be done by clicki
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 5: Fake Find My Friends Location**
 
 Now, the program will get your location and click on “Move Here” that comes in the next dialog box. The location will be changed now. You can see that in your iPhone and its location-based app.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![Fake location on Find My Friends](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 ### 3.2 Use a burner iPhone to fake location in Find My Friends
@@ -174,35 +176,20 @@ When you install it rightly, this is how to do a little twisting to set it up wi
 
 **Step 3:** When developer options are enabled, launch the app. You will see an “ENABLE” option at the bottom. Tap on it to turn on mock locations feature.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![mock locations feature](https://images.wondershare.com/drfone/article/2019/09/enable-mock-location.jpg)
 
 **Step 4:** Under the Developer options page, click on “Select mock location app”. Now, select “FakeGPS Free” from the list.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Select mock location app](https://images.wondershare.com/drfone/article/2019/09/select-mock-location-app.jpg)
 
 **Step 5:** Return to Fake GPS Free and long press the two spots on map to set the route. Take help of the play button given at the bottom. This will enable the location spoofing. You will see, “Fake location engaged…”. This will show your fake location on Find My Friends app.
 
 ![fake gps on android](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android.jpg)
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Prevent Cross-Site Tracking on Vivo Y100i Power 5G and Browser
 
 Have you ever wondered why you get the advertisements of the websites you visited a few minutes ago on your social media sites? Here comes to Cross-Site Tracking, also termed CST, and it is a process where third-party cookies and sites track your browser history.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![cross site tracking](https://images.wondershare.com/drfone/article/2022/03/cross-site-tracking.jpg)
 
 The CST process is like invading your privacy by collecting your browser history and personal information. So, to prevent these services, there are several ways by which you can cross-site tracking on your system as well as Vivo Y100i Power 5G phone browsers. Keep reading to learn **how to stop cross-site tracking on both Vivo Y100i Power 5G and browser.**
@@ -219,24 +206,14 @@ So, it is always better to prevent cross-site tracking for all the above and mor
 
 _Further reading: [A detailed guide on faking location in Mozilla Firefox](https://drfone.wondershare.com/fake-location/how-to-fake-your-location-in-firefox-browser.html). Don't worry about your location privacy anymore!_
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## Part 2: Can Private Browsing be traced?
 
 Yes, private browsing can be traced. When you work in private browsing mode, the web browser does not save the browsing history, which means that anyone who uses your system will not check your online activities. But websites and cookies can track your browsing history as well as other information.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How to Disable Cross-website Tracking on Safari for iOS Devices?
 
 Safari is the most commonly used platform by iOS users. So, to prevent CST for Safari on your iOS devices and Mac systems, below is a complete guide.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Deactivate Safari cross-website tracking for iPhone & iPad
 
 Safari cross-site tracking can be prevented using the below steps on your iPhone and iPad.
@@ -251,18 +228,26 @@ Safari cross-site tracking can be prevented using the below steps on your iPhone
 
 Use the steps below to **turn off cross-site tracking on Safari** on your Mac systems.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![stop cross-site tracking on mac](https://images.wondershare.com/drfone/article/2022/03/prevent-cst-mac.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - Step 1. On your Mac system, open the Safari app.
 - Step 2. Move to Safari > Preferences > Privacy
 - Step 3. Enable the “Prevent cross tracking” option by clicking on the box next to it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 4: How to Disable Cross-site Tracking on Google Chrome
 
 Chrome is used widely on Windows systems and Android devices, and to prevent the CST from your browser, a detailed guide is given below.
@@ -274,14 +259,8 @@ Chrome is used widely on Windows systems and Android devices, and to prevent the
 - Step 3. Choose the Privacy option from the Advanced tab.
 - Step 4. Click on the “Do Not Track” option to turn on the feature.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![stop cross-site tracking on android](https://images.wondershare.com/drfone/article/2022/03/prevent-cst-android.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Enable “Do Not Track” on Google Chrome for Computer
 
 - Step 1. Launch Chrome on your system, and from the menu at the upper-right corner, click on the Settings option.
@@ -318,26 +297,16 @@ Here is a video tutorial for you to take an overview of how to use Dr.Fone - Vir
 
 **Step 2**. Connect your iPhone or Android device to your system using a USB cable and then tap on the **Get Started** option on your software interface.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![download virtual location and get started](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 **Step 3**. A new window on the software interface will open, showing your connected phone's real and actual location. If the detected location is incorrect, click on the **“Center On”** icon to display the right device location.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![virtual location map interface](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 **Step 4.** Next, you need to activate the “**teleport mode**” and click o the 3rd icon at the upper-right corner.
 
 **Step 5**. Next, you have to **enter now the fake location** to which you wish to teleport to at the upper-left corner. Click on **Go**.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![search a location on virtual location and go](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 **Step 6**. Finally, tap on the **Move Here** button and the new fake location for your connected Android or iOS device at the pop-up box.
@@ -346,23 +315,14 @@ Here is a video tutorial for you to take an overview of how to use Dr.Fone - Vir
 
 Check the new location of your phone from the app.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![changing location completed](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
 ## Wrap it up
 
 Preventing Cross-site tracking can be done on different browsers and devices using the guides listed in the above parts of the article. Settings a fake location for your device using Dr. Fone-Virtual Location is another interesting way to prevent tracking your browsing history by spoofing the sites and cookies. Setting a fake place will not only avoid monitoring your browsing history but will also work with all location-based apps on your phone.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Share Location in Messenger On Vivo Y100i Power 5G?
 
 We usually host a gathering once in a while and invite our friends to come over. Most of us are already used to organizing such activities because we’ve been doing that for a long time now. However, we cannot deny that it’s much easier nowadays than years ago. Why so? Simply because the communication channels available today at our disposal are more digital and more capable. For instance, Facebook Messenger now allows users to share their whereabouts in a snap of a finger. Yes. That feature is called Live Location.
@@ -371,11 +331,6 @@ The Live Location feature on Messenger works beyond sending the address or coord
 
 In this article, we will delve into the highlights and benefits of Facebook Messenger’s location-sharing features. We will also provide some tutorials on **how to share Live Location** on Messenger. Continue reading below to learn more.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## Part 1. Everything You Should Know About Messenger’s Live Location
 
 Facebook is well aware that sharing location details is essential to its users. That’s why developers have come up with a brilliant idea and rolled out Live Location on Messenger. It basically works like other location-sharing features. However, Live Location provides more precise and thorough location information. It’s in map form, where you can view the exact location and track the movements of the sender. You’ll continue to see updates for as long as the sharing is not halted on the other end. To navigate it properly, try to read tutorials on how to share Live Location on Messenger.
@@ -386,9 +341,6 @@ What if you wish to send a particular address from another location? There is no
 
 Convenience is just one thing. Messenger’s location-sharing feature has a lot more to offer to users. One of which is the accuracy of the shared location information. Since the details are automatically generated through GPS, you can be sure that it is correct and definite. If you go out and track it down the neighborhood, you can certainly find the location in no time. Just make sure that the location services on your smartphone are activated so you can view your progress in real time. Also, stay vigilant while you’re out and keep yourself safe from any harm. Remember that safety remains a priority and comes above convenience.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ### How to Grant Facebook Messenger the Permission to Access Your Location?
 
 Facebook Messenger’s location-sharing feature will not work without the necessary access. That’s why you should first configure the permission settings on your mobile device to avoid unwanted disruptions. Don’t worry. It’s indeed a piece of cake. Check out the tutorial provided below.
@@ -400,36 +352,38 @@ Facebook Messenger’s location-sharing feature will not work without the necess
 
 - **Step 3:** Find and click **Messenger.**
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![messenger settings](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-3.jpg)
 
 - **Step 4:** Click **Permissions.**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![messenger permission settings](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-4.jpg)
 
 - **Step 5:** Click **Location.**
 
 ![location permission on messenger](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 6:** Select **Allow Only While Using the App.** If you’re quite conservative regarding this matter, click **Ask Every Time** instead. After that, Facebook Messenger will have access to your location information.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![allow messenger access](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2. How to Share My Location on Messenger?
 
 How do I share my location on Messenger? As mentioned earlier, it’s very easy to use Facebook Messenger for location sharing. All it takes is just a few clicks on the platform. No need to manually type in the address or sketch the landmarks. Messenger does the rest of the work for you. In actuality, there are three ways to share your location on Messenger. Any of them can be of great help to you, depending on your current situation. Do you want to try them now? Check out the tutorials below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Share location on Facebook Messenger via Live Location
 
 How to share my location on Messenger? Well, the first option you can try is through Live Location. It works best if you wish to tell somebody where exactly you are and give updates from time to time. Don’t worry. Although it looks complicated at a glance, in reality, it’s actually not rocket science. It only takes a few seconds to complete. Below is a tutorial on how to share Live Location on Messenger in easy steps.
@@ -448,9 +402,6 @@ How to share my location on Messenger? Well, the first option you can try is thr
 
 ![share live location on messenger](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ### Method 2: Share location on Facebook Messenger via Pinned Location
 
 Let’s say there is a specific place you want to visit with your friend. Is there a way to share the address of the venue without you being there at the moment? Fortunately, it is possible. Apart from sharing your current location in real-time via Live Location, you can also send pinned locations on Messenger. You just need to search for it and then redirect the details to your friend. Yes. It’s just as simple as that. Do you want to try it on your smartphone? If so, follow the guide below.
@@ -474,6 +425,13 @@ How do I share my location in Messenger if I cannot find it on the map provided?
 
 ![google maps search bar](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 3:** Choose one from the suggestions and then tap on it. Make sure that it is exactly what you’re looking for.
 
 ![location choices](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-12.jpg)
@@ -489,14 +447,9 @@ How do I share my location in Messenger if I cannot find it on the map provided?
 
 **NOTE:** Of course, you can only send pinned locations via Google Maps. The Facebook Messenger’s Live Location is available within the platform only.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## BONUS TIP: Protect Your Privacy With [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 There’s no denying that the location-sharing feature of Facebook Messenger is useful to many of us. It always comes in very handy whenever we need to meet people somewhere or invite them to our places. However, we should not become too complacent and let our guard down. Sharing sensitive information like whereabouts always comes with risk, regardless of the platform and the intention. Therefore, make it a habit to protect your privacy at all costs. In this regard, Wondershare Dr.Fone has something special to offer. Its Virtual Location feature, capable of modifying and simulating your location records, can be of great help for you. Don’t worry. It’s very easy to use. Here’s a short guide for you.
-
-
 
 - **Step 1:** Download Wondershare Dr.Fone from its [<u>official website.</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) Right after, install it on your computer.
 - **Step 2:** Launch the newly installed software on your desktop. Once it fully loads up, connect your smartphone using a data cable. Follow the on-screen instructions and perform the steps accordingly to ensure the connection between the two devices is stable enough to handle the succeeding operations.
@@ -507,35 +460,28 @@ There’s no denying that the location-sharing feature of Facebook Messenger is 
 
 - **Step 5:** Head over to the top-left corner and enter your desired location into the search bar. Choose one from the suggested results. After that, click the **Enter** icon.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![search preferred location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 - **Step 6:** The details regarding your chosen location will be displayed on the computer screen. Review the information and make sure that it is the specific location you’re looking for. Once confirmed, click **Move Here** to proceed.
 
 ![move to the selected location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 7:** Immediately, the location settings on your smartphone will be changed according to the inputs you have provided to Wondershare Dr.Fone. You can verify it by checking the current location registered on your Maps app. After confirming that your mobile device is now showing a different location, you can now start browsing without worrying about your location’s privacy.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![location changed on smartphone](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
 **NOTE:** Resort to Wondershare Dr.Fone - Virtual Location if your internet browsing does not require you to provide your real address. If you wish to restore your original location settings, simply close the Wondershare Dr.Fone application and restart your smartphone.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Gone are the days when you had to write invitation cards manually and deliver them one by one. Nowadays, all you need to do is go online and use Messenger’s location-sharing feature. Have you already tried it? If not, you should take it into consideration and use it on your next agenda. Refer to the tutorial above on how to share Live Location on Messenger. It can certainly help you get started. How do I share my location on Messenger without physically being there? That’s simple. Use Messenger or Google Maps’s pinned location. Furthermore, download [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) on your computer. Its Virtual Location feature, capable of modifying your location settings, can provide protection for your privacy. Just connect your Vivo Y100i Power 5G to the computer and set it up from there.
-
-
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -549,9 +495,22 @@ Gone are the days when you had to write invitation cards manually and deliver th
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-revenue-war-diary-dailymotion-vs-youtube-monetization-strategies/"><u>[Updated] Revenue War Diary Dailymotion vs YouTube Monetization Strategies</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-must-know-leaders-in-virtual-reality-realm/"><u>2024 Approved Must-Know Leaders in Virtual Reality Realm</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Honor 90 GT? | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-harmonizing-hue-and-shade-the-finest-4k-displays-reviewed/"><u>In 2024, Harmonizing Hue and Shade The Finest 4K Displays Reviewed</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Apple iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Oppo A58 4G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-vivo-y78-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Vivo Y78 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/mobile-magnification-premium-highlights-for-iphonesandroids/"><u>Mobile Magnification Premium Highlights for IPhones/Androids</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/this-years-most-engrossing-channel-list-youtube-storytellers/"><u>This Year’s Most Engrossing Channel List YouTube Storytellers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-10-apps-to-boost-audio-velocity-for-2024/"><u>Ultimate 10 Apps to Boost Audio Velocity for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-best-cartoon-animation-software-for-android-and-ios/"><u>Updated In 2024, Best Cartoon Animation Software for Android and iOS</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Honor 90 Pro? | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Tecno Spark 20 Pro | Dr.fone
-date: 2024-08-02T02:22:38.381Z
-updated: 2024-08-03T02:22:38.381Z
+date: 2024-10-09T00:51:53.929Z
+updated: 2024-10-11T01:13:01.198Z
 tags: 
   - virtual location chang
   - location changer
@@ -20,14 +20,6 @@ Find My Friends is an app developed for Android and iOS devices. You can say it 
 
 It is helpful if you are having a hang out plan with your friends. And if you friend is on the way, he or she can share their location. Or it is a great way to catch if someone is lying about their location.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: About Find My Friends app
 
 When location sharing is enabled in the Tecno Spark 20 Pro device, the map will show the current locations. The [Find My Friends app](https://www.virtuallocation.com/find-my-friends/) also has an inbuilt chat option where you can contact your friend and interact about with them. It also automatically informs you when your friend reaches at the target location, leave a location etc. You can customize and configure the alerts as per your choice.
@@ -38,14 +30,8 @@ When location sharing is enabled in the Tecno Spark 20 Pro device, the map will 
 
 You can find yourself confused if you are using iOS 13 and looking for Find My Friends app. You may not be able to find it on your device running on iOS 13. To your information, Apple has decided to combine the Find My iPhone and Find My Friends app into one. And they have named it as “Find My”. This new named app has everything what Find My Friends and Find My iPhone has. When you’ll open it, you will find the “People” tab on the bottom. Using this, you can get your friends as you used to get before.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![Find My Friends on iOS 13](https://images.wondershare.com/drfone/article/2019/09/find-my-friends-ios-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2: What Are the Against Voices of the Find My Friends App?
 
 Look at some of the things we feel not beneficial about Find My Friends.
@@ -72,28 +58,18 @@ One of the useful ways to learn faking location on Find My Friends is using a pr
 
 From the main page of dr.fone – Virtual Location (iOS), download it. After this, install the tool on your system and then launch it. Now, click on “Virtual Location” option.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![install the tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2: Set up Phone’s Connection**
 
 Now, take your iPhone and keep it connected with the system. After this is done, click on the “Get Started” button to move ahead.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![connect iphone to pc](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 **Step 3: Look for Location**
 
 After following the second step, all you need is to look for your actual location. To make this happen, click on the “Center On” icon given at lower right of screen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![look for your actual location](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 **Step 4: Enable Teleport Mode**
@@ -140,9 +116,6 @@ If you have done jailbreaking, you can have FMFNotifier. Jailbreaking will be wo
 
 **Step 3:** Lastly, install the package. Now, you can go to “Settings” on your device. Go to FMFNotifier and configure the settings as you want to fake location on Find My Friends.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![configure the settings](https://images.wondershare.com/drfone/article/2019/09/fmfnotifier-settings.jpg)
 
 ### 3.4 Use AntiTracker to protect your location privacy
@@ -151,9 +124,6 @@ When privacy is everything for you, you cannot tolerate anyone peeping into your
 
 You will get the notification no matter your screen is locked or not. A notification that is “You’re being tracked” along with the Find My Friends icon will appear when someone tries to track you.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![find tracks using the antitracker](https://images.wondershare.com/drfone/article/2019/09/antitracker-notification.jpg)
 
 **Guide on How to Use AntiTracker**
@@ -170,9 +140,6 @@ You will get the notification no matter your screen is locked or not. A notifica
 
 ![antitracker settings](https://images.wondershare.com/drfone/article/2019/09/antitracker-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: How to Fake Find My Friends location on Android
 
 If you want to fake Find My Friends location on Android, you can easily configure Android devices to do it. For this, you can take help of an Android spoofer app. There are plenty of them available in Play Store. We will be using “Fake GPS GO Location Spoofer Free”. This is how to fake location on Find My Friends on Android.
@@ -189,42 +156,29 @@ When you install it rightly, this is how to do a little twisting to set it up wi
 
 **Step 3:** When developer options are enabled, launch the app. You will see an “ENABLE” option at the bottom. Tap on it to turn on mock locations feature.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![mock locations feature](https://images.wondershare.com/drfone/article/2019/09/enable-mock-location.jpg)
 
 **Step 4:** Under the Developer options page, click on “Select mock location app”. Now, select “FakeGPS Free” from the list.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![Select mock location app](https://images.wondershare.com/drfone/article/2019/09/select-mock-location-app.jpg)
 
 **Step 5:** Return to Fake GPS Free and long press the two spots on map to set the route. Take help of the play button given at the bottom. This will enable the location spoofing. You will see, “Fake location engaged…”. This will show your fake location on Find My Friends app.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![fake gps on android](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## A Detailed Guide on Faking Your Location in Mozilla Firefox On Tecno Spark 20 Pro
 
 Mozilla Firefox is one of the most famous browsers known for its security. Like other browsers, it also tracks your location and shares it with websites. Although Firefox asks for your permission before sharing your location, it can still be a privacy concern for many people. For many reasons, disabling your location is disadvantageous, so **Firefox spoof location** can resolve your concerns.
 
 It is not hard to change or spoof your location in Mozilla Firefox. Stick with this article to learn different ways to **fake a location in Firefox** on devices.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![firefox featured image](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-1.jpg)
 
 ## Part 1: Preparations Before Spoofing Your Location in Firefox
@@ -235,9 +189,6 @@ Before starting with **Firefox location spoof**, you must be aware of how the pl
 
 Basically, a browser API called HTML5 Geolocation API is used by websites and browsers to detect a user's location using longitude and latitude coordinates. It is strictly based on user permissions for detecting location. That means you will receive a permission prompt whenever a website or browser uses it to detect your location. If you refuse the permission, they can't use this API for location determination.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### 2\. How Does HTML5 Geolocation Work?
 
 HTML5 Geolocation determines your location using the longitude and latitude coordinates with the help of GPS. If your device doesn't have GPS tracking, it uses Wi-Fi and cell tower signals to detect the Tecno Spark 20 Pro device's location. The location detected by HTML5 Geolocation is highly accurate with accuracy up to street level. Due to its high precision in locating users, it can create privacy issues for users.
@@ -262,9 +213,6 @@ If you want to stop websites from accessing your location from Mozilla Firefox, 
 
 ![enable the block new option](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Manually Change Your Firefox Location
 
 Disabling your location on Mozilla Firefox can stop websites from accessing your location. It also means websites with location-based services will no longer work. That's why it is better to **spoof the location on Firefox** rather than disabling it. Firefox allows you to manually change your location using its advanced settings. The steps required for this process are given below:
@@ -283,14 +231,8 @@ Disabling your location on Mozilla Firefox can stop websites from accessing your
 
 Once done, your geolocation will be changed to your desired location.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![add your fake firefox location](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 3: Use The Location Guard Firefox Extension
 
 Another way you can protect your location from websites is to use the "[Location Guard](https://addons.mozilla.org/en-US/firefox/addon/location-guard/)" add-on in Mozilla Firefox. It is generally recognized as an extension, also available in the Add-Ons Store of Firefox. The steps to add "Location Guard" and use it to alter your location are following:
@@ -311,9 +253,6 @@ Another way you can protect your location from websites is to use the "[Location
 
 It is not only on computers where you can use Firefox fake location but also on smartphones. You can easily disable or change your Firefox location on your iOS or Android device. Three different methods to disable or change the location in Mozilla Firefox are summarized below:
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Disable Geolocation Sharing on the Firefox Browser
 
 If you use the Firefox browser on your phone, it allows you to disable your location using a couple of simple steps. Disabling location services for the Firefox browser differs on Android and iOS devices. A detailed step-by-step process for disabling location is given below for both platforms:
@@ -326,18 +265,19 @@ If you use the Firefox browser on your phone, it allows you to disable your loca
 
 **Step 2:** Now, tap "Site Permissions" and select "Location." In the "Location" option, select "Blocked" to disable the location access on the Firefox browser.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![enable the blocked option](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-12.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **On iPhone**
 
 **Step 1:** On your iPhone, open "Settings" and scroll down to "Firefox." After locating the app, select it and press "Location" on the next screen.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![choose the firefox app](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-13.jpg)
 
 **Step 2:** In the "Location" menu, you can select "Never" to completely disable the location access for the Firefox browser. To only stop Firefox from detecting your accurate location, turn off the toggle of the "Precise Location" option.
@@ -350,11 +290,6 @@ Nowadays, many websites work with the help of location-based services. Disabling
 
 [Wondershare Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) provides you with an excellent way to do **Firefox location spoofing**. You will not have to worry about websites or apps detecting your location as fake when using this tool.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer for both iOS and Android
@@ -372,8 +307,6 @@ Nowadays, many websites work with the help of location-based services. Disabling
 - Dr.Fone - Virtual Location allows you to play location-based games. It includes games like Pokémon Go, Minecraft Earth, and Jurassic World Alive, all from the comfort of your bed.
 - If you use a dating app like Tinder or Bumble, you can increase your likes and matches using this tool.
 - You can bypass the geo-restriction of apps and enjoy their content with the tool's help.
-
-
 
 **Steps Required for Spoofing Location in Firefox via Dr.Fone - Virtual Location**
 
@@ -395,16 +328,8 @@ After clicking "Get Started, " a map will open where you must select your origin
 
 Enter your desired fake location in the provided space and press "Go" once the mode is activated. It will take you to the entered location, where you need to select "Move Here" to complete the process. You can confirm the location spoof by opening any location-based app on your phone.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![confirm the fake location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3: Change Your Location in Firefox Using ExpressVPN
 
 Browsers like Mozilla Firefox tracks your location by using your IP address. You can use a VPN to spoof your IP location to protect your actual location from websites. [ExpressVPN](https://www.expressvpn.com/) is a VPN that is available for both Android and iOS devices. You can use these steps to change your location using ExpressVPN:
@@ -416,30 +341,31 @@ Browsers like Mozilla Firefox tracks your location by using your IP address. You
 ![select the expressvpn location](https://images.wondershare.com/drfone/article/2022/12/how-to-fake-your-location-in-firefox-browser-18.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Conclusion
 
 In today's digital world, you have to compromise your privacy to some extent. However, it doesn't mean that you should not try to use tools available to you to protect your privacy to the limit. [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) solves your concerns regarding location sharing with ease. With this tool, you can **fake location in Firefox** and still enjoy all the features and services offered by location-based websites and apps.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## How to Fix Tecno Spark 20 Pro Find My Friends No Location Found?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 [![avatar](https://drfone.wondershare.com/images/james-davis.png)](https://drfone.wondershare.com/author/james-davis/)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 In this time of modern technology, it is hard to be away from your phone or even leave it at home. When any task that we plan to do, usually already have an application released for the sole purpose of doing that task and needing to do it on your phone. When we message our friends, have a video call with our family, or just simply order food to eat at home, you can do all of them on the Tecno Spark 20 Pro device in your palm.
 
 Another advantage of having our phones with us all the time is that you can also see the current location of either your friend or family. For Apple phone users, they have an app that is called "Find My Friends" that will show you the locations of the people that you are tracking. But what if you cannot find the location of the friend? We will find out the causes as to why no location can be found and how you can fix this in just a few simple steps.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Why does an Tecno Spark 20 Pro say "no location found"?
 
 When you are searching for your friend's current location and it shows that "no location found", there could be numerous reasons as to why that is happening. We have listed down the possible reasons why there is no location found.
@@ -467,9 +393,6 @@ If you encounter an issue that says "No Location Found", there are numerous ways
 
 _**Option #1:**_ Adjust your phone's date and time. You can reset your time by following the steps.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone date & time](https://images.wondershare.com/drfone/article/2022/06/find-my-friends-no-location-found-3.jpg)
 
 - _Step 1:_ Go to "Settings" and choose "General".
@@ -481,9 +404,6 @@ _**Option #2:**_ Make sure that you or the other user is connected to the intern
 
 **_Option #3:_** Turn off and turn on your "Location Services". Usually, this simple troubleshooting can fix this issue, you can try this out and check if you can see their location now. They can turn it on by following the steps below.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![location services](https://images.wondershare.com/drfone/article/2022/06/find-my-friends-no-location-found-5.jpg)
 
 - _Step 1:_ Go to "Settings" and choose "Privacy".
@@ -497,17 +417,32 @@ If you want to share your location in the "Find My Friends" application, you can
 
 ![share your location](https://images.wondershare.com/drfone/article/2022/06/find-my-friends-no-location-found-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - _**Step 1:**_ Open the "Find My Friends" application and select "People".
 - **_Step 2:_** Then you can tap on "Share My Location" and from there, you can type the phone number of the person you want to share your location too. You can also specify the amount of time you will share your location.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 4: How to Share a Fake Location to Others in Find App?
 
 Sometimes we want our location to be kept secret and send a fake one to our friends and family. You can do that in our app, "[Dr. Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)" which allows you to share a fake location with your friends.
-
-
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -525,21 +460,28 @@ You can use this application by following the steps below.
 
 _**Step 1:**_ Download the "Dr. Fone - Virtual Location" software on your laptop. Open and choose "Virtual Location".
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![start drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **_Step 2:_** You can then connect your phone to your computer and click on "Get Started".
 
 ![start the virtual location feature](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **_Step 3:_** You will then be redirected to your current location on the new page.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![locate yourself](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 _**Step 4:**_ If you want to change your location, you will need to turn on the "Teleportation" mode by clicking on the first icon, typing the location you want, and then clicking on the "Go" icon.
@@ -548,15 +490,11 @@ _**Step 4:**_ If you want to change your location, you will need to turn on the 
 
 **_Step 5:_** Click on "Move Here" and your current location will show up as the location that you typed on Your Tecno Spark 20 Pro.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![teleport to desired location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 ## Conclusion
 
 We hope the tips we shared helped fix the "No Location Found" issue on your phone. Sometimes basic troubleshooting such as restarting your phone or turning off and on your GPS. You can also use our tip to use a fake location that you can send to your friends if you want to play a prank on them.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -570,9 +508,22 @@ We hope the tips we shared helped fix the "No Location Found" issue on your phon
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-top-10-youtube-growth-titles-where-creativity-soars-quickly/"><u>[New] 2024 Approved Top 10 YouTube Growth Titles Where Creativity Soars Quickly</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-best-snapchat-filters-and-lenses-that-you-want-to-try/"><u>[New] Best Snapchat Filters and Lenses That You Want to Try</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-ideal-apps-for-editing-and-mixing-dji-video-tapes/"><u>[Updated] Ideal Apps for Editing and Mixing DJi Video Tapes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-strategic-approaches-to-subtitle-embedding-on-facebook-reddit/"><u>[Updated] Strategic Approaches to Subtitle Embedding on Facebook, Reddit</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>Does Airplane Mode Turn off GPS Location On Apple iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Infinix Smart 7 HD? | Dr.fone</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/effortless-screen-recording-with-vlc-a-comprehensive-guide/"><u>Effortless Screen Recording with VLC: A Comprehensive Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restart-and-revive-your-iphone-hotspot-for-seamless-internet-sharing/"><u>How to Restart and Revive Your iPhone Hotspot for Seamless Internet Sharing</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-demystifying-color-grading-with-powerful-luts/"><u>In 2024, Demystifying Color Grading with Powerful LUTs</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Lenovo ThinkPhone? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/is-your-iphone-6-plus-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your iPhone 6 Plus in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Realme 11 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>Which is the Best Fake GPS Joystick App On Apple iPhone 12? | Dr.fone</u></a></li>
+</ul></div>
 
