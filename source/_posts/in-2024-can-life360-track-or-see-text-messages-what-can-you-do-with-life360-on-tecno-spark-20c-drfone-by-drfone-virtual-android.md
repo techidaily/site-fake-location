@@ -1,7 +1,7 @@
 ---
 title: In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Tecno Spark 20C? | Dr.fone
-date: 2024-10-07T00:14:35.081Z
-updated: 2024-10-11T00:50:09.040Z
+date: 2024-10-12T22:19:21.823Z
+updated: 2024-10-16T16:40:05.439Z
 tags: 
   - virtual location chang
   - location changer
@@ -55,10 +55,10 @@ Now, you know that Life360 cannot see your text message, but what can Life360 se
 It's important to note that while Life360 is designed to facilitate family communication and safety, the extent of data visibility and tracking can vary based on the settings and permissions configured within the app.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 5: How to stop Life360 from seeing your location data?
@@ -140,13 +140,6 @@ Facebook Messenger’s location-sharing feature will not work without the necess
 
 ![apps settings](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3:** Find and click **Messenger.**
 
 ![messenger settings](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-3.jpg)
@@ -182,10 +175,10 @@ How to share my location on Messenger? Well, the first option you can try is thr
 ![location option on messenger](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 - **Step 5:** Click **Start Sharing Live Location.** Immediately, your current location details will be available and forwarded to the intended receiver. Live Location lasts for 60 minutes at maximum. If you wish to terminate it, simply click **Stop Sharing Live Location.**
@@ -193,10 +186,10 @@ How to share my location on Messenger? Well, the first option you can try is thr
 ![share live location on messenger](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2: Share location on Facebook Messenger via Pinned Location
@@ -212,6 +205,19 @@ Let’s say there is a specific place you want to visit with your friend. Is the
 ![search location on messenger](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-10.jpg)
 
 - **Step 6:** Choose one from the suggested results and then click on it. The details will then be forwarded immediately to the intended receiver.
+
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3: Share location on Facebook Messenger via Google Maps location
 
@@ -237,6 +243,19 @@ How do I share my location in Messenger if I cannot find it on the map provided?
 
 **NOTE:** Of course, you can only send pinned locations via Google Maps. The Facebook Messenger’s Live Location is available within the platform only.
 
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## BONUS TIP: Protect Your Privacy With <u>Wondershare Dr.Fone</u>
 
 There’s no denying that the location-sharing feature of Facebook Messenger is useful to many of us. It always comes in very handy whenever we need to meet people somewhere or invite them to our places. However, we should not become too complacent and let our guard down. Sharing sensitive information like whereabouts always comes with risk, regardless of the platform and the intention. Therefore, make it a habit to protect your privacy at all costs. In this regard, Wondershare Dr.Fone has something special to offer. Its Virtual Location feature, capable of modifying and simulating your location records, can be of great help for you. Don’t worry. It’s very easy to use. Here’s a short guide for you.
@@ -252,6 +271,19 @@ There’s no denying that the location-sharing feature of Facebook Messenger is 
 
 ![search preferred location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 6:** The details regarding your chosen location will be displayed on the computer screen. Review the information and make sure that it is the specific location you’re looking for. Once confirmed, click **Move Here** to proceed.
 
 ![move to the selected location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
@@ -262,23 +294,9 @@ There’s no denying that the location-sharing feature of Facebook Messenger is 
 
 **NOTE:** Resort to Wondershare Dr.Fone - Virtual Location if your internet browsing does not require you to provide your real address. If you wish to restore your original location settings, simply close the Wondershare Dr.Fone application and restart your smartphone.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Gone are the days when you had to write invitation cards manually and deliver them one by one. Nowadays, all you need to do is go online and use Messenger’s location-sharing feature. Have you already tried it? If not, you should take it into consideration and use it on your next agenda. Refer to the tutorial above on how to share Live Location on Messenger. It can certainly help you get started. How do I share my location on Messenger without physically being there? That’s simple. Use Messenger or Google Maps’s pinned location. Furthermore, download [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) on your computer. Its Virtual Location feature, capable of modifying your location settings, can provide protection for your privacy. Just connect your Tecno Spark 20C to the computer and set it up from there.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Looking For A Location Changer On Tecno Spark 20C? Look No Further
 
@@ -340,18 +358,18 @@ This is how you use Dr.Fone Virtual Location, an iOS 16 Pokémon go spoofer tool
 
 ![wondershare drfone virtual location module](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4:** Click Get Started. NEW Feature: Tecno Spark 20C users are now able to go wireless after setting this up the first time!
 
 The screen shows your real location – as per the actual GPS coordinates of your device.
 
 ![drfone virtual location interface](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 That's it! You are now ready to perform techno-wizardry, relocate to another place, or even simulate movement between two points easily! Here's how:
 
@@ -418,10 +436,10 @@ Not in the least. Dr.Fone Virtual Location spoofer on Tecno Spark 20C works from
 Can't say for other apps in the market, but Wondershare Dr.Fone – Virtual Location does not require you to jailbreak your Tecno Spark 20C. It works using the computer to temporarily change the GPS coordinates of your Tecno Spark 20C, and you can stop spoofing your location anytime by simply restarting your handset. It does not cause security issues with iOS or risk your privacy at all.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### FAQ 3: Can I jailbreak Tecno Spark 20C to spoof location using Cydia?
@@ -448,16 +466,20 @@ Location spoofer Tecno Spark 20C apps are gaining prevalence today mostly among 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-exquisite-stop-motion-cinema-top-15-picks/"><u>[New] Exquisite Stop-Motion Cinema - Top 15 Picks</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Nokia C210 | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Infinix Hot 40 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-airwaves-to-iphone-essential-knowledge-on-podcast-downloads/"><u>In 2024, From Airwaves to iPhone Essential Knowledge on Podcast Downloads</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-sideways-to-right-side-up-how-to-flip-videos-quickly/"><u>In 2024, From Sideways to Right-Side Up How to Flip Videos Quickly</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-x-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone X when Phone is Broken?</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mpeg-flac/"><u>MPEG FLAC 자유성 변환 - 웹 사이트에서 편리한 도구</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-troubleshooting-in-windows-1011s-screen-issues/"><u>Navigating Troubleshooting in Windows 10/11'S Screen Issues</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Vivo Y17s | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/top-apps-for-instagram-strategy-mastery-and-expansion-for-2024/"><u>Top Apps for Instagram Strategy Mastery and Expansion for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On ZTE Nubia Flip 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-mastering-the-art-of-analyzing-youtube-numbers-views-and-money/"><u>[Updated] 2024 Approved Mastering the Art of Analyzing YouTube Numbers Views & Money</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-captivate-audiences-quickly-shortcuts-for-youtube-trailers-with-filmora/"><u>[Updated] In 2024, Captivate Audiences Quickly Shortcuts for YouTube Trailers with Filmora</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-converting-ordinary-to-exceptional-lightroom-hdr-tutorial/"><u>[Updated] In 2024, Converting Ordinary to Exceptional Lightroom HDR Tutorial</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-lg-redefines-gaming-with-its-innovative-360-degree-vr-experience/"><u>2024 Approved LG Redefines Gaming with Its Innovative 360-Degree VR Experience</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/become-a-pro-in-calculating-youtube-ratio-measures/"><u>Become a Pro in Calculating YouTube Ratio Measures</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/etapes-pour-recuperer-avec-succes-le-systeme-image-dun-autre-pc-une-approche-sure-et-fiable/"><u>Étapes Pour Récupérer Avec Succès Le Système Image D'un Autre PC : Une Approche Sûre Et Fiable</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-meizu-21-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Meizu 21? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Honor 100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-oppo-f23-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Oppo F23 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-infinix-hot-30i-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Infinix Hot 30i Pattern Lock Screen</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-permanent-ousting-technique-for-the-quick-video-feature/"><u>In 2024, Permanent Ousting Technique for the Quick Video Feature</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/tech-savvy-guide-to-excellent-recording-apps-for-2024/"><u>Tech-Savvy Guide to Excellent Recording Apps for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Realme C67 5G | Dr.fone</u></a></li>
 </ul></div>
 

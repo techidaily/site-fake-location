@@ -1,7 +1,7 @@
 ---
 title: In 2024, Best 10 Mock Location Apps Worth Trying On Samsung Galaxy S23 Tactical Edition | Dr.fone
-date: 2024-10-09T16:48:41.877Z
-updated: 2024-10-10T18:07:43.708Z
+date: 2024-10-10T04:21:56.977Z
+updated: 2024-10-17T08:18:50.541Z
 tags: 
   - virtual location chang
   - location changer
@@ -44,21 +44,7 @@ There are fewer mock location apps on the Apple Store due to Apple's strict poli
 
 ![drfone virtual location ios](https://images.wondershare.com/drfone/article/2023/12/mock-location.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 This is by far the best one out there. It is designed professionally and inspires trust, unlike some other apps that neither look as polished nor work as flawlessly. When in doubt, trust Wondershare’s Dr.Fone – Virtual Location (iOS) to do the job reliably and professionally in just a few clicks.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -171,6 +157,13 @@ Step 3: You will now see a beautiful display showing your connected device. Clic
 
 ![drfone virtual location device selection](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 At this point, instructions change depending on the Samsung Galaxy S23 Tactical Edition device you connected. There are different instructions for iPhone and Android. Please visit [this](https://drfone.wondershare.com/guide/connect-android-ios-device-to-fake-location.html) link to connect your specific device.
 
 Step 4: After you have connected your respective device, now comes the fun part – spoofing your location! If you want to simply prank your friends or use dating apps and other apps where you simply want a different location, you can use the Jump Teleport mode to simply change your location to anywhere in the world. However, in location-based games, you need to be seen walking or moving around in the environment. In that case, use the One-stop Route mode.
@@ -181,6 +174,19 @@ Click the third option from the top right to enter One-stop Route mode. Enter a 
 
 ![drfone virtual location one stop mode](https://images.wondershare.com/drfone/guide/virtual-location-08.png)
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 5: Click another location or type it and choose from the traveling parameters such as walking, cycling, riding, or driving, and click Move Here as shown below.
 
 ![drfone virtual location one stop mode](https://images.wondershare.com/drfone/guide/virtual-location-09.png)
@@ -188,13 +194,6 @@ Step 5: Click another location or type it and choose from the traveling paramete
 Your device will start simulating movement as per your set parameters and the map will start moving. You can pause or cancel at any time.
 
 ![drfone virtual location spoofer](https://images.wondershare.com/drfone/guide/virtual-location-10.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part VI: Tips To Avoid Detection
 
@@ -257,6 +256,13 @@ Virtual Private Networks generally mask your IP address by directing your intern
 
 ![connect to vpn](https://images.wondershare.com/drfone/article/2024/02/how-do-you-change-your-location-on-netflix-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 4:** Once successfully activated, you can now access Netflix on your device and search for the restricted TV show you want to watch.
 
 ### Method 2: Stream Netflix shows with a web proxy server
@@ -310,9 +316,23 @@ The first three tutorials above on how to change your location on Netflix work p
 
 ![search for your preferred location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 6:** The essential details referring to your chosen location will be displayed on your computer screen, along with a map marker. Read the information very well and make sure that it is exactly the place you’re looking for. Once confirmed, click **Move Here.**
 
 ![location details](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 7:** The location settings on your mobile devices will be immediately changed to your chosen coordinates. Verify that the changes have already been applied by simply checking out your Maps mobile app. It must not show your real current location.
 
@@ -323,19 +343,6 @@ The first three tutorials above on how to change your location on Netflix work p
 ## Conclusion
 
 Netflix is definitely at the forefront of modern entertainment. It is the go-to app of many people whenever they are bored and want to binge-watch TV shows. However, it is sometimes infuriating if the movie you want to stream is restricted in your location. If you’re experiencing anything similar, you can refer to the discussions above. The provided tutorials on how to change your location on Netflix can surely help you in this regard. For mobile devices, follow the guide on how to change your Netflix location using [<u>Wondershare Dr.Fone. </u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) It has a powerful Virtual Location feature capable of modifying your whereabouts and simulating GPS movements.
-
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6 Ways to Change Spotify Location On Your Samsung Galaxy S23 Tactical Edition
 
@@ -352,13 +359,6 @@ Before we find out about the 6 different ways to update location Spotify, let us
 **Region Specific Content**
 
 ![region specific spotify content](https://images.wondershare.com/drfone/2020/2020/region-specific-Spotify-content-pic1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The main reason anyone would want to change their Spotify location is when they change countries. If you want to access content relevant to this new region, it is best to go with Spotify Change Country. When you change our spotify location, you will get the regionally most-played songs or most liked podcasts as suggestions. This way, you can access quality content of this place that you’ve shifted to.
 
@@ -426,13 +426,6 @@ For the Spotify Change Region, Cydia's Location Faker App is the perfect choice 
 
 ![map toggle off and on](https://images.wondershare.com/drfone/2020/2020/toggle-off-and-on-pic10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3:** Once you settle with the coordinates, shift the ‘Off’ toggle to ‘On’. It is present at the bottom of the page.
 
 ![change off toggle to on](https://images.wondershare.com/drfone/2020/2020/change-and-permit-apps-pic11.jpg)
@@ -465,6 +458,13 @@ To change spotify region, the Location Hanle App from Cydia might bring in more 
 **Step 4:** Now the map will appear on the page, more clearly with the pin and a search box for entering coordinates will also display. You can update Spotify location there.
 
 ![update location using shift handle](https://images.wondershare.com/drfone/2020/2020/location-shift-handle-pic16.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 5:** The Joystick will show you the different directions and when you move it, your location on the map also changes. Settle on the one that best fits you and proceed.
 
@@ -502,6 +502,13 @@ This is a free app that helps to Change region Spotify within a few minutes. You
 
 ![enter new location](https://images.wondershare.com/drfone/2020/2020/detection-of-new-location-pic22.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3:** The app will try to detect the new location that you have entered. Once it is successfully done, you will find that your new location will reflect in all the apps that have access to your Samsung Galaxy S23 Tactical Edition’s location. Including Spotify.
 
 ![location tweaking](https://images.wondershare.com/drfone/2020/2020/location-tweaking-pic23.jpg)
@@ -520,29 +527,22 @@ The Virtual Private Network apps will change your server and your location and I
 
 ![change server using spotify](https://images.wondershare.com/drfone/2020/2020/update-server-disconnect-pic26.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4:** Then go to ‘More Options’ > Servers > All countries and choose the country that you want. The same will reflect on Spotify too.
 
 ![choose countries to change](https://images.wondershare.com/drfone/2020/2020/countries-spotify-change-pic27.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Conclusion
 
 If you want to update location on spotify, then these are the 6 methods that you can use to change location in Spotify anywhere, anytime and any number of times. Avail all the benefits of this supreme audio application by choosing to be anywhere in the world ‘virtually’.
 
 ## You Might Also Like
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Location-based apps
 
@@ -578,17 +578,24 @@ AR game tricks
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-go-beyond-stills-with-vimeo-animations-a-gif-guide-for-2024/"><u>[New] Go Beyond Stills with Vimeo Animations A GIF Guide for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-guide-to-stop-songs-from-auto-playing-on-your-apple-music-account/"><u>A Guide to Stop Songs From Auto-Playing On Your Apple Music Account</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/deciphering-ai-linguistics-how-gpt-and-bert-stand-poles-apart-in-nlp-innovation/"><u>Deciphering AI Linguistics: How GPT and BERT Stand Poles Apart in NLP Innovation</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-realme-c51-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Realme C51 | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-15-pro-max-without-apple-id-by-drfone-ios/"><u>How to Erase an iPhone 15 Pro Max without Apple ID?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-realme-narzo-60-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Realme Narzo 60 5G For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Oppo Reno 11 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-poco-c55-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Poco C55 Device</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974660655-restore-clear-views-sayonara-black-screen/"><u>Restore Clear Views, Sayonara Black Screen</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/seize-the-opportunity-is-it-the-ultimate-time-to-upgrade-to-a-google-pixel-8/"><u>Seize the Opportunity: Is It the Ultimate Time to Upgrade to a Google Pixel 8?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-ig-boomerangs-crafting-compelling-circular-content/"><u>[New] 2024 Approved IG Boomerangs Crafting Compelling Circular Content</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-file-sharing-solutions-beyond-sharex/"><u>[New] File Sharing Solutions Beyond ShareX</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-wirecast-techniques-for-captivating-facebook-viewers-for-2024/"><u>[New] Wirecast Techniques for Captivating Facebook Viewers for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-a-future-proof-selection-top-cloud-services-reviewed/"><u>[Updated] In 2024, A Future-Proof Selection Top Cloud Services Reviewed</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-increasing-viewership-and-revenue-famebits-roadmap-to-partnerships/"><u>[Updated] Increasing Viewership and Revenue FameBit's Roadmap to Partnerships</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Xiaomi 14 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-honor-v-purse-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Honor V Purse Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Nokia C110? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-11-pro-and-ipad-securely-drfone-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 11 Pro and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-the-art-of-zip-to-srt-conversion/"><u>In 2024, Mastering the Art of Zip to Srt Conversion</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-seamless-streams-expert-guide-to-facebook-screen-sharing/"><u>In 2024, Seamless Streams Expert Guide to Facebook Screen Sharing</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-the-art-of-revisiting-your-private-snap-history/"><u>In 2024, The Art of Revisiting Your Private Snap History</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Xiaomi 13 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-motorola-moto-g14-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Motorola Moto G14 and Browser | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-mastering-the-art-of-rowcolumn-freezing-and-thawing-in-microsoft-excel/"><u>Step-by-Step Guide: Mastering the Art of Row/Column Freezing & Thawing in Microsoft Excel</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Poco X6 Pro? | Dr.fone</u></a></li>
 </ul></div>
 

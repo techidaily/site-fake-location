@@ -1,7 +1,7 @@
 ---
 title: Functionalities and Techniques Behind Localized AI
-date: 2024-10-04T20:27:41.341Z
-updated: 2024-10-10T19:52:51.675Z
+date: 2024-10-14T02:37:05.321Z
+updated: 2024-10-16T23:57:55.776Z
 tags:
   - chatgpt
   - open-ai
@@ -44,13 +44,6 @@ Let's see how you can install and use GPT4All on your Windows PC.
 
  Nvidia's ecosystem for AI hardware acceleration is generally considered more mature. As a result, there's more Nvidia-centric software for GPU-accelerated tasks, like video encoding and, now, Machine Learning. GPT4All is among the tools that "play nicer" with Nvidia's GPUs.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Install GPT4All
 
  GPT4All is available for Windows, macOS, and Ubuntu. For this article, we'll be using the Windows version.
@@ -59,11 +52,32 @@ Let's see how you can install and use GPT4All on your Windows PC.
 ![GPT4All Download Windows Installer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-download-windows-installer.jpg)
 2. Run the downloaded application and follow the wizard's steps to install GPT4All on your computer.  
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![GPT4All Setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-setup.jpg)
 3. GPT4All's installer needs to download extra data for the app to work. So if the installer fails, try to rerun it after you grant it access through your firewall.  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![GPT4All Installer Downloading Component](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-installer-downloading-component.jpg)
 4. When you eventually find yourself looking at GPT4All's interface, you will also have to download a Language Model to use it. GPT4All will present you with a list of available models. Check its size (next to its name) to ensure you have enough RAM or VRAM to run it. When you decide on a model, click its**Download** button to have GPT4All download and install it.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![GPT4All Model Size and Download Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-model-size-and-download-button.jpg)
 5. If you change your mind, click the**Cancel** button to stop an active download and choose another model.  
@@ -84,13 +98,6 @@ Let's see how you can install and use GPT4All on your Windows PC.
 ![GPT4All Options Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-options-panel.jpg)
 3. The first options on GPT4All's panel allow you to create a**New chat** ,**rename** the current one, or**trash** it.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![GPT4All Chat Name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-chat-name.jpg)
 4. The**Updates** button lets you update the application and add or remove components.  
 
@@ -102,27 +109,21 @@ Let's see how you can install and use GPT4All on your Windows PC.
 
 ![GPT4All Language Model Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-language-model-management.jpg)
 7. Chatting with an LLM in GPT4All is similar to ChatGPT's online version. Type something in the**entry field** at the bottom of GPT4All's window, and after pressing Enter, you will see your prompt in GPT4All's main view. The selected Language Model's response will appear below your prompt.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![GPT4All Chatting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-chatting.jpg)
 8. Like with ChatGPT, if you don't like an LLM's response as it's generated on your screen, you can click on the**Stop Generating** button to interrupt the process.  
 ![GPT4All Stop Generating Response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-stop-generating-response.jpg)
 9. Similarly, if you don't like an already generated response and want to see an alternative take, you can click the**Regenerate Response** button, which appears on the same spot.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![GPT4All Regenerate Response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-regenerate-response.jpg)
 10. Note that GPT4All also allows you access to what's known as**Unrestricted** language models. Those don't come with artificial limitations. This "freedom" supposedly "liberates" and "empowers" them to be more creative and offer more factual responses. However, it also means they may produce offensive output.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![GPT4All Unrestricted Language Model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-unrestricted-language-model.jpg)
 11. The two first buttons on the top right of the app allow you to**reset** a conversation or**copy** it to the clipboard to paste it elsewhere.  
@@ -132,16 +133,30 @@ Let's see how you can install and use GPT4All on your Windows PC.
 ![GPT4All Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-settings.jpg)
 13. The**Generation** tab of GPT4All's Settings allows you to configure the parameters of the active Language Model. By changing variables like its**Temperature** and**Repeat Penalty** , you can tweak its creativeness, conciseness, and so on.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![GPT4All Generation Variables](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-generation-variables.jpg)
 14. The**Application** tab allows you to choose a**Default Model** for GPT4All, define a**Download path** for the Language Model, assign a specific number of**CPU Threads** to the app, have every chat automatically saved locally, and enable its internal**web server** to have it accessible through your browser.  
 
 ![GPT4All Application Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-application-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Chatting With Your Documents With GPT4All
@@ -155,25 +170,11 @@ Let's see how you can install and use GPT4All on your Windows PC.
 ![GPT4All Local Docs Plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-local-docs-plugin.jpg)
 3. You will see an entry for your documents folder on GPT4All's**LocalDocs Plugin** document list. If you decide to remove a documents folder, select it from here and click the**Remove** button on its right.  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![GPT4All Local Docs Plugin with Added User Document](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-local-docs-plugin-with-added-user-document.jpg)
 4. From the same spot, you can tweak the**Document snippet size** and the**Document snippets to process per prompt** values from the bottom left of the panel. Increasing those will improve the selected Language Model's ability to "understand" your documents and offer more relevant responses. However, it will also severely slow GPT4All down since it must analyze your documents after every prompt.  
 
 ![GPT4All Local Docs Plugin Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-local-docs-plugin-options.jpg)
 5. You can manage your external documents through GPT4All's**Collections** button.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![GPT4All Collections Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-collections-button.jpg)
 6. You can add multiple document collections to GPT4All. It's better, though, instead of having them all active all the time, dragging GPT4All's performance down to control**which** group of documents ("collection") you want active from the**Collections** panel.  
@@ -187,14 +188,14 @@ Let's see how you can install and use GPT4All on your Windows PC.
 ![GPT4All Response from User's Documents](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-response-from-user-s-documents.jpg)
 9. By clicking a**context link** , GPT4All will show you a snippet of text from your documents that it used for its response.  
 
-![GPT4All Response Checking User Document Context](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-response-checking-user-document-context.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![GPT4All Response Checking User Document Context](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-response-checking-user-document-context.jpg)
 
 ## Your Own ChatGPT on Windows
 
@@ -219,24 +220,20 @@ Let's see how you can install and use GPT4All on your Windows PC.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-prime-sites-where-your-presents-stand-out-in-a-sea-of-boxes/"><u>[Updated] Prime Sites Where Your Presents Stand Out in a Sea of Boxes</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Samsung Galaxy A15 5G? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Tecno Camon 20 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/fearless-forecasting-enhancing-excel-skills-through-chatgpt-collaboration/"><u>Fearless Forecasting: Enhancing Excel Skills Through ChatGPT Collaboration</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Infinix Note 30 | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On OnePlus Ace 2? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-xiaomi-redmi-13c-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Xiaomi Redmi 13C 5GMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-xiaomi-redmi-note-13-pro-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Xiaomi Redmi Note 13 Pro 5G?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Infinix Note 30 Pro | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-itel-a60-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Itel A60 Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-nokia-c22-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Nokia C22</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Infinix Note 30 5G | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/movavi-online-conversion-gratuita-de-archivos-avi-a-vram-sin-costo-alguno/"><u>Movavi Online: Conversión Gratuita De Archivos AVI a VRAM Sin Costo Alguno</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/roku-and-fire-tv-stick-showdown-deciding-on-the-ideal-option/"><u>Roku and Fire TV Stick Showdown – Deciding on The Ideal Option</u></a></li>
-<li><a href="https://driver-error.techidaily.com/smooth-connectivity-how-to-make-sure-you-never-experience-a-bluescreen-again-with-fixed-bluetooth-issues-guide-inside/"><u>Smooth Connectivity - How to Make Sure You Never Experience a Bluescreen Again with Fixed Bluetooth Issues [Guide Inside]</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-itel-p40-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Itel P40 | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-honor-90-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Honor 90? | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/unveiling-the-latest-computer-components-with-toms-gear-guide/"><u>Unveiling the Latest Computer Components with Tom's Gear Guide</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/bers-unite-with-these-17-top-tier-lights/"><u>Youtubers Unite with These 17 Top-Tier Lights</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-thors-fury-legends-of-the-ragnarok/"><u>[New] 2024 Approved Thor's Fury Legends of the Ragnarök</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-unleash-creative-expression-your-guide-to-sending-gifs-via-snapchat/"><u>[New] In 2024, Unleash Creative Expression Your Guide to Sending Gifs via Snapchat</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-optimal-method-for-incorporating-linktree-in-tiktok-profiles/"><u>[Updated] Optimal Method for Incorporating Linktree in TikTok Profiles</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-top-10-gear-for-next-gen-musical-video-production-quality/"><u>[Updated] Top 10 Gear for Next-Gen Musical Video Production Quality</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comment-modifier-la-cote-dun-dvd-sous-macos-imac-methodes-pratiques/"><u>Comment Modifier La Côte D'Un DVD Sous macOS iMac - Méthodes Pratiques</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>Does Airplane Mode Turn off GPS Location On Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-constant-crashes-in-call-of-duty-modern-warfare-gameplay/"><u>Fixing Constant Crashes in Call of Duty: Modern Warfare Gameplay</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Realme Note 50? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/kostenlose-umwandlung-von-wmv-in-flac-online-durch-movavi-schnelle-losung/"><u>Kostenlose Umwandlung Von WMV in FLAC Online Durch Movavi - Schnelle Lösung!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/scripting-the-final-push-for-your-tiktok-series/"><u>Scripting the Final Push for Your TikTok Series</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Motorola Moto E13? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
 </ul></div>
 

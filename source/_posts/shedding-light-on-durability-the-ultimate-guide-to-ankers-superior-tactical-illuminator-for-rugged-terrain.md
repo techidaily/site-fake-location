@@ -1,7 +1,7 @@
 ---
 title: "Shedding Light on Durability: The Ultimate Guide to Anker's Superior Tactical Illuminator for Rugged Terrain"
-date: 2024-10-07T01:05:24.623Z
-updated: 2024-10-10T16:42:19.038Z
+date: 2024-10-14T04:39:44.506Z
+updated: 2024-10-16T21:27:46.265Z
 categories:
   - BestProducts
 description: "This Article Describes Shedding Light on Durability: The Ultimate Guide to Anker's Superior Tactical Illuminator for Rugged Terrain"
@@ -42,16 +42,16 @@ Lifewire / Jeffrey Daniel Chadwick
 ![Kensun Portable Tire Inflator](https://www.lifewire.com/thmb/MEKNaqKs5klEYPtoc5EGv7lAyJU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/KensunPortableTireInflator_HeroSquare-c74ce1562bed43b897087fa89d11df23.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Jeffrey Daniel Chadwick
@@ -75,13 +75,6 @@ Lifewire / Jeffrey Daniel Chadwick
  The Kensun Portable Tire Inflator made a good showing when we tested it. It gets high marks for accuracy, portability, and convenience, but it does fall down in some areas such as storing the air hose and power cable. Nevertheless, it’s a handy, nifty device that delivers the air you need when you need it.
 
  Lifewire / Jeffrey Daniel Chadwick
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Design and Features: Maximum portability, but not maximum flexibility**
 
@@ -111,6 +104,13 @@ Lifewire / Jeffrey Daniel Chadwick
 
  Lifewire / Jeffrey Daniel Chadwick
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Performance: Reliable, accurate, quick and loud**
 
  When we tested the tire inflator, we took it on a road trip that took us to the states of Nevada, Utah, Idaho, and Wyoming. Along the way, we stopped at rural rest areas and gas stations. In order to use them in the circumstances, they were designed for. Throughout it all, the Kensun Portable Tire Inflator never failed to work when we needed it.
@@ -131,22 +131,15 @@ Lifewire / Jeffrey Daniel Chadwick
 
  One of the most convenient things about this portable air pump is its auto-shutdown feature. This allows you to select the precise tire pressure you want before you start pumping. Once the tire is inflated to the desired pressure, it shuts down. This means that you don’t have to babysit the pump while it's going, and all but guarantees that you won’t over-inflate your tires.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Price: A decent buy considering its versatility**
 
  The Kensun Portable Tire Inflator has an MSRP of $80 on Amazon, which is a good price for what you get. It’s not nearly as affordable as some budget models we’ve seen, such as the Audew Portable Air Compressor Pump, which will only run you $40, but it gives you the convenience of not having to be tethered to your car to inflate something.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Kensun Portable Tire Inflator vs. Jaco Digital Tire Inflator**
@@ -162,6 +155,19 @@ Lifewire / Jeffrey Daniel Chadwick
  **A portable tire inflator that can work well in a car or at home.**
 
  The Kensun Portable Tire Inflator is a great choice to keep in your truck, garage, or wherever you keep your “just-in-case” supplies. It’s a device that is as necessary for drivers as jumper cables and an emergency flashlight. You can count on it to be reliable when you need it, and fill your tires quickly and accurately. Plus, the added benefit of being able to plug it into your wall can’t be overstated. It has its foibles, but in the grand scheme of things, they’re minor inconveniences.
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -188,24 +194,20 @@ Lifewire / Jeffrey Daniel Chadwick
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-foremost-20-anime-music-opener-list/"><u>[New] 2024 Approved Foremost 20 Anime Music Opener List</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-how-to-edit-instagram-photos-like-a-pro/"><u>[New] How to Edit Instagram Photos Like a Pro</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-from-bland-to-breathtaking-add-flare-with-stunning-icon-graphics-on-instagram/"><u>[Updated] In 2024, From Bland to Breathtaking Add Flare with Stunning Icon Graphics on Instagram</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/comprehensive-guide-to-io-screen-capture-capabilities/"><u>Comprehensive Guide to IO Screen Capture Capabilities</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Vivo S17e? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Poco X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Nokia G310 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-oneplus-ace-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on OnePlus Ace 2 | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-honor-90-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Honor 90? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-apple-iphone-14-plus-location-is-wrong-drfone-by-drfone-virtual-ios/"><u>How to Fix My Apple iPhone 14 Plus Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-honor-x7b-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Honor X7b | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Lava Blaze Curve 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-errors-wows-glitches-in-windows-11/"><u>Navigating Through Errors: WoW's Glitches in Windows 11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Tecno Pop 7 Pro? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-street-fighter-6-malfunction-ultimate-troubleshooting-guide-for-pc-users/"><u>Stop Street Fighter #6 Malfunction: Ultimate Troubleshooting Guide for PC Users</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/terracore-pros-fusion-of-touch-and-high-definition-for-2024/"><u>TerraCore Pros Fusion of Touch & High Definition for 2024</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/ways-to-stop-parent-tracking-your-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>Ways to stop parent tracking your Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Samsung Galaxy A25 5G? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-battle-of-the-capture-tools-obs-studio-against-bandicam/"><u>[New] Battle of the Capture Tools OBS Studio Against Bandicam</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ing-engaging-vids-with-template-magic-for-2024/"><u>Crafting Engaging Vids with Template Magic for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/efficient-windows-file-review-methods-for-2024/"><u>Efficient Windows File Review Methods for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-xiaomi-13-ultra-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Xiaomi 13 Ultra on Mac?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Oppo Find N3 Flip? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-honor-play-7t-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Honor Play 7T Devices | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-navigating-mobile-meetings-using-googles-facetime-feature/"><u>In 2024, Navigating Mobile Meetings Using Google's Facetime Feature</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-vivo-s17-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Vivo S17 Phone Hassle-Free</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-samsung-galaxy-a23-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Samsung Galaxy A23 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On OnePlus 12R? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/1728475119064-windows-10/"><u>Windows 10上でゴミ箱へ移動しなかったファイルを回復する手順</u></a></li>
 </ul></div>
 
