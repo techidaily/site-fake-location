@@ -1,7 +1,7 @@
 ---
 title: In 2024, 4 Methods to Turn off Life 360 On Itel P40 without Anyone Knowing | Dr.fone
-date: 2024-08-02T02:15:36.519Z
-updated: 2024-08-03T02:15:36.519Z
+date: 2024-10-15T16:39:25.861Z
+updated: 2024-10-22T20:04:03.194Z
 tags: 
   - virtual location chang
   - location changer
@@ -22,9 +22,6 @@ Life 360 has made tracking our friends and loved ones so easy. It is an excellen
 
 Many applications are available today to help family and friends track each other for various purposes. One such app is Life360, and it has been successful since its launch. This tracking app makes it easy to trace the location of your loved ones or anyone you want to track. But, first, you need to create a circle of friends on a map.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![life360 for location sharing](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing.png)
 
 Life360 works by sharing your GPS location on the map, allowing the members of your circle to view it. As long as your GPS location is turned on, those in your circle will always have access to your exact location. Life360 developers are continually releasing new features to improve their tracking function.
@@ -34,6 +31,13 @@ Life360 works by sharing your GPS location on the map, allowing the members of y
 Some of the available Life360 features include notifying you when a member of your circle moves to a new point and it will send a help alert when there’s an emergency. In addition, the app automatically contacts the emergency contacts you added when you do this. However, this doesn’t change that it can get intrusive when you need some privacy. That’s why the next section covers how to turn Life360 off.
 
 ![sending help alert on life360](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to Turn off Life360 without Knowing
 
@@ -54,9 +58,6 @@ There is the possibility of limiting the details about your location to others i
 
 - Now you can recheck the map, and it will show ‘location sharing paused.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![pause location sharing](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-2.jpg)
 
 ### 2\. **Turn off Your Itel P40’s Airplane Mode**
@@ -74,8 +75,18 @@ Another option you have to stop sharing location on Life360 is by switching on A
 These steps will help you turn off location sharing on Life360. However, the downside of using Airplane mode is that it prevents you from accessing the internet. In addition, with the Airplane mode turned on, you can’t make or receive phone calls, either. Therefore, we don’t recommend this as your top choice when learning to turn off Life 360.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 3\. **Disable GPS Service on Your Device**
 
 Another top method of turning off Life360 is disabling the GPS service on your device. It is an effective option, and you can carry it out on your iOS and Android devices. Below, we’ll break down the steps of doing this on your Android and iOS devices.
@@ -99,24 +110,20 @@ You’re not left out of this option; below are the steps to disable GPS service
 - It will open a new page. Select ‘location’ from the options provided.
 - If you want to disable GPS services on your Itel P40, turn off location tracking for apps.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![turn off gps location services on android](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Part 3: **Best Ways to Fake Location on Life360 without Anyone Knowing-Virtual location \[iOS/Android Supported\]**
 
 Although Life360 can be helpful in emergencies or security issues, it can also prove quite problematic. If you want some privacy or don’t trust members of your circle, you might want to learn how to turn off Life 360. The problem with turning off the Life360 location is that members of your circle might notice, which would inevitably cause some conflict.
 
 Fortunately, you have another effective option, and that is by faking your GPS location using a location spoofer. You can display the location you want while keeping your true location safe on Life360. Dr. Fone –Virtual location is an excellent tool for faking your location.  
 
-
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -138,9 +145,6 @@ Below, we’ve broken down the process for you; keep reading to learn how to fak
 
 2\. Select ‘virtual location’ from the options displayed on the main menu.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![access virtual location feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 3\. Next, connect your iPhone or Android device to your PC and click 'get started.'
@@ -149,41 +153,26 @@ Below, we’ve broken down the process for you; keep reading to learn how to fak
 
 4\. Next, you have to turn on the ‘teleport mode’ by clicking its icon at the upper right corner of the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enable teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 5\. Now, enter the location you want to teleport to on the upper left side of the screen and then click the ‘go’ icon.
 
 6\. Click ‘move here’ in the popup box to change your location to this new place.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![tap on move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 Automatically, your location will change to the chosen place on the map and your mobile device.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![location on your phone](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
 <iframe width="100%" height="450" type="text/html" src="https://www.youtube.com/embed/xQa-_8RTg5U" frameborder="0"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 4: FAQ About Turn off Location on Life360
 
 ### 1\. **Are there any risks to turning off GPS location?**
 
 Yes, there are some dangers associated with turning off location on Life360. No one knows where you are anymore, which could be dangerous in the case of an emergency.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. **Can Life360 track my location when I switch My Itel P40 off?**
 
 When your phone is off, your GPS location is automatically disabled. Therefore Life360 won’t be able to track your location; it will only display your last logged location.
@@ -196,11 +185,6 @@ Yes, it does. It will send a ‘location sharing paused’ notification to all y
 
 Life360 is a useful app for professional and personal circles. However, it can be intrusive on our privacy sometimes. Most times, the youths want to learn how to turn off Life360 without their parents knowing on iPhone and Android devices. This article provides you with different methods you can achieve this. If you want to learn how to turn off life 360 without showing up, the best option is to fake your location. We hope the guide above helps you utilize [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) without any issues.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How To Teleport Your GPS Location On Itel P40?
 
 While playing games like Pokemon Go, you are in desperate need of finding more Pokémon. If so, changing your location is a necessity that needs to be figured out. For that, teleporting the GPS location of the Itel P40 device is the optimal solution. To carry this out, Wondershare [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) provides a perfect system for fake locations.
@@ -239,6 +223,13 @@ You will be directed to the particular, and the map will display it for confirma
 
 ![confirm the location to spoof](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 4Location Successfully Changed On Computer
 
 The location of the smartphone will be instantly changed to the selected location and will be displayed on the map.
@@ -249,9 +240,6 @@ Step 5Location Changed On the Smartphone
 
 Open your smartphone and access its maps application. Look into the current location of the Itel P40 device and verify it to be the same as the changed location on the computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![confirm location on the smartphone](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
 ### Part 2: Instantaneous Movement Between Multiple Points (Jump Teleport Mode)
@@ -262,9 +250,6 @@ Step 1Activate Jump Teleport Mode
 
 You will have to first access the **Jump Teleport Mode** option from the second icon from the left in the top-right section. This can be done after teleporting the location of the smartphone device.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turn on jump teleport mode](https://images.wondershare.com/drfone/guide/jump-teleport-mode.png)
 
 Step 2Set Spots to Jump Teleport
@@ -277,36 +262,24 @@ Step 3Change Location Between Set Spots
 
 As prescribed, you can propagate amongst the set spots with the Jump Teleport Mode. Use the **Next Point** and **Last Point** buttons to shift your location.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![start changing location](https://images.wondershare.com/drfone/guide/start-use-jump-teleport-mode.png)
 
 ## Spoofing Life360: How to Do it on Itel P40?
 
 In an era where location tracking has become a norm, many individuals value their privacy and wish to have more control over their location data. Whether you want to maintain your privacy, simulate being in a different place, or have other reasons for altering your Life360 location, this guide is here to help. We will explore the reasons why you might consider spoofing your Life360 location and provide you with step-by-step instructions on **how to** **fake your location on Life360** on both iPhone and Android devices. Let's delve into the world of location spoofing and regain control of your whereabouts.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: What is Life360?
 
 Life360 is one of the admired apps known for tracking location. The app can be used as a location-sharing platform as well as you can chat with your friends via the in-app chat feature. Here are the basics. All this app suggests is that a group of people whether an office projects group or simply a college team or maybe the family members, download and [install Life360 on their phones](https://www.virtuallocation.com/life360/). Mind that the app supports iPhone and Android (6 and above) devices.
 
 After the app gets installed, you can create a circle, which in other languages simply means a group, just like you create on Facebook or WhatsApp. This circle is having members who can share the information and location accountability with each other. You can also give invitations to other users by simply taking the help of their contact numbers or email addresses.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![life360 app](https://images.wondershare.com/drfone/article/2019/11/life360-intro.jpg)
 
 Using this app then, you can simply see the location of the other members as well as get notifications named Place Alerts. These notifications will tell you whether a user has arrived or left the selected location. This can be helpful if you are a parent and want your children to reach safely at a desired place.
 
 Moreover, with the help of Life360, a user can easily control the ‘Check-in’ according to which he or she sends the alert to the circle to know them the exact location. You can also get to see the location history of the members to know their past locations.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2: Why Do People Hate Being Tracked by Life360?
 
 Unarguably Life360 can be considered one of the most helpful and fun apps. But the thing that sometimes or many times might bother people is the 24x7 interference with privacy.
@@ -325,17 +298,12 @@ To stop or to spoof, that is the question! Yes, when you are annoyed with being 
 
 _**Tips:** Fake your Life360 location to any other address you require with Dr.Fone - Virtual Location! The Fake GPS feature for iPhone/Android prevents you from being tracked. Try it now and stop Life360 tracking you!_
 
-
-
 When it comes to learning **how to trick Life360** on iOS or Android, the best option that should come to your mind should be [Dr.Fone – Virtual Location (iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). This tool comes to your rescue when you wish to change iOS location or Android location and keep your privacy on top. It helps you to simulate your movements along various routes. Apart from that, you can use it to make your virtual movement speed customized on the map. The tool is perfectly safe to use and carries a great reputation. Therefore, pondering over performance and success is not the thing you should fret upon. Here are the steps for Life360 spoofing location using Dr.Fone – Virtual Location (iOS/Android).
 
 **Step 1: Download Dr.Fone – Virtual Location (iOS/Android)**
 
 Get the tool on your computer for the process initiation. To do this, you can visit the official website and click the "Try It Free" button or you can directly click the **"Download for PC"** or **"Download for Mac"** as below. Next, install the tool and launch it. Choose the "Virtual Location" tab from the main screen.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2: Get the Itel P40 device Connected**
@@ -344,13 +312,17 @@ Take your iPhone now and connect it to the computer. Hit on "Get Started" once t
 
 ![go to virtual location feature](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3: Find the Current Virtual Location**
 
 You will be shown a map on the next screen. Here, you can find your current virtual location. If the location is not showing, click on the "Current Virtual Location" icon that can be discovered at the lower right part.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![find your actual location](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 **Step 4: Enable Teleport Mode**
@@ -363,12 +335,7 @@ You could observe the five icons at the top right of the screen. You need to cli
 
 The program will make sure to recognize the place you have entered. A pop-up box will appear where the distance is mentioned. Click on "Move Here" and your location will be changed and shown as what you have selected.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ use fake location on Life360](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
-
-
 
 Here is a video guide that helps you to fake your GPS location on Life360.
 
@@ -376,14 +343,6 @@ Here is a video guide that helps you to fake your GPS location on Life360.
 
 **3,255,164**
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5: How to Fake Location on Life360 Android
 
 What if you want to know **how to stop Life360 from tracking you**? Well! You can go for a spoofing app for this too. There are lots of them available at the Google Play Store. For more clarity, we will help you know how you can use a spoofer app for Life360 fake location. Make sure to go along with the steps carefully.
@@ -398,9 +357,6 @@ Before you get the app worked, here is a requirement you need to follow. The req
 
 **Step 3:** You will find the build number of your device here. You have to tap on it nearly 7 times.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![build number](https://images.wondershare.com/drfone/article/2019/11/developer-options-2.jpg)
 
 **Step 4:** Now, enter the lock code when asked and the developer options will be enabled.
@@ -411,9 +367,6 @@ Before you get the app worked, here is a requirement you need to follow. The req
 
 **Step 2:** Once installed, again go to "Settings" > "System" > "Developer Options". Look for the "Select mock location app" and tap on it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![select mock location app from settings](https://images.wondershare.com/drfone/article/2019/11/select-mock-location-app.jpg)
 
 **Step 3:** Choose the Fake GPS app as the mock location app.
@@ -422,18 +375,17 @@ Before you get the app worked, here is a requirement you need to follow. The req
 
 **Step 4:** Open the app now and choose the location you wish to fake and hit on the Play button. This was **how to fake your location on Life360** on Android device.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![new location on Life360](https://images.wondershare.com/drfone/article/2019/11/fake-location-android.jpg)
 
 _If you want to find an easier way to [fake location on life360 Android](https://drfone.wondershare.com/virtual-location/spoof-life360.html#part3), you can also try to use Dr.Fone - Virtual Location(iOS/Android)._
 
-
-
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer to Fake Your Location on Life360!
@@ -448,9 +400,6 @@ _If you want to find an easier way to [fake location on life360 Android](https:/
 
 ## Part 6: How to Stop Life360 from Tracking you
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 6.1 Use a burner phone
 
 If you completely want Life360 to stop you from tracking, the very first method, and indeed a useful one is using a burner phone. This simply stands to have an extra phone with you and you can call it a burner phone. To have it, of course, you don’t have to spend much. Just have a cheap Android or iOS device with you. With this, you can easily trick your friends about your location.
@@ -461,9 +410,6 @@ If you completely want Life360 to stop you from tracking, the very first method,
 
 **Note:** As we have mentioned in the beginning, Life360 supports an inbuilt chat function. This is where the downside comes of having a burner phone as a solution. Putting simply, you may miss an important conversation if you have the app on a burner phone and you have left it at home when any of your friends try to chat with you. And this can cause doubts in their minds.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 6.2 Pause Location Sharing in Life360 Settings
 
 Here is another way to stop Life360 from tracking you. You can simply pause the location-sharing option from the settings. Let us mention the steps without any more discussion.
@@ -472,11 +418,25 @@ Here is another way to stop Life360 from tracking you. You can simply pause the 
 
 ![settings of Life360](https://images.wondershare.com/drfone/article/2019/11/pause-location-sharing-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2:** Now, go to the Circle Switcher at the top and pick out the circle you wish not to share locations with.
 
 **Step 3:** Hit on "Location Sharing".
 
 ![go to Location Sharing](https://images.wondershare.com/drfone/article/2019/11/pause-location-sharing-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4:** Lastly, toggle off the slider and it will turn grey. You will see a message saying "Location Sharing Paused" and you are done.
 
@@ -484,9 +444,6 @@ Here is another way to stop Life360 from tracking you. You can simply pause the 
 
 **Note:** When you disable or pause location for a particular group, your location can still be tracked by other circles. Make sure to choose all or as per your needs.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## FAQs
 
 1. **How do I delete my history on Life360?**
@@ -505,15 +462,9 @@ Wondershare Dr.Fone - Virtual Location is a tool that allows users to spoof actu
 
 Disabling Wi-Fi on your iPhone might limit the accuracy of your location for Life360. However, Life360 can still track your location using cellular data and GPS. Turning off Wi-Fi alone might not entirely stop Life360 from tracking your location. It is especially true if other location services are still active on your device. To prevent tracking, you might need to adjust settings within your device's location services.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Final Words
 
 Life360 is no doubt a useful app that can help you know about the whereabouts of your near friends and family. However, when you hate being tracked on it, spoofing Life360 can come out as a great option. We discussed some helpful ways **how to fake your location on Life360** in this article, including [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) which allows you to manipulate your GPS location, simulate routes, and set up geofences, making it a versatile solution for your location spoofing needs. Hope you find this helpful.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -527,9 +478,20 @@ Life360 is no doubt a useful app that can help you know about the whereabouts of
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-jujutsu-kaisen-making-waves-tiktok-edition/"><u>[New] In 2024, Jujutsu Kaisen Making Waves TikTok Edition</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-sierras-best-top-5-mac-videography-software-insights/"><u>[Updated] 2024 Approved Sierra's Best Top 5 Mac Videography Software Insights</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-master-headline-hacks-for-maximum-impressions-for-2024/"><u>[Updated] Master Headline Hacks for Maximum Impressions for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-fast-tracking-fb-content-efficiency-strategies-explored/"><u>2024 Approved Fast-Tracking FB Content Efficiency Strategies Explored</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-the-amd-radeon-r9-360-drivers-for-windows-11-step-by-step-guide/"><u>Download and Update the AMD Radeon R9 360 Drivers for Windows 11: Step-by-Step Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Tecno Camon 20 Premier 5G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Infinix Note 30? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-rapidly-rise-with-smart-instagram-reel-techniques/"><u>In 2024, Rapidly Rise with Smart Instagram Reel Techniques</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723013277298-the-mechanism-of-action-involving-transferring-pollutants-from-the-gas-phase-to-the-liquid-phase-followed-by-removal-as-part-of-the-wastewater-stream/"><u>The Mechanism of Action Involving Transferring Pollutants From the Gas Phase to the Liquid Phase, Followed by Removal as Part of the Wastewater Stream.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-disk-formatting-required-error-on-windows/"><u>Troubleshooting Disk Formatting Required Error on Windows</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Oppo A78 5G? | Dr.fone</u></a></li>
+</ul></div>
 

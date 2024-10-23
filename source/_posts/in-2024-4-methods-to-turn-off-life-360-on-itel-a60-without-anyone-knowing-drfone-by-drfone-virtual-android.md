@@ -1,7 +1,7 @@
 ---
 title: In 2024, 4 Methods to Turn off Life 360 On Itel A60 without Anyone Knowing | Dr.fone
-date: 2024-08-02T02:15:35.327Z
-updated: 2024-08-03T02:15:35.327Z
+date: 2024-10-15T17:29:19.841Z
+updated: 2024-10-22T16:13:15.514Z
 tags: 
   - virtual location chang
   - location changer
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d
 
 Life 360 has made tracking our friends and loved ones so easy. It is an excellent choice for staying updated about family when you have security concerns. Despite this, it can be intrusive when you need your privacy. If you’re a group member and wonder how to turn off Life360 without parents knowing on iPhone and Android devices, you’re in luck. This article will provide you with a complete guide on how to turn off Life 360 without anyone knowing.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: What is Life 360?
 
 Many applications are available today to help family and friends track each other for various purposes. One such app is Life360, and it has been successful since its launch. This tracking app makes it easy to trace the location of your loved ones or anyone you want to track. But, first, you need to create a circle of friends on a map.
@@ -35,16 +32,10 @@ Some of the available Life360 features include notifying you when a member of yo
 
 ![sending help alert on life360](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## Part 2: How to Turn off Life360 without Knowing
 
 There are times when you want to turn Life360 off without it showing so that people don’t know your present location. But, if you have no idea how to go about it, you’re in luck. This section covers the best methods to stop sharing your location with friends and family on Life360.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ### 1\. **Turn Off Your Circle’s Location on Life360**
 
 There is the possibility of limiting the details about your location to others in your circle. One way to turn Life360 without anyone knowing is by choosing a circle and disconnecting from them. The steps below break down the entire process.
@@ -52,23 +43,14 @@ There is the possibility of limiting the details about your location to others i
 - First, launch Life360 on your device and navigate to ‘settings.’ You can find it at the bottom right corner of the screen.
 - Next, choose a circle you want to stop sharing your location with at the top of the page.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![locate the circle on life360](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-3.png)
 
 - Tap on ‘location sharing’ and click on the slider next to it to disable location sharing.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![click on location sharing](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing.jpg)
 
 - Now you can recheck the map, and it will show ‘location sharing paused.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![pause location sharing](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-2.jpg)
 
 ### 2\. **Turn off Your Itel A60’s Airplane Mode**
@@ -77,24 +59,14 @@ Another option you have to stop sharing location on Life360 is by switching on A
 
 **For your iOS devices**: open ‘control center’ and tap on the ‘airplane mode’ button. Alternatively, you can go to settings and tap on ‘airplane mode’ to switch it on.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turn on airplane mode on iphone](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-6.png)
 
 **For Android** owners wondering how to turn location off on life360 through Airplane mode, swipe down from the top of your screen and select the ‘Airplane mode’ icon. You can also turn it on by visiting ‘settings’ and selecting ‘network & internet’ from the option displayed. Finally, find the airplane mode and switch it on.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![turn on airplane mode on android](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-7.png)
 
 These steps will help you turn off location sharing on Life360. However, the downside of using Airplane mode is that it prevents you from accessing the internet. In addition, with the Airplane mode turned on, you can’t make or receive phone calls, either. Therefore, we don’t recommend this as your top choice when learning to turn off Life 360.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. **Disable GPS Service on Your Device**
 
 Another top method of turning off Life360 is disabling the GPS service on your device. It is an effective option, and you can carry it out on your iOS and Android devices. Below, we’ll break down the steps of doing this on your Android and iOS devices.
@@ -107,9 +79,6 @@ iOS users can easily turn off GPS services by following the steps we’ll be pro
 - Next, locate the ‘personal’ category and tap on ‘location services’ from the options displayed.
 - Next, disable GPS location services
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![disable gps location services on iphone](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-8.png)
 
 **For Android**
@@ -123,17 +92,19 @@ You’re not left out of this option; below are the steps to disable GPS service
 
 ![turn off gps location services on android](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: **Best Ways to Fake Location on Life360 without Anyone Knowing-Virtual location \[iOS/Android Supported\]**
 
 Although Life360 can be helpful in emergencies or security issues, it can also prove quite problematic. If you want some privacy or don’t trust members of your circle, you might want to learn how to turn off Life 360. The problem with turning off the Life360 location is that members of your circle might notice, which would inevitably cause some conflict.
 
 Fortunately, you have another effective option, and that is by faking your GPS location using a location spoofer. You can display the location you want while keeping your true location safe on Life360. Dr. Fone –Virtual location is an excellent tool for faking your location.  
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer for both iOS and Android
@@ -154,42 +125,47 @@ Below, we’ve broken down the process for you; keep reading to learn how to fak
 
 2\. Select ‘virtual location’ from the options displayed on the main menu.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![access virtual location feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3\. Next, connect your iPhone or Android device to your PC and click 'get started.'
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![tap on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 4\. Next, you have to turn on the ‘teleport mode’ by clicking its icon at the upper right corner of the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enable teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 5\. Now, enter the location you want to teleport to on the upper left side of the screen and then click the ‘go’ icon.
 
 6\. Click ‘move here’ in the popup box to change your location to this new place.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![tap on move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 Automatically, your location will change to the chosen place on the map and your mobile device.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![location on your phone](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
 <iframe width="100%" height="450" type="text/html" src="https://www.youtube.com/embed/xQa-_8RTg5U" frameborder="0"></iframe>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: FAQ About Turn off Location on Life360
 
@@ -201,6 +177,13 @@ Yes, there are some dangers associated with turning off location on Life360. No 
 
 When your phone is off, your GPS location is automatically disabled. Therefore Life360 won’t be able to track your location; it will only display your last logged location.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. **Does Life360 tell my circle when I turn off the location?**
 
 Yes, it does. It will send a ‘location sharing paused’ notification to all your group members. Additionally, if you log out from Life360, it will notify your circle immediately.
@@ -209,31 +192,35 @@ Yes, it does. It will send a ‘location sharing paused’ notification to all y
 
 Life360 is a useful app for professional and personal circles. However, it can be intrusive on our privacy sometimes. Most times, the youths want to learn how to turn off Life360 without their parents knowing on iPhone and Android devices. This article provides you with different methods you can achieve this. If you want to learn how to turn off life 360 without showing up, the best option is to fake your location. We hope the guide above helps you utilize [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) without any issues.
 
-
-
 ## 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Itel A60
 
 Find My Friends is an app developed for Android and iOS devices. You can say it as a location-sharing application. This app can be used to share the location of each other among the friends. When your contacts install the app on their device, the application makes everyone eligible to share their location with you and you can too share the location with your friends.
 
 It is helpful if you are having a hang out plan with your friends. And if you friend is on the way, he or she can share their location. Or it is a great way to catch if someone is lying about their location.
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: About Find My Friends app
 
 When location sharing is enabled in the Itel A60 device, the map will show the current locations. The [Find My Friends app](https://www.virtuallocation.com/find-my-friends/) also has an inbuilt chat option where you can contact your friend and interact about with them. It also automatically informs you when your friend reaches at the target location, leave a location etc. You can customize and configure the alerts as per your choice.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![Find My Friends app](https://images.wondershare.com/drfone/article/2019/09/find-my-friends-intro.jpg)
 
 ### How it is different in iOS 13
 
 You can find yourself confused if you are using iOS 13 and looking for Find My Friends app. You may not be able to find it on your device running on iOS 13. To your information, Apple has decided to combine the Find My iPhone and Find My Friends app into one. And they have named it as “Find My”. This new named app has everything what Find My Friends and Find My iPhone has. When you’ll open it, you will find the “People” tab on the bottom. Using this, you can get your friends as you used to get before.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Find My Friends on iOS 13](https://images.wondershare.com/drfone/article/2019/09/find-my-friends-ios-13.jpg)
 
 ## Part 2: What Are the Against Voices of the Find My Friends App?
@@ -248,20 +235,10 @@ Look at some of the things we feel not beneficial about Find My Friends.
 
 In such cases, the need of hiding or faking Find My Friends location rises. This is because we are sharing some ways to fake location on Find My Friends on your iOS and Android.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ## Part 3: 4 Solutions to Fake Find My Friends Location on iOS
 
 We know how important it is to trick your device deceiving with the location. You might be curious now to learn the methods that can meet the objective of yours. Let us begin with the section that introduces you four ways to fake Find My Friends location.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ### 3.1 Use virtual location tool to fake Find My Friends location on iOS
 
 One of the useful ways to learn faking location on Find My Friends is using a professional tool like [dr.fone – Virtual Location (iOS)](https://www.wondershare.com/ios-virtual-location.html) . This tool helps you to teleport your iOS device’s GPS anywhere. Also, with this, you can get your speed of movement customized easily. It is one of the trusted tools you can use. Here are the steps to be followed to fake location on Find My Friends.
@@ -272,18 +249,12 @@ One of the useful ways to learn faking location on Find My Friends is using a pr
 
 From the main page of dr.fone – Virtual Location (iOS), download it. After this, install the tool on your system and then launch it. Now, click on “Virtual Location” option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![install the tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2: Set up Phone’s Connection**
 
 Now, take your iPhone and keep it connected with the system. After this is done, click on the “Get Started” button to move ahead.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![connect iphone to pc](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 **Step 3: Look for Location**
@@ -291,6 +262,13 @@ Now, take your iPhone and keep it connected with the system. After this is done,
 After following the second step, all you need is to look for your actual location. To make this happen, click on the “Center On” icon given at lower right of screen.
 
 ![look for your actual location](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4: Enable Teleport Mode**
 
@@ -302,9 +280,6 @@ In this step, you should activate the teleport mode. This will be done by clicki
 
 Now, the program will get your location and click on “Move Here” that comes in the next dialog box. The location will be changed now. You can see that in your iPhone and its location-based app.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![Fake location on Find My Friends](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 ### 3.2 Use a burner iPhone to fake location in Find My Friends
@@ -339,9 +314,6 @@ If you have done jailbreaking, you can have FMFNotifier. Jailbreaking will be wo
 
 **Step 3:** Lastly, install the package. Now, you can go to “Settings” on your device. Go to FMFNotifier and configure the settings as you want to fake location on Find My Friends.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![configure the settings](https://images.wondershare.com/drfone/article/2019/09/fmfnotifier-settings.jpg)
 
 ### 3.4 Use AntiTracker to protect your location privacy
@@ -366,6 +338,13 @@ You will get the notification no matter your screen is locked or not. A notifica
 
 ![antitracker settings](https://images.wondershare.com/drfone/article/2019/09/antitracker-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4: How to Fake Find My Friends location on Android
 
 If you want to fake Find My Friends location on Android, you can easily configure Android devices to do it. For this, you can take help of an Android spoofer app. There are plenty of them available in Play Store. We will be using “Fake GPS GO Location Spoofer Free”. This is how to fake location on Find My Friends on Android.
@@ -386,33 +365,18 @@ When you install it rightly, this is how to do a little twisting to set it up wi
 
 **Step 4:** Under the Developer options page, click on “Select mock location app”. Now, select “FakeGPS Free” from the list.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![Select mock location app](https://images.wondershare.com/drfone/article/2019/09/select-mock-location-app.jpg)
 
 **Step 5:** Return to Fake GPS Free and long press the two spots on map to set the route. Take help of the play button given at the bottom. This will enable the location spoofing. You will see, “Fake location engaged…”. This will show your fake location on Find My Friends app.
 
 ![fake gps on android](https://images.wondershare.com/drfone/article/2019/09/fake-gps-android.jpg)
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 8 Solutions to Fix 'Find My Friends Location Not Available' On Itel A60
 
 There is no doubt that Find My Friends is an excellent application for location tracking. It allows users to track the location of their friends and family members through a variety of devices. So, when Find My Friends says the location is not available, it can be a frustrating situation. But don't stress over this because we are here to assist you in Find My Friends not working. Go through this guide, and you'll know what to do to take care of the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![find my friends location not available](https://images.wondershare.com/drfone/article/2023/05/find-my-friends-location-not-available.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: What Does "Location Not Available" Mean on Find My Friends?
 
 When the "Location Not Available" message appears on Find My Friends, it means that you have disabled location sharing or have turned off your device's location services. This message can also appear if your device is in an area with poor network coverage or if your device is turned off. In some cases, the message can indicate that you have logged out of your iCloud account or that there is an issue with the iCloud server.
@@ -442,6 +406,13 @@ Why does Find My Friends say location not available? Before we get to the soluti
 
 All these reasons can be the ones causing trouble on your Itel A60  and Android phones. Hence, you will have to look for some conventional methods to fix the unavailable location error.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: 8 Tips To Make "Find My Friends Location" Available
 
 When the Find My Friends app location is not available, here are some more tips that can help get rid of this issue.
@@ -454,30 +425,18 @@ The foremost thing you should do when the Find My Friends location is not availa
 
 After verifying that the feature is available in your region, enable the GPS & Location Services. In case you've already enabled the feature, turn it off, quit the app, and again enable the service. It might fix the location not found on the Find My Friends issue you've been facing. Just open Settings > Privacy & Security > Location Services and toggle the bar to turn the feature on or off.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enable location services](https://www.virtuallocation.com/images/pokemon-go/enable-location-services.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Tip 3: Adjust Itel A60  Date and Time
 
 As we stated in the possible reasons, incorrect dates and times also result in this problem. If you have manually set the date and time, change the settings and set it to "Set Automatically" in General Settings. Hopefully, this will resolve the problem when the Find My Friends location is not available.
 
 ![adjust date and time](https://www.virtuallocation.com/images/pokemon-go/adjust-date-and-time.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Tip 4: Check the Internet
 
 Before you conclude that there is something wrong with the Find My Friends app, check your internet connection. There is a chance that location is not available on the Itel A60  because your device doesn't have internet access. Try opening Settings > Mobile Data/Wi-Fi and turning it on and off. Alongside, make sure that you have signal strength, whether you are connecting to cellular data or a Wi-Fi network.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![check internet connection](https://www.virtuallocation.com/images/pokemon-go/check-internet-connection.jpg)
 
 ### Tip 5: Enable Share My Location
@@ -492,11 +451,6 @@ Toggle on the option to enable it. Once the feature is enabled, your friends wil
 
 For Android users, go to "Settings" > "Additional settings" > "Privacy" > "Location", and choose the location mode to enable it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ### Tip 6: Restart the Itel A60  or Android Phones
 
 The next tip to use when Find My Friends says location not available is restarting your phone. For most devices, the method is common. But for Itel A60  X and 11, the steps are slightly different. For other Itel A60  models, press the Power button and wait until the slider appears. For Itel A60  X and 11/12/13/14, you'll have to hold the Volume button and the Power button together to make the slider appear on the screen.
@@ -531,9 +485,6 @@ To use Dr.Fone - Virtual Location, here are the steps you need to follow:
 
 **Step 2:** The next step is to set up the phone's connection. Connect your Itel A60  and click on the "Get Started" button. Now, detect your current virtual location by clicking on the "Current Virtual Location" icon.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![detect actual location](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 **Step 3:** Now go to the search box and type the location you want to switch to. Once the location gets detected, click on the "Move Here" option, and the location of your Itel A60  or Android phone will change to the one you specified.
@@ -542,9 +493,6 @@ To use Dr.Fone - Virtual Location, here are the steps you need to follow:
 
 As you can see, when you have Dr.Fone - Virtual Location software, you can share any location with just one click. And it would seem that your Find My Friends app is working fine.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## FAQs You May Want to Know about Itel A60  Location
 
 **1\. Is there a way to check if someone has stopped sharing their location with you on their Itel A60 ?**
@@ -577,8 +525,6 @@ Yes, you can take steps to prevent someone from tracking your phone's location. 
 
 Taking these precautions can help safeguard your phone's location and enhance your privacy. It's important to stay vigilant and be aware of the privacy settings and permissions on your device.
 
-
-
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer for both iOS and Android
@@ -595,7 +541,6 @@ Taking these precautions can help safeguard your phone's location and enhance yo
 
 Hopefully, now you know "why is find my friends not working" and several ways to fix the Find Friends location not available. In this guide, we learned all these tips to make it easy for Itel A60  users to rectify the issues with the Find Friends app. Check all the tips carefully and implement them whenever you face issues like this.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -608,9 +553,18 @@ Hopefully, now you know "why is find my friends not working" and several ways to
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-a-treasure-trove-of-premium-youtube-images-from-6-websites/"><u>[New] In 2024, A Treasure Trove of Premium YouTube Images From 6 Websites</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-seo-the-path-to-more-audience-engagement/"><u>[New] YouTube SEO The Path to More Audience Engagement</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-an-easy-to-follow-guide-to-applying-cc-license-types/"><u>[Updated] 2024 Approved An Easy-to-Follow Guide to Applying CC License Types</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo Y100A? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Infinix Hot 40i? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-ideal-tools-for-saving-your-online-video-presence/"><u>In 2024, Ideal Tools for Saving Your Online Video Presence</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-asus-rog-phone-7-ultimate-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Asus ROG Phone 7 Ultimate Phone? Unlock It Now</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/realme-12-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Realme 12 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+</ul></div>
 

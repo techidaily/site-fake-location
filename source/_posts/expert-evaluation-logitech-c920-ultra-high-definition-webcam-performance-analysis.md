@@ -1,7 +1,7 @@
 ---
 title: "Expert Evaluation: Logitech C920 Ultra High-Definition Webcam Performance Analysis"
-date: 2024-10-14T06:10:23.810Z
-updated: 2024-10-16T23:30:45.415Z
+date: 2024-10-21T21:54:39.829Z
+updated: 2024-10-23T01:38:28.042Z
 categories:
   - BestProducts
 description: "This Article Describes Expert Evaluation: Logitech C920 Ultra High-Definition Webcam Performance Analysis"
@@ -37,9 +37,23 @@ Lifewire / Erika Rawes
 
 4.2
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## AmazonBasics Ultra-Thin Antenna
 
 ![AmazonBasics Indoor TV Antenna](https://www.lifewire.com/thmb/Vbu1KpC59isVCGH4C4jYBOynN04=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_AmazonBasics-Flat-TV-Antenna-1-325d04d831244d8f9f5adcec945c4a63.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
 
@@ -61,6 +75,13 @@ Lifewire / Erika Rawes
  _We purchased AmazonBasics Flat TV Antenna so our expert reviewer could thoroughly test and assess it. Keep reading for our full product review._
 
  Indoor TV antennas, like the AmazonBasics Indoor Flat TV Antenna, can provide you with free broadcast TV channels. Once you pay the upfront cost for the antenna you’re not stuck with any monthly fees for your local channels. The[best TV antennas](https://www.lifewire.com/best-tv-antennas-to-buy-4078201) are nothing like the bunny ear style antennas from back in the day. The picture quality is comparable to what you’d get from the cable company or streaming service—or it's supposed to be. I tested the ultra-affordable AmazonBasics Indoor Flat TV Antenna for a week to see if its design, setup, and performance make it a viable option.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Design: It’s all in the name (basic)**
 
@@ -90,13 +111,6 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Range: 35 miles**
 
  The AmazonBasics antenna has a 35-mile range, which isn’t very far considering 50 plus miles is becoming more common. It is omnidirectional, however, so you don’t need to point it in a specific direction. It supports UHF/VHF, so I was able to get a decent selection of channels.
@@ -105,13 +119,6 @@ Lifewire / Erika Rawes
 
  It supports UHF/VHF, so I was able to get a decent selection of channels.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Price: Super affordable**
 
  The AmazonBasics Flat TV antenna sells in used condition on Amazon for only $13\. In new condition, it sells for $20, which is still a great deal. However, you can find other affordable antennas for between $20 and $50 that provide a much longer range, and many offer additional features, like a longer cable. With the AmazonBasics model, you can return the unit within 30 days if it doesn’t work in your area.
@@ -119,10 +126,10 @@ Lifewire / Erika Rawes
 ![AmazonBasics Indoor TV Antenna](https://www.lifewire.com/thmb/MN6DSsu9Myyo6CdrSW5MJTjHoug=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AmazonBasics-Flat-TV-Antenna-4-fd9968307cb44c9d9e824750413e0028.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
@@ -136,13 +143,6 @@ Lifewire / Erika Rawes
 **A budget antenna that works as advertised.**
 
  The AmazonBasics Antenna is a good option for anyone who wants an ultra-cheap way to get broadcast TV.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -175,22 +175,22 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-novices-nexus-grasping-frame-rates-and-aspect-ratios/"><u>[New] Novice's Nexus Grasping Frame Rates and Aspect Ratios</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-viral-watches-amazon-primes-hot-series-in-twittersphere/"><u>[Updated] 2024 Approved Viral Watches Amazon Prime's Hot Series in Twittersphere</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-navigating-lut-application-in-adobe-premiere-for-2024/"><u>[Updated] Navigating LUT Application in Adobe Premiere for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-pathway-to-perfect-images-step-by-step-backdrop-erasure/"><u>[Updated] The Pathway to Perfect Images Step-By-Step Backdrop Erasure</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-subtitle-mastery-made-easy-10-free-online-tools/"><u>2024 Approved Subtitle Mastery Made Easy - 10 Free Online Tools</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-vivo-t2-pro-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Vivo T2 Pro 5G is off? | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-updated-nvidia-drivers-compatible-with-windows-1178/"><u>Download Updated NVIDIA Drivers Compatible with Windows 11/7/8</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Google Pixel 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On OnePlus 12 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-sign-in-problems-on-your-pc-a-guide-to-resolving-the-user-profile-service-failed-message-for-windows-10-and-11-users/"><u>Fixing Sign-In Problems on Your PC: A Guide to Resolving the 'User Profile Service Failed' Message for Windows 10 and 11 Users</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>How to Change Spotify Location After Moving to Another Country On Apple iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Vivo Y36? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-zte-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on ZTE</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Oppo F25 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Tecno Spark 20C | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/yakuza-like-a-dragon-seamlessly-integrated-into-pc-gaming/"><u>Yakuza - Like a Dragon Seamlessly Integrated Into PC Gaming</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/iy-dynamics-unlock-creative-animation-potential-for-2024/"><u>[New] DIY Dynamics Unlock Creative Animation Potential for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-melodymentor-detailed-sound-review/"><u>[New] In 2024, MelodyMentor Detailed Sound Review</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-uniting-live-stream-tech-a-step-by-step-obs-and-zoom/"><u>[New] Uniting Live Stream Tech A Step-by-Step OBS & Zoom</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-everything-you-need-to-succeed-with-youtube-short-videos-for-2024/"><u>[Updated] Everything You Need to Succeed with YouTube Short Videos for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>Does Airplane Mode Turn off GPS Location On Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/essential-driver-update-for-hp-scanjet-install-now-for-compatibility-with-windows-11-8-and/"><u>Essential Driver Update for HP Scanjet: Install Now for Compatibility with Windows 11, 8 &</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-error-code-6-in-call-of-duty-modern-warfare-on-pc/"><u>Fixing the 'Error Code 6' In Call of Duty: Modern Warfare on PC</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Tecno Pova 5? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/interface-to-enlarge-videography-elements-for-2024/"><u>Interface to Enlarge Videography Elements for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-nokia-g310-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Nokia G310? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-privilege-errors-in-steam-games-a-complete-solution/"><u>Overcoming Privilege Errors in Steam Games - A Complete Solution</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transform-your-music-into-videos-free-mp3-to-mov-conversion-with-movavis-top-rated-web-service/"><u>Transform Your Music Into Videos: Free MP3-to-MOV Conversion with Movavi's Top-Rated Web Service</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Vivo Y27 5G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Samsung Galaxy S23+ | Dr.fone</u></a></li>
 </ul></div>
 

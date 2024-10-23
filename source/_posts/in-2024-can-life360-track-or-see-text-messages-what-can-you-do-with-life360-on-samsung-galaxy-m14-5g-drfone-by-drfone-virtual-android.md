@@ -1,7 +1,7 @@
 ---
 title: In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Samsung Galaxy M14 5G? | Dr.fone
-date: 2024-10-14T08:16:35.754Z
-updated: 2024-10-17T05:58:06.670Z
+date: 2024-10-15T21:11:38.798Z
+updated: 2024-10-23T02:00:00.327Z
 tags: 
   - virtual location chang
   - location changer
@@ -102,13 +102,6 @@ There is no way to hide your Life360 history. There are only two ways to remove 
 
 Life360 is designed for parents to always stay informed about the digital well-being of their children and their location. Children might think this is an invasion of privacy but given what's out there on the internet and in the world, parents are rightfully concerned. If you are using Life360 as a rudimentary spyware to track your ex or any such purposes, then that is on you and that is an invasion of their privacy.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 I hope reading this article helped relieve your concerns about the Life360 app. Can you track text messages with life360 "Yes" the app tracks your location through texts but can life360 read texts, or can life360 see who you text, "No" because it cannot monitor all your device's actions. The device can see if you are texting others. Still, it cannot store any data, so you can privately communicate with people inside or outside your circle. But you can stop the app from tracking your location for safety purposes, so you have to use [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) to trick location-based applications or change your GPS coordinates or location history with one click.
@@ -147,13 +140,6 @@ You will also be asked to select a default location. This will be used to determ
 
 Also, Life360 works best in urban areas. If you live in an area with many tall buildings, Life360 may not work as well.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4: Is Life360 Safe for Your Privacy?
 
 Life360 is a relatively new app, but it has been getting attention lately. People are wondering whether it is safe for them to use and whether or not it is worth it.
@@ -169,13 +155,6 @@ There are no ads or in-app purchases. You do not have to give any information to
 Life360 is also very easy to use. You do not need to have any special training to use the app. You simply need to sign up and download the app.
 
 Life360 is available for free on Google Play and Apple App Store.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 5: Can a Location be faked on Life360?
 
@@ -200,6 +179,13 @@ Setting a virtual location is one of the prime role Dr.Fone plays.
 - Work with location-based apps, like [Pokemon Go](https://drfone.wondershare.com/virtual-location/pokemon-go-spoofing-ios.html), [Snapchat](https://drfone.wondershare.com/virtual-location/fake-snapchat-location.html), [Instagram](https://drfone.wondershare.com/virtual-location/how-to-change-region-on-instagram.html), [Facebook](https://drfone.wondershare.com/virtual-location/fake-location-on-facebook.html), etc.
 
 **3981454** people have downloaded it
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Steps To Fake Your Location with Dr.Fone Virtual Location
 
@@ -231,19 +217,6 @@ For iPhone users, after the program has been linked via a USB cord, it is possib
 
 ![tap on move here button](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 6: FAQs
 
 ### 1\. What are Life360 events?
@@ -259,13 +232,6 @@ Improve your family's driving habits by getting a weekly picture of everyone's d
 Find out about things like your highest speed and whether or not you text while driving, among other things. Then, take a look at individual drives to find out details such as the exact route taken, the number of kilometers recorded, the peak speed, driving style, and the locations of any driving incidents.
 
 When Circle members are on the road, whether driving, using public transportation, or traveling with companions, keep an eye on their peak speed.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Why does life360 show walking instead of driving?
 
@@ -316,14 +282,14 @@ Features of Fake GPS Go Location Spoofer
 
 ![Fake GPS Go app](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-2.jpg)
 
-## Part 2: Fake GPS GO Location Spoofer: the For and Against voices
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Part 2: Fake GPS GO Location Spoofer: the For and Against voices
 
 ### The FOR Voices on Fake GPS GO Location Spoofer
 
@@ -438,16 +404,10 @@ There are many apps related to fake GPS on the internet space and spotting the r
 Make use of the ‘Fake GPS Go Location Spoofer’ app to protect your live location details. With the help of this app, you can surf through any social media and play online games without any fear. Conceal the location information and increase your privacy through innovative products at the Google play store.
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 5: Fake GPS GO has no app for iPhone? What to do?
@@ -455,13 +415,6 @@ Make use of the ‘Fake GPS Go Location Spoofer’ app to protect your live loca
 Tricking the location by Fake GPS Go location spoofer can come in handy under many situations. However, when it comes to iOS devices, the users may get annoyed as the app has no iOS version. Therefore, you should be thankful to Dr.Fone – Virtual Location (iOS) that helps you serve the purpose without any Fake GPS Go apk. The tool is designed by Wondershare and never disappoints users for faking location. Let us know how you can pretend to be somewhere in an iOS device sans Fake GPS Go.
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Mode 1: Teleport Anywhere
 
@@ -477,6 +430,13 @@ Step 3: You will notice your current location on the map. If not, hit the “Cen
 
 ![current location](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 4: Choose the third icon on the upper right part of the screen from the three given icons. This is “teleport mode”. Enter the name of the location where you need to teleport and click “Go”.
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
@@ -488,6 +448,13 @@ Step 5: Then entered place will be recognized by the program and you need to cli
 Step 6: The location will be changed successfully. You can now see on the map or in the location based app in iPhone, the spot will be seen as the same you selected.
 
 ![see changed location on the map](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Part 2: Movement Simulation Between two Places
 
@@ -505,6 +472,13 @@ Step 4: Now, the position will be seen moving as per the chosen speed on the map
 
 ![moving as per the chosen speed](https://images.wondershare.com/drfone/guide/virtual-location-10.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Part 3: Simulate Route Movement for Multiple Locations
 
 Step 1: For multiple spots, you need to click the “multi-stop route” after entering map interface. This mode is the second icon on the upper right side. Now, select the multiple places one by one where you want to pass.
@@ -513,9 +487,23 @@ Step 2: The pop-up will show the distance where you need to hit the “Move Here
 
 ![select the multiple places](https://images.wondershare.com/drfone/guide/virtual-location-11.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3: Enter a digit for how many times you want to take route and click “March”. This will begin the movement simulation.
 
 ![digit for how many times to move](https://images.wondershare.com/drfone/guide/virtual-location-12.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Virtual Location
 
@@ -543,22 +531,22 @@ Step 3: Enter a digit for how many times you want to take route and click “Mar
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-videovantage-warriors/"><u>[New] VideoVantage Warriors</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-expert-roundup-screen-recording-for-gamers/"><u>[Updated] 2024 Approved Expert Roundup Screen Recording for Gamers</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-vimeo-in-a-nutshell-the-video-sharing-experience/"><u>[Updated] In 2024, Vimeo in a Nutshell The Video Sharing Experience</u></a></li>
-<li><a href="https://common-error.techidaily.com/blizzard-network-breach-disconnected/"><u>Blizzard Network Breach - Disconnected</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/defeating-the-permafrost-standstill-fixing-your-game-when-it-freezes-during-the-cold-war-level/"><u>Defeating the 'Permafrost Standstill': Fixing Your Game when It Freezes During the Cold War Level</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Honor Magic 6 Lite? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effective-blue-screen-analysis-techniques-with-microsoft-on-w11/"><u>Effective Blue Screen Analysis Techniques with Microsoft on W11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Tecno Spark 10 5G | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-samsung-galaxy-s23-tactical-edition-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Samsung Galaxy S23 Tactical Edition For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-6-plus-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix iPhone 6 Plus Unavailable Issue With Ease | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-step-by-step-to-mastering-adobes-cloud-storage-capabilities-and-options/"><u>In 2024, Step-by-Step to Mastering Adobe's Cloud Storage Capabilities & Options</u></a></li>
-<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Realme 12+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-realme-c53-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Realme C53? Fixed | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Vivo Y56 5G | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/movavis-no-cost-mpeg-upgrader-for-mod-files-download-and-use-web-version-now/"><u>Movavi's No Cost MPEG Upgrader for MOD Files: Download & Use Web Version Now!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Tecno Camon 20 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-kinemaster-rises-a-comprehensive-android-game-guide-2023/"><u>[Updated] KineMaster Rises A Comprehensive Android Game Guide 2023</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-intense-close-ups-in-minecraft-five-simple-steps/"><u>2024 Approved Intense Close-Ups in Minecraft Five Simple Steps</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-honor-x50iplus-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Honor X50i+ Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/anthem-sound-issues-in-windows-11-heres-your-solution/"><u>Anthem Sound Issues in Windows 11? Here's Your Solution</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/browser-integrated-chatgpt-vs-plugin-additions-navigating-the-best-option-for-your-needs/"><u>Browser Integrated ChatGPT Vs. Plugin Additions: Navigating the Best Option for Your Needs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Vivo Y27 4G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Xiaomi Redmi 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-xiaomi-redmi-k70-pro-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Xiaomi Redmi K70 Pro? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-poco-c55-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Poco C55? Fixed | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-soft-transitions-in-garageband-audio/"><u>Mastering Soft Transitions in Garageband Audio</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-enjoying-classic-games-via-steam-deck-and-emudeck/"><u>The Ultimate Guide to Enjoying Classic Games via Steam Deck & EmuDeck</u></a></li>
+<li><a href="https://techtrends.techidaily.com/turning-off-voice-assistant-feature-in-your-samsung-television-setup/"><u>Turning Off Voice Assistant Feature in Your Samsung Television Setup</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Infinix Smart 8 Plus? | Dr.fone</u></a></li>
 </ul></div>
 
