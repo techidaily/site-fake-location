@@ -1,7 +1,7 @@
 ---
 title: In 2024, Best 10 Mock Location Apps Worth Trying On Lava Yuva 2 | Dr.fone
-date: 2024-10-27T21:00:13.868Z
-updated: 2024-10-28T20:09:15.771Z
+date: 2024-10-29T01:34:17.928Z
+updated: 2024-11-02T23:26:18.759Z
 tags: 
   - virtual location chang
   - location changer
@@ -30,6 +30,13 @@ The sole purpose of mock location apps or software is to help users spoof/ mock 
 - Location-based games such as Pokémon GO derive the most benefit from a mock location app because you can change your location and show yourself walking in the streets of London while sipping a mojito at a beach in Hawaii and catching amazing new Pokémon!
 - In dating apps, why pay a fee to unlock worldwide access when you can simply use a mock location app to let the dating app change your current location automatically in accordance with your selection in the location spoofer app on your Android or iPhone?
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part II: Is It Safe to Mock Location? Can It Be Detected?
 
 One of the most frequent and completely understandable concern and question on people’s minds when they talk about location spoofing is whether is it safe to mock location whether it can be detected and what the consequences are.
@@ -43,6 +50,13 @@ There are fewer mock location apps on the Apple Store due to Apple's strict poli
 #### 1\. [Dr.Fone - Virtual Location (iOS)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 ![drfone virtual location ios](https://images.wondershare.com/drfone/article/2023/12/mock-location.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 This is by far the best one out there. It is designed professionally and inspires trust, unlike some other apps that neither look as polished nor work as flawlessly. When in doubt, trust Wondershare’s Dr.Fone – Virtual Location (iOS) to do the job reliably and professionally in just a few clicks.
 
@@ -68,18 +82,18 @@ iTools by ThinkSkySoft is another great location spoofer you can use. It has an 
 
 ![itoolab](https://images.wondershare.com/drfone/article/2023/12/mock-location-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 iToolab is another popular location spoofer for iPhone and comes with some powerful features that you might want. It is continually developed, which means it supports the latest iOS 17 as well.
 
 #### 4\. iMoveGo
 
 ![imovego](https://images.wondershare.com/drfone/article/2023/12/mock-location-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 A quality product from Wootechy, iMoveGo is compatible with the latest iOS 17 and works well for what it does. It does not require jailbreak and comes with a trial version you can use to see what it does and if it fits your purpose.
 
@@ -114,13 +128,6 @@ iToolab AnyGo for Android works in over 100 games and apps and can simulate move
 #### 4\. [Dr.Fone - Virtual Location (Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 ![drfone virtual location android](https://images.wondershare.com/drfone/article/2023/12/mock-location-android.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Dr.Fone - Virtual Location can be used to effectively spoof GPS coordinates on Android devices as well. An issue that other spoofing apps present is that the location might jump between its true location and falsified location, which means that other apps might present a location spoofing solution that is not stable. That is not the case with Dr.Fone - Virtual Location (Android) where a location once set remains set as long as you want it to, and will not jump.
 
@@ -197,13 +204,6 @@ Using a method that has been detected once, such as iSpoofer, is one way to land
 
 \- One precaution to take when you spoof your location in general is to allow a cooling period before changing location, and once you change your location to anywhere in the world, do not jump to another far-off place the next minute or even the next hour. Be sensible, allow for time it would take in real life to travel that distance, and you should go undetected.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Closing Words
 
 Using a mock location app can be fun. You can use it for recreational purposes such as pranking friends. You can use it for practical purposes such as saving money on dating apps by mocking location on Android and iPhones to anywhere around the world to meet new people. You can use it to simulate movement anywhere in the world in location-based games. You can also use mock location apps to effectively change your geographical location to watch content not available in your true geographical area. Whatever your reason may be, what you need is a reliable mock location app so that you can spoof your location undetected. Wondershare [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) is one such app you can trust with your eyes closed. It is the most comprehensive location spoofer for Android and iPhone for consumers. Download it today and enjoy newfound freedom!
@@ -221,6 +221,13 @@ Life360 is a family safety service that offers a variety of services. Its primar
 For parents who want to monitor their children from a distance, Life360 is a valuable tool. It is a mapping system that allows your family members to know exactly where you or anybody else in the Family Circle, where Life 360 circle is located at any specified instant, regardless of whether they are in your house or elsewhere.
 
 Since the technology was introduced in 2014, we can safely say that it is no longer considered revolutionary. But, aside from that, some people want to know more than simply where they are, such as how fast they're going when driving.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How Life360 Circle Works?
 
@@ -278,6 +285,13 @@ The gadget is entirely safe to use and has a superb record for doing its job wel
 
 ![choose destination](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4:** The three life360 symbols at the upper right of the screen are visible. Activating the Teleport Mode requires you to tap on the third icon. Click "Go" when ready to go to your desired location.
 
 ![choose destination you want](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
@@ -293,6 +307,19 @@ Getting rid of a Circle is a cinch! To begin, you need to:
 - Log in as an Admin account and exclude everyone from the Circle.
 - After everyone else in the Circle has departed, the person who is now in the center should also exit the Circle.
 - It will be removed when nobody remains in the Circle since there is no use in having it otherwise.
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -330,13 +357,6 @@ The following are the key features of Fake GPS Location Spoofer:
 - Support third-party apps integration.
 - Supports additional spoofing options, including expert mode.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3. How to Use Fake GPS Location Spoofer to Fake GPS Location
 
 Faking GPS location with Fake GPS Location Spoofer is pretty simple. However, you need to put your phone in Developer mode to be able to use the app smoothly.
@@ -348,10 +368,10 @@ We've explained the steps to get Android into developer mode below:
 ![tap build number seven times](https://images.wondershare.com/drfone/article/2023/01/enable-developer-mode-on-android-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 2:** Navigate to the Settings main page again and tap on Developer options. Then turn on the toggle next to it and tick the checkbox next to Allow Mock Locations (if available).
@@ -374,6 +394,13 @@ After you complete the steps above, follow the following steps to spoof your Lav
 
 ![enable mock locations](https://images.wondershare.com/drfone/article/2023/01/spoof-location-with-fake-gps-location-spoofer-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - Scroll down and tap Select Mock Location App. Then, select Fake GPS Location Spoofer.
 
 ![setup fake gps location spoofer](https://images.wondershare.com/drfone/article/2023/01/spoof-location-with-fake-gps-location-spoofer-3.jpg)
@@ -385,13 +412,6 @@ After you complete the steps above, follow the following steps to spoof your Lav
 **Step 4:** Now, find the location you wish to teleport to and tap on it to start spoofing your location.
 
 ![start faking gps location](https://images.wondershare.com/drfone/article/2023/01/spoof-location-with-fake-gps-location-spoofer-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: Fake GPS Location Spoofer User Reviews
 
@@ -461,13 +481,6 @@ With [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfon
 
 ![click get started](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4:** The tool will automatically detect your current location. But if it does not, navigate to the right sidebar and click the Center On icon to display your location.
 
 ![click the center icon](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
@@ -518,13 +531,6 @@ Not really. It supports both free and paid versions. The free version allows you
 
 You can [download Fake GPS Location Spoofer free](https://play.google.com/store/apps/details?id=com.incorporateapps.fakegps.fre&hl=en_US&gl=US) from the Google Play Store.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Conclusion
 
 After reading the article above, we believe you should have made a final decision on whether to use the Fake GPS Location Spoofer app for your location spoofing activities.
@@ -545,20 +551,22 @@ Overall, the Fake GPS Location Spoofer app can help you achieve your objective o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-tutorial-for-downloading-movie-maker-6-on-windows-for-2024/"><u>[New] Tutorial for Downloading Movie Maker 6 on Windows for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-ultimate-image-transformation-with-polarr-editors-power/"><u>[Updated] Ultimate Image Transformation with Polarr Editor's Power</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-as-a-tool-for-content-creation-techniques-to-inspire-better-projects/"><u>ChatGPT as a Tool for Content Creation: Techniques to Inspire Better Projects</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/culinary-showdowns-hot-and-viral-food-crafts-on-tiktok-for-2024/"><u>Culinary Showdowns Hot and Viral Food Crafts on TikTok for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-samsung-galaxy-a14-4g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Samsung Galaxy A14 4G Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Realme GT Neo 5 SE? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-vivo-y36-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Vivo Y36 FRP Bypass</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/innovative-modded-computer-system-integrating-a-built-in-coffee-brewer-complete-bean-roasting-and-grinding-capabilities/"><u>Innovative Modded Computer System Integrating a Built-In Coffee Brewer: Complete Bean Roasting & Grinding Capabilities</u></a></li>
-<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Oppo Find N3? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On OnePlus Ace 3 | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/spotify-how-to-stop-seeing-podcast-recommendations/"><u>Spotify How to Stop Seeing Podcast Recommendations</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>What are Location Permissions Life360 On Apple iPhone 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Tecno Camon 30 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/rafting-the-perfect-binge-worthy-mukbang-experience-for-2024/"><u>[New] Crafting the Perfect Binge-Worthy Mukbang Experience for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-navigating-rights-in-instagram-songs/"><u>[Updated] 2024 Approved Navigating Rights in Instagram Songs</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-mastering-snapchat-boomerangs-ultimate-instructions-for-2024/"><u>[Updated] Mastering Snapchat Boomerangs Ultimate Instructions for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/jpegpng-movavi/"><u>免費移動JPEG到PNG的網路轉換服務 - Movavi 上的方法</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ogv-wmvmovavi/"><u>無料でOGV形式へ変換! WMVビデオを楽々とMovaviが変更する手引き</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://win-webster.techidaily.com/great-updates-from-southwest-airlines-whats-not-so-great-for-mr-gates-an-in-depth-analysis/"><u>Great Updates From Southwest Airlines: What's Not So Great for Mr. Gates? - An In-Depth Analysis</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-poco-c55-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-tecno-spark-20-pro-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Tecno Spark 20 Pro Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Itel P55 5G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On ZTE Nubia Flip 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-insights-into-procuring-freeness-in-frame-vids/"><u>In 2024, Insights Into Procuring Freeness in Frame Vids</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Oppo A1x 5G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/macos-sonomas-latest-bug-fixes-10144-revealed-essential-info-for-smooth-update-guide/"><u>MacOS Sonoma's Latest Bug Fixes (10.14.4) Revealed: Essential Info for Smooth Update Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneers-of-generative-ai-search-how-they-implement-it/"><u>Pioneers of Generative AI Search: How They Implement It</u></a></li>
 </ul></div>
 
