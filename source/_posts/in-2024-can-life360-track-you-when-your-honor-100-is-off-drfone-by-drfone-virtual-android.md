@@ -1,7 +1,7 @@
 ---
 title: In 2024, Can Life360 Track You When Your Honor 100 is off? | Dr.fone
-date: 2024-11-09T17:22:15.128Z
-updated: 2024-11-12T16:37:54.022Z
+date: 2024-11-19T07:36:27.358Z
+updated: 2024-11-22T00:19:20.718Z
 tags: 
   - virtual location chang
   - location changer
@@ -30,6 +30,10 @@ Should we trust Life360, the social media company that recently merged with Goog
 - [Part 2: Does life360 work if the phone is off?](https://drfone.wondershare.com/virtual-location/can-life360-track-you-when-your-phone-is-off.html#Part2)
 - [Part 3: 3 Ways to Stop Life360 from Tracking You ![hot icon](https://images.wondershare.com/drfone/article/2022/05/hot-tip.png)](https://drfone.wondershare.com/virtual-location/can-life360-track-you-when-your-phone-is-off.html#Part3)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: What Is Life360 And How Does It Work?
 
 The one app that kids hate and parents adore is called Life360. Life360 is monitoring software that can be downloaded into your Honor 100 and used by the individuals who are part of your Family Circle to monitor your location and the location of anybody else who is part of your Family Circle.
@@ -47,6 +51,10 @@ Disconnecting from Life360 is as simple as turning off your Honor 100 and preven
 If the necessity ever arose, such an undertaking may be useful for maintaining one's privacy. However, customers have no idea that Life 360 may still be used to monitor them by other people.
 
 Premium users will still have access to the last 30 days' worth of location data, so the other person will be able to see where you were last seen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: 3 Ways to Stop Life360 from Tracking You
 
@@ -67,13 +75,6 @@ Using location spoofing applications on an Android smartphone, your kids can foo
 It has several other noticeable features that can help you in your daily life.
 
 ![access virtual location feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Setting Wi-Fi and Data Services to "Off."
 
@@ -120,13 +121,6 @@ Features of Fake GPS Go Location Spoofer
 
 ![Fake GPS Go app](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: Fake GPS GO Location Spoofer: the For and Against voices
 
 ### The FOR Voices on Fake GPS GO Location Spoofer
@@ -166,6 +160,10 @@ Step 1: Go to the Google Play Store and type ‘Fake GPS Go Location Spoofer’ 
 Step 2: Soon after the successful download tap ‘Open’ button.
 
 ![click open button](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Allow the app to access the Honor 100 device’s location
 
@@ -257,13 +255,6 @@ Step 2: Take your iOS device and establish connection between PC and device. Hit
 
 ![establish connection](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3: You will notice your current location on the map. If not, hit the “Center On” located at the lower right on the screen.
 
 ![current location](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
@@ -289,10 +280,7 @@ Step 2: The slider located below the screen needs to be dragged to set the speed
 ![choose cycling speed or the speed you want](https://images.wondershare.com/drfone/guide/virtual-location-08.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 3: Next, key in a number that will define the number of times you want to travel the route back and forth. Hit “March” option.
@@ -303,13 +291,6 @@ Step 4: Now, the position will be seen moving as per the chosen speed on the map
 
 ![moving as per the chosen speed](https://images.wondershare.com/drfone/guide/virtual-location-10.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Part 3: Simulate Route Movement for Multiple Locations
 
 Step 1: For multiple spots, you need to click the “multi-stop route” after entering map interface. This mode is the second icon on the upper right side. Now, select the multiple places one by one where you want to pass.
@@ -317,13 +298,6 @@ Step 1: For multiple spots, you need to click the “multi-stop route” after e
 Step 2: The pop-up will show the distance where you need to hit the “Move Here” button. Choose the moving speed.
 
 ![select the multiple places](https://images.wondershare.com/drfone/guide/virtual-location-11.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 3: Enter a digit for how many times you want to take route and click “March”. This will begin the movement simulation.
 
@@ -351,13 +325,6 @@ Many applications are available today to help family and friends track each othe
 
 ![life360 for location sharing](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing.png)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Life360 works by sharing your GPS location on the map, allowing the members of your circle to view it. As long as your GPS location is turned on, those in your circle will always have access to your exact location. Life360 developers are continually releasing new features to improve their tracking function.
 
 ![life360 map showing circles](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-1.png)
@@ -365,6 +332,10 @@ Life360 works by sharing your GPS location on the map, allowing the members of y
 Some of the available Life360 features include notifying you when a member of your circle moves to a new point and it will send a help alert when there’s an emergency. In addition, the app automatically contacts the emergency contacts you added when you do this. However, this doesn’t change that it can get intrusive when you need some privacy. That’s why the next section covers how to turn Life360 off.
 
 ![sending help alert on life360](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Turn off Life360 without Knowing
 
@@ -378,6 +349,10 @@ There is the possibility of limiting the details about your location to others i
 - Next, choose a circle you want to stop sharing your location with at the top of the page.
 
 ![locate the circle on life360](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Tap on ‘location sharing’ and click on the slider next to it to disable location sharing.
 
@@ -454,13 +429,6 @@ Below, we’ve broken down the process for you; keep reading to learn how to fak
 
 ![access virtual location feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3\. Next, connect your iPhone or Android device to your PC and click 'get started.'
 
 ![tap on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
@@ -475,9 +443,17 @@ Below, we’ve broken down the process for you; keep reading to learn how to fak
 
 ![tap on move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Automatically, your location will change to the chosen place on the map and your mobile device.
 
 ![location on your phone](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <iframe width="100%" height="450" type="text/html" src="https://www.youtube.com/embed/xQa-_8RTg5U" frameborder="0"></iframe>
 
@@ -487,9 +463,17 @@ Automatically, your location will change to the chosen place on the map and your
 
 Yes, there are some dangers associated with turning off location on Life360. No one knows where you are anymore, which could be dangerous in the case of an emergency.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. **Can Life360 track my location when I switch My Honor 100 off?**
 
 When your phone is off, your GPS location is automatically disabled. Therefore Life360 won’t be able to track your location; it will only display your last logged location.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. **Does Life360 tell my circle when I turn off the location?**
 
@@ -513,18 +497,18 @@ Life360 is a useful app for professional and personal circles. However, it can b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/conquering-social-media-with-ig-videos-planning-an-optimal-strategy/"><u>Conquering Social Media with IG Videos Planning an Optimal Strategy</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/filmmakers-pathway-youtube-trailer-creation-with-filmora/"><u>Filmmaker's Pathway YouTube Trailer Creation with Filmora</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Motorola Edge+ (2023)? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Xiaomi Civi 3 Disney 100th Anniversary Edition? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Tecno Pova 5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-breakthrough-tactics-for-improved-voice-identity-in-pubg/"><u>In 2024, Breakthrough Tactics for Improved Voice Identity in PUBG</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/kinemasters-secrets-to-transition-excellence/"><u>Kinemaster's Secrets to Transition Excellence</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/movavi-transforma-tus-videos-mkv-al-elegante-aac-por-internet-totalmente-gratuito/"><u>Movavi: Transforma Tus Videos MKV Al Elegante AAC Por Internet, Totalmente Gratuito</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-terraria-stability-issues-with-new-2024-fixes-and-hacks/"><u>Overcome Terraria Stability Issues with New 2024 Fixes and Hacks</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Samsung Galaxy XCover 7? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
-<li><a href="https://win-latest.techidaily.com/windows-11-mbr-gpt/"><u>Windows 11 上轻松将 MBR 转换为 GPT：三种简单的方法</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-zip-archive-handling-for-srt-output-generation-for-2024/"><u>[New] Zip Archive Handling for SRT Output Generation for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-perfect-skype-recordings-mastering-the-art-of-obs/"><u>2024 Approved Perfect Skype Recordings Mastering the Art of OBS</u></a></li>
+<li><a href="https://fake-location.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/bringing-to-life-advanced-color-correction-guide/"><u>Bringing to Life Advanced Color Correction Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Xiaomi Redmi K70? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/detailed-evaluation-razer-kiyo-webcam-for-2024/"><u>Detailed Evaluation Razer Kiyo Webcam for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On ZTE Axon 40 Lite? | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-best-screen-grabber-gadgets-for-youtube-channels/"><u>In 2024, Best Screen Grabber Gadgets for YouTube Channels</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-x8b-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Honor X8b Bootloader Easily</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-oppo-a1-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Oppo A1 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/will-sony-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Sony play AVCHD mts files?</u></a></li>
 </ul></div>
 

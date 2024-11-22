@@ -1,7 +1,7 @@
 ---
 title: "Shedding Light on Durability: The Ultimate Guide to Anker's Superior Tactical Illuminator for Rugged Terrain"
-date: 2024-11-11T16:37:32.239Z
-updated: 2024-11-12T17:08:39.336Z
+date: 2024-11-15T22:33:31.641Z
+updated: 2024-11-22T01:43:20.002Z
 categories:
   - BestProducts
 description: "This Article Describes Shedding Light on Durability: The Ultimate Guide to Anker's Superior Tactical Illuminator for Rugged Terrain"
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/0313aeb6801c4ad054aee4b20ba488ff337dac52c
 ## Kensun AC/DC Portable Air Pump Tire Inflator
 
 ![Kensun Portable Tire Inflator](https://www.lifewire.com/thmb/NWhMBmuK3pkL9EGvdNCEAF8sWEo=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/KensunPortableTireInflator_HeroSquare-c74ce1562bed43b897087fa89d11df23.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jeffrey Daniel Chadwick
 
@@ -41,6 +45,10 @@ Lifewire / Jeffrey Daniel Chadwick
 
 ![Kensun Portable Tire Inflator](https://www.lifewire.com/thmb/MEKNaqKs5klEYPtoc5EGv7lAyJU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/KensunPortableTireInflator_HeroSquare-c74ce1562bed43b897087fa89d11df23.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire / Jeffrey Daniel Chadwick
 
 [View On Amazon $100](https://www.amazon.com/Kensun-Performance-Portable-Compressor-Inflator/dp/B01J8Y91GC/?tag=lifewire-onsite-prod-20&ascsubtag=4776821%7Cn7137248c5e6f4b0b979879dcac87fc7908%7CB01J8Y91GC)
@@ -62,6 +70,10 @@ Lifewire / Jeffrey Daniel Chadwick
  The Kensun Portable Tire Inflator made a good showing when we tested it. It gets high marks for accuracy, portability, and convenience, but it does fall down in some areas such as storing the air hose and power cable. Nevertheless, it’s a handy, nifty device that delivers the air you need when you need it.
 
  Lifewire / Jeffrey Daniel Chadwick
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Design and Features: Maximum portability, but not maximum flexibility**
 
@@ -85,13 +97,6 @@ Lifewire / Jeffrey Daniel Chadwick
 
  Lifewire / Jeffrey Daniel Chadwick
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Setup Process: T-minus one minute**
 
  Once you’ve read the user manual, you’ll know how to use the Kensun portable tire inflator. Nevertheless, you’ll want to do some test runs before you take it on the road. During our testing phase, we timed how long it takes from getting out of the car to the pump inflating one of our tires. It took about one minute, which is good time if you’re on the side of the highway with an unexpected flat.
@@ -99,10 +104,7 @@ Lifewire / Jeffrey Daniel Chadwick
  Lifewire / Jeffrey Daniel Chadwick
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Performance: Reliable, accurate, quick and loud**
@@ -125,13 +127,6 @@ Lifewire / Jeffrey Daniel Chadwick
 
  One of the most convenient things about this portable air pump is its auto-shutdown feature. This allows you to select the precise tire pressure you want before you start pumping. Once the tire is inflated to the desired pressure, it shuts down. This means that you don’t have to babysit the pump while it's going, and all but guarantees that you won’t over-inflate your tires.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Price: A decent buy considering its versatility**
 
  The Kensun Portable Tire Inflator has an MSRP of $80 on Amazon, which is a good price for what you get. It’s not nearly as affordable as some budget models we’ve seen, such as the Audew Portable Air Compressor Pump, which will only run you $40, but it gives you the convenience of not having to be tethered to your car to inflate something.
@@ -151,10 +146,7 @@ Lifewire / Jeffrey Daniel Chadwick
  The Kensun Portable Tire Inflator is a great choice to keep in your truck, garage, or wherever you keep your “just-in-case” supplies. It’s a device that is as necessary for drivers as jumper cables and an emergency flashlight. You can count on it to be reliable when you need it, and fill your tires quickly and accurately. Plus, the added benefit of being able to plug it into your wall can’t be overstated. It has its foibles, but in the grand scheme of things, they’re minor inconveniences.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -182,16 +174,22 @@ Lifewire / Jeffrey Daniel Chadwick
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-androvid-video-editor-complete-review-2023/"><u>[New] 2024 Approved AndroVid Video Editor – Complete Review 2023</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-the-ultrawide-uhd-dilemranc-which-monitor-wins/"><u>[Updated] 2024 Approved The Ultrawide-UHD Dilemranc Which Monitor Wins?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlock-the-power-of-design-in-audio-branding/"><u>[Updated] Unlock the Power of Design in Audio Branding</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-elite-mobile-filming-tech-for-iphones/"><u>2024 Approved Elite Mobile Filming Tech for iPhones</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Oppo Reno 11F 5G | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Tecno Pop 8? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/launch-your-filmmaking-dreams-xp-edition-preparation-for-2024/"><u>Launch Your Filmmaking Dreams XP Edition Preparation for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/mastering-instagram-filter-techniques/"><u>Mastering Instagram Filter Techniques</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Vivo V30 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Honor Play 8T | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-how-to-optimally-utilize-a-creative-commons-license/"><u>[New] 2024 Approved How to Optimally Utilize a Creative Commons License</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-unparalleled-8-webcams-elevate-your-livestream-experience/"><u>[New] Unparalleled 8 Webcams Elevate Your Livestream Experience</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-movie-magic-tiktok-effects-techniques/"><u>[Updated] Mastering Movie Magic TikTok Effects Techniques</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-quick-fixes-to-enhance-your-youtube-reach/"><u>2024 Approved Quick-Fixes to Enhance Your YouTube Reach</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-xiaomi-mix-fold-3-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Xiaomi Mix Fold 3 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-vivo-g2-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-identifying-high-impact-hdr-photography-tools/"><u>In 2024, Identifying High-Impact HDR Photography Tools</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-master-list-of-8-gratis-cutting-edge-video-players-for-pcmac-os/"><u>In 2024, Master List of 8 Gratis, Cutting-Edge Video Players for PC/Mac OS</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-motorola-moto-g-5g-2023-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Motorola Moto G 5G (2023)? Fixed | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Oppo Find X6? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-by-step-walkthrough-incorporating-subtitles-in-mp4s/"><u>Step-by-Step Walkthrough Incorporating Subtitles in MP4s</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Samsung Galaxy XCover 7? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-lava-blaze-2-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Lava Blaze 2 5G? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 

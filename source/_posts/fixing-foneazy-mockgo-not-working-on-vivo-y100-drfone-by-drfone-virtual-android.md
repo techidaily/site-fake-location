@@ -1,7 +1,7 @@
 ---
 title: Fixing Foneazy MockGo Not Working On Vivo Y100 | Dr.fone
-date: 2024-08-02T01:42:21.117Z
-updated: 2024-08-03T01:42:21.117Z
+date: 2024-11-16T01:38:46.840Z
+updated: 2024-11-22T02:50:29.427Z
 tags: 
   - virtual location chang
   - location changer
@@ -21,8 +21,9 @@ Foneazy MockGo is one of the most popular software out there that allows you to 
 Similar to other software, you will for sure encounter some problems or limitations when using Foneazy MockGo. These fixes could either be temporary or could just be due to the software's capabilities. Therefore, we will share with you in this article some tips that you can use to fix some issues that you will encounter and what alternatives you can use in case you cannot fix the issue in Foneazy MockGo.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1: What is Foneazy MockGo?
 
 Foneazy MockGo is a popular location spoofer tool that is used by users to use in their location-based AR games, or for some, using it with applications that require your location, such as Tinder. So that way, you are able to check what other locations in the world have in their area than being limited to the area that you are in.
@@ -48,15 +49,11 @@ Being able to share a spoof location or use it in games is fun and a great way t
 Try all of these tricks that we have shared and get that temporary issue in Foneazy MockGo fixed in no time.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: Best Foneazy MockGo Alternative Progam You Can Use in 2022
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 The best Foneazy MockGo alternative to fake location!
@@ -78,31 +75,28 @@ Our product, **“Dr. Fone - Virtual Location” (**[**https://drfone.wondershar
 
 ![virtual-location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **_Step 3:_** You will then be redirected to your current location on the new page.
 - **_Step 4:_** If you want to change your location, you will need to turn on the “Teleportation” mode by clicking on the first icon and typing the location that you want then click on the “Go” icon.
 - **_Step 5:_** Click on “Move Here” and your current location will show up as the location that you typed on Your Vivo Y100.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![virtual-location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 **You can watch the video below to gfix Foneazy MockGo not working on your device**
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/3fv4x1uE-LE"></iframe>
 
-
-
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Conclusion
 
 There you have it, these are the tricks that you can do on your own to fix any issue that comes up when using Foneazy MockGo or when this application is not working. Despite the advantages of using this application, you will for sure still encounter some limitations so you can look for an alternative that does the same job of sharing a spoof location and that is using **[Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)** which will help you to advance your levels in your AR games or find out other options in other locations in the world.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## How to Use Life360 on Windows PC For Vivo Y100?
 
 Life360 is an online platform that utilizes geo-location services to help users share their real-time location with friends and family. The app allows people to create a family group and stay connected to each other through features like chatting, sharing location, sending safety alerts, etc.
@@ -145,19 +139,21 @@ Step 2: Open the installer and tap the “download” button. This will initiate
 
 ![bluestacks 1](https://images.wondershare.com/drfone/2023/virtuallocation/bluestacks-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Once the installation process completes, Bluestacks will start to boot. Keep in mind that the first boot may take some time, depending on your system configurations.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![bluestacks 2](https://images.wondershare.com/drfone/2023/virtuallocation/bluestacks-2.jpg)
 
 Step 4: In the home screen, tap the “Google Play Store” icon. You’ll be asked to sign-in with your Google account. Enter the right credentials and log-in to the Google Play Store.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![bluestacks 13](https://images.wondershare.com/drfone/2023/virtuallocation/bluestacks-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 5: In the top search bar, type-in Life360 and tap the “install” button to download the app.
 
@@ -165,9 +161,6 @@ Step 5: In the top search bar, type-in Life360 and tap the “install” button 
 
 Step 6: Life360 is now installed on your computer. Open the app and enter your login details. You’ll now be able to run Life360 on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![bluestacks 5](https://images.wondershare.com/drfone/2023/virtuallocation/bluestacks-5.jpg)
 
 ## Part 4: Use Life360 by mirroring Android to Windows PC
@@ -182,10 +175,6 @@ Step 1: Make sure that Bluetooth is activated on both devices.
 
 Step 2: On your Windows PC, open “Settings” and select the “Systems” tab.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![mirroring android 1](https://images.wondershare.com/drfone/2023/virtuallocation/mirroring-android-1.jpg)
 
 Step 3: Choose the “Projecting to this PC” option in the left menu-bar and make sure that “Available Everywhere” is selected.
@@ -202,18 +191,12 @@ Step 5: It may take some while for the connection to establish. Once it does, yo
 
 Keep in mind that you’ll still require your device to navigate through the content on your computer. Any action that you perform on your device will be replicated on your computer screen as well.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Final Verdict
 
 Life360 is probably among the top family locators for Android users. Apart from its extensive range of features, the app provides a user-friendly interface, which allows it easier for even elders to use the app without any issues. Even though there isn’t a dedicated Life360 software for Windows, you can follow the above-mentioned methods to run the **_Life360 on PC_**.
 
 ## You Might Also Like
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Location-based apps
 
 GPS spoof for dating apps
@@ -226,6 +209,10 @@ AR game tricks
 
 ![virtual location](https://images.wondershare.com/drfone/article/2023/06/virtual-location-horizontal.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Change Phone GPS Location Easily**
 
 - ● Teleport GPS location to anywhere
@@ -234,16 +221,15 @@ AR game tricks
 
 [Try Now](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## How To Simulate GPS Movement With Location Spoofer On Vivo Y100?
 
 When you are playing location-based games like Pokemon Go, you might need to simulate GPS movement to catch more Pokemon. To do this, you can use the GPS movement feature of Wondershare [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). This feature allows you to simulate GPS movement between two or multiple spots on the map. Here's how you can do it:
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/r2GiOQxwfQc" frameborder="0" allowfullscreen=""></iframe>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Part 1: Simulate Movement Along a Route (One-Stop Route)
 
@@ -253,18 +239,6 @@ Step 1Access One-Stop Route Function
 
 Once you launch Wondershare Dr.Fone - Virtual Location and connect your smartphone successfully, proceed to select the **One-Stop Route** function from the top-right section. The function is represented by the third icon from the left in the section. While you have already teleported to another location or are using your current location, you can tap anywhere on the map to set your destination location.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![activate one stop route mode](https://images.wondershare.com/drfone/guide/virtual-location-08.png)
 
 Step 2Define Simulation Parameters
@@ -291,9 +265,6 @@ Activate the **Multi-Stop Route** mode from the top-right section next to the On
 
 **Note:** Select the spots along a specific road to prevent the game developer from thinking you are cheating.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![activate multi stop simulation](https://images.wondershare.com/drfone/guide/virtual-location-11.png)
 
 Step 2View Multi-Stop Route Movement
@@ -303,8 +274,13 @@ As the simulation starts, click **Pause** at any instance where you want to stop
 ![execute multi stop route simulation](https://images.wondershare.com/drfone/guide/virtual-location-12.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Part 3: Use Joystick for More Flexible GPS Control (Joystick Movement)
 
 Dr.Fone has integrated the joystick feature into the Virtual Location program to spare 90% of the labor for GPS control. You can always find the joystick on the lower left part in teleport mode. And you can also click the joystick button in the upper right (the 5th one) to use the joystick feature.
@@ -318,7 +294,6 @@ The joystick, like one-stop route or multi-stop route modes, aims to facilitate 
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/r2GiOQxwfQc" frameborder="0" allowfullscreen=""></iframe>
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -331,7 +306,19 @@ The joystick, like one-stop route or multi-stop route modes, aims to facilitate 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-boost-your-search-rankings-expert-reviews-on-7-cost-effective-video-tags-extractors/"><u>[New] In 2024, Boost Your Search Rankings Expert Reviews on 7 Cost-Effective Video Tags Extractors</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95683675-9781440534379-a-haunted-october/"><u>A Haunted October | Free Book</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-free-and-premium-mts-video-converters-in-2er-2024-ideal-picks-for-windows-11-enthusiasts/"><u>Best Free & Premium MTS Video Converters in 2Er 2024: Ideal Picks for Windows 11 Enthusiasts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elite-selection-advanced-vehicle-monitoring-systems/"><u>Elite Selection Advanced Vehicle Monitoring Systems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>How to share/fake gps on Uber for Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Tecno Spark 20C? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-infinix-hot-40-pro-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Infinix Hot 40 Pro? Fixed | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mobile-lut-shifts-enhancing-imagesvideos-for-2024/"><u>Mobile LUT Shifts Enhancing Images/Videos for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/perfecting-motion-capture-a-guide-to-gopro-time-lapse-photos-for-2024/"><u>Perfecting Motion Capture A Guide to GoPro Time Lapse Photos for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Realme C67 4G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-xiaomi-13t-pro-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Xiaomi 13T Pro? Here Is the Answer | Dr.fone</u></a></li>
+</ul></div>
 

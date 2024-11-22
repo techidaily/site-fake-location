@@ -1,7 +1,7 @@
 ---
 title: Full Guide to Fix iToolab AnyGO Not Working On Honor 90 Lite | Dr.fone
-date: 2024-08-02T01:44:29.176Z
-updated: 2024-08-03T01:44:29.176Z
+date: 2024-11-16T06:10:53.217Z
+updated: 2024-11-21T20:03:40.493Z
 tags: 
   - virtual location chang
   - location changer
@@ -41,9 +41,9 @@ And here are some of the drawbacks:
 - It is difficult to change locations multiple times and your account may also suspend.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2. How to fix the iToolab AnyGo not working issue?
 
 ### Issue 1: The map does not appear in the program
@@ -51,8 +51,9 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 First, check your network connection if iToolab AnyGO doesn't show on the map. Then, if the internet is available, download the latest iToolab AnyGO. You can check it out by clicking the menu and hitting the “Check for updates” button. Alternatively, you can uninstall and re-install AnyGO to acquire the latest version.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Issue 2: iPhone/iPad unable connecting AnyGO
 
 Follow these step-by-step guides if your iPhone/iPad cannot connect with iToolab AnyGO.
@@ -77,18 +78,18 @@ On AnyGO, Go to the installation path. Locate the log folder and compress it bef
 
 ![locate and compress the log folder](https://images.wondershare.com/drfone/article/2022/07/fix-itoolab-anygo-not-working-issue-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _**Tips:** iToolab AnyGo still not working? Switch to Dr.Fone - Virtual Location for seamless and reliable location simulation. Say goodbye to issues and enjoy hassle-free location control. Try It now!_
 
-
-
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3. Best iToolab AnyGo Alternative Program You Can Use in 2024
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![alternative program](https://images.wondershare.com/drfone/images2022/iphone-data-recovery/banner.png)
 
 If you are searching for an alternative app to the iToolab AnyGo, look no further and check out the [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). It is similar to other GPS spoofing apps but promises a smooth, natural, and realistic simulation of any GPS location.
@@ -101,7 +102,9 @@ One great feature that Dr. Fone Virtual Location consists of is sharing your fak
 
 So much of the talk. If you are wondering how to use Dr.Fone - Virtual Location app? Here's what you should know. Follow the below step-by-step guide:
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to use the joystick for flexible and smooth GPS control
 
@@ -121,9 +124,6 @@ So much of the talk. If you are wondering how to use Dr.Fone - Virtual Location 
 - Download it from another website. Now click the “Open” button.
 - Wait some time to complete the import process. Once done, it is now ready for use.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to teleport anywhere around the globe
 
 - Firstly download the Dr. Fone Virtual Location app. Though the app's current version has an old interface, the functionality is cleared from any glitches. The latest interface will soon be available. Now click on the “Virtual Location” from the options and connect your Android/ iPhone to your computer, and hit “Get Started”.
@@ -134,14 +134,15 @@ So much of the talk. If you are wondering how to use Dr.Fone - Virtual Location 
 - You have successfully teleported to Rome. Click “Move Here”
 - Now your location is fixed to Rome.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to add your route as a favorite
 
 - On your virtual location screen, click on the five-star beside the route and add it to your favorite.
 - Once you have added, hit the five-star icon again at the right-sidebar and locate the route you wish to use. Now hit the “Move” button and start walking along your favorite route again.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to simulate movement along the route using multi-spot
 
 - Choose multi-spot mode at the top right corner.
@@ -151,11 +152,6 @@ So much of the talk. If you are wondering how to use Dr.Fone - Virtual Location 
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/FfhgWxnARqo"></iframe>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ### Conclusion
 
 If you are experiencing issues in the app and thinking iToolab AnyGo not working how to fix it? This is the answer. But if you are looking for an alternative, look no other than [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) (iOS/Android). The app is very easy to use, teleports you in one click, and lets you use any location-based apps and games that are otherwise impossible to play.
@@ -163,24 +159,17 @@ If you are experiencing issues in the app and thinking iToolab AnyGo not working
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Will iSpoofer update On Honor 90 Lite
 
 iSpoofer has been one of the most in-demand applications for changing your location while playing Pokemon Go. For all the right reasons, people wanted to stick to it to make sure that they catch the splendid Pokemon no matter where they are stationed. But the problems started when iSpoofer stopped working and there was no way anyone could continue to use or initiate iSpoofer update. When you open the application, you’d either see an error message, a subtle hint at an apology, or a pop-up that says that the app is under maintenance.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ispoofer shut down pic](https://images.wondershare.com/drfone/2020/2020/ispoofer-shut-down-pic-1.jpg)
 
 All of them are the alternative ways of saying - ‘We are not available anymore’. But will iSpoofer be back in the year 2021? Can we expect to revive our Pokemon catching abilities with the iSpoofer update? Even if it comes back, will it be available for Android and iPhone users? If not - then do we have any other application that we can use for this purpose? To get answers to all these questions, you have to continue to read this space.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ## Part 1: Why Can’t I update iSpoofer?
 
 ![ispoofer not able to log in pic](https://images.wondershare.com/drfone/2020/2020/ispoofer-not-able-to-log-in-pic-2.jpg)
@@ -193,9 +182,6 @@ Undoubtedly, iSpoofer was a ‘game’ changer in the literal sense. You didn’
 
 Now that didn’t go down well with the makers. The whole essence of Pokemon Go is to ‘Go Out’ from the house to explore the presence of Pokemons in the surroundings. So, having a third-party application is going to change a lot of things. Pokemon blacklisted the app.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![Ispoofer account suspension pic](https://images.wondershare.com/drfone/2020/2020/Ispoofer-account-suspension-pic-4.jpg)
 
 The main target users for iSpoofer were the Pokemon Go players. With them gone, the revenue and usage of the app have reduced to a great extent and the creators have decided to pull the app out. And that is why you will no longer find a new version of iSpoofer that will be compatible with the game. The older version has anyway been blacklisted and won’t be of any use for the players and no iSpoofer update information so far
@@ -212,9 +198,6 @@ There are quite a few ways to spoof your location in the Pokemon Go Game but the
 
 Google Play Store Apps - There are certain applications you will find on Google Play Store or even the App store that offer ‘Fake GPS’ changes. You simply have to search for ‘Fake GPS Location Changers’ and you get some options. Find the one with the best rating and this can work for a while. However, there is no guarantee of when they’ll abandon you.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Google-play-store-apps-pic-6](https://images.wondershare.com/drfone/2020/2020/Google-play-store-apps-pic-6.jpg)
 
 The most reliable option that you can go for is using - Dr. Fone. It is Wondershare’s master app that changes your location on the world map, the very same will reflect on all your devices, social media accounts, and internet searches. It’s very hard to detect that you’ve used a spoofer. This is how to use it -
@@ -235,16 +218,10 @@ The most reliable option that you can go for is using - Dr. Fone. It is Wondersh
 
 As in, you can’t jump from Russia to America in 2 hours, can you?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![change-location-registered-pic-10](https://images.wondershare.com/drfone/2020/2020/change-location-registered-pic-10.jpg)
 
 It’s quite easy to spoof your location for games like Pokemon Go using Dr. Fone and it will even stay undetected if you do it the right way. Also, the whole process to change the location hardly takes a few minutes, so you don’t have to spend time understanding how it all works. While you wait for the iSpoofer update (which may or may not come) you can use this in the meantime.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## 8 Solutions to Fix 'Find My Friends Location Not Available' On Honor 90 Lite
 
 There is no doubt that Find My Friends is an excellent application for location tracking. It allows users to track the location of their friends and family members through a variety of devices. So, when Find My Friends says the location is not available, it can be a frustrating situation. But don't stress over this because we are here to assist you in Find My Friends not working. Go through this guide, and you'll know what to do to take care of the problem.
@@ -252,8 +229,9 @@ There is no doubt that Find My Friends is an excellent application for location 
 ![find my friends location not available](https://images.wondershare.com/drfone/article/2023/05/find-my-friends-location-not-available.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1: What Does "Location Not Available" Mean on Find My Friends?
 
 When the "Location Not Available" message appears on Find My Friends, it means that you have disabled location sharing or have turned off your device's location services. This message can also appear if your device is in an area with poor network coverage or if your device is turned off. In some cases, the message can indicate that you have logged out of your iCloud account or that there is an issue with the iCloud server.
@@ -270,9 +248,6 @@ Not! This message does not necessarily mean that you have blocked yourself or th
 
 In summary, "No Location Found" means the app could not locate the Honor 90 Lite device, while "Location Not Available" means that the Honor 90 Lite device is not currently sharing its location.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2: Possible Reasons For Find My Friends Location Honor 90 Lite  Not Available
 
 Why does Find My Friends say location not available? Before we get to the solutions, let's explore the possible reasons behind this problem. It is apparent that when the location is not found on Find My Friends, there is an underlying problem. Here are the possible reasons that could cause this error:
@@ -298,9 +273,6 @@ The foremost thing you should do when the Find My Friends location is not availa
 
 After verifying that the feature is available in your region, enable the GPS & Location Services. In case you've already enabled the feature, turn it off, quit the app, and again enable the service. It might fix the location not found on the Find My Friends issue you've been facing. Just open Settings > Privacy & Security > Location Services and toggle the bar to turn the feature on or off.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![enable location services](https://www.virtuallocation.com/images/pokemon-go/enable-location-services.jpg)
 
 ### Tip 3: Adjust Honor 90 Lite  Date and Time
@@ -309,39 +281,24 @@ As we stated in the possible reasons, incorrect dates and times also result in t
 
 ![adjust date and time](https://www.virtuallocation.com/images/pokemon-go/adjust-date-and-time.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Tip 4: Check the Internet
 
 Before you conclude that there is something wrong with the Find My Friends app, check your internet connection. There is a chance that location is not available on the Honor 90 Lite  because your device doesn't have internet access. Try opening Settings > Mobile Data/Wi-Fi and turning it on and off. Alongside, make sure that you have signal strength, whether you are connecting to cellular data or a Wi-Fi network.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![check internet connection](https://www.virtuallocation.com/images/pokemon-go/check-internet-connection.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Tip 5: Enable Share My Location
 
 Another tip to try out when your friend's location is not available is to make certain that you've enabled [Share My Location](https://drfone.wondershare.com/fake-location/how-to-share-location-on-messenger.html) feature. To do this, follow the steps given below:
 
 **Step 1:** For Honor 90 Lite  users: get to the "Settings" app and go to "Privacy & Security". You will find the "Location Services" feature, click on it, and see the "Share My Location" feature.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![enable share my location](https://www.virtuallocation.com/images/pokemon-go/enable-share-my-location.jpg)
 
 Toggle on the option to enable it. Once the feature is enabled, your friends will see your location, and you can see theirs.
 
 For Android users, go to "Settings" > "Additional settings" > "Privacy" > "Location", and choose the location mode to enable it.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Tip 6: Restart the Honor 90 Lite  or Android Phones
 
 The next tip to use when Find My Friends says location not available is restarting your phone. For most devices, the method is common. But for Honor 90 Lite  X and 11, the steps are slightly different. For other Honor 90 Lite  models, press the Power button and wait until the slider appears. For Honor 90 Lite  X and 11/12/13/14, you'll have to hold the Volume button and the Power button together to make the slider appear on the screen.
@@ -349,6 +306,10 @@ The next tip to use when Find My Friends says location not available is restarti
 ![restart Honor 90 Lite ](https://www.virtuallocation.com/images/pokemon-go/restart-Honor 90 Lite .jpg)
 
 Drag the Power slider to the right side and wait for the Honor 90 Lite device to shut down. Wait for a minute before you restart the Honor 90 Lite device, and hopefully, the feature will start working again as usual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tip 7: Check That Your Friend Has Signed into Find My Friends
 
@@ -372,9 +333,6 @@ To use Dr.Fone - Virtual Location, here are the steps you need to follow:
 
 **Step 1:** Download the virtual location app for both iOS and Android and install it on your system carefully. Then, launch the app and select the "Virtual Location" option from the toolkit.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2:** The next step is to set up the phone's connection. Connect your Honor 90 Lite  and click on the "Get Started" button. Now, detect your current virtual location by clicking on the "Current Virtual Location" icon.
@@ -383,9 +341,6 @@ To use Dr.Fone - Virtual Location, here are the steps you need to follow:
 
 **Step 3:** Now go to the search box and type the location you want to switch to. Once the location gets detected, click on the "Move Here" option, and the location of your Honor 90 Lite  or Android phone will change to the one you specified.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![move to virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 As you can see, when you have Dr.Fone - Virtual Location software, you can share any location with just one click. And it would seem that your Find My Friends app is working fine.
@@ -422,11 +377,10 @@ Yes, you can take steps to prevent someone from tracking your phone's location. 
 
 Taking these precautions can help safeguard your phone's location and enhance your privacy. It's important to stay vigilant and be aware of the privacy settings and permissions on your device.
 
-
-
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer for both iOS and Android
@@ -443,9 +397,6 @@ Taking these precautions can help safeguard your phone's location and enhance yo
 
 Hopefully, now you know "why is find my friends not working" and several ways to fix the Find Friends location not available. In this guide, we learned all these tips to make it easy for Honor 90 Lite  users to rectify the issues with the Find Friends app. Check all the tips carefully and implement them whenever you face issues like this.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -458,7 +409,20 @@ Hopefully, now you know "why is find my friends not working" and several ways to
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-on-screen-image-enhancement-mastering-online-cropping-tactics/"><u>[New] On-Screen Image Enhancement Mastering Online Cropping Tactics</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-your-first-venture-into-hosting-effective-zoom-webinars/"><u>[Updated] 2024 Approved Your First Venture Into Hosting Effective Zoom Webinars</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-untapped-realities-of-instagram-story-watchers/"><u>[Updated] In 2024, Untapped Realities of Instagram Story Watchers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-leading-edge-free-players-for-pc-and-mac-os-for-2024/"><u>[Updated] Leading Edge Free Players for PC & Mac OS for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>Full Guide to Fix iToolab AnyGO Not Working On Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-xiaomi-redmi-k70e-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Xiaomi Redmi K70E For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Xiaomi Civi 3 Disney 100th Anniversary Edition? | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/inside-the-rugged-trails-expert-analysis-of-a-top-race-rc-rock-crawler/"><u>Inside the Rugged Trails: Expert Analysis of a Top Race RC Rock Crawler</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-infinix-hot-30i-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Infinix Hot 30i? Fixed | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/prime-tv-streaming-and-local-channel-bundles/"><u>Prime TV Streaming & Local Channel Bundles</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/seeking-a-true-witchs-tongue-are-vocal-changer-apps-legit-find-substitutes-for-2024/"><u>Seeking a True Witch's Tongue Are Vocal Changer Apps Legit? Find Substitutes for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nail-artistry-for-engaging-youtube-channels/"><u>Thumbnail Artistry for Engaging YouTube Channels</u></a></li>
+</ul></div>
 

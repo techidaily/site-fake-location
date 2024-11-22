@@ -1,7 +1,7 @@
 ---
 title: "Expert Evaluation: Logitech C920 Ultra High-Definition Webcam Performance Analysis"
-date: 2024-11-07T17:21:47.328Z
-updated: 2024-11-12T16:07:15.539Z
+date: 2024-11-20T17:39:44.586Z
+updated: 2024-11-22T01:18:32.199Z
 categories:
   - BestProducts
 description: "This Article Describes Expert Evaluation: Logitech C920 Ultra High-Definition Webcam Performance Analysis"
@@ -41,6 +41,10 @@ Lifewire / Erika Rawes
 
 ![AmazonBasics Indoor TV Antenna](https://www.lifewire.com/thmb/Vbu1KpC59isVCGH4C4jYBOynN04=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_AmazonBasics-Flat-TV-Antenna-1-325d04d831244d8f9f5adcec945c4a63.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire / Erika Rawes
 
 [View On Amazon](https://www.amazon.com/dp/B075ZQXB26/?tag=lifewire-onsite-prod-20&ascsubtag=4845569%7Cn4bcb8b1996c24cd3b14f62e195599b0615%7CB075ZQXB26)
@@ -62,6 +66,10 @@ Lifewire / Erika Rawes
 
  Indoor TV antennas, like the AmazonBasics Indoor Flat TV Antenna, can provide you with free broadcast TV channels. Once you pay the upfront cost for the antenna you’re not stuck with any monthly fees for your local channels. The[best TV antennas](https://www.lifewire.com/best-tv-antennas-to-buy-4078201) are nothing like the bunny ear style antennas from back in the day. The picture quality is comparable to what you’d get from the cable company or streaming service—or it's supposed to be. I tested the ultra-affordable AmazonBasics Indoor Flat TV Antenna for a week to see if its design, setup, and performance make it a viable option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design: It’s all in the name (basic)**
 
  The AmazonBasics Antenna has a slim design—it’s about as thin as card stock at approximately one-tenth of an inch in thickness. It’s constructed of sturdy plastic, with a reversible black and white side to help it fit better with your home’s decor. It’s not the most attractive antenna, and the backboards smudge and show grease and fingerprints.
@@ -69,6 +77,10 @@ Lifewire / Erika Rawes
  It doesn’t come with a stand, but it does include 3M double-sided adhesives you can use to attach the antenna to walls or other surfaces. It also comes with a 10-foot long coax cable, which is removable. The 10-foot coaxial cable is long enough for you to mount your antenna in high places.
 
  The 10-foot coaxial cable is long enough for you to mount your antenna in high places.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Setup: Relatively easy**
 
@@ -80,14 +92,11 @@ Lifewire / Erika Rawes
 
 ![AmazonBasics Indoor TV Antenna](https://www.lifewire.com/thmb/z_YIDnD2uHBFyEpRQlkQ1HUaA_8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AmazonBasics-Flat-TV-Antenna-2-e19a3a09a82f438d8f902ded5b0fecd4.jpg)
 
- Lifewire / Erika Rawes
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Lifewire / Erika Rawes
 
 ## **Performance: Almost two dozen channels (in a rural area)**
 
@@ -96,13 +105,6 @@ Lifewire / Erika Rawes
 ![AmazonBasics Indoor TV Antenna](https://www.lifewire.com/thmb/GRXmDZjwX-_X2TyOZoHytHKrjDY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AmazonBasics-Flat-TV-Antenna-3-70b77c023b7049ef985c61cf6f5064ad.jpg)
 
  Lifewire / Erika Rawes
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Range: 35 miles**
 
@@ -113,10 +115,7 @@ Lifewire / Erika Rawes
  It supports UHF/VHF, so I was able to get a decent selection of channels.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Price: Super affordable**
@@ -136,13 +135,6 @@ Lifewire / Erika Rawes
 **A budget antenna that works as advertised.**
 
  The AmazonBasics Antenna is a good option for anyone who wants an ultra-cheap way to get broadcast TV.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -175,24 +167,24 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-affordable-sturdy-backpacks-and-bags-for-gamers-on-the-move/"><u>[New] 2024 Approved Affordable, Sturdy Backpacks & Bags for Gamers on the Move</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-copyright-clarity-for-instagram-tracks/"><u>[New] In 2024, Copyright Clarity for Instagram Tracks</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-propel-your-productivity-mastering-marketing-in-the-telegram-world-for-2024/"><u>[New] Propel Your Productivity Mastering Marketing in the Telegram World for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-harmonizing-platforms-linking-insta-and-tiktok/"><u>2024 Approved Harmonizing Platforms Linking Insta & TikTok</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-precision-machines-best-of-the-series/"><u>2024 Approved Ultimate Precision Machines - Best of the Series</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-future-proof-selection-top-cloud-services-reviewed/"><u>A Future-Proof Selection Top Cloud Services Reviewed</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Infinix Note 30 VIP | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>Best 10 Mock Location Apps Worth Trying On Apple iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/high-quality-video-music-services-for-2024/"><u>High-Quality Video Music Services for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-zte-nubia-flip-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On ZTE Nubia Flip 5G For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-htc-u23-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On HTC U23? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Oppo Reno 11 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Infinix Smart 8 HD? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-meizu-21-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Meizu 21 and Browser | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/simplify-transcribing-the-word-guide-to-speech-to-text/"><u>Simplify Transcribing The Word Guide to Speech-to-Text</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/the-ultimate-list-of-video-encode-utilities-16-free-options-for-you/"><u>The Ultimate List of Video Encode Utilities: 16 FREE Options for You!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Vivo Y100? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-beat-the-norm-with-mac-audio-guide-for-2024/"><u>[New] Beat the Norm with Mac Audio Guide for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-remedy-for-warped-gopro-imagery-a-comprehensive-tutorial/"><u>[New] Remedy for Warped GoPro Imagery A Comprehensive Tutorial</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-best-screen-reporter-toolkit-for-youtube-streamers/"><u>[Updated] 2024 Approved Best Screen Reporter Toolkit for YouTube Streamers</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-instagram-backward-play-a-comprehensive-walkthrough/"><u>[Updated] In 2024, Instagram Backward Play A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-optimizing-zoom-conferences-the-power-of-filters/"><u>2024 Approved Optimizing Zoom Conferences The Power of Filters</u></a></li>
+<li><a href="https://fake-location.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>Best 10 Mock Location Apps Worth Trying On Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/choosing-your-ideal-device-amazon-fire-vs-samsung-tablet-the-ultimate-comparison/"><u>Choosing Your Ideal Device: Amazon Fire Vs. Samsung Tablet - The Ultimate Comparison</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Honor 90 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/elevate-video-playback-with-youtubes-latest-feature-av1-for-2024/"><u>Elevate Video Playback with YouTube's Latest Feature - AV1 for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-canon-mg3022-driver-software-here-free-download-options/"><u>Get the Latest Canon MG3022 Driver Software Here - Free Download Options!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-apple-iphone-13-location-is-wrong-drfone-by-drfone-virtual-ios/"><u>How to Fix My Apple iPhone 13 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-oppo-a79-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Oppo A79 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-poco-c55-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/transferring-your-icloud-images-across-all-gadgets-a-step-by-step-guide/"><u>Transferring Your iCloud Images Across All Gadgets: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-top-10-largest-online-platforms-globally/"><u>Unveiling The Top 10 Largest Online Platforms Globally</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Tecno Spark Go (2023) | Dr.fone</u></a></li>
 </ul></div>
 
