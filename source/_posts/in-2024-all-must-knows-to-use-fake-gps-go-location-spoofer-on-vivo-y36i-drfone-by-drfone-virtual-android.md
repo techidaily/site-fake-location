@@ -1,7 +1,7 @@
 ---
 title: In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Vivo Y36i | Dr.fone
-date: 2024-10-08T00:53:07.183Z
-updated: 2024-10-10T17:43:15.351Z
+date: 2024-11-28T17:27:05.699Z
+updated: 2024-11-30T17:20:47.430Z
 tags: 
   - virtual location chang
   - location changer
@@ -93,9 +93,17 @@ Step 4: Accept the Advertising terms to proceed
 
 ![Advertising terms](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 5: Next, you have to enable the ‘Mock Location’ option in the ‘Developer Option’ window. To do that you must go to ‘Settings-> Software info -> Built Number’. Tap the ‘Built Number’ few times based on the model of your Vivo Y36i to unlock into the ‘Developer option’. In the ‘Developer Option’, choose ‘Select mock location app’.
 
 ![enable option](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Select mock location app](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-9.jpg)
 
@@ -113,19 +121,6 @@ Step 8: Finally, you have changed the default current location in your device us
 
 ![change current location](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-13.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 9: Close this app and open the Google Map to check your current location you will be surprised to view the placeholder stays on your favourite spot thereby mocking the original location.
 
 ![open the Google Map](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-14.jpg)
@@ -137,6 +132,10 @@ In this section, you will learn about the alternative tool to Fake GPS Go. The n
 Step 1: Check-in to play store and type ‘Fake GPS Location’ in the search bar. Tap the ‘Install’ button to trigger the downloading process.
 
 ![Fake GPS Location](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-15.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2: Open the app after the download process
 
@@ -151,13 +150,6 @@ Step 4: Now, you must enable the ‘Mock Location’ option through the settings
 ![Fake GPS Pro](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-18.jpg)
 
 ![switch to the app](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-19.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 5: To implement the fake location you must select the desired place on the map and tap the ‘Play’ button. It will lead to another screen requesting for permission.
 
@@ -184,19 +176,6 @@ Make use of the ‘Fake GPS Go Location Spoofer’ app to protect your live loca
 Tricking the location by Fake GPS Go location spoofer can come in handy under many situations. However, when it comes to iOS devices, the users may get annoyed as the app has no iOS version. Therefore, you should be thankful to Dr.Fone – Virtual Location (iOS) that helps you serve the purpose without any Fake GPS Go apk. The tool is designed by Wondershare and never disappoints users for faking location. Let us know how you can pretend to be somewhere in an iOS device sans Fake GPS Go.
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Mode 1: Teleport Anywhere
 
@@ -251,13 +230,6 @@ Step 2: The pop-up will show the distance where you need to hit the “Move Here
 Step 3: Enter a digit for how many times you want to take route and click “March”. This will begin the movement simulation.
 
 ![digit for how many times to move](https://images.wondershare.com/drfone/guide/virtual-location-12.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -374,10 +346,7 @@ You can change the geolocation Vivo Y36i by using your coding expertise as well.
 ![new virtual location xcode](https://images.wondershare.com/drfone/2020/2020/new-virtual-location-xcode-pic15.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: Change GPS location on Vivo Y36i using Cydia Location Faker App
@@ -389,10 +358,7 @@ Cydia is also based on software applications and changes location in seconds, Ho
 ![cydia app download](https://images.wondershare.com/drfone/2020/2020/cydia-app-download-pic16.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2**: After launching the app, enter the virtual location into the search box.
@@ -405,6 +371,10 @@ Cydia is also based on software applications and changes location in seconds, Ho
 
 **Step 4**: Now we can decide which apps can access our new virtual location. At the bottom of the page, you will find an 'i' icon. Go click on it and choose the 'White List' option. This one will then take you to the app list and you can decide which of them will have access to the phone's location.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5: Change GPS Location on Vivo Y36i using Location Handle
 
 Location Handle is another useful application that you can use to change your location by a few meters or simply go with an automated movement system that changes your location gradually as if you are moving from one place to another. This is how you use it -
@@ -416,13 +386,6 @@ Location Handle is another useful application that you can use to change your lo
 **Step 2**: There are four different types - Normal Mode - teleport to a new location; Offset Mode - Move a few feet away from the present location ; Automatic Mode - Slowly change your location from one point to another, as if walking ; Manual Mode - Change your location using a joystick.
 
 ![teleport-coordination](https://images.wondershare.com/drfone/2020/2020/teleport-coordination-pic21.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3**: Consider the Manual mode, because we want to change location to a far-off place and not necessarily for gaming.
 
@@ -513,6 +476,10 @@ Toggle on the option to enable it. Once the feature is enabled, your friends wil
 
 For Android users, go to "Settings" > "Additional settings" > "Privacy" > "Location", and choose the location mode to enable it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tip 6: Restart the Vivo Y36i  or Android Phones
 
 The next tip to use when Find My Friends says location not available is restarting your phone. For most devices, the method is common. But for Vivo Y36i  X and 11, the steps are slightly different. For other Vivo Y36i  models, press the Power button and wait until the slider appears. For Vivo Y36i  X and 11/12/13/14, you'll have to hold the Volume button and the Power button together to make the slider appear on the screen.
@@ -522,16 +489,7 @@ The next tip to use when Find My Friends says location not available is restarti
 Drag the Power slider to the right side and wait for the Vivo Y36i device to shut down. Wait for a minute before you restart the Vivo Y36i device, and hopefully, the feature will start working again as usual.
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Tip 7: Check That Your Friend Has Signed into Find My Friends
@@ -539,6 +497,10 @@ Drag the Power slider to the right side and wait for the Vivo Y36i device to shu
 Another tip that can help you resolve to **Find My Friends location not available** is checking that your friend has signed into the app. It is apparent that if your friend hasn't logged into the feature, you won't access his/her location.
 
 Open the Find Friends app, log into it, and enable the location-sharing feature.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tip 8: Quit Find My Friends App and Open It Again
 
@@ -600,6 +562,10 @@ Yes, you can take steps to prevent someone from tracking your phone's location. 
 
 Taking these precautions can help safeguard your phone's location and enhance your privacy. It's important to stay vigilant and be aware of the privacy settings and permissions on your device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer for both iOS and Android
@@ -630,14 +596,16 @@ Hopefully, now you know "why is find my friends not working" and several ways to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-charting-success-top-online-video-channels/"><u>[New] 2024 Approved Charting Success Top Online Video Channels</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-the-ultimate-breakdown-xstudio-video-production-mastery/"><u>[Updated] 2024 Approved The Ultimate Breakdown XStudio Video Production Mastery</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-achieve-professional-level-youtube-transcription-without-spending/"><u>[Updated] In 2024, Achieve Professional-Level YouTube Transcription Without Spending</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Itel S23+ | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Realme 12 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Samsung Galaxy A14 4G | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Poco X6 Pro? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Samsung Galaxy M34 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/understanding-youtube-post-upload-process-for-2024/"><u>Understanding YouTube Post-Upload Process for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-become-a-video-virtuoso-on-tiktok-by-leveraging-template-artistry/"><u>[New] Become a Video Virtuoso on TikTok by Leveraging Template Artistry</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-enjoy-plex-content-through-virtual-reality-using-the-meta-quest-headset-step-by-step-instructions/"><u>How to Enjoy Plex Content Through Virtual Reality Using the Meta Quest Headset – Step-by-Step Instructions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/professional-guide-on-using-wonderfoxs-nokia-video-converter-pro-to-transfer-videos-to-your-nokia-device-effortlessly/"><u>Professional Guide on Using WonderFox's Nokia Video Converter Pro to Transfer Videos to Your Nokia Device Effortlessly</u></a></li>
+<li><a href="https://win11.techidaily.com/sly-settings-shuffle-disguising-power-buttons-on-desktop/"><u>Sly Settings Shuffle: Disguising Power Buttons on Desktop</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-tips-for-selecting-the-best-mobile-case-to-match-your-lifestyle/"><u>Top Tips for Selecting the Best Mobile Case to Match Your Lifestyle</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-12-pro-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking iPhone 12 Pro Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1726222705622-wav-movavi/"><u>인터넷을 통한 자전위 이미지 데이터를 WAV로 바꾸기 – Movavi 편리하고 신선한 도구</u></a></li>
 </ul></div>
 

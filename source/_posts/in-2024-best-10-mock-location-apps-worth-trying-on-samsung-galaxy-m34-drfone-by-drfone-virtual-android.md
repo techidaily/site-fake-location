@@ -1,7 +1,7 @@
 ---
 title: In 2024, Best 10 Mock Location Apps Worth Trying On Samsung Galaxy M34 | Dr.fone
-date: 2024-11-21T06:40:53.089Z
-updated: 2024-11-22T04:27:30.074Z
+date: 2024-11-27T16:50:04.916Z
+updated: 2024-11-30T17:10:02.992Z
 tags: 
   - virtual location chang
   - location changer
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06fe
 Location-based apps and games are all the rage right now, and the latest trends indicate that this is not going anywhere but upwards. When you want to access content that is not available to you in your current location, what can you do? Or, when you want to catch Pokémon but aren’t getting any, you can’t give up and stop playing, can you? A location spoofer app to mock location can help you in this situation, and we are going to tell you how to mock location on iPhone and Android along with the top **mock location apps** for Android and iPhone in this guide. Read on!
 
 ![top mock location apps for android ios](https://images.wondershare.com/drfone/article/2023/12/mock-location-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part I: Purpose of Mock Location Apps
 
@@ -44,10 +48,6 @@ There are fewer mock location apps on the Apple Store due to Apple's strict poli
 
 ![drfone virtual location ios](https://images.wondershare.com/drfone/article/2023/12/mock-location.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 This is by far the best one out there. It is designed professionally and inspires trust, unlike some other apps that neither look as polished nor work as flawlessly. When in doubt, trust Wondershare’s Dr.Fone – Virtual Location (iOS) to do the job reliably and professionally in just a few clicks.
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
@@ -65,10 +65,6 @@ This is by far the best one out there. It is designed professionally and inspire
 #### 2\. iTools
 
 ![itools](https://images.wondershare.com/drfone/article/2023/12/mock-location-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 iTools by ThinkSkySoft is another great location spoofer you can use. It has an easy-to-understand interface and gets the job done.
 
@@ -104,10 +100,6 @@ GPS Emulator by DigiTools can run on the Android device itself and spoof your lo
 
 ![gps joystick](https://images.wondershare.com/drfone/article/2023/12/mock-location-8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Fake GPS Location-GPS JoyStick by The App Ninjas is a popular mock location spoofer app on Android. This one provides an overlay joystick control to mock location on Android devices, and it might not be everyone’s cup of tea. Some find the joystick incredibly useful and intuitive while some are downright annoyed by it.
 
 #### 3\. iToolab AnyGo for Android
@@ -123,7 +115,7 @@ iToolab AnyGo for Android works in over 100 games and apps and can simulate move
 Dr.Fone - Virtual Location can be used to effectively spoof GPS coordinates on Android devices as well. An issue that other spoofing apps present is that the location might jump between its true location and falsified location, which means that other apps might present a location spoofing solution that is not stable. That is not the case with Dr.Fone - Virtual Location (Android) where a location once set remains set as long as you want it to, and will not jump.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
@@ -169,10 +161,6 @@ Dr.Fone - Virtual Location opens. Click No Device at the top.
 
 ![drfone virtual location open](https://images.wondershare.com/drfone/guide/virtual-location-01-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3: You will now see a beautiful display showing your connected device. Click it and click Next.
 
 ![drfone virtual location device selection](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
@@ -203,12 +191,16 @@ Using a method that has been detected once, such as iSpoofer, is one way to land
 
 \- One precaution to take when you spoof your location in general is to allow a cooling period before changing location, and once you change your location to anywhere in the world, do not jump to another far-off place the next minute or even the next hour. Be sensible, allow for time it would take in real life to travel that distance, and you should go undetected.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Closing Words
 
 Using a mock location app can be fun. You can use it for recreational purposes such as pranking friends. You can use it for practical purposes such as saving money on dating apps by mocking location on Android and iPhones to anywhere around the world to meet new people. You can use it to simulate movement anywhere in the world in location-based games. You can also use mock location apps to effectively change your geographical location to watch content not available in your true geographical area. Whatever your reason may be, what you need is a reliable mock location app so that you can spoof your location undetected. Wondershare [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) is one such app you can trust with your eyes closed. It is the most comprehensive location spoofer for Android and iPhone for consumers. Download it today and enjoy newfound freedom!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How To Teleport Your GPS Location On Samsung Galaxy M34?
@@ -225,6 +217,10 @@ While playing games like Pokemon Go, you are in desperate need of finding more P
 
 ![restart device on closing virtual location](https://images.wondershare.com/drfone/guide/restart-decive.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _\* Dr.Fone Mac version still has the old interface, but it does not affect the use of Dr.Fone function, we will update it as soon as possible._
 
 The Teleport Mode offered in Virtual Location is a great way to change the location of iOS/Android devices. If you wish to show a different location to someone else, the best way is to use this mode on Virtual Location. This can be done by following the steps described below:
@@ -236,7 +232,7 @@ Once you have connected your smartphone, continue to select the **Teleport Mode*
 ![select teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 2Add Location To Teleport
@@ -258,6 +254,10 @@ Step 4Location Successfully Changed On Computer
 The location of the smartphone will be instantly changed to the selected location and will be displayed on the map.
 
 ![move location successfully](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 5Location Changed On the Smartphone
 
@@ -295,6 +295,10 @@ In this article, we'll show you how to apply clear and easy security measures to
 
 ![how to detect gps spoofing](https://images.wondershare.com/drfone/article/2022/12/detect-fake-gps-location-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: What is Location Spoofing?
 
 Location spoofing is a way for people to manipulate the location of GPS data shared by their devices. Faking your GPS is used for various actions, including accessing geo-blocked contents of an application, circumventing games or movies with country restrictions, or maintaining your privacy.
@@ -312,6 +316,10 @@ You can learn more about [spoofing apps](https://drfone.wondershare.com/virtual-
 Try to find a reliable spoofing app? The good news for you is that there is a powerful tool, [Wondershare Dr.Fone – Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/), which allows a one-click process to effortlessly spoof your GPS location to any destination for enhanced enjoyment in AR games.
 
 This versatile tool effortlessly integrates with popular location-based apps such as Pokémon GO, Snapchat, Instagram, and more. Take control with the ability to simulate GPS movement along a route you draw. You can use its joystick feature to flexibly mimic GPS. It is fully compatible with the latest operating systems, supporting Android 14 and iOS 17.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Noteworthy Aspects Wondershare Dr.Fone - Virtual Location
 
@@ -331,15 +339,15 @@ Begin with the launch of Dr.Fone - Virtual Location on your computer and establi
 
 ![select the desired location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Move to the Targeted Location and Verify It**
 
 Upon completion of the initial setup, proceed to teleport to the targeted location by clicking "Move Here" on the map screen. This action prompts the cursor to relocate to the specified location on the map. It also simultaneously adjusts the location of your Android or iOS device. To validate the successful location change, access your smartphone and open a map application.
 
 ![click the move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Why is GPS Spoofing a Problem?
 
@@ -354,10 +362,6 @@ Here are some reasons why your company should be wary of GPS spoofing.
 Couriers who use GPS spoofing can trick food delivery apps into allowing them to accept orders they otherwise would not have access to. They may also gain an unfair advantage to gain priority in order queues and report longer rides to earn more from the platform. In addition, a more egregious issue is couriers charging for deliveries that weren't made.
 
 ![location spoofing on food delivery driver apps](https://images.wondershare.com/drfone/article/2022/12/detect-fake-gps-location-03.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Gaming**
 
@@ -387,10 +391,6 @@ Here are some of the methods you can take advantage of.
 
 While the methods to detect GPS locations are presented above, it's important to remember that detecting fake GPS locations is difficult and requires you to combine different methods. You can easily detect mock locations on Android, but the methods available if you're on a different device will vary depending on the resources at your disposal.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Conclusion
 
 Faking your GPS is easy nowadays. You can download an application and tinker with a few settings on your smartphone to start GPS spoofing. For secure virtual navigation, make [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) your first choice. As a result, anti-spoofing in GPS is are the rise, especially if you're on the receiving end of the data.
@@ -411,16 +411,18 @@ Knowing the telltale signs of a fake GPS is a must to ensure you will not be dec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-best-time-lapse-tools-and-techniques-no5/"><u>[New] 2024 Approved Best Time-Lapse Tools & Techniques - No.5</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-best-10-volume-elevators-for-windows-ios-and-android/"><u>[Updated] Best 10 Volume Elevators for Windows, iOS & Android</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-easy-customization-free-youtube-visual-templates-for-2024/"><u>[Updated] Easy Customization Free YouTube Visual Templates for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ac1st16dll-missing-comprehensive-fixes-and-tips-for-quick-recovery/"><u>Ac1st16.dll Missing: Comprehensive Fixes & Tips for Quick Recovery</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/future-proofing-your-devices-with-the-premier-list-of-charge-tools-for-2028/"><u>Future-Proofing Your Devices with the Premier List of Charge Tools for 2028!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Nokia C110? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Xiaomi 13 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-motorola-moto-g14-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Motorola Moto G14 and Browser | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Honor Magic 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/sul-vuoto-5-trichefici-strategie-per-superare-limpegno-del-trasferimento-dati-bloccato-sugli-iphone-1415/"><u>Sul Vuoto? 5 Trichefici Strategie per Superare L'Impegno Del Trasferimento Dati Bloccato Sugli iPhone 14/15</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Poco X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-optimal-video-recording-for-instructors-for-2024/"><u>[New] Optimal Video-Recording for Instructors for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-screenfreedom-pro-the-unpriced-gaming-recorder/"><u>[New] ScreenFreedom Pro The Unpriced Gaming Recorder</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-top-tier-mac-recorder-feature-visuals-and-voices/"><u>[New] Top-Tier Mac Recorder Feature Visuals & Voices</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Samsung Galaxy F14 5G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/give-your-windows-10-machine-a-second-wind-free-solutions-to-prolong-your-old-pcs-lifespan-zdnet-tips/"><u>Give Your Windows 10 Machine a Second Wind: Free Solutions to Prolong Your Old PC's Lifespan | ZDNET Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratuit-convertir-fichier-ts-en-format-avi-en-ligne-rapidement-avec-movavi-converter/"><u>Gratuit: Convertir Fichier .ts en Format AVI en Ligne Rapidement Avec Movavi Converter</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/jotting-down-just-a-minute-movie/"><u>Jotting Down Just a Minute Movie</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Honor X9a | Dr.fone</u></a></li>
 </ul></div>
 

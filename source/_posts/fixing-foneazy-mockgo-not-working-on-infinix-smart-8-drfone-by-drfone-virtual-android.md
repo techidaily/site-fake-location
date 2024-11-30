@@ -1,7 +1,7 @@
 ---
 title: Fixing Foneazy MockGo Not Working On Infinix Smart 8 | Dr.fone
-date: 2024-08-02T01:37:24.872Z
-updated: 2024-08-03T01:37:24.872Z
+date: 2024-11-29T16:36:17.871Z
+updated: 2024-11-30T16:09:41.775Z
 tags: 
   - virtual location chang
   - location changer
@@ -21,8 +21,9 @@ Foneazy MockGo is one of the most popular software out there that allows you to 
 Similar to other software, you will for sure encounter some problems or limitations when using Foneazy MockGo. These fixes could either be temporary or could just be due to the software's capabilities. Therefore, we will share with you in this article some tips that you can use to fix some issues that you will encounter and what alternatives you can use in case you cannot fix the issue in Foneazy MockGo.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1: What is Foneazy MockGo?
 
 Foneazy MockGo is a popular location spoofer tool that is used by users to use in their location-based AR games, or for some, using it with applications that require your location, such as Tinder. So that way, you are able to check what other locations in the world have in their area than being limited to the area that you are in.
@@ -47,9 +48,11 @@ Being able to share a spoof location or use it in games is fun and a great way t
 
 Try all of these tricks that we have shared and get that temporary issue in Foneazy MockGo fixed in no time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Best Foneazy MockGo Alternative Progam You Can Use in 2022
-
-
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -70,39 +73,22 @@ Our product, **“Dr. Fone - Virtual Location” (**[**https://drfone.wondershar
 - **_Step 1:_** Download the “Dr. Fone - Virtual Location” software on your laptop. Open and choose “Virtual Location”.
 - **_Step 2:_** You can then connect your phone to your computer and click on “Get Started”.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![virtual-location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 - **_Step 3:_** You will then be redirected to your current location on the new page.
 - **_Step 4:_** If you want to change your location, you will need to turn on the “Teleportation” mode by clicking on the first icon and typing the location that you want then click on the “Go” icon.
 - **_Step 5:_** Click on “Move Here” and your current location will show up as the location that you typed on Your Infinix Smart 8.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![virtual-location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 **You can watch the video below to gfix Foneazy MockGo not working on your device**
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/3fv4x1uE-LE"></iframe>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ### Conclusion
 
 There you have it, these are the tricks that you can do on your own to fix any issue that comes up when using Foneazy MockGo or when this application is not working. Despite the advantages of using this application, you will for sure still encounter some limitations so you can look for an alternative that does the same job of sharing a spoof location and that is using **[Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)** which will help you to advance your levels in your AR games or find out other options in other locations in the world.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## How Can I Use a Fake GPS Without Mock Location On Infinix Smart 8?
 
 All Android phones come with a GPS location feature with which you and others can navigate your current location. But, do you know that sometime this feature may create a headache for you as the third party app can trace your location. Also, any third person can track your GPS and can harm you. This is why many users want to fake GPS location on Android and iOS.
@@ -115,6 +101,10 @@ If yes, then we have safe and reliable tricks that will help you to fake GPS on 
 
 In this article, we are going to discuss some useful tricks to fake GPS without a mock location that will protect your privacy. Take a look!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: What Is Mock Location?
 
 Mock location is a feature in android devices that specify the different locations when using fake GPS apps. Basically, it helps with location spoofing in the android emulator, and you can easily test your GPS applications.
@@ -125,9 +115,6 @@ In android phones, mock location is a hidden developer setting that allows you t
 
 There are many free location spoofing apps available in the Google Play Store that can exploit this hidden mock location setting.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: What Can Mock Locations Be Used For?
 
 Under the developer option, allow mock location apk is very popular and useful due to its diverse use. You can use a mock location apk to test your virtual location settings and to test the functions of the fake location app. If you area app developer, you can test how your apps are working on a particular location.
@@ -136,9 +123,6 @@ In the below section, we have discussed some of the major uses of mock location 
 
 ### 2.1 For AR Games
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![mock location for ar games](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-1.jpg)
 
 People who love to play AR location-based games allow mock location apk to spoof AR gaming apps. Augmented reality games offer real-world experience to players, and to play these games, and you will need to move out of your house. Also, when you play AR games, you have limited access to levels and characters, as you can only play it on your current location.
@@ -159,18 +143,12 @@ Again to spoof dating apps, you will need to enable allow mock location apk feat
 
 Now, let’s check out how you can mock locations on Your Infinix Smart 8s. Ideally, you will need to enable allow mock location to select a fake location spoofer app under it. With fake GPS spoofer, you can fake your android location.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3.1 How to allow mock locations on Android
 
 Most of the latest android phones come with the inbuilt mock location feature. Though this feature is considered to be reserved for developers, and you need to enable the Developer Options first to allow mock location apk on android mobile Phone. Follow the following steps to enable developer option.
 
 **Step 1:** Unlock your android phone and look for its Build Number. For this, go to Settings > About Phone. Depending upon the brand, you can follow Settings > Software Information.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![allow mock location android](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-3.jpg)
 
 **Step 2:** Now, tap on the Build Number option seven times without a break to enable the developer option.
@@ -179,14 +157,15 @@ Most of the latest android phones come with the inbuilt mock location feature. T
 
 **Step 3:** After this, go back to Settings, and there you will newly added Developer Options.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![newly added developer options](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-5.jpg)
 
 **Step 4:** Tap on the newly added developer option and toggle on its field.
 
 ![add developer option and toggle](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5:** In the list of developer options, locate the “Allow Mock Locations” feature, and enable it.
 
@@ -196,9 +175,6 @@ After enable “allow mock location” on an android mobile phone, you will need
 
 **Step 1:** Go to Play Store and search for a spoofing app on the search bar.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![go to play store and search](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-7.jpg)
 
 **Step 2:** From the list, you can download any free or paid spoofing apps on your device. Some other free apps are Fake GPS and GPS Emulator.
@@ -207,9 +183,6 @@ After enable “allow mock location” on an android mobile phone, you will need
 
 **Step 4:** Now, go to your device’s Settings > Developer Options and make sure that the allow mock location feature is enabled.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![enable allow mock location](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-8.jpg)
 
 **Step 5:** Under developer options, you will see the “Mock Location App” field and tap on it to get a list installed GPS spoofing apps. Select the Fake GPS app from the list to set it the default mock location apk.
@@ -228,16 +201,25 @@ Here are the steps that you will need to follow to install Dr. Fone in your devi
 
 ![go to dr.fone official site](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Now, connect your iPhone with system and click on “get started.”
 
 ![connect your iphone](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** You will see a world map with three modes on the right top side.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![world map with three mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4:** Select any one mode from the teleport, two-stop mode, and multi-stop mode to spoof your location.
 
@@ -246,8 +228,6 @@ Here are the steps that you will need to follow to install Dr. Fone in your devi
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 Now you are ready to spoof iPhone without compromising the privacy of the Phone.
-
-
 
 ## Part 4: Mock Location Feature On Different Android Models
 
@@ -258,8 +238,9 @@ In Samsung and Motto device, the mock location feature is available under the �
 ![mock location on Samsung and motto](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-13.png)
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Allow mock location on LG
 
 Smartphones from LG have a dedicated “Allow Mock Locations” feature that you can easily access by enabling Developer Options.
@@ -268,24 +249,20 @@ Smartphones from LG have a dedicated “Allow Mock Locations” feature that you
 
 Most of the Xiaomi devices have MIUI numbers instead of Build Number. So, to enable the developer option, you will need to tap on MIUI under Settings > About Phone. After this, you will see “ allow mock location apk.”
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![mock location on LG](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-14.png)
 
 ### Huawei
 
 In Huawei devices, there is the EMUI, for this, go to Settings > Software Information and tap on EMUI to turn on Developer Options.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 We hope that after reading the above article, you would be able to allow mock locations apk on different android devices. Also, you can fake GPS on iOS with the help of [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) app. This will help you spoof many dating apps and gaming apps.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Does Airplane Mode Turn off GPS Location On Infinix Smart 8?
 
 Airplane mode is a feature available on all smartphones and other electronic devices that stops the signal transmissions from the Infinix Smart 8 devices. Also known as flight or airplane mode, this feature will disconnect the wireless functions, including cellular connection, Wi-Fi, and Bluetooth.
@@ -296,16 +273,12 @@ The feature's name says that it was introduced to cut off any radio transmission
 
 If you have **enabled airplane mode on your Infinix Smart 8** or Android device and think it will also block your GPS location, you are wrong. Know why airplane mode does not turn off GPS location and other ways to **avoid getting tracked with or without Airplane Mode.**
 
-
 ## Part 1: Does Airplane Mode Turn off location?
 
 As we mentioned above, while you put your phone on airplane mode, the cellular radio, Wi-Fi and Bluetooth is disabled, but not the GPS location.
 
 The GPS works on a different technology where the signals are received from the satellite and are not dependent on the network or cellular services. So, when the airplane mode is enabled, the GPS location is not turned off.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Can Your Location Be tailed on Airplane Mode?
 
 Yes, if you have not disabled the GPS feature, your location can be tailed on an Airplane mode as the flight mode only disables the cellular connection and Wi-Fi. So, it can be concluded that Airplane Mode is no solution for stopping the GPS tracking on your phone, though there are other workarounds available for this.
@@ -314,9 +287,6 @@ Yes, if you have not disabled the GPS feature, your location can be tailed on an
 
 The GPS feature of your phone, besides assisting you, is also a way any person or third-party app can keep track, which can hamper your privacy and be annoying. So, for privacy or any other reason, if you are looking for ways to prevent your phones from being tailed, check out the solutions for iDevices and Android below.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3.1. How to stop GPS tracking on Infinix Smart 8s?
 
 To hide the location on your Infinix Smart 8 and iPad, below listed are the steps.
@@ -331,32 +301,20 @@ To hide the location on your Infinix Smart 8 and iPad, below listed are the step
 
 ![switch off gps on idevices](https://images.wondershare.com/drfone/article/2022/03/switch-off-gps-idevice-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3.2. How to stop GPS tracking on Android Devices?
 
 The process to turn off GPS location on Android devices may vary from device to device and brand to brand. Still, the commonly used steps for turning off the location are listed below.
 
 **Step 1**. On your Infinix Smart 8, swipe down on your screen to open the options list.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![switch off gps on android devices](https://images.wondershare.com/drfone/article/2022/03/switch-off-gps-android-1.jpg)
 
 **Step 2**. Search for the Airplane icon and click on it to turn on the Airplane Mode.
 
 **Step 3**. Next, open the App Drawer and then choose Settings > Location. Turn off the Location.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![drfone virtual location switch off gps on android devices](https://images.wondershare.com/drfone/article/2022/03/switch-off-gps-android-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: Spoof Location to prevent GPS Tracing without Turning on Airplane Mode
 
 If you are looking for a method that can prevent GPS tracking without turning on Airplane Mode, spoofing your location is a workable solution. To get this task done, you would need a specialized app or a tool, and here we recommend [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) as the best option.
@@ -379,9 +337,6 @@ You can check out this video for further instruction.
 
 **Step 1**. Download, install and launch the Dr. Fone software on your Windows or Mac system.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![home page](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2**. On the leading software, tap on the **Virtual Location** option and then connect your Infinix Smart 8 or Android device to your system using a USB cable.
@@ -396,16 +351,10 @@ You can check out this video for further instruction.
 
 **Step 5**. Next, in the upper-right corner, click on the teleport mode icon. Next, enter the desired location at the upper left-hand side that you wish to teleport to. Finally, click on the **Go** button after entering the site.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![search a location on virtual location and go](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 **Step 6**. A pop-up box will appear to click on the **Move Here** button to set the selected location for the connected device. The place will appear on the app interface and the phone.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![move here on virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 ## Part 5: People Also ask about Airplane Mode
@@ -422,18 +371,15 @@ No, the Find My iPhone feature does not work in Airplane mode because the locati
 
 Life360 is a helpful app for tracking your friends, family, and other people. This app tracks your GPS location and displays it to all the selected members in a circle. When the airplane mode on your device is enabled, the network will be disconnected, and thus Life360 will not be able to update your location to the members in the circle. Therefore, during **airplane mode, Life360** will not update your site.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Wrap it up
 
 So, it can be concluded that Airplane Mode disconnects you from the cellular network and Wi-Fi. Therefore, to stop getting traced, you need to disable your location services along with the airplane mode. Using [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) is an excellent alternative to stop the GPS location as the software will help you set a fake location, and your actual location will remain hidden from all.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -447,7 +393,21 @@ So, it can be concluded that Airplane Mode disconnects you from the cellular net
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-lighten-spirits-with-adobes-meme-magic/"><u>[New] In 2024, Lighten Spirits with Adobe's Meme Magic</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-the-ultimate-checklist-for-choosing-premium-free-srt-translation-apps-for-2024/"><u>[New] The Ultimate Checklist for Choosing Premium Free SRT Translation Apps for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-stop-chrome-from-skipping-playback-of-facebook-videos/"><u>[Updated] 2024 Approved Stop Chrome From Skipping Playback of Facebook Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-charting-the-evolution-of-windows-movie-maker/"><u>[Updated] Charting the Evolution of Windows Movie Maker</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-vivo-y200e-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Vivo Y200e 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/compact-and-powerful-360-degree-camera-theta-sc2-tested/"><u>Compact & Powerful 360-Degree Camera – Theta SC2 Tested</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-14-pro-max-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 14 Pro Max to other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-11-best-location-changers-for-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/making-marks-trendsetting-on-social-media-platforms/"><u>Making Marks Trendsetting on Social Media Platforms</u></a></li>
+<li><a href="https://windows11.techidaily.com/new-horizons-in-customizing-win11-ui/"><u>New Horizons in Customizing Win11 UI</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavi-3gpp-m4a-3d/"><u>무료 인터넷에서 Movavi로 3GPP M4A 표시를 위해 3D 가상 공간 변환 기술 - 오디오/비디오</u></a></li>
+</ul></div>
 

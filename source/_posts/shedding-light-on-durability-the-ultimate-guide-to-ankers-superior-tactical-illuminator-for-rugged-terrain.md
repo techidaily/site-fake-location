@@ -1,7 +1,7 @@
 ---
 title: "Shedding Light on Durability: The Ultimate Guide to Anker's Superior Tactical Illuminator for Rugged Terrain"
-date: 2024-11-15T22:33:31.641Z
-updated: 2024-11-22T01:43:20.002Z
+date: 2024-11-26T16:29:24.443Z
+updated: 2024-11-30T17:09:53.754Z
 categories:
   - BestProducts
 description: "This Article Describes Shedding Light on Durability: The Ultimate Guide to Anker's Superior Tactical Illuminator for Rugged Terrain"
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/0313aeb6801c4ad054aee4b20ba488ff337dac52c
 ![Kensun Portable Tire Inflator](https://www.lifewire.com/thmb/NWhMBmuK3pkL9EGvdNCEAF8sWEo=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/KensunPortableTireInflator_HeroSquare-c74ce1562bed43b897087fa89d11df23.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Jeffrey Daniel Chadwick
@@ -41,13 +41,13 @@ Lifewire / Jeffrey Daniel Chadwick
 
 4.2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Kensun AC/DC Portable Air Pump Tire Inflator
 
 ![Kensun Portable Tire Inflator](https://www.lifewire.com/thmb/MEKNaqKs5klEYPtoc5EGv7lAyJU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/KensunPortableTireInflator_HeroSquare-c74ce1562bed43b897087fa89d11df23.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Jeffrey Daniel Chadwick
 
@@ -71,10 +71,6 @@ Lifewire / Jeffrey Daniel Chadwick
 
  Lifewire / Jeffrey Daniel Chadwick
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Design and Features: Maximum portability, but not maximum flexibility**
 
  The form factor of the Kensun Portable Tire Inflator is a case study in maximum portability. It weighs a mere 5 pounds, and the sturdy handle makes it easy to pick up and move around. Moreover, at 11.8 inches long, 4.3 inches wide and 6.7 inches tall, it’s quite compact. And it’s hard plastic casing means it can withstand some punishment and still deliver top performance.
@@ -97,6 +93,10 @@ Lifewire / Jeffrey Daniel Chadwick
 
  Lifewire / Jeffrey Daniel Chadwick
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Setup Process: T-minus one minute**
 
  Once you’ve read the user manual, you’ll know how to use the Kensun portable tire inflator. Nevertheless, you’ll want to do some test runs before you take it on the road. During our testing phase, we timed how long it takes from getting out of the car to the pump inflating one of our tires. It took about one minute, which is good time if you’re on the side of the highway with an unexpected flat.
@@ -104,7 +104,7 @@ Lifewire / Jeffrey Daniel Chadwick
  Lifewire / Jeffrey Daniel Chadwick
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Performance: Reliable, accurate, quick and loud**
@@ -146,7 +146,7 @@ Lifewire / Jeffrey Daniel Chadwick
  The Kensun Portable Tire Inflator is a great choice to keep in your truck, garage, or wherever you keep your “just-in-case” supplies. It’s a device that is as necessary for drivers as jumper cables and an emergency flashlight. You can count on it to be reliable when you need it, and fill your tires quickly and accurately. Plus, the added benefit of being able to plug it into your wall can’t be overstated. It has its foibles, but in the grand scheme of things, they’re minor inconveniences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -174,22 +174,20 @@ Lifewire / Jeffrey Daniel Chadwick
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-how-to-optimally-utilize-a-creative-commons-license/"><u>[New] 2024 Approved How to Optimally Utilize a Creative Commons License</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-unparalleled-8-webcams-elevate-your-livestream-experience/"><u>[New] Unparalleled 8 Webcams Elevate Your Livestream Experience</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-movie-magic-tiktok-effects-techniques/"><u>[Updated] Mastering Movie Magic TikTok Effects Techniques</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-quick-fixes-to-enhance-your-youtube-reach/"><u>2024 Approved Quick-Fixes to Enhance Your YouTube Reach</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-xiaomi-mix-fold-3-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Xiaomi Mix Fold 3 Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-vivo-g2-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Vivo G2 | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-identifying-high-impact-hdr-photography-tools/"><u>In 2024, Identifying High-Impact HDR Photography Tools</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-master-list-of-8-gratis-cutting-edge-video-players-for-pcmac-os/"><u>In 2024, Master List of 8 Gratis, Cutting-Edge Video Players for PC/Mac OS</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-motorola-moto-g-5g-2023-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Motorola Moto G 5G (2023)? Fixed | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Oppo Find X6? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On OnePlus Nord N30 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/step-by-step-walkthrough-incorporating-subtitles-in-mp4s/"><u>Step-by-Step Walkthrough Incorporating Subtitles in MP4s</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Samsung Galaxy XCover 7? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-lava-blaze-2-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Lava Blaze 2 5G? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-ultimate-streamers-guide-to-best-free-options-across-every-system/"><u>[New] 2024 Approved Ultimate Streamer's Guide to Best Free Options Across Every System</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-art-of-crafting-compelling-spotify-ads/"><u>[Updated] The Art of Crafting Compelling Spotify Ads</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-easy-steps-to-save-youtube-videos/"><u>2024 Approved Easy Steps to Save YouTube Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/building-a-vivid-world-with-animated-clips-in-movie-maker-for-2024/"><u>Building a Vivid World with Animated Clips in Movie Maker for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cambiar-archivos-de-audio-m4r-a-formato-aac-gratuito-en-linea-con-movavi/"><u>Cambiar Archivos De Audio M4R a Formato AAC Gratuito en Línea Con Movavi</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-features-free-vs-premium-swf-converter-factory-and-pro/"><u>Comparing Features: Free vs Premium - SWF Converter Factory & Pro</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-samsung-galaxy-z-flip-5-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Samsung Galaxy Z Flip 5 Phone | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-vivo-s17t-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Vivo S17t Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209893524-9781465496003-lego-build-yourself-happy/"><u>LEGO Build Yourself Happy | Free Book</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Samsung Galaxy S23+ | Dr.fone</u></a></li>
 </ul></div>
 
