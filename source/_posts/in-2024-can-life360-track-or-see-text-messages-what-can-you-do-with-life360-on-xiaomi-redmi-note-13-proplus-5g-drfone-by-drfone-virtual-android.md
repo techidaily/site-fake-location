@@ -1,7 +1,7 @@
 ---
 title: In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Xiaomi Redmi Note 13 Pro+ 5G? | Dr.fone
-date: 2024-12-01T21:15:25.936Z
-updated: 2024-12-08T17:05:42.997Z
+date: 2024-12-12T18:07:22.473Z
+updated: 2024-12-14T19:11:31.165Z
 tags: 
   - virtual location chang
   - location changer
@@ -54,15 +54,15 @@ Now, you know that Life360 cannot see your text message, but what can Life360 se
 
 It's important to note that while Life360 is designed to facilitate family communication and safety, the extent of data visibility and tracking can vary based on the settings and permissions configured within the app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5: How to stop Life360 from seeing your location data?
 
 Life360 can only have limited access to your texts, but it tracks your location as long as the app runs in the background and the location services are on. For those of you who wonder, does life360 alert you when someone checks your locations? The answer is no because no Android or iOS application has that feature. So, all group members can track your location or see your location history all the time. Here is how you can stop life360 from seeing your location.
 
 [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) is a location changer application that teleports your GPS location to anywhere you want with a single click. It is the best tool to fool all location tracking-based Android or IOS applications, including Life360. Users can fake their location by stimulating GPS location with a joystick and drawing a fake route on a 360-degree map. It also allows you to play location-based games on your device without moving a single step.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Dr.Fone - Virtual Location
 
@@ -80,13 +80,13 @@ Open the Dr.Fone software on your computer and connect your phone. Next, navigat
 
 ![tap on virtual location](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 And click on "Get Started" to open the maps.
 
 ![tap on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Click on the "Teleport Mode" search for your fake location or use the joystick stimulator to move to the exact coordinates. Finally, click on the "Move Here" button to change your device's location.
 
@@ -111,16 +111,12 @@ There is no way to hide your Life360 history. There are only two ways to remove 
 Life360 is designed for parents to always stay informed about the digital well-being of their children and their location. Children might think this is an invasion of privacy but given what's out there on the internet and in the world, parents are rightfully concerned. If you are using Life360 as a rudimentary spyware to track your ex or any such purposes, then that is on you and that is an invasion of their privacy.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
 
 I hope reading this article helped relieve your concerns about the Life360 app. Can you track text messages with life360 "Yes" the app tracks your location through texts but can life360 read texts, or can life360 see who you text, "No" because it cannot monitor all your device's actions. The device can see if you are texting others. Still, it cannot store any data, so you can privately communicate with people inside or outside your circle. But you can stop the app from tracking your location for safety purposes, so you have to use [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) to trick location-based applications or change your GPS coordinates or location history with one click.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How To Use Special Features  - Virtual Location On Xiaomi Redmi Note 13 Pro+ 5G?
 
@@ -139,6 +135,10 @@ The circle route feature is under the multi-stop route mode. When your starting 
 This particular feature makes the simulation look realistic with the ability to fluctuate the speed of the simulation. If you wish to turn on realistic mode for the one-stop or multi-stop route, look for the respective checkmark option in the panel on the left.
 
 ![use realistic mode for accuracy](https://images.wondershare.com/drfone/guide/realistic-mode.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Part 3: Fluctuation Mode (For Teleport Mode)
 
@@ -172,19 +172,11 @@ For importing a GPX file on the platform, click the **Import** button on the rig
 
 ![import gpx file to the platform](https://images.wondershare.com/drfone/guide/import-gpx.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3Wait for the File to be Read
 
 Wait for a moment until Dr.Fone - Virtual Location recognizes the specific locations within the GPX file and displays them on the map.
 
 ![wait for gpx file to load](https://images.wondershare.com/drfone/guide/wait-import-gpx.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Part 6: Historical Records
 
@@ -202,6 +194,10 @@ Select the **Go** button adjacent to any particular historical record to re-laun
 
 ![move to any location from history](https://images.wondershare.com/drfone/guide/history-records-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Part 7: Favorite List
 
 You can also set up favorite locations within the platform to define quick accessibility to your favorite locations. To do that, you have to follow the guidelines shown next:
@@ -212,11 +208,19 @@ While setting up locations in Jump Teleport Mode, One-Stop Route, or Multi-Stop 
 
 ![save locations as favorite](https://images.wondershare.com/drfone/guide/find-favorites.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2Access your Favorite Section
 
 To look for your favorite locations, look for the **Favorite** icon on the right pane to open a list containing all locations you have marked. You can choose the **Move** option to automatically move into a particular location in no time.
 
 ![search for favorite locations](https://images.wondershare.com/drfone/guide/search-favorites.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Looking For A Location Changer On Xiaomi Redmi Note 13 Pro+ 5G? Look No Further
 
@@ -225,7 +229,7 @@ How do you use your Xiaomi Redmi Note 13 Pro+ 5G? Do you use it to make calls, w
 ![location changer on iphone ios 16](https://images.wondershare.com/drfone/article/2022/07/how-to-change-location-on-ios16-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part I: Why Do I Need To Change GPS Location On Xiaomi Redmi Note 13 Pro+ 5G?
@@ -298,10 +302,6 @@ That's it! You are now ready to perform techno-wizardry, relocate to another pla
 
 ![drfone virtual location teleport](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3:** You will get a popup to confirm. Click Move Here, and your location will change to reflect the chosen location. Now on, in all supported location-based apps, you will see your chosen location until you restart the Xiaomi Redmi Note 13 Pro+ 5G. This allows you to break the paywall of dating apps, too, as they will see your current location as the location you chose, allowing you to find dates outside the boundaries set by the apps for free.
 
 **Simulating Movement Between Two Points**
@@ -334,10 +334,6 @@ Similarly, you can simulate between multiple points to play elaborate pranks on 
 
 ![drfone virtual location multi point simulation](https://images.wondershare.com/drfone/guide/virtual-location-11.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3:** Distance gets re-calculated after each selection. When you are satisfied with your route simulation, click Move Here.
 
 ![drfone virtual location multi point simulation](https://images.wondershare.com/drfone/guide/virtual-location-12.png)
@@ -352,6 +348,10 @@ Similarly, you can simulate between multiple points to play elaborate pranks on 
 
 Here are some commonly asked questions to help you with location spoofer Xiaomi Redmi Note 13 Pro+ 5G apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### FAQ 1: Will a location spoofer Xiaomi Redmi Note 13 Pro+ 5G app damage my Xiaomi Redmi Note 13 Pro+ 5G or its GPS?
 
 Not in the least. Dr.Fone Virtual Location spoofer on Xiaomi Redmi Note 13 Pro+ 5G works from the computer and does not affect either the Xiaomi Redmi Note 13 Pro+ 5G or the GPS chip inside the Xiaomi Redmi Note 13 Pro+ 5G. So when you want to come back to your real location, all you need to do is restart the Xiaomi Redmi Note 13 Pro+ 5G.
@@ -361,7 +361,7 @@ Not in the least. Dr.Fone Virtual Location spoofer on Xiaomi Redmi Note 13 Pro+ 
 Can't say for other apps in the market, but Wondershare Dr.Fone – Virtual Location does not require you to jailbreak your Xiaomi Redmi Note 13 Pro+ 5G. It works using the computer to temporarily change the GPS coordinates of your Xiaomi Redmi Note 13 Pro+ 5G, and you can stop spoofing your location anytime by simply restarting your handset. It does not cause security issues with iOS or risk your privacy at all.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### FAQ 3: Can I jailbreak Xiaomi Redmi Note 13 Pro+ 5G to spoof location using Cydia?
@@ -388,18 +388,22 @@ Location spoofer Xiaomi Redmi Note 13 Pro+ 5G apps are gaining prevalence today 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/frolics-of-fun-dissecting-the-goofy-movie-for-2024/"><u>'Frolics of Fun' - Dissecting 'The Goofy Movie' For 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/-beginners-guide-to-elevating-auditory-experiences-on-youtube-for-2024/"><u>[New] A Beginner's Guide to Elevating Auditory Experiences on YouTube for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-track-your-traffic-the-straightforward-strategy-for-scrutinizing-youtube-earnings/"><u>[New] In 2024, Track Your Traffic The Straightforward Strategy for Scrutinizing YouTube Earnings</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-top-techniques-to-captivate-viewers-with-facebook-covers/"><u>2024 Approved Top Techniques to Captivate Viewers with Facebook Covers</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-uploading-beats-youtube-music-setup/"><u>2024 Approved Uploading Beats YouTube Music Setup</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-itel-p40-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Itel P40 | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Motorola Moto E13 | Dr.fone</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/comprehveillance-of-creating-virtual-machines-using-vmware-esxi-a-stepwise-approach/"><u>Comprehveillance of Creating Virtual Machines Using VMware ESXi - A Stepwise Approach</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Honor Magic 5? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Poco M6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Samsung Galaxy S24+ | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-razr-40-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Razr 40</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On OnePlus Ace 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/est-youtube-video-converters-for-high-quality-webm-for-2024/"><u>[New] Best YouTube Video Converters for High-Quality WebM for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-harness-the-power-of-instagrams-hidden-features/"><u>[New] Harness the Power of Instagram's Hidden Features</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-innovators-defining-the-future-of-virtual-realms/"><u>[New] In 2024, Innovators Defining the Future of Virtual Realms</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-youcamsimplified-quickguidetorecordings/"><u>[New] YouCamSimplified QuickGuideToRecordings</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-capture-and-save-with-ease-top-5-pc-snipers-reviewed-for-2024/"><u>[Updated] Capture & Save with Ease Top 5 PC Snipers Reviewed for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-income-insight-cutting-through-the-complexity-with-a-3-step-guide-to-youtube-revenue-for-2024/"><u>[Updated] Income Insight Cutting Through the Complexity with a 3-Step Guide to YouTube Revenue for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-skincare-and-sensational-looks/"><u>2024 Approved Skincare and Sensational Looks</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Lava Blaze 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-nokia-g22-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Nokia G22 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-gionee-f3-pro-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Gionee F3 Pro Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-vivo-v27-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Vivo V27 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Honor X50 GT? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-social-media-synergy-linking-instagram-with-tiktok/"><u>In 2024, Social Media Synergy Linking Instagram with TikTok</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-step-by-step-tutorial-crafting-gifs-from-photos-using-photoshop/"><u>Ultimate Step-by-Step Tutorial: Crafting GIFs From Photos Using Photoshop</u></a></li>
 </ul></div>
 
