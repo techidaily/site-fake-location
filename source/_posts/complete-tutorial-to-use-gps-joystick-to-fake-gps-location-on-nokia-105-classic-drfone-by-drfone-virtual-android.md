@@ -1,7 +1,7 @@
 ---
 title: Complete Tutorial to Use GPS Joystick to Fake GPS Location On Nokia 105 Classic | Dr.fone
-date: 2024-08-02T00:51:06.715Z
-updated: 2024-08-03T00:51:06.715Z
+date: 2025-01-06T19:25:02.184Z
+updated: 2025-01-08T11:38:57.227Z
 tags: 
   - virtual location chang
   - location changer
@@ -43,8 +43,9 @@ Disadvantages:
 - Fake GPS joystick for Pokemon Go cannot perform well for it as reported by the users. Also, it drives the same result for other popular location-based apps or games.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: How to set up GPS JoyStick
 
 Though, it is quite difficult to get through the process of setting up the GPS joystick apk to a fake GPS location. Remember, we’ve always got your back. Therefore, we would like to bring you up with a detailed streak of steps (if followed properly) to install and set up the fake GPS joystick apk easily.
@@ -59,6 +60,10 @@ Basically, the tutorial is categorized into 3 different streaks depending upon t
 
 **Note:** Remember the date mentioned besides the “Android security patch level” is when it was first released. Please do not take it otherwise, that it is the date when you might have installed Google’s security patch.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.1 For Android 6.0 and Above (New Security Patch) - AFTER March 5, 2017
 
 If you own an Android device that runs on the Android OS version 6.0 or higher updated to “New Security Patch” released “AFTER March 5, 2017”. You need to follow the steps mentioned below.
@@ -67,15 +72,11 @@ First, you need to make sure that the Google Play Services app installed over yo
 
 **Note:** To verify the Play Services version, launch “Settings” followed by selecting “Apps/Applications”. Scroll down to “Google Play Services” and hit on it. You will then see the app version at the top of the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![Google Play Services](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 But if that’s not the case, you’re required to disable the Play Store's auto-updates. For this, launch the Play Store and hit the “3 horizontal bars” at the top. Then, tap on “Settings” option from the appearing left panel followed by Auto-update apps available under “General” settings. Lastly, hit on the “Do not auto-update apps” option.
 
@@ -87,14 +88,15 @@ Next, get hold of Google Play Services (an older version) from the link here: _<
 
 Once done, if “Find My Device” is enabled over your device, you need to get it disabled too. To do this, get into “Settings” followed by “Security & Location”. Now, hit on “Find my device” and toggle it off.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Find my device](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-4.jpg)
 
 Likewise, disable “Google Play” and uninstall all its updates as well. To remove updates, get into “Settings” followed by “Apps/Applications”. Scroll down to “Google Play Services” and hit on “Uninstall updates”.
 
 ![Uninstall updates](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** If you’re unable to get this done, then you may need to disable the Android device manager in the first place. For this, get to “Settings” > “Security” > “Device Administrators” > disable “Android Device Manager first”.
 
@@ -102,9 +104,6 @@ Now is the time when you should install the Google Play Services apk (downloaded
 
 Subsequently, you need to again get into the “Settings” and then opt for “Developer Options”. Now, hit on “Select mock location app” and opt for “GPS JoyStick” here.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![GPS JoyStick](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-6.jpg)
 
 Lastly, launch the “GPS JoyStick app” and navigate to “Settings” followed by toggling on the “Enable Suspended Mocking” switch.
@@ -117,18 +116,16 @@ That was a detailed tutorial about the Android security patch level released “
 
 First, you need to navigate to the “Settings”. Then, opt for “Developer Options” and hit on “Select mock location app” followed by selecting the “GPS JoyStick” app here.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Select mock location app](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lastly, launch the “GPS JoyStick app” to fake GPS location and navigate to “Settings”. Thereafter, toggle on the “Indirect Mocking” switch, and you’re done.
 
 ![Indirect Mocking](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.3 For Android 4 or 5
 
 For the users of Android OS version 4 or Android OS version 5, there’s not much you need to do. Here is the exact method that you need to get through.
@@ -137,11 +134,19 @@ Get the “GPS JoyStick apk” installed over your device and then proceed to �
 
 ![Developer Options](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now, “GPS JoyStick app” to fake GPS location and get started with the FGL pro joystick control.
 
 You will then have the FGL pro joystick control is visible on your Android screen. Thereafter, head back to the “Developer Options” and get the “Mock Locations” disabled.
 
 Lastly, launch the “Pokemon GO” and you’re all set to fake GPS go with a joystick.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to bypass the blacklist of games like Pokemon GO
 
@@ -149,9 +154,6 @@ There are chances when you get caught by Pokemon Go for spoofing GPS location an
 
 Download and then install the most recent version of GPS JoyStick apk. Now, launch it, and then hit on the “Privacy Mode” link available under the “Quick Options” section on the home screen. This will generate a unique copy of the app specifically for you.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Quick Options](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-11.jpg)
 
 Next, you need the generated app installed and get through with the setup process with the streak of steps listed below.
@@ -162,14 +164,8 @@ Thereafter, make use of the specifically generated GPS joystick on Pokemon Go to
 
 Lastly, utilize the “Update” button after hitting on the “Privacy Mode” link under the “Quick Options”. Then, navigate to the previously generated app from the appearing pop up. This will generate the update for it, and you’re all done.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![bypass the blacklist of games](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 4: How to Use GPS Joystick to Fake Location on iPhone
 
 When you fake GPS Joystick location, you can double the joy in playing location-based games like Pokemon go, Ingress, Zombies, Run, Geocaching, etc. All these games make use of the phone location, and it will be quite interesting if you move on with exciting places worldwide.
@@ -184,20 +180,17 @@ Dr. Fone's specialist team presents [Dr.Fone - Virtual Location](https://tools.t
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/FfhgWxnARqo"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ### Stepwise procedure to fake GPS with a joystick on iPhone
 
 **Step 1: Launch the app**
 
 After a successful download, install the app through the guiding wizard. Click the Dr.Fone app icon to explore its features. Using a USB cable, attach your iPhone with your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![attach your iPhone with your PC](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2: Set a virtual location**
 
@@ -209,9 +202,6 @@ On the first screen of Dr.Fone app, choose the ‘Virtual Location’ option.
 
 Tap ‘Get Started’ option then add a new address in the ‘Teleport’ mode. To choose ‘Teleport’ mode, you have to select the first icon at the top-right screen. Next, enter the address at the top left side of the window. You can enter any address around the globe to fake GPS joystick location.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 **Step 4: Changed Location in the app**
@@ -226,13 +216,13 @@ Next, you must check your default current location in map view on iPhone, and yo
 
 ![witness the modified location](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 6: Play Pokemon Go without moving**
 
 Now use the “one-stop route” or “multi-stop route” to simulate the real-world movement without moving. Just play Pokemon go to explore new Pokemons on different locations and gain more points through an effective fake GPS joystick location app Dr.Fone.
-
-
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -240,4 +230,23 @@ Now use the “one-stop route” or “multi-stop route” to simulate the real-
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-groundwork-unraveling-storytellings-foundations/"><u>[New] Groundwork Unraveling Storytelling's Foundations</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-eluding-prying-eyes-privacy-preserving-video-editing/"><u>[Updated] 2024 Approved Eluding Prying Eyes Privacy-Preserving Video Editing</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-upgrading-laptop-and-mobile-conferencing-with-background-changes/"><u>[Updated] 2024 Approved Upgrading Laptop & Mobile Conferencing With Background Changes</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-photomagic-studio/"><u>[Updated] PhotoMagic Studio</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-fixes-upgrading-your-audio-technica-driver-system-on-windows-macos-and-linux/"><u>Easy Fixes: Upgrading Your Audio Technica Driver System on Windows, macOS & Linux</u></a></li>
+<li><a href="https://discover-data.techidaily.com/effortless-guide-moving-iphone-footage-to-your-pc-running-windows-11-or-10/"><u>Effortless Guide: Moving iPhone Footage to Your PC Running Windows 11 or 10</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-tecno-spark-20-pro-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Tecno Spark 20 Pro Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>How to Stop Google Chrome from Tracking Your Location On Apple iPhone 15? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y100-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y100 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>Life360 Learn How Everything Works On Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Nokia G22? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Honor Magic Vs 2? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Infinix Hot 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Vivo X Flip | Dr.fone</u></a></li>
+</ul></div>
 

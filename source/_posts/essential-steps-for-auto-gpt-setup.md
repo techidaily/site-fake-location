@@ -1,7 +1,7 @@
 ---
 title: Essential Steps for Auto-GPT Setup
-date: 2024-12-24T16:18:50.372Z
-updated: 2024-12-29T16:31:32.388Z
+date: 2025-01-03T08:07:10.509Z
+updated: 2025-01-07T22:55:27.478Z
 tags:
   - chatgpt
   - open-ai
@@ -23,16 +23,12 @@ thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812
 
  As ChatGPT advances, it has the potential to transform the healthcare sector completely. When integrated with health systems, it may improve patient access to care and boost doctors' work efficiency. However, because it is AI-based, several concerns about its potential dangers exist.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. ChatGPT Has Limited Knowledge
 
 ![Pig-to-heart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pig-to-heart.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ChatGPT does not know everything. According to OpenAI, ChatGPT has limited knowledge, particularly when it comes to what happened after September 2021\.
@@ -41,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812
 
  Therefore, it cannot get current news on developments in medical fields. Yes, ChatGPT is unaware of the pig-to-human heart transplant or any other very recent breakthroughs in medical science.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. ChatGPT May Produce Incorrect Information
 
  ChatGPT can answer the questions you ask, but the responses can be inaccurate or biased. According to a [PLoS Digital Health](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000198) study, ChatGPT performed with at least 50% accuracy across all USMLE examinations. And while it exceeded the 60% passing threshold in some aspects, there is still the possibility of error.
@@ -48,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812
  Furthermore, not all of the information used to train ChatGPT is authentic. Responses based on unverified or potentially biased information may be incorrect or outdated. In the world of medicine, inaccurate information can even cost a life.
 
  Because ChatGPT cannot independently research or verify material, it cannot differentiate between fact and fiction. Respected medical journals, including the Journal of the American Medical Association (JAMA), have established strict regulations that only humans can write scientific studies published in the journal. As a result, [you should constantly fact-check ChatGPT's responses](https://www.makeuseof.com/fact-check-health-information-chatgpt-ai-sources/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. ChatGPT Does Not Physically Examine You
 
@@ -72,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812
  When we inquired about the book, it replied that it was a "hypothetical" book that it created. ChatGPT won't tell you if a journal article or book is false if you don't inquire further.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. ChatGPT Is Just an AI Language Model
@@ -80,10 +76,14 @@ thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812
 ![ChatGPT Medical](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-medical.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Language models function by memorizing and generalizing text rather than examining or studying a patient's condition. Despite generating responses that match human standards in terms of language and grammar, [ChatGPT still contains a number of problems](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/), much like other AI bots.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ChatGPT Is Not a Replacement for Your Doctor
 
@@ -112,24 +112,21 @@ thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-exclusive-list-elite-4k-tv-selection/"><u>[New] 2024 Approved Exclusive List Elite 4K TV Selection</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-unveiling-the-secrets-to-link-sharing-on-instagram-for-2024/"><u>[New] Unveiling the Secrets to Link Sharing on Instagram for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-harnessing-the-power-of-followers-for-impactful-advertising-campaigns/"><u>2024 Approved Harnessing the Power of Followers for Impactful Advertising Campaigns</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Tecno Pova 5 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/comprehensive-guide-overcoming-fortnites-entry-point-unavailable-challenge/"><u>Comprehensive Guide: Overcoming Fortnite's 'Entry Point Unavailable' Challenge</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Google Pixel 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your HTC U23 Pro | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Xiaomi Redmi A2? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Apple iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Lava Yuva 2 | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-apple-iphone-se-2022-fixed-drfone-by-drfone-virtual-ios/"><u>iSpoofer is not working On Apple iPhone SE (2022)? Fixed | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-oneplus-nord-n30-5g-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on OnePlus Nord N30 5G</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Nokia G22 | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Apple iPhone 15 Plus | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-oneplus-open-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On OnePlus Open | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-non-hdcp-compatible-displays-for-high-definition-streams/"><u>Troubleshooting Non-HDCP Compatible Displays for High Definition Streams</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Honor 90 Lite? | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/win-nvme-m2-support-guide/"><u>Win NVMe M.2 Support Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/wtv-to-mpeg-online-upgrade-get-your-media-in-top-quality-playback-for-free/"><u>WTV to MPEG Online Upgrade - Get Your Media in Top-Quality Playback for Free!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-webcam-wizardry-crafting-ultimate-gamer-footage/"><u>[Updated] 2024 Approved WebCam Wizardry Crafting Ultimate Gamer Footage</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-revolutionary-techniques-for-high-quality-sound-recording-no-microphone-required/"><u>[Updated] Revolutionary Techniques for High-Quality Sound Recording, No Microphone Required</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-videography-on-fb-horizontal-or-vertical-placement/"><u>[Updated] Videography on FB Horizontal or Vertical Placement?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-cultural-heritage-without-copyright-boundaries/"><u>2024 Approved Cultural Heritage Without Copyright Boundaries</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-how-to-write-a-great-podcast-techniques-and-10plus-free-example-scripts-inside/"><u>2024 Approved How to Write a Great Podcast Techniques & 10+ Free Example Scripts Inside</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-vivo-y100i-power-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Vivo Y100i Power 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Honor X7b? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-realme-c55-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/how-to-flawlessly-capture-your-ios-devices-screen-for-2024/"><u>How to Flawlessly Capture Your iOS Device's Screen for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-gpu-shortage-in-overwatch/"><u>Overcoming GPU Shortage in Overwatch</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-oppo-f23-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Oppo F23 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-htc-u23-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on HTC U23? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ultimate-tutorial-download-and-update-essential-software-for-your-hp-envy-20-system/"><u>Ultimate Tutorial: Download & Update Essential Software for Your HP ENVY 20 System</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Complete Tutorial to Use GPS Joystick to Fake GPS Location On Vivo Y100A | Dr.fone
-date: 2024-08-02T00:55:01.539Z
-updated: 2024-08-03T00:55:01.539Z
+date: 2025-01-04T16:35:05.604Z
+updated: 2025-01-07T18:11:09.453Z
 tags: 
   - virtual location chang
   - location changer
@@ -56,18 +56,6 @@ Basically, the tutorial is categorized into 3 different streaks depending upon t
 
 **Note:** Remember the date mentioned besides the “Android security patch level” is when it was first released. Please do not take it otherwise, that it is the date when you might have installed Google’s security patch.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.1 For Android 6.0 and Above (New Security Patch) - AFTER March 5, 2017
 
 If you own an Android device that runs on the Android OS version 6.0 or higher updated to “New Security Patch” released “AFTER March 5, 2017”. You need to follow the steps mentioned below.
@@ -77,6 +65,10 @@ First, you need to make sure that the Google Play Services app installed over yo
 **Note:** To verify the Play Services version, launch “Settings” followed by selecting “Apps/Applications”. Scroll down to “Google Play Services” and hit on it. You will then see the app version at the top of the screen.
 
 ![Google Play Services](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 But if that’s not the case, you’re required to disable the Play Store's auto-updates. For this, launch the Play Store and hit the “3 horizontal bars” at the top. Then, tap on “Settings” option from the appearing left panel followed by Auto-update apps available under “General” settings. Lastly, hit on the “Do not auto-update apps” option.
 
@@ -92,10 +84,6 @@ Once done, if “Find My Device” is enabled over your device, you need to get 
 
 Likewise, disable “Google Play” and uninstall all its updates as well. To remove updates, get into “Settings” followed by “Apps/Applications”. Scroll down to “Google Play Services” and hit on “Uninstall updates”.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![Uninstall updates](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-5.jpg)
 
 **Note:** If you’re unable to get this done, then you may need to disable the Android device manager in the first place. For this, get to “Settings” > “Security” > “Device Administrators” > disable “Android Device Manager first”.
@@ -104,9 +92,6 @@ Now is the time when you should install the Google Play Services apk (downloaded
 
 Subsequently, you need to again get into the “Settings” and then opt for “Developer Options”. Now, hit on “Select mock location app” and opt for “GPS JoyStick” here.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![GPS JoyStick](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-6.jpg)
 
 Lastly, launch the “GPS JoyStick app” and navigate to “Settings” followed by toggling on the “Enable Suspended Mocking” switch.
@@ -123,23 +108,14 @@ First, you need to navigate to the “Settings”. Then, opt for “Developer Op
 
 Lastly, launch the “GPS JoyStick app” to fake GPS location and navigate to “Settings”. Thereafter, toggle on the “Indirect Mocking” switch, and you’re done.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Indirect Mocking](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.3 For Android 4 or 5
 
 For the users of Android OS version 4 or Android OS version 5, there’s not much you need to do. Here is the exact method that you need to get through.
 
 Get the “GPS JoyStick apk” installed over your device and then proceed to “Developer Options” available under the “Settings” menu. Then, hit on the “Select mock location app”.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Developer Options](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-10.jpg)
 
 Now, “GPS JoyStick app” to fake GPS location and get started with the FGL pro joystick control.
@@ -167,8 +143,9 @@ Lastly, utilize the “Update” button after hitting on the “Privacy Mode” 
 ![bypass the blacklist of games](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-12.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 4: How to Use GPS Joystick to Fake Location on iPhone
 
 When you fake GPS Joystick location, you can double the joy in playing location-based games like Pokemon go, Ingress, Zombies, Run, Geocaching, etc. All these games make use of the phone location, and it will be quite interesting if you move on with exciting places worldwide.
@@ -183,37 +160,24 @@ Dr. Fone's specialist team presents [Dr.Fone - Virtual Location](https://tools.t
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/FfhgWxnARqo"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ### Stepwise procedure to fake GPS with a joystick on iPhone
 
 **Step 1: Launch the app**
 
 After a successful download, install the app through the guiding wizard. Click the Dr.Fone app icon to explore its features. Using a USB cable, attach your iPhone with your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![attach your iPhone with your PC](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2: Set a virtual location**
 
 On the first screen of Dr.Fone app, choose the ‘Virtual Location’ option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![choose Virtual Location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 **Step 3: Modify the location address**
 
 Tap ‘Get Started’ option then add a new address in the ‘Teleport’ mode. To choose ‘Teleport’ mode, you have to select the first icon at the top-right screen. Next, enter the address at the top left side of the window. You can enter any address around the globe to fake GPS joystick location.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 **Step 4: Changed Location in the app**
@@ -226,10 +190,6 @@ Now the Dr.Fone app displays your desired address as your current location. You 
 
 Next, you must check your default current location in map view on iPhone, and you will witness the modified location in pace with your desired address.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![witness the modified location](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
 
 **Step 6: Play Pokemon Go without moving**
@@ -240,17 +200,14 @@ Now use the “one-stop route” or “multi-stop route” to simulate the real-
 
 Google Maps is a virtual map for mobile and PC use. With it, you can check routes and street maps with unreal aerial imagery. However, sometimes you might want to **fake Google Maps location**. Google maps location. For example, you might want to tag your friends or followers with a new fake location. Or, you might want to prevent apps like Google Chrome from accessing your actual location. Whichever the case, this article teaches you how to **fake GPS on Google maps** without breaking a sweat. Let's learn!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Part 1: How to Fake or Spoof Your Location in Google Maps?
 
 You may think I should be turning off the location setting and wifi services to show fake locations on google maps. Well, I tried this, but it did not work, unfortunately. Google Maps can still track me. This is because Google Maps can use the signal strength of cell towers around me to guess my location, and believe me, this guess is usually very accurate. Also, the IP of the phone can be used. Here, we provide two effective methods for you to fake and change location in Google Maps at ease.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 1: Spoof location in Google Maps with a tool for both iOS and Android
 
 If you want to fake Google maps location on iPhone, then you’ll have to put more effort than an Android device. Just installing an app might not work out to spoof Google Maps location on an iPhone. Nowadays, region-based games and apps are boring, and people need more options to explore. It is possible to share fake Google map locations by using different regions through a few clicks. [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) has much more innovative ways to do that.
@@ -275,9 +232,6 @@ Here is a video tutorial for you to have a quick view on Google maps location ch
 
 **Step 1:** First, you need to download, install and launch the Dr. Fone Virtual Location software on your computer. From the software's home page, you need to select the "Virtual Location" option from a bunch of other options.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![fake gps google maps drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2:** Next, you need to connect your Vivo Y100A to the computer by using a cable.
@@ -292,9 +246,6 @@ Here is a video tutorial for you to have a quick view on Google maps location ch
 
 ![teleport a gps google location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Change location in Google Maps with a VPN
 
 An array of VPN apps come with built-in location spoofing features on top of the usual IP address masking. For example,
@@ -363,32 +314,24 @@ For iPhone users, you can share your Google map location through the following s
 
 - Start Google Maps on your Vivo Y100A.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![share location](https://images.wondershare.com/drfone/article/2022/02/share-location.jpg)
 
 - Click on your profile avatar, and in the menu, click Location sharing. If you are already sharing your location, you will tap New share.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![avator icon google map](https://images.wondershare.com/drfone/article/2022/02/avator-icon-google-map.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Now select the contact you want to share your location with and also how long you will share.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![location sharing feature](https://images.wondershare.com/drfone/article/2022/02/location-sharing-feature.jpg)
 
 - Click Share.
 
 Or you can directly mark a location you wanna go to first, and tap the "Share" button, then choose the channels you want to share. You can share through WhatsApp, Telegram, Instagram, etc.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![send google location to others](https://images.wondershare.com/drfone/article/2022/02/send-google-location-to-others.jpg)
 
 Also, follow the steps below if you are using an Android phone:
@@ -402,16 +345,13 @@ Also, follow the steps below if you are using an Android phone:
 ## Part 3: FAQ: All You Wanna Know about Location Changing on Your Vivo Y100A
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. How can I add my favorite route as favorite?
 
 In the reallocation screen, you'll be able to find the five-star icon on the proper sidebar and, therefore, the new window after you use the three provided modes. A simple click to feature the route to your favorites. After you boost features, it'll show you "collection successfully," and also the five stars icon will display a red icon, and you'll also enter to test what percentage you have ever strengthened.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. How to turn off your location on an iPhone device?
 
 You can do that by changing the settings on your device. Settings >> privacy options>> location services, then turn the icon to the left, which will indicate that your location is off.
@@ -428,13 +368,14 @@ Start with opening the "Find My" app on your Vivo Y100A and choose the "People" 
 
 We've discussed the fake Google maps location through different methods in this detailed guide. Android and iOS users can use various apps to fake their location. For iOS users, [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) is a perfect choice to spoof Google maps location without doing much work. Sharing fake locations in Google maps is a straightforward thing to do. Whether you want to use it to prank your friends, otherwise, you may have a more serious reason. By following the above steps outlined in this article, you will convince Google that you are anywhere within the world.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Stop Life360 from Tracking You On Vivo Y100A?
 
 This is the era of smartphones, and most of the people in the world own a smartphone. The advancement in technology brings many apps, including child surveillance apps for smartphones. The apps like Life360 helps parents to track their teenagers and children. But, on the other hand, for some teenagers or adults, Life360 invades their privacy, and they are not like 24\*7 tracking by the app.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![life360 introduction](https://images.wondershare.com/drfone/virtual-loaction/Stop-Life360-From-Tracking-You-1.jpg)
 
 This is where spoofing Life360 comes handy. No matter whether you own an iPhone or Android, you can spoof Life360 with the right tricks and tools. In this article, we will discuss the different ways to stop Life360 from tracking you. But, before that, let's take a look at what is Life360.
@@ -448,11 +389,16 @@ Life360 supports both iOS and Android devices. To use, you will need to install 
 But as we said before, it is quite uncomfortable to know that someone is tracking you everywhere. So, if you want to hide location on Life360, then this article to know the amazing tricks to stop Life360 from tracking you.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1: Turn Off Location on Life360
 
 ![turn off location on life360](https://images.wondershare.com/drfone/virtual-loaction/Stop-Life360-From-Tracking-You-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can turn off the location to stop the Life360 tracking feature. But, with this, keep the background app refresh off. Follow the following steps to turn off the location on life360.
 
@@ -463,18 +409,6 @@ You can turn off the location to stop the Life360 tracking feature. But, with th
 
 **Note:** If you ever press the Check In button, it will update your location in Life360 even if it is turned off. Further, if you press the Help Alert button, this will also turn on the location-sharing feature.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Fake Location Apps to Spoofing Life360
 
 The best way to stop Life360 from tracking you is to use fake GPS apps on Android and iOS. There are many fake location apps that you can install in your device to spoof Life360 without any risk to your device.
@@ -497,9 +431,6 @@ Here are the few steps that you will need to follow to use Dr.Fone. Take a look!
 
 - After this, install it and launch it. Now connect your iOS device to the system with the USB cable and click on the "get started" button.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![click on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 - Now you will see a map interface with your current location.
@@ -509,8 +440,6 @@ Here are the few steps that you will need to follow to use Dr.Fone. Take a look!
 
 - After a search for the desired location, click on the "move here" button.
 - Finally, you are ready to spoof to any location in Life360.
-
-
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -525,26 +454,15 @@ Here are the few steps that you will need to follow to use Dr.Fone. Take a look!
 **3981454** people have downloaded it
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2.2 How To Fake Life360 Location On Android
 
 To spoof Life360 on Android, you can install ant fake location app on your device. There are many fake GPS apps available for Android, some of which are free, and some are paid.
 
 But, before using the app, you will need to enable the developer option and need to allow mock location feature of android devices. For this, go to about phone under settings and look for the build number. Once you found the build number, tap on it seven times to enable the developer option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![how to fake life360 location](https://images.wondershare.com/drfone/virtual-loaction/Stop-Life360-From-Tracking-You-7.jpg)
 
 Now, follow the following steps to install any fake GPS on Android.
@@ -563,16 +481,12 @@ The burner is a phone on which you can install Life360 and can put it in one pla
 For the burner, you can use any device with Google play store or App store, and it can be an old phone as well.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 Life360 is a very helpful app for parents and friends group, but still, it becomes irritating sometime to know that people are tracking you. Therefore, you can use tricks to hide your current location from Life360. There are many ways that you can apply Life360 fake location, but if you own iPhone, it needs a reliable tool. [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) (iOS) is best to spoof Life360 without putting your device's security at risk. Try it once!
-
-
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -586,7 +500,20 @@ Life360 is a very helpful app for parents and friends group, but still, it becom
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-choosing-prime-audio-editors-for-youtube-creators/"><u>[New] 2024 Approved Choosing Prime Audio Editors for YouTube Creators</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-do-evaluation-blogs-get-payments-for-products/"><u>[Updated] Do Evaluation Blogs Get Payments for Products?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Nubia Z50S Pro? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Vivo Y100A? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-honor-magic-6-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Honor Magic 6 Phones with/without a PC</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-from-iphone-15-pro-max-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code From iPhone 15 Pro Max in the Best Ways</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solve-the-driver-corrupted-exception-pool-issue-on-windows-11-troubleshooting-tips/"><u>Solve the DRIVER CORRUPTED EXCEPTION POOL Issue on Windows 11: Troubleshooting Tips</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/solve-your-windows-glitches-essential-fixes-for-faulty-software-straight-from-yl-software-experts/"><u>Solve Your Windows Glitches: Essential Fixes for Faulty Software Straight From YL Software Experts</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/yakuza-3-reimagined-fixed-pc-version-no-longer-prone-to-crashes/"><u>Yakuza 3 Reimagined: Fixed PC Version No Longer Prone to Crashes</u></a></li>
+</ul></div>
 

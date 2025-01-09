@@ -1,7 +1,7 @@
 ---
 title: "Samsung Gear S3 Frontier Review: A Hefty Smartwatch Full of Features"
-date: 2024-12-27T16:18:14.693Z
-updated: 2024-12-29T16:30:59.700Z
+date: 2025-01-05T18:14:00.897Z
+updated: 2025-01-07T20:16:16.797Z
 categories:
   - BestProducts
 description: "This Article Describes Samsung Gear S3 Frontier Review: A Hefty Smartwatch Full of Features"
@@ -41,7 +41,7 @@ Lifewire / James Huenink
 ![Logitech C615 Webcam](https://www.lifewire.com/thmb/9YqP4BNKZ_F27rxIYbc3f1vqzd0=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Logitech_C615_HERO_3LW4065141_3_Final_Square-204b4e949e864f148cd513b3511eac69.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / James Huenink
@@ -68,10 +68,6 @@ Lifewire / James Huenink
 
  Lifewire / James Huenink
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Design:** **Flexible, foldable design**
 
  The Logitech C615 is a compact webcam. The whole device folds up into a very small package, just 2.5” wide, 1.25” tall, and 1.5” wide, so you can tuck it into a pocket. When you open it up, the flexible design is simple to position. Unfolded, the webcam has three pieces: the base, neck, and[camera](https://www.lifewire.com/best-digital-cameras-under-100-3897833) . The base is the heaviest part, which means that the camera stays upright even if you don’t perfectly balance everything. The top is made out of a soft, rubbery plastic, and the bottom has a rubbery dot that keeps the base from sliding around. The dot comes off the base to reveal a tripod post, so this camera is compatible with a standard tripod. The only problem is that the dot comes off completely when the tripod post is exposed. If you're prone to losing things, this may be an issue.
@@ -86,6 +82,10 @@ Lifewire / James Huenink
 
  Lifewire / James Huenink
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Camera Quality: Quality camera with some autofocus troubles**
 
  The camera takes 1080p video and has a 2 MP sensor. We tested the webcam’s photo capabilities by taking a picture of some packaging. Color was well represented, but the autofocus was just a bit off. The image was just a bit blurry, and we couldn’t read the smaller words at all. This wasn’t a problem close up, but it made a bigger difference when people were far away.
@@ -98,11 +98,11 @@ Lifewire / James Huenink
 
 ![Logitech C615 Webcam](https://www.lifewire.com/thmb/Bko9Uk1HIIMt9aNgtBf9ATCy0AA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Logitech_C615_3LW4065141_14_Final_Horiz-4f1b9fe91b8c4229b17dbbe6afb81b8c.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / James Huenink
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Performance: Decent sound quality for a small mic**
 
@@ -119,7 +119,7 @@ Lifewire / James Huenink
  The Logitech C615 costs $70 MSRP, but you can find it for about half that cost. Even at full price, it's a solid value. The thoughtful design, image quality, and microphone clarity easily justify the price tag.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Competition: Acquits itself well against the competition**
@@ -139,7 +139,7 @@ Lifewire / James Huenink
  The Logitech C615 Webcam strikes the perfect balance between performance and affordability. The quality design, high definition video, and quality sound make this an excellent webcam for most tasks at a great price.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -174,24 +174,24 @@ Lifewire / James Huenink
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-keeping-track-of-changed-followers-on-instagram/"><u>[Updated] In 2024, Keeping Track of Changed Followers on Instagram</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-the-seo-puzzle-strategies-that-elevate-your-podcasts/"><u>2024 Approved Unlocking the SEO Puzzle Strategies That Elevate Your Podcasts</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/download-your-heavyweight-videos-)1gb-and-convert-them-into-small-easy-to-share-mb-files-at-no-cost/"><u>Download Your Heavyweight Videos (>1GB) and Convert Them Into Small, Easy-to-Share MB Files at No Cost!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Asus ROG Phone 8 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-shield-your-child-from-dangers-in-social-chats/"><u>How to Shield Your Child From Dangers in Social Chats</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Watch Hulu Outside US On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-zooming-up-with-fb-live-transforms-broadcasts-for-2024/"><u>How Zooming Up with FB Live Transforms Broadcasts for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-honor-magic-5-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Honor Magic 5? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Samsung Galaxy F04 | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-everything-to-know-about-apple-id-password-requirements-for-iphone-xs-max-by-drfone-ios/"><u>In 2024, Everything To Know About Apple ID Password Requirements For iPhone XS Max</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-tecno-spark-10-pro-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Tecno Spark 10 Pro Is Unlocked</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-htc-u23-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On HTC U23 | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Oppo A59 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mark-as-unread-no-more-mastering-read-markers-in-gmail/"><u>Mark As Unread No More: Mastering Read Markers in Gmail</u></a></li>
-<li><a href="https://windows11.techidaily.com/techniques-for-reversing-fatal-application-crashes/"><u>Techniques for Reversing Fatal Application Crashes</u></a></li>
-<li><a href="https://discover-best.techidaily.com/the-ultimate-guide-to-installing-sound-cards-when-drivers-are-nowhere-to-be-found-yl-software/"><u>The Ultimate Guide to Installing Sound Cards: When Drivers Are Nowhere to Be Found - YL Software</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Tecno Spark 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-top-ranked-pixel-perfection-appweb-software/"><u>[New] In 2024, Top-Ranked Pixel Perfection App/Web Software</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-optimize-call-transcription-4-proven-tips-for-fb-video-calls-for-2024/"><u>[New] Optimize Call Transcription 4 Proven Tips for FB Video Calls for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-tactical-timing-for-topic-tracking-via-instagram-story-polls/"><u>[Updated] In 2024, Tactical Timing for Topic Tracking via Instagram Story Polls</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-reverse-video-magic-online-step-by-step-guides/"><u>[Updated] Reverse Video Magic Online Step-by-Step Guides</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/2024-approved-mocking-sponge-bob-meme-generator/"><u>2024 Approved Mocking Sponge Bob Meme Generator</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Meizu 21 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-vivo-y78plus-t1-edition-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Vivo Y78+ (T1) Edition is off? | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/create-unique-audio-trailers-at-zero-expense-for-2024/"><u>Create Unique Audio Trailers at Zero Expense for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/from-filmless-to-film-rich-digitizing-yesteryears-images/"><u>From Filmless to Film-Rich Digitizing Yesteryears' Images</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-infinix-note-30i-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Infinix Note 30i Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-12-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 12 Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Honor 90 Lite? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-tecno-spark-20-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Tecno Spark 20? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-zte-nubia-z60-ultra-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on ZTE Nubia Z60 Ultra and Browser | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Vivo Y36i? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-8-solutions-to-overcome-the-windows-11-update-error-code-0x800f0922/"><u>Top 8 Solutions to Overcome the Windows 11 Update Error CODE 0X800F0922</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-honor-100-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Honor 100? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-vivo-y27-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Vivo Y27 5G? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 

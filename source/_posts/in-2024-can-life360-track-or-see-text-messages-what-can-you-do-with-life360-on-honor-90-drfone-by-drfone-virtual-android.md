@@ -1,7 +1,7 @@
 ---
 title: In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Honor 90? | Dr.fone
-date: 2024-12-28T16:29:20.689Z
-updated: 2024-12-29T16:36:46.802Z
+date: 2025-01-06T11:54:44.301Z
+updated: 2025-01-07T19:40:17.328Z
 tags: 
   - virtual location chang
   - location changer
@@ -21,12 +21,16 @@ Life360 is a family locator application that brings people closer to their famil
 Life360 uses real-time GPS data to notify your group members about your location as a location-sharing app. It also tracks driving habits and the user's safety while on the road. In addition, you don't have to worry about privacy; people outside your circle can't view or access your location or texts. Here we will answer your various questions about Life360, including, can Life360 see internet history, read or show text, etc. You will also learn how to stop life360 from seeing your location data or texts.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: Is Life360 a spy app?
 
 You might have learned from your friends or social media about various applications that allow you to track other devices, view text messages, and track everything someone does on their device. No one, including your circle members, can spy on what you do on your devices, like checking your internet history or reading texts. Although life360 has many tracking features similar to spy apps, it only provides basic location and text tracking under specific conditions. For people who don't use Life360 for privacy reasons, what can life360 monitor? Can Life360 see your internet history, or can Life360 see who you text? Here is a brief about everything the app can do and monitor on your phone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: What can you do with Life360?
 
@@ -84,9 +88,17 @@ And click on "Get Started" to open the maps.
 
 ![tap on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Click on the "Teleport Mode" search for your fake location or use the joystick stimulator to move to the exact coordinates. Finally, click on the "Move Here" button to change your device's location.
 
 ![choose destination](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 6: FAQs about Life360
 
@@ -105,10 +117,6 @@ There is no way to hide your Life360 history. There are only two ways to remove 
 **FAQ 4: Isn't Life360 an invasion of privacy?**
 
 Life360 is designed for parents to always stay informed about the digital well-being of their children and their location. Children might think this is an invasion of privacy but given what's out there on the internet and in the world, parents are rightfully concerned. If you are using Life360 as a rudimentary spyware to track your ex or any such purposes, then that is on you and that is an invasion of their privacy.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -138,10 +146,6 @@ Although life360 provides excellent family location services, it also affects yo
 
 [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) is a location-changer application that allows users to change their device's location with one click. It provides a fake location to all tracking applications like life360 to help users protect their privacy. With Dr.Fone, you get an easy-to-use interface where you can navigate your fake GPS location on the map with joystick stimulation. You can change your location data history as well.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer for both iOS and Android
@@ -157,10 +161,6 @@ Although life360 provides excellent family location services, it also affects yo
 **STEP 1:** Launch the Dr.Fone application on your computer, click on "virtual location, " and connect your phone.
 
 ![access virtual location feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **STEP 2:** Click on "get started" to open the map and center on your actual location.
 
@@ -178,21 +178,17 @@ Although life360 provides excellent family location services, it also affects yo
 
 Let us conclude our article here, hoping that you got the answer to everything you want to know about life360 features and privacy limitations. Does life360 notify when you log out? Yes, every circle member receives a notification when someone logs out. If you leave the circle or turn off your location services, the app will send more notifications. Life360 cannot read your texts, but it can always track your location and show your GPS data to circle members. To protect your privacy, you can use [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) to change your location with one click and teleport your device to somewhere else to trick life360 and other location-based applications.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Fix Honor 90 Find My Friends No Location Found?
 
 [![avatar](https://drfone.wondershare.com/images/james-davis.png)](https://drfone.wondershare.com/author/james-davis/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 In this time of modern technology, it is hard to be away from your phone or even leave it at home. When any task that we plan to do, usually already have an application released for the sole purpose of doing that task and needing to do it on your phone. When we message our friends, have a video call with our family, or just simply order food to eat at home, you can do all of them on the Honor 90 device in your palm.
 
 Another advantage of having our phones with us all the time is that you can also see the current location of either your friend or family. For Apple phone users, they have an app that is called "Find My Friends" that will show you the locations of the people that you are tracking. But what if you cannot find the location of the friend? We will find out the causes as to why no location can be found and how you can fix this in just a few simple steps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Why does an Honor 90 say "no location found"?
 
@@ -201,7 +197,7 @@ When you are searching for your friend's current location and it shows that "no 
 ![no location found](https://images.wondershare.com/drfone/article/2022/06/find-my-friends-no-location-found-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **_Option #1:_** Your friend has not signed in to the "Find My Friends" application. Make sure that they are registered in the application before tracking their location.
@@ -215,10 +211,6 @@ _**Option #4:**_ The other user must have set up the wrong date and time. If the
 **_Option #5:_** The application might not have been enabled under "Location Services". Make sure that the application has the permission to track your current location and you can do this by following the steps below.
 
 ![no location found](https://images.wondershare.com/drfone/article/2022/06/find-my-friends-no-location-found-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - _**Step 1:**_ Go to "Settings" and then "Privacy".
 - _**Step 2:**_ You can then go to "Location Services" and make sure that the application "Find My Friends" is enabled to track your location.
@@ -239,7 +231,7 @@ _**Option #2:**_ Make sure that you or the other user is connected to the intern
 ![internet check](https://images.wondershare.com/drfone/article/2022/06/find-my-friends-no-location-found-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **_Option #3:_** Turn off and turn on your "Location Services". Usually, this simple troubleshooting can fix this issue, you can try this out and check if you can see their location now. They can turn it on by following the steps below.
@@ -260,9 +252,17 @@ If you want to share your location in the "Find My Friends" application, you can
 - _**Step 1:**_ Open the "Find My Friends" application and select "People".
 - **_Step 2:_** Then you can tap on "Share My Location" and from there, you can type the phone number of the person you want to share your location too. You can also specify the amount of time you will share your location.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: How to Share a Fake Location to Others in Find App?
 
 Sometimes we want our location to be kept secret and send a fake one to our friends and family. You can do that in our app, "[Dr. Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)" which allows you to share a fake location with your friends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -283,7 +283,7 @@ _**Step 1:**_ Download the "Dr. Fone - Virtual Location" software on your laptop
 ![start drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **_Step 2:_** You can then connect your phone to your computer and click on "Get Started".
@@ -320,24 +320,18 @@ We hope the tips we shared helped fix the "No Location Found" issue on your phon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-essentials-for-a-captivating-docu-script/"><u>[New] Essentials for a Captivating Docu-Script</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-speedy-windows-file-checkout-tutorial/"><u>[New] Speedy Windows File Checkout Tutorial</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-elevating-slideshows-incorporate-youtube-videos/"><u>[Updated] In 2024, Elevating Slideshows Incorporate YouTube Videos</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-unlock-the-power-of-design-in-audio-branding/"><u>[Updated] In 2024, Unlock the Power of Design in Audio Branding</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/plete-guide-to-aspect-ratios-about-youtube-videosshortsads-for-2024/"><u>A Complete Guide to Aspect Ratios About YouTube Videos/Shorts/Ads for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/battleye-installation-issues-resolved-a-comprehensive-guide/"><u>BattlEye Installation Issues Resolved - A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/complete-survey-gear-360s-visual-journey-insight-for-2024/"><u>Complete Survey Gear 360'S Visual Journey Insight for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/free-online-converter-transforming-dts-files-into-high-quality-flac-format/"><u>Free Online Converter: Transforming DTS Files Into High-Quality FLAC Format</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Oppo Reno 9A | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Vivo Y78 5G? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Honor Play 8T | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Oppo Reno 11 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-capturing-moments-in-motion-a-review-on-panasonic-hx-a1-actioncam/"><u>In 2024, Capturing Moments in Motion - A Review on Panasonic HX-A1 ActionCam</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-sonorized-snapshots-a-cinematic-symphony/"><u>In 2024, Sonorized Snapshots A Cinematic Symphony</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On OnePlus 12R | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-apple-iphone-se-and-browser-drfone-by-drfone-virtual-ios/"><u>Prevent Cross-Site Tracking on Apple iPhone SE and Browser | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-stand-out-as-an-elite-gamer-on-youtube/"><u>[New] In 2024, Stand Out as an Elite Gamer on Youtube</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-optimize-your-windows-11-photo-viewing-include-audio-files-and-artistic-layers-for-2024/"><u>[New] Optimize Your Windows 11 Photo Viewing Include Audio Files and Artistic Layers for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-ensuring-profitability-in-youtube-with-correct-monetization/"><u>[Updated] In 2024, Ensuring Profitability in YouTube with Correct Monetization</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-step-by-step-to-youtube-fame-excellence-in-music-video-reactions/"><u>2024 Approved Step-by-Step to YouTube Fame Excellence in Music Video Reactions</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-top-8-android-apps-to-change-slow-motion-videos-to-regular-speed-videos/"><u>2024 Approved Top 8 Android Apps to Change Slow-Motion Videos to Regular-Speed Videos</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Tecno Camon 20 Premier 5G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Tecno Pova 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-nokia-g310-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Nokia G310</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Simulate GPS Movement in AR games On Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Realme 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-windows-11-menu-with-additional-folders/"><u>Streamlining Windows 11 Menu with Additional Folders</u></a></li>
 </ul></div>
 
