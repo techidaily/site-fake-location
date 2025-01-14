@@ -1,7 +1,7 @@
 ---
 title: In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Oppo A18 | Dr.fone
-date: 2025-01-01T21:16:36.249Z
-updated: 2025-01-08T01:32:03.015Z
+date: 2025-01-07T18:33:32.742Z
+updated: 2025-01-14T16:21:13.985Z
 tags: 
   - virtual location chang
   - location changer
@@ -28,10 +28,6 @@ Location spoofing is a way for people to manipulate the location of GPS data sha
 
 Using fake GPS software sends out false GPS signals from your device, hiding or changing your location. This sidesteps security as well as trust and safety terms of applications that rely on location signals.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: Ways to Fake Your GPS Location on Android and iOS
 
 While most smartphones today have built-in methods to track your location, there are several ways to fake your GPS location, whether you're using an iOS or Android. For whatever purpose you need to, you can download apps on the App Store or Google Play to hide your current location.
@@ -39,10 +35,6 @@ While most smartphones today have built-in methods to track your location, there
 You can learn more about [spoofing apps](https://drfone.wondershare.com/virtual-location/top-fake-gps-apps-for-android.html) to prank your friends or play location-based games such as Pokemon Go to get more rewards.
 
 ![fake your gps location](https://images.wondershare.com/drfone/article/2022/12/detect-fake-gps-location-02.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Try to find a reliable spoofing app? The good news for you is that there is a powerful tool, [Wondershare Dr.Fone – Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/), which allows a one-click process to effortlessly spoof your GPS location to any destination for enhanced enjoyment in AR games.
 
@@ -115,7 +107,7 @@ Here are some of the methods you can take advantage of.
 While the methods to detect GPS locations are presented above, it's important to remember that detecting fake GPS locations is difficult and requires you to combine different methods. You can easily detect mock locations on Android, but the methods available if you're on a different device will vary depending on the resources at your disposal.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -142,9 +134,17 @@ Using VPNs and other methods to change your region is not illegal, but it violat
 
 If you're wondering if Netflix bans accounts that use VPN, the answer is “No, they don't”. On the other hand, Netflix will block access to content if it detects that you're connected to VPN. If this happens, simply turn off your VPN or try connecting to different servers on your VPN and retry.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Can You Change Your Netflix Region Without a VPN?
 
 There are multiple ways to change your location on Netflix without a VPN, whether you're on your computer, iPhone, or Android. You can use a smart DNS service, a Proxy Server, or a [Tor browser](https://www.torproject.org/download/) to connect to a country you want to access. Follow our guide below to change country on Netflix now without a VPN.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Using a Smart DNS
 
@@ -156,16 +156,12 @@ Utilizing Smart DNS to change country on Netflix without VPN actually works in t
 
 ![change dns server](https://images.wondershare.com/drfone/article/2023/01/change-dns-server-netflix-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3**: Open **Networking** settings on your computer, iPhone, PlayStation, or Xbox and find **DNS Settings** (the image below is an example for the Windows system).
 
 ![change dns server wifi properties](https://images.wondershare.com/drfone/article/2023/01/change-dns-server-netflix-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4**: Input your DNS Server address. Click **Ok** once done and restart your computer. The DNS address should activate once you reconnect to the internet.
@@ -180,7 +176,7 @@ Utilizing Smart DNS to change country on Netflix without VPN actually works in t
 - DNS doesn't carry your information, as the server side will only see the IP address where the query came from, which hackers can manipulate.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Using a Proxy Server
@@ -213,10 +209,6 @@ To change Proxy on mobile phones, change your phone's proxy settings. Your Netfl
 **Cons**
 
 - Proxy Servers don't encrypt data.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3: Using a [Tor Browser](https://www.torproject.org/download/)
 
@@ -261,6 +253,10 @@ While it's not illegal to change your Netflix region, it does violate the stream
 
 **3981454** people have downloaded it
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Complete Tutorial to Use GPS Joystick to Fake GPS Location On Oppo A18
 
 The web world offers many apps, including Google, Facebook, Uber, etc. that provide location-based services. This means such apps will need your location to work. However, there are some rare occasions when users don’t find this service welcoming and thus, they wish to fake GPS location.
@@ -300,6 +296,10 @@ Basically, the tutorial is categorized into 3 different streaks depending upon t
 - Lastly, look for the “Android version” entry and “Android security patch level” entry from the information displayed over your screen.
 
 ![Android security patch level](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** Remember the date mentioned besides the “Android security patch level” is when it was first released. Please do not take it otherwise, that it is the date when you might have installed Google’s security patch.
 
@@ -353,10 +353,6 @@ Lastly, launch the “GPS JoyStick app” to fake GPS location and navigate to �
 
 ![Indirect Mocking](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2.3 For Android 4 or 5
 
 For the users of Android OS version 4 or Android OS version 5, there’s not much you need to do. Here is the exact method that you need to get through.
@@ -364,10 +360,6 @@ For the users of Android OS version 4 or Android OS version 5, there’s not muc
 Get the “GPS JoyStick apk” installed over your device and then proceed to “Developer Options” available under the “Settings” menu. Then, hit on the “Select mock location app”.
 
 ![Developer Options](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-10.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now, “GPS JoyStick app” to fake GPS location and get started with the FGL pro joystick control.
 
@@ -393,6 +385,10 @@ Lastly, utilize the “Update” button after hitting on the “Privacy Mode” 
 
 ![bypass the blacklist of games](https://images.wondershare.com/drfone/article/2019/09/fake-gps-joystick-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: How to Use GPS Joystick to Fake Location on iPhone
 
 When you fake GPS Joystick location, you can double the joy in playing location-based games like Pokemon go, Ingress, Zombies, Run, Geocaching, etc. All these games make use of the phone location, and it will be quite interesting if you move on with exciting places worldwide.
@@ -415,10 +411,6 @@ After a successful download, install the app through the guiding wizard. Click t
 
 ![attach your iPhone with your PC](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2: Set a virtual location**
 
 On the first screen of Dr.Fone app, choose the ‘Virtual Location’ option.
@@ -431,11 +423,19 @@ Tap ‘Get Started’ option then add a new address in the ‘Teleport’ mode. 
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4: Changed Location in the app**
 
 Now the Dr.Fone app displays your desired address as your current location. You can verify it by spotting the location on the map view.
 
 ![verify new location](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5: Location on iPhone**
 
@@ -461,22 +461,18 @@ Now use the “one-stop route” or “multi-stop route” to simulate the real-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-unlocking-memories-facebook-look-back-editing-steps/"><u>[New] In 2024, Unlocking Memories Facebook Look Back Editing Steps</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-laptop-and-mobile-commencing-a-google-meet-session/"><u>[Updated] 2024 Approved Laptop & Mobile Commencing a Google Meet Session</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-dynamic-speaker-analysis-episode-8-for-2024/"><u>[Updated] Dynamic Speaker Analysis - Episode 8 for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-iphones-burst-photography-techniques/"><u>[Updated] In 2024, IPhone's Burst Photography Techniques</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/discover-the-leading-paper-and-picture-scanners-for-234-a-comprehensive-review/"><u>Discover the Leading Paper & Picture Scanners for 2^34 - A Comprehensive Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/early-bird-access-to-msi-z890-and-b860-motherboards-prepare-your-rig-ahead-of-computex-2024-with-the-latest-arrow-lake-s-supported-kits/"><u>Early Bird Access to MSI Z890 & B860 Motherboards - Prepare Your Rig Ahead of Computex 2024 with the Latest Arrow Lake-S Supported Kits</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/effortless-ways-to-transfer-data-from-your-apple-iphone-11-pro-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Effortless Ways to Transfer Data from Your Apple iPhone 11 Pro to iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Nokia C210? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-honor-100-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Honor 100 Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Tecno Spark 20? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-continuous-sound-capture-in-windows-11-complete-tutorial/"><u>Mastering the Art of Continuous Sound Capture in Windows 11 - Complete Tutorial</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Poco F5 5G | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Realme Narzo 60 5G | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-samsung-galaxy-m34-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Samsung Galaxy M34? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-smartphone-video-cutting-edge-apple-and-androids-leading-apps/"><u>[New] Smartphone Video Cutting-Edge Apple & Android's Leading Apps</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-lost-and-found-30-free-speech-to-text-mac-hits/"><u>[Updated] 2024 Approved Lost and Found 30 Free Speech-to-Text Mac Hits</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-streaming-wars-whos-leading-vimeo-or-popular-online-platforms/"><u>[Updated] Streaming Wars Who's Leading – Vimeo or Popular Online Platforms?</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-streamlined-upload-procedures-for-media-center-videos-to-vimeo-for-2024/"><u>[Updated] Streamlined Upload Procedures for Media Center Videos to Vimeo for 2024</u></a></li>
+<li><a href="https://win-superb.techidaily.com/heb-je-uw-geheime-geluiden-laten-terug-trekken-voer-de-tweede-kamer-terug-in-elkaar/"><u>Heb Je Uw Geheime Geluiden Laten Terug Trekken? Voer De Tweede Kamer Terug In Elkaar</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Itel P55 5G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ipogo-will-be-the-new-ispoofer-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Google Pixel 7a? | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-free-video-cutting-and-joining-apps-for-android-and-ios-2023-review/"><u>New 2024 Approved Free Video Cutting and Joining Apps for Android and iOS (2023 Review)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-honor-90-lite-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Honor 90 Lite? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 

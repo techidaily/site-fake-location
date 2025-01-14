@@ -1,7 +1,7 @@
 ---
 title: In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Honor 90 GT? | Dr.fone
-date: 2025-01-08T00:51:27.729Z
-updated: 2025-01-08T23:40:34.903Z
+date: 2025-01-07T16:33:44.223Z
+updated: 2025-01-14T17:03:31.439Z
 tags: 
   - virtual location chang
   - location changer
@@ -21,7 +21,7 @@ Life360 is a family locator application that brings people closer to their famil
 Life360 uses real-time GPS data to notify your group members about your location as a location-sharing app. It also tracks driving habits and the user's safety while on the road. In addition, you don't have to worry about privacy; people outside your circle can't view or access your location or texts. Here we will answer your various questions about Life360, including, can Life360 see internet history, read or show text, etc. You will also learn how to stop life360 from seeing your location data or texts.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: Is Life360 a spy app?
@@ -37,6 +37,10 @@ There are many valuable features in the life360 app, such as device tracking and
 The paid features of life360 notify circle members when you text while driving. Even if the user turns this feature off, it will still show that you are doing something on your phone while driving.
 
 One of the best features of Life360 is the panic button which allows users to send out mass emergency texts to their circle members with their GPS coordinates if they are in danger.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Can Life360 see your texts?
 
@@ -57,10 +61,6 @@ Now, you know that Life360 cannot see your text message, but what can Life360 se
 **6\. Battery level:** Life360 may have access to the battery level of the Honor 90 GT devices connected to the app. This information can be used to provide alerts when a family member's device is low on battery.
 
 It's important to note that while Life360 is designed to facilitate family communication and safety, the extent of data visibility and tracking can vary based on the settings and permissions configured within the app.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 5: How to stop Life360 from seeing your location data?
 
@@ -92,6 +92,14 @@ Click on the "Teleport Mode" search for your fake location or use the joystick s
 
 ![choose destination](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 6: FAQs about Life360
 
 **FAQ 1: Are there any cons to using Life360?**
@@ -114,6 +122,10 @@ Life360 is designed for parents to always stay informed about the digital well-b
 
 I hope reading this article helped relieve your concerns about the Life360 app. Can you track text messages with life360 "Yes" the app tracks your location through texts but can life360 read texts, or can life360 see who you text, "No" because it cannot monitor all your device's actions. The device can see if you are texting others. Still, it cannot store any data, so you can privately communicate with people inside or outside your circle. But you can stop the app from tracking your location for safety purposes, so you have to use [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) to trick location-based applications or change your GPS coordinates or location history with one click.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How To Use Special Features  - Virtual Location On Honor 90 GT?
 
 Wondershare [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) comes with multiple unique features that can be used to enhance the flow of spoofing location. With all these amazing features, you can easily change your iOS location without blinking an eye. Rather than making things complicated, Dr.Fone makes it easy for you to manage operations when you perform actions like changing Android locations.
@@ -125,10 +137,6 @@ Wondershare [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershar
 The circle route feature is under the multi-stop route mode. When your starting point is close to the ending point, a pop-up asks if you want to set up a circle route. Click **Yes** to create a circular path on the map.
 
 ![try setting a circle route](https://images.wondershare.com/drfone/guide/circle-route.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Part 2: Realistic Mode (For One-Stop Route and Multi-Stop Route)
 
@@ -152,10 +160,6 @@ It is recommended not to start the movement until the cooldown time is completed
 
 This option will automatically jump you to the next destination once the timer ends. It is helpful for games like Pokemon Go, where the game servers can detect frequent jumps with no cooldown time.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Part 5: Import/Export GPX File
 
 You can also import and export specific navigated locations from Dr.Fone in the form of GPX files. While you can export GPX files for keeping a record of your location, you can also import such files for inserting specific locations to simulate or teleport to. Find out how you can import and export GPX files with this location-changing application:
@@ -172,6 +176,10 @@ For importing a GPX file on the platform, click the **Import** button on the rig
 
 ![import gpx file to the platform](https://images.wondershare.com/drfone/guide/import-gpx.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3Wait for the File to be Read
 
 Wait for a moment until Dr.Fone - Virtual Location recognizes the specific locations within the GPX file and displays them on the map.
@@ -179,7 +187,7 @@ Wait for a moment until Dr.Fone - Virtual Location recognizes the specific locat
 ![wait for gpx file to load](https://images.wondershare.com/drfone/guide/wait-import-gpx.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Part 6: Historical Records
@@ -208,10 +216,6 @@ While setting up locations in Jump Teleport Mode, One-Stop Route, or Multi-Stop 
 
 ![save locations as favorite](https://images.wondershare.com/drfone/guide/find-favorites.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2Access your Favorite Section
 
 To look for your favorite locations, look for the **Favorite** icon on the right pane to open a list containing all locations you have marked. You can choose the **Move** option to automatically move into a particular location in no time.
@@ -219,7 +223,7 @@ To look for your favorite locations, look for the **Favorite** icon on the right
 ![search for favorite locations](https://images.wondershare.com/drfone/guide/search-favorites.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How To Teleport Your GPS Location On Honor 90 GT?
@@ -227,10 +231,6 @@ To look for your favorite locations, look for the **Favorite** icon on the right
 While playing games like Pokemon Go, you are in desperate need of finding more Pokémon. If so, changing your location is a necessity that needs to be figured out. For that, teleporting the GPS location of the Honor 90 GT device is the optimal solution. To carry this out, Wondershare [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) provides a perfect system for fake locations.
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen=""></iframe>
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Part 1: Teleport to Anywhere in the World (Teleport Mode)
 
@@ -296,15 +296,15 @@ Continue to select the spots you want to pass one by one on the map by simply ta
 
 ![define points for jump teleport](https://images.wondershare.com/drfone/guide/choose-jump-teleport-destination.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3Change Location Between Set Spots
 
 As prescribed, you can propagate amongst the set spots with the Jump Teleport Mode. Use the **Next Point** and **Last Point** buttons to shift your location.
 
 ![start changing location](https://images.wondershare.com/drfone/guide/start-use-jump-teleport-mode.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -320,14 +320,15 @@ As prescribed, you can propagate amongst the set spots with the Jump Teleport Mo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-review-and-alternatives-unveiled-by-az-screenshotter/"><u>[Updated] In 2024, Review & Alternatives Unveiled by AZ Screenshotter</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Lava Yuva 2? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-best-5-high-end-drones-for-professionals/"><u>In 2024, Best 5 High-End Drones for Professionals</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/invisible-footprints-tech-review/"><u>Invisible Footprints Tech Review</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-infinix-note-30i-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Infinix Note 30i? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-fpv-drones-picking-perfect-propellers-for-2024/"><u>Mastering FPV Drones Picking Perfect Propellers for 2024</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/securing-your-digital-assets-expert-tips-from-yl-computing/"><u>Securing Your Digital Assets: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/0-best-cost-free-subtitle-grabs-from-youtube-for-2024/"><u>[New] 10 Best Cost-Free Subtitle Grabs From YouTube for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-chortle-creators-undead-hilarity/"><u>[Updated] In 2024, Chortle Creators Undead Hilarity</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-samsung-galaxy-a05-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Samsung Galaxy A05 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Samsung Galaxy S24? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>Full Guide to Fix iToolab AnyGO Not Working On Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Realme Narzo N53? | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-leveraging-wirecast-for-high-impact-engaging-social-media-streams/"><u>In 2024, Leveraging Wirecast for High Impact, Engaging Social Media Streams</u></a></li>
+<li><a href="https://extra-support.techidaily.com/prime-venues-for-vr-entertainment-for-2024/"><u>Prime Venues for VR Entertainment for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/reviving-your-vmware-vcenter-a-step-by-step-guide-to-recovering-from-a-backup/"><u>Reviving Your VMware vCenter: A Step-by-Step Guide to Recovering From a Backup</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Can Life360 Track You When Your OnePlus 11 5G is off? | Dr.fone
-date: 2025-01-07T22:46:05.650Z
-updated: 2025-01-08T21:44:46.993Z
+date: 2025-01-08T17:36:52.931Z
+updated: 2025-01-14T17:27:42.401Z
 tags: 
   - virtual location chang
   - location changer
@@ -49,10 +49,14 @@ If the necessity ever arose, such an undertaking may be useful for maintaining o
 Premium users will still have access to the last 30 days' worth of location data, so the other person will be able to see where you were last seen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: 3 Ways to Stop Life360 from Tracking You
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Low Data Consumption
 
@@ -61,6 +65,10 @@ Disabling Life360's Wi-Fi and Data may result in a warning to parents that their
 ![low data consumption](https://images.wondershare.com/drfone/article/2022/06/can-life360-track-you-when-your-phone-is-off-02.jpg)
 
 Alternatively, you should disable background app refresh, mobile network, physical activity, and WIFI to save battery life. An issue with your Internet connection will come up instead of location stopped in this situation. So don't connect to any Wi-Fi at all.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Fake Locations
 
@@ -82,16 +90,12 @@ Use a wired connection. Adolescents can turn off Wi-Fi and data when using the L
 
 All these methods can be used to Stop Life360 from Tracking You. However, the best all-in-one solution is a third-party application called Dr.Fone. This Virtual Location Software helps you keep your tracking off, but you can also fake your location very easily in minutes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Conclusion
 
 Can you track a phone if the location is off? Life360 has become a standard feature of many smartphones. Parents often use it to monitor their children's location. The fact that Life360 can be used to track users is quite disturbing. The good news is that there are ways to stop Life360 from tracking you. The best and all-in-one solution is a third-party application called [Dr.Fone - Virtual Location](https://drfone.wondershare.com/drfone-toolkit.html).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How To Fake GPS On OnePlus 11 5G For Mobile Legends?
@@ -143,7 +147,7 @@ After downloading and launching Dr.Fone, click "Virtual Location" among all the 
 ![select virtual location](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Step 2: Locate Yourself on the Map
@@ -157,10 +161,6 @@ You will be able to find your actual location on the map as soon as the new wind
 Next, you will have to activate the "Teleport Mode" by clicking on its icon. After it's activated, add the location you want to be teleported and click on the "Go" button to locate the new location. After that, tap on the "Move Here" option to move to your desired location.
 
 ![activate teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Step 4: Confirm your New Location
 
@@ -184,6 +184,10 @@ The location has changed now; you can check it by clicking "Center On." The same
 
 There could be many reasons to hide your location; one of them could be that you don’t like being checked or you’re a person who prefers his privacy over anything. However, hiding your location is not a difficult task today for Android users because many advanced apps do the job for you without any hassle. Here’s how you can hide your location on Android devices while playing Mobile Legends.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1. Use Fake GPS Location App
 
 Fake GPS Location App is developed by Lexa that is free to use. An exceptional **fake** **GPS for ML** app provides an Android user with a great spoofing experience. This app comes with different features that allow the user to keep track of all the previous locations that can be used in the future.
@@ -193,7 +197,7 @@ It is capable of marking a location, and later you can start the program on boot
 ![fake gps location app interface](https://images.wondershare.com/drfone/article/2022/04/fake-gps-mobile-legends-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Hola VPN Service
@@ -211,10 +215,6 @@ Hola **Fake GPS Mobile Legends** VPN Service is only available across Samsung Ga
 ## Conclusion
 
 This article has discussed the Mobile Legends game and how you can **fake GPS Mobile Legends.** Usually, people like to hide their locations or fake them because they prefer their privacy and don't want to be located by their friends or family. However, in the case of Mobile Legends, people spoof their location to increase their rank or get new challenges. Therefore, we have given you a clear idea of how you can fake your location using [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) on both Android and iOS devices.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Can Life360 Track Or See Text Messages? What Can You Do with Life360 On OnePlus 11 5G?
 
@@ -257,7 +257,7 @@ Now, you know that Life360 cannot see your text message, but what can Life360 se
 It's important to note that while Life360 is designed to facilitate family communication and safety, the extent of data visibility and tracking can vary based on the settings and permissions configured within the app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 5: How to stop Life360 from seeing your location data?
@@ -267,7 +267,7 @@ Life360 can only have limited access to your texts, but it tracks your location 
 [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) is a location changer application that teleports your GPS location to anywhere you want with a single click. It is the best tool to fool all location tracking-based Android or IOS applications, including Life360. Users can fake their location by stimulating GPS location with a joystick and drawing a fake route on a 360-degree map. It also allows you to play location-based games on your device without moving a single step.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Dr.Fone - Virtual Location
@@ -285,6 +285,10 @@ Life360 can only have limited access to your texts, but it tracks your location 
 Open the Dr.Fone software on your computer and connect your phone. Next, navigate to "Virtual Location".
 
 ![tap on virtual location](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 And click on "Get Started" to open the maps.
 
@@ -312,10 +316,6 @@ There is no way to hide your Life360 history. There are only two ways to remove 
 
 Life360 is designed for parents to always stay informed about the digital well-being of their children and their location. Children might think this is an invasion of privacy but given what's out there on the internet and in the world, parents are rightfully concerned. If you are using Life360 as a rudimentary spyware to track your ex or any such purposes, then that is on you and that is an invasion of their privacy.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 I hope reading this article helped relieve your concerns about the Life360 app. Can you track text messages with life360 "Yes" the app tracks your location through texts but can life360 read texts, or can life360 see who you text, "No" because it cannot monitor all your device's actions. The device can see if you are texting others. Still, it cannot store any data, so you can privately communicate with people inside or outside your circle. But you can stop the app from tracking your location for safety purposes, so you have to use [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) to trick location-based applications or change your GPS coordinates or location history with one click.
@@ -334,24 +334,22 @@ I hope reading this article helped relieve your concerns about the Life360 app. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-expert-zoom-alternatives-in-remote-work-software/"><u>[New] Expert Zoom Alternatives in Remote Work Software</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-top-4-remedies-enhancing-iphone-hdr-images-in-premiere-pro/"><u>[New] In 2024, Top 4 Remedies Enhancing iPhone HDR Images in Premiere Pro</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-prevent-unwanted-video-captures-in-qt-player-for-2024/"><u>[New] Prevent Unwanted Video Captures in QT Player for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-elite-equipment-showcasing-gameplay-innovations-for-2024/"><u>[Updated] Elite Equipment Showcasing Gameplay Innovations for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/best-windows-sketchpad-selections-cost-free-and-premium-plans/"><u>Best Windows Sketchpad Selections Cost-Free & Premium Plans</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/deciphering-trust-in-digital-money-guides-chatgpt-and-bard/"><u>Deciphering Trust in Digital Money Guides: ChatGPT & Bard</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-apple-iphone-14-pro-location-is-wrong-drfone-by-drfone-virtual-ios/"><u>How to Fix My Apple iPhone 14 Pro Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Infinix Smart 8? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Infinix Zero 30 5G? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Vivo V30 Pro? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-troubleshoot-iphones-that-wont-accept-sms/"><u>How to Troubleshoot iPhones That Won't Accept SMS</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-xiaomi-redmi-12-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Xiaomi Redmi 12 5G? Fixed | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-version-of-canon-mg3022-printer-drivers-free-downloads-available/"><u>Latest Version of Canon MG3022 Printer Drivers: Free Downloads Available</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-oppo-find-x7-ultra-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Oppo Find X7 Ultra? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-unleash-your-creativity-best-sony-vegas-alternatives-for-windows/"><u>New 2024 Approved Unleash Your Creativity Best Sony Vegas Alternatives for Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/set-thumbnail-dimensions-on-desktop-pics-w11/"><u>Set Thumbnail Dimensions on Desktop Pics W11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>What is Fake GPS Location Pro and Is It Good On Apple iPhone 6? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlock-the-power-of-pinterest-top-5-free-extractors-at-hand/"><u>[New] Unlock the Power of Pinterest Top 5 Free Extractors at Hand</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-high-revenue-streaming-star-across-the-globe/"><u>[Updated] 2024 Approved High Revenue Streaming Star Across the Globe</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-pathway-to-a-powerful-instagram-influence/"><u>[Updated] The Pathway to a Powerful Instagram Influence</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/choosing-between-the-macbook-pro-and-macbook-air-a-comprehensive-guide/"><u>Choosing Between the MacBook Pro and MacBook Air - A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cure-5-common-iphone-issues-with-the-powerful-dfu-reset-technique/"><u>Cure 5 Common iPhone Issues with the Powerful DFU Reset Technique</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Xiaomi Redmi 13C? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Huawei Nova Y91? | Dr.fone</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/how-to-recover-data-after-a-hard-drive-failure-expert-tips-from-yl-computing/"><u>How to Recover Data After a Hard Drive Failure: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-poco-x5-pro-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Poco X5 Pro? Fixed | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-realme-v30t-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Realme V30T? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/the-ultimate-guide-to-the-3-most-effective-imap-email-backup-tools/"><u>The Ultimate Guide to the 3 Most Effective IMAP Email Backup Tools</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-best-buy-bargains-in-june-2024-find-your-next-purchase/"><u>Top-Rated Best Buy Bargains in June 2024: Find Your Next Purchase</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
 </ul></div>
 
