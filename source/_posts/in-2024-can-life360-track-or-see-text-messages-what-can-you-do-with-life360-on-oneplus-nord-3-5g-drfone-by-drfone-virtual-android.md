@@ -1,7 +1,7 @@
 ---
 title: In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On OnePlus Nord 3 5G? | Dr.fone
-date: 2025-01-08T19:01:57.074Z
-updated: 2025-01-14T20:11:21.897Z
+date: 2025-01-19T21:46:38.926Z
+updated: 2025-01-20T21:50:57.353Z
 tags: 
   - virtual location chang
   - location changer
@@ -20,6 +20,10 @@ Life360 is a family locator application that brings people closer to their famil
 
 Life360 uses real-time GPS data to notify your group members about your location as a location-sharing app. It also tracks driving habits and the user's safety while on the road. In addition, you don't have to worry about privacy; people outside your circle can't view or access your location or texts. Here we will answer your various questions about Life360, including, can Life360 see internet history, read or show text, etc. You will also learn how to stop life360 from seeing your location data or texts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Is Life360 a spy app?
 
 You might have learned from your friends or social media about various applications that allow you to track other devices, view text messages, and track everything someone does on their device. No one, including your circle members, can spy on what you do on your devices, like checking your internet history or reading texts. Although life360 has many tracking features similar to spy apps, it only provides basic location and text tracking under specific conditions. For people who don't use Life360 for privacy reasons, what can life360 monitor? Can Life360 see your internet history, or can Life360 see who you text? Here is a brief about everything the app can do and monitor on your phone.
@@ -33,6 +37,10 @@ There are many valuable features in the life360 app, such as device tracking and
 The paid features of life360 notify circle members when you text while driving. Even if the user turns this feature off, it will still show that you are doing something on your phone while driving.
 
 One of the best features of Life360 is the panic button which allows users to send out mass emergency texts to their circle members with their GPS coordinates if they are in danger.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Can Life360 see your texts?
 
@@ -53,10 +61,6 @@ Now, you know that Life360 cannot see your text message, but what can Life360 se
 **6\. Battery level:** Life360 may have access to the battery level of the OnePlus Nord 3 5G devices connected to the app. This information can be used to provide alerts when a family member's device is low on battery.
 
 It's important to note that while Life360 is designed to facilitate family communication and safety, the extent of data visibility and tracking can vary based on the settings and permissions configured within the app.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 5: How to stop Life360 from seeing your location data?
 
@@ -84,9 +88,17 @@ And click on "Get Started" to open the maps.
 
 ![tap on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Click on the "Teleport Mode" search for your fake location or use the joystick stimulator to move to the exact coordinates. Finally, click on the "Move Here" button to change your device's location.
 
 ![choose destination](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 6: FAQs about Life360
 
@@ -111,7 +123,7 @@ Life360 is designed for parents to always stay informed about the digital well-b
 I hope reading this article helped relieve your concerns about the Life360 app. Can you track text messages with life360 "Yes" the app tracks your location through texts but can life360 read texts, or can life360 see who you text, "No" because it cannot monitor all your device's actions. The device can see if you are texting others. Still, it cannot store any data, so you can privately communicate with people inside or outside your circle. But you can stop the app from tracking your location for safety purposes, so you have to use [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) to trick location-based applications or change your GPS coordinates or location history with one click.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will iSpoofer update On OnePlus Nord 3 5G
@@ -123,7 +135,7 @@ iSpoofer has been one of the most in-demand applications for changing your locat
 All of them are the alternative ways of saying - ‘We are not available anymore’. But will iSpoofer be back in the year 2021? Can we expect to revive our Pokemon catching abilities with the iSpoofer update? Even if it comes back, will it be available for Android and iPhone users? If not - then do we have any other application that we can use for this purpose? To get answers to all these questions, you have to continue to read this space.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: Why Can’t I update iSpoofer?
@@ -134,15 +146,15 @@ To put it very simple and upfront - The reason why you are unable to update iSpo
 
 ![Ispoofer error message pic](https://images.wondershare.com/drfone/2020/2020/Ispoofer-error-message-pic-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Undoubtedly, iSpoofer was a ‘game’ changer in the literal sense. You didn’t have to move from your place, you can catch some rare Pokemon and you get additional points for being the active wanderer. It’s of course a ‘cheat route’ to play the game and it has finally come to the notice of Niantic that a third-party app is being used to play the game.
 
 Now that didn’t go down well with the makers. The whole essence of Pokemon Go is to ‘Go Out’ from the house to explore the presence of Pokemons in the surroundings. So, having a third-party application is going to change a lot of things. Pokemon blacklisted the app.
 
 ![Ispoofer account suspension pic](https://images.wondershare.com/drfone/2020/2020/Ispoofer-account-suspension-pic-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The main target users for iSpoofer were the Pokemon Go players. With them gone, the revenue and usage of the app have reduced to a great extent and the creators have decided to pull the app out. And that is why you will no longer find a new version of iSpoofer that will be compatible with the game. The older version has anyway been blacklisted and won’t be of any use for the players and no iSpoofer update information so far
 
@@ -156,10 +168,6 @@ There are quite a few ways to spoof your location in the Pokemon Go Game but the
 
 ![VPNs-pic-5](https://images.wondershare.com/drfone/2020/2020/VPNs-pic-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Google Play Store Apps - There are certain applications you will find on Google Play Store or even the App store that offer ‘Fake GPS’ changes. You simply have to search for ‘Fake GPS Location Changers’ and you get some options. Find the one with the best rating and this can work for a while. However, there is no guarantee of when they’ll abandon you.
 
 ![Google-play-store-apps-pic-6](https://images.wondershare.com/drfone/2020/2020/Google-play-store-apps-pic-6.jpg)
@@ -170,10 +178,6 @@ The most reliable option that you can go for is using - Dr. Fone. It is Wondersh
 
 ![drfone-change-location-pic-7](https://images.wondershare.com/drfone/2020/2020/drfone-change-location-pic-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2 -** Once you are in, then the page will display a map and your location will be clearly mentioned. You need to go to the Teleport Mode you will find on the top right corner of the page. Enter your new location on the map.
 
 ![Drfone-virtual-location-pic-8](https://images.wondershare.com/drfone/2020/2020/Drfone-virtual-location-pic-8.jpg)
@@ -182,19 +186,11 @@ The most reliable option that you can go for is using - Dr. Fone. It is Wondersh
 
 ![Drfone-virtual-location-pic-9](https://images.wondershare.com/drfone/2020/2020/Drfone-virtual-location-pic-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4 -** Now it’s easier to launch Pokemon Go but give it a few minutes before your changed location is completely registered and keep the new location realistic.
 
 As in, you can’t jump from Russia to America in 2 hours, can you?
 
 ![change-location-registered-pic-10](https://images.wondershare.com/drfone/2020/2020/change-location-registered-pic-10.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 It’s quite easy to spoof your location for games like Pokemon Go using Dr. Fone and it will even stay undetected if you do it the right way. Also, the whole process to change the location hardly takes a few minutes, so you don’t have to spend time understanding how it all works. While you wait for the iSpoofer update (which may or may not come) you can use this in the meantime.
 
@@ -237,10 +233,6 @@ There is the possibility of limiting the details about your location to others i
 
 ![pause location sharing](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. **Turn off Your OnePlus Nord 3 5G’s Airplane Mode**
 
 Another option you have to stop sharing location on Life360 is by switching on Airplane mode. You can do this on your Android and iOS devices. Once you enable Airplane mode, you’ll see a white flag on your last saved location.
@@ -249,13 +241,13 @@ Another option you have to stop sharing location on Life360 is by switching on A
 
 ![turn on airplane mode on iphone](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-6.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **For Android** owners wondering how to turn location off on life360 through Airplane mode, swipe down from the top of your screen and select the ‘Airplane mode’ icon. You can also turn it on by visiting ‘settings’ and selecting ‘network & internet’ from the option displayed. Finally, find the airplane mode and switch it on.
 
 ![turn on airplane mode on android](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 These steps will help you turn off location sharing on Life360. However, the downside of using Airplane mode is that it prevents you from accessing the internet. In addition, with the Airplane mode turned on, you can’t make or receive phone calls, either. Therefore, we don’t recommend this as your top choice when learning to turn off Life 360.
 
@@ -283,6 +275,10 @@ You’re not left out of this option; below are the steps to disable GPS service
 - If you want to disable GPS services on your OnePlus Nord 3 5G, turn off location tracking for apps.
 
 ![turn off gps location services on android](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: **Best Ways to Fake Location on Life360 without Anyone Knowing-Virtual location \[iOS/Android Supported\]**
 
@@ -326,6 +322,10 @@ Below, we’ve broken down the process for you; keep reading to learn how to fak
 
 ![tap on move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Automatically, your location will change to the chosen place on the map and your mobile device.
 
 ![location on your phone](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
@@ -364,18 +364,16 @@ Life360 is a useful app for professional and personal circles. However, it can b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-unlock-the-potential-of-your-facebook-profile-with-covers/"><u>[Updated] In 2024, Unlock the Potential of Your Facebook Profile with Covers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-15-online-haven-for-your-favorite-ringtone-files/"><u>[Updated] Top 15 Online Haven for Your Favorite Ringtone Files</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1-seamless-integration-transferring-wma-music-tracks-into-your-itunes-library/"><u>1. Seamless Integration: Transferring WMA Music Tracks Into Your iTunes Library</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Itel P40+? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Nokia C12? | Dr.fone</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/ensure-your-gpu-works-on-windows-10-expert-tips-from-yl-systems/"><u>Ensure Your GPU Works on Windows 10: Expert Tips From YL Systems</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Tecno Spark 10 5G? | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-5-breakthrough-ways-to-preserve-precise-moments-in-vr-games/"><u>In 2024, 5 Breakthrough Ways to Preserve Precise Moments in VR Games</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-the-insiders-look-at-youtube-content-regulations/"><u>In 2024, The Insider's Look at YouTube Content Regulations</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Realme Narzo N55 | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-realme-narzo-n53-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Realme Narzo N53? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Realme C33 2023 | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/too-much-stress-10-this-one-in-the-lastname)/"><u>Too Much Stress-10. This One in the Lastname]]></u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/eginners-essential-guide-to-youtube-video-editing-magic-for-2024/"><u>[New] Beginner’s Essential Guide to YouTube Video Editing Magic for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-ios-leading-ps2-game-emulation-tools/"><u>[New] IOS Leading PS2 Game Emulation Tools</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-the-most-advanced-video-grabbers-for-windows-enthusiasts/"><u>[Updated] 2024 Approved The Most Advanced Video Grabbers for Windows Enthusiasts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-revolutionized-by-vector-data-structures/"><u>AI Revolutionized by Vector Data Structures</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-xiaomi-redmi-note-12-pro-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Xiaomi Redmi Note 12 Pro 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-lava-blaze-2-5g-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Lava Blaze 2 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-poco-m6-pro-4g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Poco M6 Pro 4G FRP</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-oppo-find-x7-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Oppo Find X7? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/overcoming-known-graphics-driver-issue-a-comprehensive-solution/"><u>Overcoming 'Known Graphics Driver Issue': A Comprehensive Solution</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-the-rising-stars-in-coding-a-look-at-modern-popularity-among-programming-languages-via-zdnet-insights/"><u>Understanding the Rising Stars in Coding: A Look at Modern Popularity Among Programming Languages via ZDNET Insights</u></a></li>
 </ul></div>
 
