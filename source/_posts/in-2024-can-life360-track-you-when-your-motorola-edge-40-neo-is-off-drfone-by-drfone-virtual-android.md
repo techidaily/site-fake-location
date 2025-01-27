@@ -1,7 +1,7 @@
 ---
 title: In 2024, Can Life360 Track You When Your Motorola Edge 40 Neo is off? | Dr.fone
-date: 2025-01-17T20:36:36.718Z
-updated: 2025-01-20T23:16:10.189Z
+date: 2025-01-22T18:06:16.740Z
+updated: 2025-01-26T16:15:29.746Z
 tags: 
   - virtual location chang
   - location changer
@@ -30,6 +30,10 @@ Should we trust Life360, the social media company that recently merged with Goog
 - [Part 2: Does life360 work if the phone is off?](https://drfone.wondershare.com/virtual-location/can-life360-track-you-when-your-phone-is-off.html#Part2)
 - [Part 3: 3 Ways to Stop Life360 from Tracking You ![hot icon](https://images.wondershare.com/drfone/article/2022/05/hot-tip.png)](https://drfone.wondershare.com/virtual-location/can-life360-track-you-when-your-phone-is-off.html#Part3)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: What Is Life360 And How Does It Work?
 
 The one app that kids hate and parents adore is called Life360. Life360 is monitoring software that can be downloaded into your Motorola Edge 40 Neo and used by the individuals who are part of your Family Circle to monitor your location and the location of anybody else who is part of your Family Circle.
@@ -48,10 +52,6 @@ If the necessity ever arose, such an undertaking may be useful for maintaining o
 
 Premium users will still have access to the last 30 days' worth of location data, so the other person will be able to see where you were last seen.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: 3 Ways to Stop Life360 from Tracking You
 
 ### 1\. Low Data Consumption
@@ -63,7 +63,7 @@ Disabling Life360's Wi-Fi and Data may result in a warning to parents that their
 Alternatively, you should disable background app refresh, mobile network, physical activity, and WIFI to save battery life. An issue with your Internet connection will come up instead of location stopped in this situation. So don't connect to any Wi-Fi at all.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Fake Locations
@@ -77,7 +77,7 @@ It has several other noticeable features that can help you in your daily life.
 ![access virtual location feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Setting Wi-Fi and Data Services to "Off."
@@ -88,6 +88,10 @@ Use a wired connection. Adolescents can turn off Wi-Fi and data when using the L
 
 ![low data consumption](https://images.wondershare.com/drfone/article/2022/06/can-life360-track-you-when-your-phone-is-off-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 All these methods can be used to Stop Life360 from Tracking You. However, the best all-in-one solution is a third-party application called Dr.Fone. This Virtual Location Software helps you keep your tracking off, but you can also fake your location very easily in minutes.
 
 ### Conclusion
@@ -97,10 +101,6 @@ Can you track a phone if the location is off? Life360 has become a standard feat
 ## How to Fix Motorola Edge 40 Neo Find My Friends No Location Found?
 
 [![avatar](https://drfone.wondershare.com/images/james-davis.png)](https://drfone.wondershare.com/author/james-davis/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 In this time of modern technology, it is hard to be away from your phone or even leave it at home. When any task that we plan to do, usually already have an application released for the sole purpose of doing that task and needing to do it on your phone. When we message our friends, have a video call with our family, or just simply order food to eat at home, you can do all of them on the Motorola Edge 40 Neo device in your palm.
 
@@ -127,10 +127,6 @@ _**Option #4:**_ The other user must have set up the wrong date and time. If the
 - _**Step 1:**_ Go to "Settings" and then "Privacy".
 - _**Step 2:**_ You can then go to "Location Services" and make sure that the application "Find My Friends" is enabled to track your location.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: Tips To Fix "No Location Found" Available
 
 If you encounter an issue that says "No Location Found", there are numerous ways you can fix the "No Location Found" message on "Find My Friends" and we will share them with you.
@@ -150,10 +146,18 @@ _**Option #2:**_ Make sure that you or the other user is connected to the intern
 
 ![location services](https://images.wondershare.com/drfone/article/2022/06/find-my-friends-no-location-found-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - _Step 1:_ Go to "Settings" and choose "Privacy".
 - _Step 2:_ After, you can look for "Location Services" and enable it.
 
 **_Option #4_:** Enable "Location Services" for the "Find My Friends" application. There could be instances where your "Location Services" is not enabled for the application.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Share Your Location with Find My Friends App?
 
@@ -167,10 +171,6 @@ If you want to share your location in the "Find My Friends" application, you can
 ## Part 4: How to Share a Fake Location to Others in Find App?
 
 Sometimes we want our location to be kept secret and send a fake one to our friends and family. You can do that in our app, "[Dr. Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)" which allows you to share a fake location with your friends.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Dr.Fone - Virtual Location
 
@@ -193,10 +193,6 @@ _**Step 1:**_ Download the "Dr. Fone - Virtual Location" software on your laptop
 **_Step 2:_** You can then connect your phone to your computer and click on "Get Started".
 
 ![start the virtual location feature](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **_Step 3:_** You will then be redirected to your current location on the new page.
 
@@ -228,9 +224,17 @@ Life360 works by sharing your GPS location on the map, allowing the members of y
 
 ![life360 map showing circles](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Some of the available Life360 features include notifying you when a member of your circle moves to a new point and it will send a help alert when there’s an emergency. In addition, the app automatically contacts the emergency contacts you added when you do this. However, this doesn’t change that it can get intrusive when you need some privacy. That’s why the next section covers how to turn Life360 off.
 
 ![sending help alert on life360](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Turn off Life360 without Knowing
 
@@ -253,6 +257,10 @@ There is the possibility of limiting the details about your location to others i
 
 ![pause location sharing](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. **Turn off Your Motorola Edge 40 Neo’s Airplane Mode**
 
 Another option you have to stop sharing location on Life360 is by switching on Airplane mode. You can do this on your Android and iOS devices. Once you enable Airplane mode, you’ll see a white flag on your last saved location.
@@ -260,10 +268,6 @@ Another option you have to stop sharing location on Life360 is by switching on A
 **For your iOS devices**: open ‘control center’ and tap on the ‘airplane mode’ button. Alternatively, you can go to settings and tap on ‘airplane mode’ to switch it on.
 
 ![turn on airplane mode on iphone](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **For Android** owners wondering how to turn location off on life360 through Airplane mode, swipe down from the top of your screen and select the ‘Airplane mode’ icon. You can also turn it on by visiting ‘settings’ and selecting ‘network & internet’ from the option displayed. Finally, find the airplane mode and switch it on.
 
@@ -295,10 +299,6 @@ You’re not left out of this option; below are the steps to disable GPS service
 - If you want to disable GPS services on your Motorola Edge 40 Neo, turn off location tracking for apps.
 
 ![turn off gps location services on android](https://images.wondershare.com/drfone/article/2022/04/4-methods-to-turn-off-life-360-without-knowing-9.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: **Best Ways to Fake Location on Life360 without Anyone Knowing-Virtual location \[iOS/Android Supported\]**
 
@@ -332,6 +332,10 @@ Below, we’ve broken down the process for you; keep reading to learn how to fak
 
 ![tap on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4\. Next, you have to turn on the ‘teleport mode’ by clicking its icon at the upper right corner of the screen.
 
 ![enable teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
@@ -353,10 +357,6 @@ Automatically, your location will change to the chosen place on the map and your
 ### 1\. **Are there any risks to turning off GPS location?**
 
 Yes, there are some dangers associated with turning off location on Life360. No one knows where you are anymore, which could be dangerous in the case of an emergency.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. **Can Life360 track my location when I switch My Motorola Edge 40 Neo off?**
 
@@ -384,17 +384,20 @@ Life360 is a useful app for professional and personal circles. However, it can b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-dissecting-haptic-feedback-in-digital-environments-for-2024/"><u>[New] Dissecting Haptic Feedback in Digital Environments for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-create-captivating-yt-thumbnails-fast/"><u>[Updated] In 2024, Create Captivating YT Thumbnails Fast</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-the-seamless-shift-to-perfect-insta-pics-mac-driven-video-size-evolution-for-2024/"><u>[Updated] The Seamless Shift to Perfect Insta Pics Mac-Driven Video Size Evolution for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unbeatable-prices-for-top-budget-4k-cameras-(1000/"><u>2024 Approved Unbeatable Prices for Top Budget 4K Cameras (<$1,000)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/converting-mjpeg-files-for-free-a-guide-with-movavi/"><u>Converting MJPEG Files for Free: A Guide with Movavi</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/gopros-360-degree-spectacle-max-vs-hero-11-showdown/"><u>GoPro's 360-Degree Spectacle Max vs Hero 11 Showdown</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On OnePlus Nord 3 5G? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On OnePlus 12? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Nokia C12 | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Vivo V29e | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/learn-how-to-enhance-your-iphones-autocorrect-skills-in-just-6-simple-ways/"><u>Learn How to Enhance Your iPhone's AutoCorrect Skills in Just 6 Simple Ways</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-samsung-galaxy-s24-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-convenient-methods-for-video-recording-on-youtube/"><u>[Updated] Convenient Methods for Video Recording on YouTube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-rapid-assembly-of-google-image-mosaics/"><u>[Updated] Rapid Assembly of Google Image Mosaics</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-spectrum-enhanced-by-blades-newest-quad-hd-cameras/"><u>[Updated] The Spectrum Enhanced by Blade's Newest Quad-HD Cameras</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-error-0x80040610-a-tactical-approach-to-outlook-repair/"><u>Eliminating Error 0X80040610: A Tactical Approach to Outlook Repair</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhance-your-productivity-how-to-connect-two-displays-to-your-m-series-macbook-pro-a-step-by-step-guide/"><u>Enhance Your Productivity: How to Connect Two Displays to Your M-Series MacBook Pro - A Step-by-Step Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-honor-100-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-vivo-v27-pro-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Vivo V27 Pro For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/innovative-techniques-integrating-chatgpt-for-enhanced-audiovisual-creation-in-daws/"><u>Innovative Techniques: Integrating ChatGPT for Enhanced Audiovisual Creation in DAWs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/mastering-hybrid-cloud-challenges-with-the-latest-enhancements-of-red-hats-enterprise-linux-distribution/"><u>Mastering Hybrid Cloud Challenges with the Latest Enhancements of Red Hat's Enterprise Linux Distribution</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-zte-nubia-z60-ultra-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on ZTE Nubia Z60 Ultra and Browser | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-dji-fpv-revolution-a-review-of-eyewear-innovation-for-2024/"><u>The DJI FPV Revolution A Review of Eyewear Innovation for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-samsung-galaxy-a14-4g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Samsung Galaxy A14 4G? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 
