@@ -1,7 +1,7 @@
 ---
 title: In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Honor 90? | Dr.fone
-date: 2025-02-15T17:08:33.346Z
-updated: 2025-02-18T16:02:24.352Z
+date: 2025-03-05T18:33:48.760Z
+updated: 2025-03-06T20:29:46.697Z
 tags: 
   - virtual location chang
   - location changer
@@ -20,17 +20,9 @@ Life360 is a family locator application that brings people closer to their famil
 
 Life360 uses real-time GPS data to notify your group members about your location as a location-sharing app. It also tracks driving habits and the user's safety while on the road. In addition, you don't have to worry about privacy; people outside your circle can't view or access your location or texts. Here we will answer your various questions about Life360, including, can Life360 see internet history, read or show text, etc. You will also learn how to stop life360 from seeing your location data or texts.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: Is Life360 a spy app?
 
 You might have learned from your friends or social media about various applications that allow you to track other devices, view text messages, and track everything someone does on their device. No one, including your circle members, can spy on what you do on your devices, like checking your internet history or reading texts. Although life360 has many tracking features similar to spy apps, it only provides basic location and text tracking under specific conditions. For people who don't use Life360 for privacy reasons, what can life360 monitor? Can Life360 see your internet history, or can Life360 see who you text? Here is a brief about everything the app can do and monitor on your phone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: What can you do with Life360?
 
@@ -138,10 +130,6 @@ Although life360 provides excellent family location services, it also affects yo
 
 [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) is a location-changer application that allows users to change their device's location with one click. It provides a fake location to all tracking applications like life360 to help users protect their privacy. With Dr.Fone, you get an easy-to-use interface where you can navigate your fake GPS location on the map with joystick stimulation. You can change your location data history as well.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer for both iOS and Android
@@ -162,10 +150,6 @@ Although life360 provides excellent family location services, it also affects yo
 
 ![tap on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **STEP 3:** Start the "teleport mode" and type the name of the location you want to teleport your device to in the search bar. You can also manually navigate with a joystick stimulator.
 
 ![choose destination](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
@@ -174,17 +158,9 @@ Although life360 provides excellent family location services, it also affects yo
 
 ![choose destination you want](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Let us conclude our article here, hoping that you got the answer to everything you want to know about life360 features and privacy limitations. Does life360 notify when you log out? Yes, every circle member receives a notification when someone logs out. If you leave the circle or turn off your location services, the app will send more notifications. Life360 cannot read your texts, but it can always track your location and show your GPS data to circle members. To protect your privacy, you can use [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) to change your location with one click and teleport your device to somewhere else to trick life360 and other location-based applications.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Fix Honor 90 Find My Friends No Location Found?
 
@@ -215,10 +191,6 @@ _**Option #4:**_ The other user must have set up the wrong date and time. If the
 - _**Step 1:**_ Go to "Settings" and then "Privacy".
 - _**Step 2:**_ You can then go to "Location Services" and make sure that the application "Find My Friends" is enabled to track your location.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: Tips To Fix "No Location Found" Available
 
 If you encounter an issue that says "No Location Found", there are numerous ways you can fix the "No Location Found" message on "Find My Friends" and we will share them with you.
@@ -226,10 +198,6 @@ If you encounter an issue that says "No Location Found", there are numerous ways
 _**Option #1:**_ Adjust your phone's date and time. You can reset your time by following the steps.
 
 ![iphone date & time](https://images.wondershare.com/drfone/article/2022/06/find-my-friends-no-location-found-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - _Step 1:_ Go to "Settings" and choose "General".
 - _Step 2:_ Then click on "Date & Time" and you can manually or automatically set the time.
@@ -242,18 +210,10 @@ _**Option #2:**_ Make sure that you or the other user is connected to the intern
 
 ![location services](https://images.wondershare.com/drfone/article/2022/06/find-my-friends-no-location-found-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - _Step 1:_ Go to "Settings" and choose "Privacy".
 - _Step 2:_ After, you can look for "Location Services" and enable it.
 
 **_Option #4_:** Enable "Location Services" for the "Find My Friends" application. There could be instances where your "Location Services" is not enabled for the application.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: How to Share Your Location with Find My Friends App?
 
@@ -320,16 +280,22 @@ We hope the tips we shared helped fix the "No Location Found" issue on your phon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-superb-cyber-shops-for-handcrafted-gift-enclosures/"><u>[Updated] In 2024, Superb Cyber Shops for Handcrafted Gift Enclosures</u></a></li>
-<li><a href="https://fox-links.techidaily.com/crafting-artful-pictures-on-android-devices/"><u>Crafting Artful Pictures on Android Devices</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/easy-steps-to-capturing-films-on-various-operating-systems-for-2024/"><u>Easy Steps to Capturing Films on Various Operating Systems for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Lava Storm 5G | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-xiaomi-redmi-12-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Xiaomi Redmi 12 For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-vivo-s17e-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Vivo S17e</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Infinix Hot 30i? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Honor Play 8T | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-cyberpunk-2077-experience-by-resolving-fps-issues/"><u>Optimizing Cyberpunk 2077 Experience by Resolving FPS Issues</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transferer-un-fichier-mp3-en-format-asf-gratuitement-online-avec-movavi/"><u>Transférer Un Fichier MP3 en Format ASF Gratuitement Online Avec Movavi</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Oppo Reno 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/harting-a-course-for-cash-flows-the-3-step-methodology-for-measuring-youtube-earnings-for-2024/"><u>[New] Charting a Course for Cash Flows The 3-Step Methodology for Measuring YouTube Earnings for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-cutting-edge-tech-an-in-depth-review-of-apeaksofts-recorder-2023/"><u>[Updated] 2024 Approved Cutting-Edge Tech An In-Depth Review of Apeaksoft's Recorder, 2023</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-screen-recorder-pro-for-windows-10-for-2024/"><u>[Updated] Screen Recorder Pro for Windows 10 for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-discovering-brilliance-in-the-dark-lightroom-hdr-essentials/"><u>2024 Approved Discovering Brilliance in the Dark Lightroom HDR Essentials</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-xiaomi-redmi-a2-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Xiaomi Redmi A2 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-gt-5-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme GT 5 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-mp3s-on-android-the-best-free-tools/"><u>In 2024, Mastering MP3s on Android - The Best Free Tools</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-motorola-defy-2-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Motorola Defy 2 FRP Bypass</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-oppo-reno-11f-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Oppo Reno 11F 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-planning-an-unforgettable-labor-day-bash-techbargains/"><u>Ultimate Guide to Planning an Unforgettable Labor Day Bash | TechBargains</u></a></li>
+<li><a href="https://win-webster.techidaily.com/videotransfer-vom-ipad-zu-pc-unter-windows-11-und-10-funf-effektive-tipps-und-tricks/"><u>Videotransfer Vom iPad Zu PC Unter Windows 11 Und 10: Fünf Effektive Tipps Und Tricks</u></a></li>
 </ul></div>
 
