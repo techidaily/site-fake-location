@@ -1,7 +1,7 @@
 ---
 title: In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Realme 12 Pro 5G? | Dr.fone
-date: 2025-02-04T16:57:44.787Z
-updated: 2025-02-08T17:47:01.805Z
+date: 2025-02-11T18:17:08.803Z
+updated: 2025-02-18T18:23:25.299Z
 tags: 
   - virtual location chang
   - location changer
@@ -21,7 +21,7 @@ Life360 is a family locator application that brings people closer to their famil
 Life360 uses real-time GPS data to notify your group members about your location as a location-sharing app. It also tracks driving habits and the user's safety while on the road. In addition, you don't have to worry about privacy; people outside your circle can't view or access your location or texts. Here we will answer your various questions about Life360, including, can Life360 see internet history, read or show text, etc. You will also learn how to stop life360 from seeing your location data or texts.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: Is Life360 a spy app?
@@ -80,10 +80,6 @@ Open the Dr.Fone software on your computer and connect your phone. Next, navigat
 
 ![tap on virtual location](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 And click on "Get Started" to open the maps.
 
 ![tap on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
@@ -91,6 +87,10 @@ And click on "Get Started" to open the maps.
 Click on the "Teleport Mode" search for your fake location or use the joystick stimulator to move to the exact coordinates. Finally, click on the "Move Here" button to change your device's location.
 
 ![choose destination](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 6: FAQs about Life360
 
@@ -110,6 +110,10 @@ There is no way to hide your Life360 history. There are only two ways to remove 
 
 Life360 is designed for parents to always stay informed about the digital well-being of their children and their location. Children might think this is an invasion of privacy but given what's out there on the internet and in the world, parents are rightfully concerned. If you are using Life360 as a rudimentary spyware to track your ex or any such purposes, then that is on you and that is an invasion of their privacy.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 I hope reading this article helped relieve your concerns about the Life360 app. Can you track text messages with life360 "Yes" the app tracks your location through texts but can life360 read texts, or can life360 see who you text, "No" because it cannot monitor all your device's actions. The device can see if you are texting others. Still, it cannot store any data, so you can privately communicate with people inside or outside your circle. But you can stop the app from tracking your location for safety purposes, so you have to use [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) to trick location-based applications or change your GPS coordinates or location history with one click.
@@ -117,10 +121,6 @@ I hope reading this article helped relieve your concerns about the Life360 app. 
 ## A Detailed VPNa Fake GPS Location Free Review On Realme 12 Pro 5G
 
 As I stumbled upon this query that has been recently posted on a leading online forum, I realized that so many people don't know about the VPNa Fake GPS app. If you are also an Android user who would like to change your device's location, then VPNa Fake GPS APK might meet your requirements. Since there are so many location spoofing tools out there, I decided to give VPNa Fake GPS location app a try and have come up with its genuine review here.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: VPNa Fake GPS Location Free: Features, Pros, Cons, and More
 
@@ -135,7 +135,7 @@ Developed by XdoApp, VPNa Fake GPS is a popular application that can change the 
 ![use vpns fake gps](https://www.virtuallocation.com/images/vpna/vpna-fake-gps-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **_Pros_**
@@ -178,15 +178,15 @@ Once it is done, go to its Settings > Developer Options and turn on the option t
 
 ![set a mock location](https://www.virtuallocation.com/images/vpna/vpna-fake-gps-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Step 2: Make VPNa Fake GPS as the default mock location app**
 
 Now, you can just go to the Play Store and download the VPNa Fake GPS Location app on your device. After the app is installed, you can just go to its Developer Options again and set it as a default mock location app.
 
 ![defaut mock location app](https://www.virtuallocation.com/images/vpna/vpna-fake-gps-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Step 3: Spoof your Android's location**
 
@@ -194,17 +194,9 @@ That's it! Whenever you wish to change the location of your device, simply launc
 
 ![spoof your android](https://www.virtuallocation.com/images/vpna/vpna-fake-gps-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Later, you can move the pin around and drop it anywhere you like. Tap on the Start button and confirm your choice to spoof your device's location.
 
 ![choose anywhere you like](https://www.virtuallocation.com/images/vpna/vpna-fake-gps-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Bonus Tip: How to Spoof an iPhone Location without Jailbreak
 
@@ -217,6 +209,10 @@ While Android users can take the assistance of VPNa Fake GPS, iOS users often fi
 At first, you can just connect your iPhone to your computer and launch the Dr.Fone toolkit. Select the "Virtual Location" feature from its home and click on the "Get Started" button.
 
 ![vpna dr.fone-virtual location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 2: Look for a location to spoof
 
@@ -243,10 +239,6 @@ Encryption is often used in geo-blocking as a means of protecting material that 
 ## Part 1. What is Geo-Blocking?
 
 This section will give you the definition of geo-blocking. It will also show how websites inform viewers that they are in geo-blocking areas.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Definition of Geo-Blocking
 
@@ -288,10 +280,6 @@ You may be trying to find a method to unblock Spotify because you want to listen
 
 ![spotify geo blocked](https://images.wondershare.com/drfone/article/2023/01/spotify-not-available-blocked-geoblock.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Live Sports
 
 Big events may be aired exclusively by one company, which means you may be forced to pay to access certain material or go through annoying subscription hoops.
@@ -320,6 +308,10 @@ Amazon Prime geo-blocks other services as well as its streaming content. Games, 
 
 While certain sites may be blocked in your country, there are still methods to access the full functionality of the web. What exactly are they, and how do you go about getting them? Here's more reading material.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1. Use Smart Domain Name System (DNS)
 
 Clever DNS can evade geoblocking if your smart TV, streaming box, or gaming console doesn't support VPNs or proxy servers. Some home routers can generate VPN connections, but not all.
@@ -327,6 +319,14 @@ Clever DNS can evade geoblocking if your smart TV, streaming box, or gaming cons
 By changing your DNS address, clever DNS may alter your device's virtual location. Smart DNS replaces your Internet provider's DNS server. Netflix.com's IP is not netflix.com. You'll acquire the smart DNS provider's transparent DNS proxy IP. Netflix thinks you're in the US since this proxy server is.
 
 ![using smart dns for geo blocked sites](https://images.wondershare.com/drfone/article/2023/01/smart-dns-proxy-working.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2. Connect to Proxy Servers
 
@@ -364,6 +364,10 @@ Yes. It's legitimate. Limiting access to websites and services based on a user's
 
 It depends. Depending on the situation, the nation, the purpose of the use, and the technique used, geo-blocking circumvention may be against the law. Copyright regulations prohibit users from accessing material beyond its designated location, yet many providers are reluctant to penalize users for doing so.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. What's the Difference Between Geo-Fencing and Geo-Blocking?
 
 Geo-fencing is to create digital fences on which to base real-world judgments about where to go. One may draw a boundary around it using longitude and latitude lines on a map to easily establish who is permitted inside a certain region. Restricting access to material based on a user's physical location is called "geo-blocking."
@@ -371,10 +375,6 @@ Geo-fencing is to create digital fences on which to base real-world judgments ab
 ### 4\. Is Geo-Restricted the Same as Geo-Blocking?
 
 They are the same. Restricting a user's ability to access certain online resources depending on their location is known as geo-blocking or geo-restriction. To safeguard their license agreements, foreign media streaming firms often use the practice of geo-blocking.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -396,22 +396,18 @@ Geo-blocking controls. It's both useful and abused. Website banning discriminate
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-funnyframeforge-picfunnyfactory/"><u>[New] In 2024, FunnyFrameForge PicFunnyFactory</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-innovative-android-for-ultimate-3d-playback/"><u>[New] Innovative Android for Ultimate 3D Playback</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-perfecting-cgi-in-depth-tutorial-for-kinemaster-users/"><u>[New] Perfecting CGI In-Depth Tutorial for Kinemaster Users</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-unlocking-creative-potential-with-top-rated-gif-makers/"><u>[Updated] 2024 Approved Unlocking Creative Potential with Top-Rated GIF Makers</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-capture-create-curate-mobiles-in-action-for-youtube-thumbnails/"><u>[Updated] Capture, Create, Curate Mobiles in Action for YouTube Thumbnails</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-directing-rhythms-integrating-sounds-into-youtube/"><u>2024 Approved Directing Rhythms Integrating Sounds Into Youtube</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-harness-your-creativity-with-high-quality-free-images-from-these-12-sites/"><u>2024 Approved Harness Your Creativity with High-Quality, Free Images From These 12 Sites</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/apex-design-studio-examination-for-2024/"><u>Apex Design Studio Examination for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Honor Magic 5? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Xiaomi 14 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-oppo-reno-10-pro-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Oppo Reno 10 Pro 5G For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-lava-storm-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Lava Storm 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-realme-narzo-n55-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Realme Narzo N55 Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Tecno Camon 20? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Samsung Galaxy F34 5G? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-motorola-moto-g84-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Motorola Moto G84 5G and Browser | Dr.fone</u></a></li>
-<li><a href="https://win-trending.techidaily.com/troubleshooting-unrecognized-usb-drives-solutions-from-yl-computing-and-yl-software/"><u>Troubleshooting Unrecognized USB Drives: Solutions From YL Computing & YL Software</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-proper-mastery-of-quick-mac-recording-shortcut-strategies-at-hand/"><u>[New] In 2024, Proper Mastery of Quick Mac Recording Shortcut Strategies at Hand</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ump-cut-strategies-for-compelling-vlogs/"><u>[New] Jump Cut Strategies for Compelling Vlogs</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-leveraging-wirecast-for-high-impact-engaging-social-media-streams-for-2024/"><u>[New] Leveraging Wirecast for High Impact, Engaging Social Media Streams for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitter-tales-creating-gifs-without-charges-for-2024/"><u>[New] Twitter Tales Creating GIFs Without Charges for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fine-details-focused-discussions-zoom-tips-for-teams/"><u>2024 Approved Fine Details, Focused Discussions Zoom Tips for Teams</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-huawei-nova-y91-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Huawei Nova Y91 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Honor X50i? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-barriers-to-social-development-a-guide/"><u>Overcoming Barriers to Social Development: A Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Motorola Moto G 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/unveiling-the-latest-upgrade-microsoft-onenote-makes-scribbles-into-clean-writing/"><u>Unveiling the Latest Upgrade: Microsoft OneNote Makes Scribbles Into Clean Writing!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
 </ul></div>
 

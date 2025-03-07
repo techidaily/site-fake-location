@@ -1,7 +1,7 @@
 ---
 title: In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On ZTE Nubia Flip 5G? | Dr.fone
-date: 2025-02-03T19:02:37.704Z
-updated: 2025-02-08T18:30:31.938Z
+date: 2025-02-16T16:18:15.502Z
+updated: 2025-02-18T18:19:57.814Z
 tags: 
   - virtual location chang
   - location changer
@@ -20,13 +20,13 @@ Life360 is a family locator application that brings people closer to their famil
 
 Life360 uses real-time GPS data to notify your group members about your location as a location-sharing app. It also tracks driving habits and the user's safety while on the road. In addition, you don't have to worry about privacy; people outside your circle can't view or access your location or texts. Here we will answer your various questions about Life360, including, can Life360 see internet history, read or show text, etc. You will also learn how to stop life360 from seeing your location data or texts.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: Is Life360 a spy app?
 
 You might have learned from your friends or social media about various applications that allow you to track other devices, view text messages, and track everything someone does on their device. No one, including your circle members, can spy on what you do on your devices, like checking your internet history or reading texts. Although life360 has many tracking features similar to spy apps, it only provides basic location and text tracking under specific conditions. For people who don't use Life360 for privacy reasons, what can life360 monitor? Can Life360 see your internet history, or can Life360 see who you text? Here is a brief about everything the app can do and monitor on your phone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: What can you do with Life360?
 
@@ -84,10 +84,6 @@ And click on "Get Started" to open the maps.
 
 ![tap on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Click on the "Teleport Mode" search for your fake location or use the joystick stimulator to move to the exact coordinates. Finally, click on the "Move Here" button to change your device's location.
 
 ![choose destination](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
@@ -110,6 +106,10 @@ There is no way to hide your Life360 history. There are only two ways to remove 
 
 Life360 is designed for parents to always stay informed about the digital well-being of their children and their location. Children might think this is an invasion of privacy but given what's out there on the internet and in the world, parents are rightfully concerned. If you are using Life360 as a rudimentary spyware to track your ex or any such purposes, then that is on you and that is an invasion of their privacy.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 I hope reading this article helped relieve your concerns about the Life360 app. Can you track text messages with life360 "Yes" the app tracks your location through texts but can life360 read texts, or can life360 see who you text, "No" because it cannot monitor all your device's actions. The device can see if you are texting others. Still, it cannot store any data, so you can privately communicate with people inside or outside your circle. But you can stop the app from tracking your location for safety purposes, so you have to use [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) to trick location-based applications or change your GPS coordinates or location history with one click.
@@ -119,6 +119,10 @@ I hope reading this article helped relieve your concerns about the Life360 app. 
 Google Account has unlimited advantages as it provides quick access to multiple platforms like Google Drive, Google Calendar, and Google Play Store. By accessing these platforms, users can increase their functionality to ease their daily tasks. For example, Google Play Store offers tons of apps and tools in every category that millions of people install on their devices.
 
 However, some featured apps on the Play Store are restricted region-wise, and some users cannot download them. This article will guide you on **how to change the country in Play Store** to access all the apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What Should We Know Before Changing Google Account Location?
 
@@ -136,7 +140,7 @@ By changing the country on Google Play Store, you can install some unavailable a
 This section will offer easy ways to change play store country and location on Google in every circumstance. By doing so, you can easily install restricted applications in your region.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Change Location on Google on Android
@@ -149,10 +153,6 @@ Through your ZTE Nubia Flip 5Gs, you can change the location on both Google Play
 
 ![tap on settings](https://images.wondershare.com/drfone/article/2022/05/change-google-account-location-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2:** Tap on the "General" section to locate the option of "Account and Device Preferences." Afterward, find the "Country and Profiles" option by scrolling down. From there, you can see your current country location.
 
 ![access account and device preferences](https://images.wondershare.com/drfone/article/2022/05/change-google-account-location-2.jpg)
@@ -160,10 +160,6 @@ Through your ZTE Nubia Flip 5Gs, you can change the location on both Google Play
 **Step 3:** Now click on "Switch to the Country Play Store" to change the location. For verification, click on "Continue" when a pop-up message appears on your screen asking if you want to change the location.
 
 ![tap on continue to confirm](https://images.wondershare.com/drfone/article/2022/05/change-google-account-location-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 4:** Now, you will be automatically assisted in changing the payment methods of the new country. However, if you don't come across the option to change the country, either you have already changed the country location within a year or your IP address is not synchronized with your new country.
 
@@ -177,6 +173,10 @@ To use this powerful VPN tool, we have jotted down some basic steps through whic
 
 ![install the vpn](https://images.wondershare.com/drfone/article/2022/05/change-google-account-location-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** After opening this app, tap on the country’s name list displayed above the picture of Earth. Tap on that list to view all the available countries.
 
 ![vpn locations displayed](https://images.wondershare.com/drfone/article/2022/05/change-google-account-location-5.jpg)
@@ -186,7 +186,7 @@ To use this powerful VPN tool, we have jotted down some basic steps through whic
 ![mobile vpn connected](https://images.wondershare.com/drfone/article/2022/05/change-google-account-location-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Change Location on Computer
@@ -256,10 +256,6 @@ After connecting your phone, you will be able to see your current location on th
 
 ![choose destination](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4: Enable Teleport Mode**
 
 Tap on the first icon displayed on the top right to enable the teleport mode. Now enter the location you want to navigate the search box and click on "Go" to continue.
@@ -275,6 +271,10 @@ A notification will pop up for confirmation once you have entered a new location
 <iframe width="100%" height="450" type="text/html" src="https://www.youtube.com/embed/xQa-_8RTg5U" frameborder="0"></iframe>
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -319,10 +319,6 @@ To spoof GPS on the iPhone is tricky, and it requires reliable as well as safest
 
 ![how to spoof life360](https://images.wondershare.com/drfone/virtual-loaction/Stop-Life360-From-Tracking-You-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 This tool is specially designed for iOS users that help to spoof location without causing any risk to your data. The best thing is that it is very easy to use and easy to install, as well. Also, in Dr.Fone – Virtual Location (iOS), you can teleport anywhere and can customize your speed. With just one click, you are able to spoof Life360 and other location-based apps.
@@ -332,10 +328,6 @@ Here are the few steps that you will need to follow to use Dr.Fone. Take a look!
 - First, you will need to download it from the official site on your PC or system.
 
 ![download dr.fone from official site](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - After this, install it and launch it. Now connect your iOS device to the system with the USB cable and click on the "get started" button.
 
@@ -348,10 +340,6 @@ Here are the few steps that you will need to follow to use Dr.Fone. Take a look!
 
 - After a search for the desired location, click on the "move here" button.
 - Finally, you are ready to spoof to any location in Life360.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Dr.Fone - Virtual Location
 
@@ -373,6 +361,10 @@ But, before using the app, you will need to enable the developer option and need
 
 ![how to fake life360 location](https://images.wondershare.com/drfone/virtual-loaction/Stop-Life360-From-Tracking-You-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now, follow the following steps to install any fake GPS on Android.
 
 - Open Google Play Store and search for the fake location app
@@ -382,11 +374,19 @@ Now, follow the following steps to install any fake GPS on Android.
 - Under enable developer option go to allow mock location app and select the app you installed from the list
 - Now open the app, and fill your desired location on the map. It is simple to spoof Life360 on Android
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Use a Burner Phone for Life360 Fake Location
 
 The burner is a phone on which you can install Life360 and can put it in one place while going out with another phone. It is a great trick to stop Life360 from tracking you. The only thing is that you should need to have two phones.
 
 For the burner, you can use any device with Google play store or App store, and it can be an old phone as well.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -406,21 +406,17 @@ Life360 is a very helpful app for parents and friends group, but still, it becom
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-creating-channels-earning-dollars-a-beginners-guide/"><u>[Updated] Creating Channels, Earning Dollars A Beginner's Guide</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-invisible-trail-hidden-steps-for-tracking-whatsapp-calls/"><u>[Updated] In 2024, The Invisible Trail Hidden Steps for Tracking WhatsApp Calls</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-perfect-pitch-for-producers-techniques-for-flawless-vocal-recordings/"><u>[Updated] Perfect Pitch for Producers Techniques for Flawless Vocal Recordings</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-ultimate-guide-premium-plugins-boosting-ae-projects/"><u>2024 Approved Ultimate Guide Premium Plugins Boosting AE Projects</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/beam-wise-video-setups-expert-strategies-to-shine/"><u>Beam-Wise Video Setups Expert Strategies to Shine</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Oppo A58 4G? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Honor X9b? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/grasping-the-metaverse-a-look-at-6-in-depth-illustrations/"><u>Grasping the Metaverse A Look at 6 In-Depth Illustrations</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Motorola Edge 40? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Meizu 21 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-successfully-installdownload-age-of-empires-iv-on-microsoft-store-after-recent-fix/"><u>How to Successfully Install/Download Age of Empires IV on Microsoft Store After Recent Fix</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-intense-moment-capture-iphone-burst-mode/"><u>In 2024, Intense Moment Capture IPhone Burst Mode</u></a></li>
-<li><a href="https://win-webster.techidaily.com/step-by-step-guide-downloading-videos-from-acorntv-onto-your-pc-or-mac/"><u>Step-by-Step Guide: Downloading Videos From AcornTV Onto Your PC or Mac</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Lenovo ThinkPhone | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-binaural-bliss-broken-recovery-steps/"><u>[New] Binaural Bliss Broken Recovery Steps</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-expanding-your-instagram-video-footprint-practical-tips/"><u>[Updated] Expanding Your Instagram Video Footprint Practical Tips</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-a-practical-approach-to-scheduling-on-zoom-platforms/"><u>[Updated] In 2024, A Practical Approach to Scheduling on Zoom Platforms</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-mapping-your-marketing-journey-on-youtube-for-2024/"><u>[Updated] Mapping Your Marketing Journey on YouTube for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-look-back-at-yahoo-messenger-origins-purpose-and-shutdown-rationale/"><u>A Look Back at Yahoo! Messenger: Origins, Purpose, and Shutdown Rationale</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-honor-x50-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Honor X50? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Asus ROG Phone 7? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-oppo-a58-4g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Oppo A58 4G and Browser | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Lava Blaze 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/twitch-unavailability-is-it-a-widespread-server-problem-or-just-you/"><u>Twitch Unavailability – Is It a Widespread Server Problem or Just You?</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-tutorial-converting-video-object-vob-to-windows-media-video-wmv-for-seamless-editing-in-windows-movie-maker/"><u>Ultimate Tutorial: Converting Video Object (VOB) to Windows Media Video (WMV) for Seamless Editing in Windows Movie Maker</u></a></li>
 </ul></div>
 
